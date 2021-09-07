@@ -1,0 +1,46 @@
+nameOverride: ""
+fullnameOverride: ""
+
+extraFileMappings: {}
+
+configs:
+  chunks_list.sh: |
+    #!/bin/bash
+    # bash chunks_list.sh testdir 5000 2000 outdirs
+    directory=${1:-testdir}
+    sizelimit=${2:-1000} # in KB
+    listlimit=${3:-1000} # max number of files per list
+    outdir=${3:-separated}
+    sizesofar=0
+    dircount=1
+    touch "$outdir/sub_$dircount.txt"
+    find "$directory" -type d -exec du -a --block-size=1K {} + | while read -r size file
+    ## https://unix.stackexchange.com/questions/490124/how-to-split-a-large-folder-into-smaller-folders-of-equal-size
+    do
+      if ((sizesofar + size > sizelimit)) or ((filecount))
+      then
+        echo "Done with chunk $dircount with size $sizesofar KB"
+        echo "####### SIZE: $sizesofar KB" >> "$outdir/sub_$dircount.txt"
+        (( dircount++ ))
+        sizesofar=0
+        filecount=0
+        touch "$outdir/sub_$(date +"%Y_%m_%d_%I_%M_%p")_$dircount.txt"
+      fi
+      (( sizesofar += size ))
+      (( filecount += 1 ))
+      echo "$file" >> "$outdir/sub_$dircount.txt"
+    done
+
+checkJob:
+  enabled: false
+  image: galaxy/galaxy-min:latest
+  command: bash -c "mkdir inputdir && bash /mnt/configs/chunks_list.sh /root/inputdir 10000 4000 /root/outdir"
+  extraEnv: []
+
+populationJob:
+  enabled: false
+  image: ubuntu:21.10
+  command: bash -c "mkdir /root/outdir/byhand /root/outdir/managed && bash /mnt/configs/chunks_list.sh /cvmfs/data.galaxyproject.org/byhand 5000 2000 /root/outdir/byhand && bash /mnt/configs/chunks_list.sh /cvmfs/data.galaxyproject.org/managed 5000 2000 /root/outdir/managed"
+  extraEnv:
+    - name: GITHUB_TOKEN
+      value: "PLACEHOLDER"

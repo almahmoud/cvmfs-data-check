@@ -1,0 +1,98 @@
+{{ if .Values.populationJob.enabled }}
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: data-pop
+spec:
+  ttlSecondsAfterFinished: 10
+  template:
+    metadata:
+      name: "data-pop"
+    spec:
+      restartPolicy: OnFailure
+      initContainers:
+        - name: populate-data-repo
+          image: "{{ .Values.populationJob.image }}"
+          command:
+            - sh
+            - "-c"
+            - {{ .Values.populationJob.command }}
+            {{- if .Values.extraEnv }}
+          env:
+            {{ tpl (toYaml .Values.extraEnv) . | indent 12 }}
+            {{- end }}
+          volumeMounts:
+            - name: outdir
+              mountPath: /root/outdir
+            - name: cvmfs-gxy-data
+              mountPath: /cvmfs/data.galaxyproject.org
+            {{- range $key,$entry := .Values.configs }}
+            {{ if $entry -}}
+            - name: configs
+              mountPath: /mnt/configs/{{ $key }}
+              subPath: {{ $key }}
+            {{ end }}
+            {{ end }}
+            {{- range $key, $entry := $.Values.extraFileMappings -}}
+            - name: {{ include "galaxy.getExtraFilesUniqueName" $key }}
+              mountPath: {{ $key }}
+              subPath: {{ include "galaxy.getFilenameFromPath" $key }}
+            {{- end }}
+      containers:
+        - name: push-todo-list
+          image: "bitnami/git:latest"
+          command:
+            - bash
+            - "-c"
+            - cd /root
+            - git clone https://github.com/almahmoud/cvmfs-data-check
+            - cd cvmfs-data-check
+            - git config --local user.email "action@github.com"
+            - git config --local user.name "GitHub Action"
+            - git remote set-url origin http://$GITHUB_TOKEN@github.com/almahmoud/cvmfs-data-check
+            - mkdir -p /root/cvmfs-data-check/lists
+            - cp -r /mnt/outdir /root/cvmfs-data-check/lists/10gb
+            - cd /root/cvmfs-data-check/lists && find 10gb/ -type f | grep "10gb/*" >> todo.txt
+            - git add /root/cvmfs-data-check && git commit -m "$(date +"%Y_%m_%d_%I_%M_%p") setting up lists"
+            - git push origin master
+            {{- if .Values.extraEnv }}
+          env:
+            {{ tpl (toYaml .Values.extraEnv) . | indent 12 }}
+            {{- end }}
+          volumeMounts:
+            - name: outdir
+              mountPath: /root/outdir
+            - name: cvmfs-gxy-data
+              mountPath: /cvmfs/data.galaxyproject.org
+            {{- range $key,$entry := .Values.configs }}
+            {{ if $entry -}}
+            - name: configs
+              mountPath: /mnt/configs/{{ $key }}
+              subPath: {{ $key }}
+            {{ end }}
+            {{ end }}
+            {{- range $key, $entry := $.Values.extraFileMappings -}}
+            - name: {{ include "galaxy.getExtraFilesUniqueName" $key }}
+              mountPath: {{ $key }}
+              subPath: {{ include "galaxy.getFilenameFromPath" $key }}
+            {{- end }}
+      volumes:
+        - name: outdir
+          emptyDir: {}
+        - name: configs
+          secret:
+            secretName: cvmfs-check-configs
+        - name: cvmfs-gxy-data
+          persistentVolumeClaim:
+            claimName: cvmfs-gxy-data-pvc
+        {{- range $key, $entry := $.Values.extraFileMappings }}
+        - name: {{ include "galaxy.getExtraFilesUniqueName" $key }}
+          {{- if $entry.useSecret }}
+          secret:
+            secretName: {{ printf (include "galaxy.getExtraFilesUniqueName" $key) }}
+          {{- else }}
+          configMap:
+            name: {{ printf (include "galaxy.getExtraFilesUniqueName" $key) }}
+          {{- end }}
+        {{- end }}
+{{- end }}
