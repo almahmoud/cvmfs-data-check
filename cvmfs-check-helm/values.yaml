@@ -10,14 +10,14 @@ configs:
     directory=${1:-testdir}
     sizelimit=${2:-1000} # in KB
     listlimit=${3:-1000} # max number of files per list
-    outdir=${3:-separated}
+    outdir=${4:-separated}
     sizesofar=0
     dircount=1
     touch "$outdir/sub_$dircount.txt"
     find "$directory" -type d -exec du -a --block-size=1K {} + | while read -r size file
     ## https://unix.stackexchange.com/questions/490124/how-to-split-a-large-folder-into-smaller-folders-of-equal-size
     do
-      if ((sizesofar + size > sizelimit)) or ((filecount))
+      if ((sizesofar + size > sizelimit)) || ((filecount + 1 > listlimit))
       then
         echo "Done with chunk $dircount with size $sizesofar KB"
         echo "####### SIZE: $sizesofar KB" >> "$outdir/sub_$dircount.txt"
@@ -40,7 +40,7 @@ checkJob:
 populationJob:
   enabled: false
   image: ubuntu:21.10
-  command: bash -c "mkdir /root/outdir/byhand /root/outdir/managed && bash /mnt/configs/chunks_list.sh /cvmfs/data.galaxyproject.org/byhand 5000 2000 /root/outdir/byhand && bash /mnt/configs/chunks_list.sh /cvmfs/data.galaxyproject.org/managed 5000 2000 /root/outdir/managed"
+  command: /bin/bash -c "ls /root/outdir && mkdir -p /root/outdir/byhand /root/outdir/managed && bash /mnt/configs/chunks_list.sh /cvmfs/data.galaxyproject.org/byhand 5000 2000 /root/outdir/byhand && bash /mnt/configs/chunks_list.sh /cvmfs/data.galaxyproject.org/managed 5000 2000 /root/outdir/managed"
   extraEnv:
     - name: GITHUB_TOKEN
       value: "PLACEHOLDER"
