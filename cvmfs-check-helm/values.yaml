@@ -38,7 +38,7 @@ configs:
     cd cvmfs-data-check
     git config --local user.email "action@github.com"
     git config --local user.name "GitHub Action"
-    git remote set-url origin http://$GITHUB_TOKEN@github.com/almahmoud/cvmfs-data-check
+    git remote set-url origin http://almahmoud:$GITHUB_TOKEN@github.com/almahmoud/cvmfs-data-check
     mkdir -p /root/cvmfs-data-check/lists
     cp -r /root/outdir /root/cvmfs-data-check/lists/10gb
     cd /root/cvmfs-data-check/lists && find 10gb/ -type f | grep "10gb/*" >> todo.txt
