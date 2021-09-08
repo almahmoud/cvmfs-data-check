@@ -19,7 +19,7 @@ configs:
     do
       if ((sizesofar + size > sizelimit)) || ((filecount + 1 > listlimit))
       then
-        echo "Done with chunk $dircount with size $sizesofar KB"
+        echo "Done with chunk $dircount with size $sizesofar KB and $filecount files"
         echo "####### SIZE: $sizesofar KB" >> "$outdir/sub_$dircount.txt"
         (( dircount++ ))
         sizesofar=0
