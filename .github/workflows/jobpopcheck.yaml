@@ -24,7 +24,7 @@ jobs:
         run: helm repo add galaxy https://github.com/CloudVE/helm-charts/raw/master
       - name: Helm install CVMFS-CSI
         run: helm install --create-namespace -n csi-drivers gxy-cvmfs galaxy/galaxy-cvmfs-csi --set cache.preload.enabled=false --set cache.alienCache.enabled=false --set cache.localCache.enabled=true --set repositories.cvmfs-gxy-data="data.galaxyproject.org"
-      - run: helm install data-pop ./cvmfs-check-helm --set populationJob.extraEnv[0].value=${{ secrets.GITHUB_TOKEN }} --set populationJob.enabled=true
+      - run: helm install data-pop ./cvmfs-check-helm --set populationJob.extraEnv[0].value=${{ secrets.GIT_TOKEN }} --set populationJob.enabled=true
       - name: Get logs and events
         run: touch /tmp/logs && bash -c "while true; do kubectl get events > /tmp/events && tail /tmp/events && sleep 5 && kubectl logs $(kubectl get pods | grep -o 'data-pop-[^ ]*') -c populate-data-repo >> /tmp/logs && tail /tmp/logs && kubectl logs $(kubectl get pods | grep -o 'data-pop-[^ ]*') && sleep 5; done" & kubectl wait --for=condition=complete --timeout=6000s job/data-pop
         continue-on-error: true
