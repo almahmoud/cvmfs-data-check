@@ -42,21 +42,7 @@ spec:
         - name: push-todo-list
           image: "bitnami/git:latest"
           command:
-            - bash
-            - "-c"
-            - set +x
-            - cd /root
-            - git clone https://github.com/almahmoud/cvmfs-data-check
-            - cd cvmfs-data-check
-            - git config --local user.email "action@github.com"
-            - git config --local user.name "GitHub Action"
-            - git remote set-url origin http://$GITHUB_TOKEN@github.com/almahmoud/cvmfs-data-check
-            - mkdir -p /root/cvmfs-data-check/lists
-            - cp -r /mnt/outdir /root/cvmfs-data-check/lists/10gb
-            - cd /root/cvmfs-data-check/lists && find 10gb/ -type f | grep "10gb/*" >> todo.txt
-            - git add /root/cvmfs-data-check && git commit -m "$(date +"%Y_%m_%d_%I_%M_%p") setting up lists"
-            - git push origin master
-            - sleep 300
+            - /bin/bash /mnt/configs/push.sh
             {{- if .Values.extraEnv }}
           env:
             {{ tpl (toYaml .Values.extraEnv) . | indent 12 }}
