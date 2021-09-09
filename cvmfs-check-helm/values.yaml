@@ -13,14 +13,14 @@ configs:
     outdir=${4:-separated}
     sizesofar=0
     dircount=1
-    touch "$outdir/sub_$dircount.txt"
+    touch "$outdir/sub_$(date +"%Y_%m_%d_%I_%M_%p")_$dircount.txt"
     find "$directory" -type d -exec du -a --block-size=1K {} + | while read -r size file
     ## https://unix.stackexchange.com/questions/490124/how-to-split-a-large-folder-into-smaller-folders-of-equal-size
     do
       if ((sizesofar + size > sizelimit)) || ((filecount + 1 > listlimit))
       then
         echo "Done with chunk $dircount with size $sizesofar KB and $filecount files"
-        echo "####### SIZE: $sizesofar KB" >> "$outdir/sub_$dircount.txt"
+        echo "####### SIZE: $sizesofar KB" >> "$outdir/sub_$(date +"%Y_%m_%d_%I_%M_%p")_$dircount.txt"
         (( dircount++ ))
         sizesofar=0
         filecount=0
@@ -28,7 +28,7 @@ configs:
       fi
       (( sizesofar += size ))
       (( filecount += 1 ))
-      echo "$file" >> "$outdir/sub_$dircount.txt"
+      echo "$file" >> "$outdir/sub_$(date +"%Y_%m_%d_%I_%M_%p")_$dircount.txt"
     done
 
   push.sh: |
