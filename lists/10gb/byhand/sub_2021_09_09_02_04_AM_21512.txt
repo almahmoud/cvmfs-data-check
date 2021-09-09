@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal3/quality_scores/chr6.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/galGal3/quality_scores/chrE22C19W28_E50C23_random.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/galGal3/quality_scores/chr27.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/galGal3/quality_scores/chr12_random.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/galGal3/quality_scores/chr24.qa.bqv
+####### SIZE: 3671 KB

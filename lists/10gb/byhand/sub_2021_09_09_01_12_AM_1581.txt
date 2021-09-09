@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/ornAna1/maf/chr22.maf
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/ornAna1/maf/chr8.maf.index
+####### SIZE: 8592 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/liftOver/rheMac3ToHg19.over.chain
+####### SIZE: 107479 KB

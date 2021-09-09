@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_intracellulare_MOTT_64_uid89385/NC_016948.fna
+####### SIZE: 5449 KB

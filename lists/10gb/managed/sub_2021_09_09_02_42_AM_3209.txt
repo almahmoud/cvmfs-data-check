@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudomonas_fluorescens_Pf_5_uid57937
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Salmonella_enterica_serovar_Heidelberg_B182_uid162195/NC_017624.fna
+####### SIZE: 7051 KB

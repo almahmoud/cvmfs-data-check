@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_trachomatis_C_TW_3_uid232251/NC_023057.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_trachomatis_C_TW_3_uid232251/NC_023060.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_trachomatis_C_TW_3_uid232251
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acinetobacter_baumannii_TCDC_AB0715_uid158679/NC_017165.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acinetobacter_baumannii_TCDC_AB0715_uid158679/NC_017166.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acinetobacter_baumannii_TCDC_AB0715_uid158679/NC_017387.fna
+####### SIZE: 6269 KB

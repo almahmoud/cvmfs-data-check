@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab2/liftOver/equCab2ToPanTro3.over.chain
+####### SIZE: 261361 KB

@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Slackia_heliotrinireducens_DSM_20476_uid59051/NC_013165.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Slackia_heliotrinireducens_DSM_20476_uid59051
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptomyces_hygroscopicus_jinggangensis_5008_uid89409/NC_017766.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptomyces_hygroscopicus_jinggangensis_5008_uid89409/NC_016972.fna
+####### SIZE: 6513 KB

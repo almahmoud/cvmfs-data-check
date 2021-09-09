@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/droPer1/bowtie_index/droPer1.1.ebwt
+####### SIZE: 53592 KB

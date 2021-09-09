@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/rheMac1/seq/rheMac1.fa
+####### SIZE: 2806803 KB

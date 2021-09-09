@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/18789/NC_009831.fna
+####### SIZE: 5466 KB

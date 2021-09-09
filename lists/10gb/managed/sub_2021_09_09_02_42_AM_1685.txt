@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shewanella_putrefaciens_200_uid161927
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Herpetosiphon_aurantiacus_DSM_785_uid58599/NC_009973.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Herpetosiphon_aurantiacus_DSM_785_uid58599/NC_009974.fna
+####### SIZE: 5235 KB

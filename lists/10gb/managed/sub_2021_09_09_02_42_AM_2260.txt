@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_botulinum_A_Hall_uid58931
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactobacillus_rhamnosus_Lc_705_uid59315/NC_013200.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactobacillus_rhamnosus_Lc_705_uid59315/NC_013199.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactobacillus_rhamnosus_Lc_705_uid59315
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gluconobacter_oxydans_621H_uid58239/NC_006673.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gluconobacter_oxydans_621H_uid58239/NC_006674.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gluconobacter_oxydans_621H_uid58239/NC_006676.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gluconobacter_oxydans_621H_uid58239/NC_006675.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gluconobacter_oxydans_621H_uid58239/NC_006672.fna
+####### SIZE: 9966 KB

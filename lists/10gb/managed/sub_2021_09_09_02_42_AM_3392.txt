@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_multivorans_ATCC_17616_uid58909
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_trachomatis_RC_L2_55_uid213396/NC_021893.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_trachomatis_RC_L2_55_uid213396
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Alteromonas_macleodii_AltDE1_uid179068/NC_019394.fna
+####### SIZE: 9313 KB

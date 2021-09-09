@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/bordBron/chr.gbk
+####### SIZE: 14346 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Anabaena_cylindrica_PCC_7122_uid183339/NC_019771.fna
+####### SIZE: 6336 KB

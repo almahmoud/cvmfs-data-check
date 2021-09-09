@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18full/bowtie2_index/hg18full.1.bt2
+####### SIZE: 942161 KB

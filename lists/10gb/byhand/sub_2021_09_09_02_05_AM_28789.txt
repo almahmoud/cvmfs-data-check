@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/encode/september2005_relabeled/tba/ENm012/human.ENm012.maf
+####### SIZE: 22766 KB

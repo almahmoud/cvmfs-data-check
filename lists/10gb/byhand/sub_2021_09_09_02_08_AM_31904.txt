@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/customProDB/omicron-data.duckdns.org/customProDB/ensembl/ecaballus-may2017/proseq.RData
+/cvmfs/data.galaxyproject.org/byhand/customProDB/omicron-data.duckdns.org/customProDB/ensembl/ecaballus-may2017/ids.RData
+####### SIZE: 7409 KB

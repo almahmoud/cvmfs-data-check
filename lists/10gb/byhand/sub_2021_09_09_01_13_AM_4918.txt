@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/xenTro1/chr12.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/xenTro1/chr19_random.axt
+####### SIZE: 7264 KB

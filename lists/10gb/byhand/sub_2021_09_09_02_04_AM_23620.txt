@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/hg16/maf
+####### SIZE: 212837 KB

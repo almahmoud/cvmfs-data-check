@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanosarcina_mazei_Go1_uid57893
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Enterococcus_faecium_Aus0004_uid87025/NC_017023.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Enterococcus_faecium_Aus0004_uid87025/NC_017032.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Enterococcus_faecium_Aus0004_uid87025/NC_017024.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Enterococcus_faecium_Aus0004_uid87025/NC_017022.fna
+####### SIZE: 7057 KB

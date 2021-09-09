@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodRHA1/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodRHA1/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodRHA1/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodRHA1/plasmid_pRHL2.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodRHA1/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodRHA1/chr.CDS.bed
+####### SIZE: 9468 KB

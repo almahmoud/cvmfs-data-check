@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/fr3/align/gasAcu1/chr8.fr3.gasAcu1.net.axt.gz
+/cvmfs/data.galaxyproject.org/byhand/fr3/align/gasAcu1/chr16.fr3.gasAcu1.net.axt.gz
+####### SIZE: 9294 KB

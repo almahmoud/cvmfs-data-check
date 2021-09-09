@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/nomLeu3/seq/nomLeu3.fa
+####### SIZE: 2950873 KB

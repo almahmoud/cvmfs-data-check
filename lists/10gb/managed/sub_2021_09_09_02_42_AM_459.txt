@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/seq/bosTau8.fa
+####### SIZE: 2659672 KB

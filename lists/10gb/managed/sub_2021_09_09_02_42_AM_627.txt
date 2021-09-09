@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/cerSim1/cerSim1.fa
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/cerSim1/cerSim1.3.bt2
+####### SIZE: 510 KB

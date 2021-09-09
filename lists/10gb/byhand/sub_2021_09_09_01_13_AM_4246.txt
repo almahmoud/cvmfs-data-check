@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/nib
+####### SIZE: 1517438 KB

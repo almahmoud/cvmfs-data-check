@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shewanella_putrefaciens_CN_32_uid58267
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haemophilus_somnus_129PT_uid57929/NC_006298.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haemophilus_somnus_129PT_uid57929/NC_008309.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haemophilus_somnus_129PT_uid57929
+####### SIZE: 8614 KB

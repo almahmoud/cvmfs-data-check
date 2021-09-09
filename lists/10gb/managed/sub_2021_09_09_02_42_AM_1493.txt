@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Escherichia_coli_O157_H7_EC4115_uid59091
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Listeria_monocytogenes_SLCC2376_uid175111/NC_018590.fna
+####### SIZE: 8470 KB

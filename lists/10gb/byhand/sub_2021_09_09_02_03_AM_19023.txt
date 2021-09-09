@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/liftOver/mm9ToRheMac2.over.chain
+####### SIZE: 245068 KB

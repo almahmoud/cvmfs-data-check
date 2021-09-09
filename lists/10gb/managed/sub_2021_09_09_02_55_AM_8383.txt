@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bifidobacterium_longum_JCM_1217_uid62695/NC_015067.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bifidobacterium_longum_JCM_1217_uid62695
+####### SIZE: 4731 KB

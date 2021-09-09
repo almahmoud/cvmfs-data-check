@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/anoCar1/chr8.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/anoCar1/chrUn_gl000211.axt
+####### SIZE: 9516 KB

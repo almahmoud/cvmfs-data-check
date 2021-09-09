@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/echTel1/chr6_apd_hap1.axt
+####### SIZE: 1097 KB

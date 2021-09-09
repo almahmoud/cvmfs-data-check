@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Kinetoplastibacterium_blastocrithidii_TCC012E_uid189752/NC_020285.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Kinetoplastibacterium_blastocrithidii_TCC012E_uid189752
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chthonomonas_calidirosea_T49_uid208678/NC_021487.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chthonomonas_calidirosea_T49_uid208678
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Xanthomonas_campestris_vesicatoria_85_10_uid58321/NC_007507.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Xanthomonas_campestris_vesicatoria_85_10_uid58321/NC_007506.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Xanthomonas_campestris_vesicatoria_85_10_uid58321/NC_007504.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Xanthomonas_campestris_vesicatoria_85_10_uid58321/NC_007505.fna
+####### SIZE: 8687 KB

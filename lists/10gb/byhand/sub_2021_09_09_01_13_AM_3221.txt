@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/nib/chr13.nib
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/nib/chr15.nib
+####### SIZE: 9590 KB

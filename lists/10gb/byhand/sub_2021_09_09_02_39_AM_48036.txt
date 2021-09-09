@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/encode/september2005_relabeled/mlagan/ENm014/ENm014.maf.index
+####### SIZE: 11771 KB

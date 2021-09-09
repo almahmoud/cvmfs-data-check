@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/triCas2/srma_index/triCas2.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/triCas2/srma_index/triCas2.fa
+/cvmfs/data.galaxyproject.org/byhand/triCas2/srma_index/triCas2.dict
+/cvmfs/data.galaxyproject.org/byhand/triCas2/srma_index
+/cvmfs/data.galaxyproject.org/byhand/triCas2/bwa_index/triCas2.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/triCas2/bwa_index/triCas2.fa
+/cvmfs/data.galaxyproject.org/byhand/triCas2/bwa_index/triCas2.fa.amb
+####### SIZE: 527 KB

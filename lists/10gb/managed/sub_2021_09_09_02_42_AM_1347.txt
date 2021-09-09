@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Frankia_CcI3_uid58397
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Klebsiella_oxytoca_E718_uid170256/NC_021501.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Klebsiella_oxytoca_E718_uid170256/NC_018107.fna
+####### SIZE: 5848 KB

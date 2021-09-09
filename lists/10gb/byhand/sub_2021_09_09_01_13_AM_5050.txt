@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/ponAbe2/maf/chr6_cox_hap1.maf
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/ponAbe2/maf/chr16_random.maf
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/ponAbe2/maf/chrX_random.maf
+####### SIZE: 9461 KB

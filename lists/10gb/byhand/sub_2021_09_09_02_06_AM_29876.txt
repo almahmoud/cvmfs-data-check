@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/rheMac1/chrX_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/rheMac1/chr1.idx
+####### SIZE: 5114 KB

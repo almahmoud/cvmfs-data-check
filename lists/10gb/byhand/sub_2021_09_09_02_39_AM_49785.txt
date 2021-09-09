@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/hg18/chrNA_random.axt
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/hg18/chrM.axt
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/hg18/chr14.idx
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/hg18/chr1.idx
+####### SIZE: 6256 KB

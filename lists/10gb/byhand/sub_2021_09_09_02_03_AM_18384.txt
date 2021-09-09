@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/regions/encode_regions_coords_hg17.bed.old
+/cvmfs/data.galaxyproject.org/byhand/regions/encode_regions_coords_hg16.bed
+/cvmfs/data.galaxyproject.org/byhand/regions/encode_regions_coords_hg16.bed.old
+/cvmfs/data.galaxyproject.org/byhand/regions/encode_regions_coords_hg17.bed
+/cvmfs/data.galaxyproject.org/byhand/regions/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/regions
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9female/bwa_index_v0.5.9-r16/mm9female.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9female/bwa_index_v0.5.9-r16/mm9female.fa.amb
+####### SIZE: 32 KB

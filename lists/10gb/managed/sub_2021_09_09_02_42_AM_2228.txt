@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bifidobacterium_animalis_lactis_BB_12_uid158871
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Arcobacter_butzleri_7h1h_uid200766/NC_021878.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Arcobacter_butzleri_7h1h_uid200766
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_cereus_E33L_uid58103/NC_007103.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_cereus_E33L_uid58103/NC_007105.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_cereus_E33L_uid58103/NC_007104.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_cereus_E33L_uid58103/NC_007106.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_cereus_E33L_uid58103/NC_007107.fna
+####### SIZE: 6940 KB

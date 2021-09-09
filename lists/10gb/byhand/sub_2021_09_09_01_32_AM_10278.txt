@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/Ptrichocarpa_156/bwa_index/Ptrichocarpa_156.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/Ptrichocarpa_156/bwa_index/Ptrichocarpa_156.fa.ann
+####### SIZE: 273 KB

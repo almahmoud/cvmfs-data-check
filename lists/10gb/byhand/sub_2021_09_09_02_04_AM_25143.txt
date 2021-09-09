@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/Tcacao_1.0/sam_index/Tcacao_1.fa
+/cvmfs/data.galaxyproject.org/byhand/Tcacao_1.0/sam_index/Tcacao_1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/Tcacao_1.0/sam_index
+####### SIZE: 8 KB

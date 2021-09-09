@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methylibium_petroleiphilum_PM1_uid58085/NC_008825.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methylibium_petroleiphilum_PM1_uid58085
+####### SIZE: 8611 KB

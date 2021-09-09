@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/fr1/align/danRer4/chrUn.idx
+####### SIZE: 10126 KB

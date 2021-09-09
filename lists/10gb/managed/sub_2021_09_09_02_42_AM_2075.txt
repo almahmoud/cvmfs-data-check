@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanoregula_boonei_6A8_uid58815/NC_009712.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanoregula_boonei_6A8_uid58815
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_pseudintermedius_HKU10_03_uid62125/NC_014925.fna
+####### SIZE: 7636 KB

@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/monDom4/maf/chr19_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/monDom4/maf/chr5_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/monDom4/maf/chr20_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/monDom4/maf/chr17.maf.index
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/monDom4/maf/chr2b_random.maf
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/monDom4/maf/chr12_random.maf
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/monDom4/maf/chrM.maf.index
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/monDom4/maf/chr1_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/monDom4/maf/chr4.maf.index
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/monDom4/maf/chr9.maf.index
+####### SIZE: 4841 KB

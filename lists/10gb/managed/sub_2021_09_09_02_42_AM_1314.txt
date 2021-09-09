@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Escherichia_coli_BL21_DE3__uid161947/NC_012971.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Escherichia_coli_BL21_DE3__uid161947
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_liflandii_128FXT_uid59005/NC_011355.fna
+####### SIZE: 9226 KB

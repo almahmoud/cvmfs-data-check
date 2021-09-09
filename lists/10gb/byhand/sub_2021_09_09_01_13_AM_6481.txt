@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18canon/bwa_index/hg18canon.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18canon/bwa_index/hg18canon.fa.amb
+####### SIZE: 8 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/rn3/bowtie_index/cs/rn3.rev.1.ebwt
+####### SIZE: 726745 KB

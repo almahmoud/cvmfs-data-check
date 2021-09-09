@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Listeria_monocytogenes_ATCC_19117_uid175109
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermobifida_fusca_YX_uid57703/NC_007333.fna
+####### SIZE: 6537 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/rn4/liftOver/rn4ToMelGal1.over.chain
+####### SIZE: 12566 KB

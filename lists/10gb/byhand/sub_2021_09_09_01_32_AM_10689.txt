@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_MG1655/sam_index/eschColi_MG1655.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_MG1655/sam_index/eschColi_MG1655.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_MG1655/sam_index
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_MG1655/seq/eschColi_MG1655.2bit
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_MG1655/seq/eschColi_MG1655.fa
+####### SIZE: 5737 KB

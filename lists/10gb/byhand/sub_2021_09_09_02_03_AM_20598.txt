@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3full/bowtie2_index/calJac3full.fa
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3full/bowtie2_index/20130311_calJac3full_bt2
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3full/bowtie2_index/calJac3full.3.bt2
+####### SIZE: 1784 KB

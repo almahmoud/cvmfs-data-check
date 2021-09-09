@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_trachomatis_B_TZ1A828_OT_uid59349/NC_012687.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_trachomatis_B_TZ1A828_OT_uid59349
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Brucella_suis_ATCC_23445_uid59015/NC_010167.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Brucella_suis_ATCC_23445_uid59015/NC_010169.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Brucella_suis_ATCC_23445_uid59015
+####### SIZE: 8667 KB

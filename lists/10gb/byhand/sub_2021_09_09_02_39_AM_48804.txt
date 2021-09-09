@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/danRer2/chr1.axt
+####### SIZE: 14218 KB

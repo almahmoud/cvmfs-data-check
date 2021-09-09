@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/13967/NC_007164.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/13967/NC_007164.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/13967/NC_007164.tRNA.bed
+####### SIZE: 2549 KB

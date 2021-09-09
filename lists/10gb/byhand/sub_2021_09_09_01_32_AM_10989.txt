@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewMR4/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewMR4/shewMR4.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewMR4/chr.tRNA.bed
+####### SIZE: 4669 KB

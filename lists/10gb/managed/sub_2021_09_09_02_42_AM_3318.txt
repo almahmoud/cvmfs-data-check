@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_infantis_NRRL_B_14911_uid222804
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodospirillum_rubrum_F11_uid162149/NC_017584.fna
+####### SIZE: 9155 KB

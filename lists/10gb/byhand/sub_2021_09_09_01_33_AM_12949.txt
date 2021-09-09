@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_TW14359/sam_index/eschColi_TW14359.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_TW14359/sam_index/eschColi_TW14359.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_TW14359/sam_index
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_TW14359/seq/eschColi_TW14359.2bit
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_TW14359/seq/eschColi_TW14359.fa
+####### SIZE: 6951 KB

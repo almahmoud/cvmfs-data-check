@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/felCat5/liftOver/felCat5ToMm10.over.chain
+####### SIZE: 186028 KB

@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Xylella_fastidiosa_GB514_uid162023
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_aureus_CC45_uid209174/NC_021552.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_aureus_CC45_uid209174/NC_021554.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_aureus_CC45_uid209174
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Runella_slithyformis_DSM_19594_uid68317/NC_015695.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Runella_slithyformis_DSM_19594_uid68317/NC_015694.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Runella_slithyformis_DSM_19594_uid68317/NC_015693.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Runella_slithyformis_DSM_19594_uid68317/NC_015704.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Runella_slithyformis_DSM_19594_uid68317/NC_015705.fna
+####### SIZE: 8553 KB

@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/mm8/maf/chr20.maf
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/mm8/maf/chr4.maf.index
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/mm8/maf/chr5.maf.index
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/mm8/maf/chr24.maf.index
+####### SIZE: 6200 KB

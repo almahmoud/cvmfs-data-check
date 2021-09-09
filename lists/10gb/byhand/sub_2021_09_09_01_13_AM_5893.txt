@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/gasAcu1/chr16.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/gasAcu1/chrY.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/gasAcu1/chr14.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/gasAcu1/chr2_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/gasAcu1/chr19_random.axt
+####### SIZE: 9834 KB

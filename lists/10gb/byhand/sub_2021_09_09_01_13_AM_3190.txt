@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/rn5/bwa_index/rn5.fa.sa
+####### SIZE: 355188 KB

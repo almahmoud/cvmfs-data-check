@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/ce5/sam_index/ce5.fa
+/cvmfs/data.galaxyproject.org/byhand/ce5/sam_index/ce5.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/ce5/sam_index
+/cvmfs/data.galaxyproject.org/byhand/ce5/picard_index/ce5.fa
+/cvmfs/data.galaxyproject.org/byhand/ce5/picard_index/ce5.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/ce5/picard_index/ce5.dict
+/cvmfs/data.galaxyproject.org/byhand/ce5/picard_index
+####### SIZE: 18 KB

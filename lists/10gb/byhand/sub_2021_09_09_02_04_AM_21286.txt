@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm7/liftOver/mm7ToPanTro1.over.chain
+####### SIZE: 235340 KB

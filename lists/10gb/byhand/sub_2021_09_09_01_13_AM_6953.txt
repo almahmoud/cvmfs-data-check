@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/Arabidopsis_thaliana_TAIR9/bowtie_index/cs/Arabidopsis_thaliana_TAIR9.2.ebwt
+####### SIZE: 14522 KB

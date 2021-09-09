@@ -1,0 +1,22 @@
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/alns/orthofinder/142.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/alns/orthofinder/17640.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/alns/orthofinder/2526.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/alns/orthofinder/3729.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/alns/orthofinder/4354.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/alns/orthofinder/17925.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/alns/orthofinder/5698.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/alns/orthofinder/12481.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/alns/orthofinder/112.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/alns/orthofinder/18470.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/alns/orthofinder/3222.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/alns/orthofinder/17249.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/alns/orthofinder/9872.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/alns/orthofinder/10110.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/alns/orthofinder/15805.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/alns/orthofinder/9447.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/alns/orthofinder/5020.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/alns/orthofinder/17090.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/alns/orthofinder/14766.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/alns/orthofinder/9295.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/alns/orthofinder/13917.aln
+####### SIZE: 7795 KB

@@ -1,0 +1,15 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/13617
+/cvmfs/data.galaxyproject.org/byhand/microbes/sodaGlos_MORSITANS/plasmid_pSG3.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/sodaGlos_MORSITANS/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/sodaGlos_MORSITANS/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/sodaGlos_MORSITANS/plasmid_pSG1.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/sodaGlos_MORSITANS/plasmid_pSG1.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/sodaGlos_MORSITANS/plasmid_pSG3.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/sodaGlos_MORSITANS/plasmid_pSG2.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/sodaGlos_MORSITANS/plasmid_pSG3.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/sodaGlos_MORSITANS/plasmid_pSG2.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/sodaGlos_MORSITANS/seq/plasmid_pSG3.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/sodaGlos_MORSITANS/seq/plasmid_pSG2.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/sodaGlos_MORSITANS/seq/plasmid_pSG1.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/sodaGlos_MORSITANS/seq/chr.nib
+####### SIZE: 9751 KB

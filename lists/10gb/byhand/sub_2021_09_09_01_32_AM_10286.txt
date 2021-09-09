@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/Ptrichocarpa_156/bowtie_index/Ptrichocarpa_156.fa
+/cvmfs/data.galaxyproject.org/byhand/Ptrichocarpa_156/bowtie_index/cs/Ptrichocarpa_156.fa
+/cvmfs/data.galaxyproject.org/byhand/Ptrichocarpa_156/bowtie_index/cs/Ptrichocarpa_156.3.ebwt
+####### SIZE: 122 KB

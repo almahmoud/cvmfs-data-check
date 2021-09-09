@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Listeria_monocytogenes_serotype_7_SLCC2482_uid174871
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Conexibacter_woesei_DSM_14684_uid43467/NC_013739.fna
+####### SIZE: 9264 KB

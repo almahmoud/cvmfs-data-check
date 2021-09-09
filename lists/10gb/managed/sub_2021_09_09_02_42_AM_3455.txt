@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_pneumoniae_SPNA45_uid174986/NC_018594.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_pneumoniae_SPNA45_uid174986
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Pelagibacter_IMCC9063_uid66305/NC_015380.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Pelagibacter_IMCC9063_uid66305
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Olsenella_uli_DSM_7084_uid51367/NC_014363.fna
+####### SIZE: 8809 KB

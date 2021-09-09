@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/ce10/ce10/dataset_4acc8f48-c175-418c-9ce3-2f47447519f9_files/Genome
+####### SIZE: 98817 KB

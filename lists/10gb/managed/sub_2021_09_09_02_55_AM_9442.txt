@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methylobacterium_extorquens_DM4_uid61617
+####### SIZE: 6071 KB

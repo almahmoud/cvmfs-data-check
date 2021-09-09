@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/dp3/chr2L.axt
+####### SIZE: 40759 KB

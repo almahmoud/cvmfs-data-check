@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Helicobacter_pylori_PeCan18_uid162211/NC_017742.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Helicobacter_pylori_PeCan18_uid162211
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Oceanobacillus_iheyensis_HTE831_uid57867/NC_004193.fna
+####### SIZE: 6893 KB

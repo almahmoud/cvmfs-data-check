@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/aquiAeol
+/cvmfs/data.galaxyproject.org/byhand/microbes/17163/seq/NC_009707.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/17163/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/17163/NC_009707.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/17163/NC_009707.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/17163/NC_009707.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/17163/17163.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/17163/NC_009707.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/17163/NC_009707.CDS.bed
+####### SIZE: 8913 KB

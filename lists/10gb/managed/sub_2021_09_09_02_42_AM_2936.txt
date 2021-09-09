@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_haemolyticus_JCSC1435_uid62919
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydophila_caviae_GPIC_uid57783/NC_004720.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydophila_caviae_GPIC_uid57783/NC_003361.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydophila_caviae_GPIC_uid57783
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_constellatus_pharyngis_C232_uid217998/NC_022236.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_constellatus_pharyngis_C232_uid217998
+####### SIZE: 8864 KB

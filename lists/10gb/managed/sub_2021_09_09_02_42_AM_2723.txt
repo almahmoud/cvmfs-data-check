@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acidiphilium_multivorum_AIU301_uid63345/NC_015186.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acidiphilium_multivorum_AIU301_uid63345/NC_015182.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acidiphilium_multivorum_AIU301_uid63345
+####### SIZE: 7899 KB

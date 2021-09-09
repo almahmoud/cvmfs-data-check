@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactococcus_lactis_KLDS_4_0325_uid225028/NC_022593.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactococcus_lactis_KLDS_4_0325_uid225028
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Anaerococcus_prevotii_DSM_20548_uid59219/NC_013164.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Anaerococcus_prevotii_DSM_20548_uid59219/NC_013171.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Anaerococcus_prevotii_DSM_20548_uid59219
+####### SIZE: 9105 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/tetNig1/chr10.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/tetNig1/chrUn_gl000225.axt
+####### SIZE: 5463 KB

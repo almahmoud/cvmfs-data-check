@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm8/mm8full/bwa_index/mm8full.fa.rpac
+####### SIZE: 650502 KB

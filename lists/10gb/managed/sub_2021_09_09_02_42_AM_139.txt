@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/melGal1/melGal1.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/melGal1/melGal1.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/melGal1/melGal1.7.ht2
+####### SIZE: 1344 KB

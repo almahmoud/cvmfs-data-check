@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sulfolobus_acidocaldarius_DSM_639_uid58379/NC_007181.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sulfolobus_acidocaldarius_DSM_639_uid58379
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermotoga_maritima_MSB8_uid57723/NC_000853.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermotoga_maritima_MSB8_uid57723
+####### SIZE: 8107 KB

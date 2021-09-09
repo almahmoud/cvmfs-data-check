@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer2/tmp/net/chr10.net
+/cvmfs/data.galaxyproject.org/byhand/danRer2/tmp/net/chr4.net
+/cvmfs/data.galaxyproject.org/byhand/danRer2/tmp/net/chr12.net
+/cvmfs/data.galaxyproject.org/byhand/danRer2/tmp/net/chr20.net
+/cvmfs/data.galaxyproject.org/byhand/danRer2/tmp/net/chr14.net
+/cvmfs/data.galaxyproject.org/byhand/danRer2/tmp/net/chr21.net
+####### SIZE: 9865 KB

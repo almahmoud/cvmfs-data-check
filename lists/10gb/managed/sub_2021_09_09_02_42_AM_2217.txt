@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shigella_flexneri_2002017_uid159233/NC_017328.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shigella_flexneri_2002017_uid159233/NC_017329.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shigella_flexneri_2002017_uid159233
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pantoea_vagans_C9_1_uid49871/NC_014563.fna
+####### SIZE: 9634 KB

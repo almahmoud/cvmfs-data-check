@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ralstonia_pickettii_DTP0602_uid222229
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactobacillus_delbrueckii_bulgaricus_ATCC_BAA_365_uid57987/NC_008529.fna
+####### SIZE: 9895 KB

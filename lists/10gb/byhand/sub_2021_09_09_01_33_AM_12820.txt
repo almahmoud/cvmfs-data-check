@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/psycArct_273_4/chr.gbk
+####### SIZE: 5953 KB

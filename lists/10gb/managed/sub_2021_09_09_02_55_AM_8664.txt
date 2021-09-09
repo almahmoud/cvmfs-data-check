@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sulfurospirillum_barnesii_SES_3_uid168117
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_subtilis_RO_NN_1_uid158879/NC_017195.fna
+####### SIZE: 6465 KB

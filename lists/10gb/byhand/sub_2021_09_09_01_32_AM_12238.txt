@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/82
+/cvmfs/data.galaxyproject.org/byhand/microbes/vibrPara1/seq/chrII.nib
+####### SIZE: 9335 KB

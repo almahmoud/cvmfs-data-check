@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanocaldococcus_jannaschii_DSM_2661_uid57713
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Kinetoplastibacterium_crithidii_TCC036E_uid189749/NC_020283.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Kinetoplastibacterium_crithidii_TCC036E_uid189749
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Brucella_melitensis_M5_90_uid158855/NC_017247.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Brucella_melitensis_M5_90_uid158855/NC_017246.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Brucella_melitensis_M5_90_uid158855
+####### SIZE: 9931 KB

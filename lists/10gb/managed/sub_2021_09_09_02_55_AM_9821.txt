@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptomyces_SirexAA_E_uid72627/NC_015953.fna
+####### SIZE: 7345 KB

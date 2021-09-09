@@ -1,0 +1,19 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/blocFlor/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/blocFlor/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/blocFlor/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/blocFlor/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/blocFlor/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/blocFlor/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/blocFlor/chr.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/blocFlor/chr.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/blocFlor/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/blocFlor/blocFlor.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/blocFlor/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/blocFlor/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/blocFlor/chr.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/blocFlor/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/blocFlor/chr.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/blocFlor
+/cvmfs/data.galaxyproject.org/byhand/microbes/10877/seq/NC_005957.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/10877/seq/NC_006578.nib
+####### SIZE: 8782 KB

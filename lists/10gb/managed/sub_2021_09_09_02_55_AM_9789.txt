@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Selenomonas_ruminantium_lactilytica_TAM6421_uid157247
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_trachomatis_D_SotonD6_uid196774/NC_020959.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_trachomatis_D_SotonD6_uid196774/NC_020968.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_trachomatis_D_SotonD6_uid196774
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shigella_boydii_CDC_3083_94_uid58415/NC_010656.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shigella_boydii_CDC_3083_94_uid58415/NC_010657.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shigella_boydii_CDC_3083_94_uid58415/NC_010672.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shigella_boydii_CDC_3083_94_uid58415/NC_010659.fna
+####### SIZE: 5743 KB

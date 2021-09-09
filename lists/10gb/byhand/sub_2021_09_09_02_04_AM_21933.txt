@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/hg18
+####### SIZE: 10930529 KB

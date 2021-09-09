@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/ente638/bowtie_index
+####### SIZE: 26185 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ralstonia_pickettii_DTP0602_uid222229/NC_022513.fna
+####### SIZE: 4457 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Erwinia_tasmaniensis_Et1_99_uid59029
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Campylobacter_jejuni_00_2426_uid219324/NC_022352.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Campylobacter_jejuni_00_2426_uid219324
+####### SIZE: 7241 KB

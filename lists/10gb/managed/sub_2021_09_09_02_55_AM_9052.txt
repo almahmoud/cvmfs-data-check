@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Agrobacterium_H13_3_uid63403
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_trachomatis_RC_J_953_uid213389/NC_021889.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_trachomatis_RC_J_953_uid213389
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Neisseria_lactamica_020_06_uid60851/NC_014752.fna
+####### SIZE: 9790 KB

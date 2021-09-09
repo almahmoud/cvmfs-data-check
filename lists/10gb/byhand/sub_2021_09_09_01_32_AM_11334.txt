@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_K12/download/20dec2010/1332/eschColi_K12_DH10B.fasta
+####### SIZE: 4642 KB

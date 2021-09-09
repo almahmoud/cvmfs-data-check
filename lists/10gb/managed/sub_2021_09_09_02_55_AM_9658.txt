@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Moorella_thermoacetica_ATCC_39073_uid58051
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhizobium_tropici_CIAT_899_uid185179/NC_020060.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhizobium_tropici_CIAT_899_uid185179/NC_020061.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhizobium_tropici_CIAT_899_uid185179/NC_020062.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhizobium_tropici_CIAT_899_uid185179/NC_020059.fna
+####### SIZE: 9234 KB

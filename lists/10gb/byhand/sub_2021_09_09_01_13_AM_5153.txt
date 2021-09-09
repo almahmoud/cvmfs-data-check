@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/bosTau2/chr9.idx
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/bosTau2/chrX.idx
+####### SIZE: 6164 KB

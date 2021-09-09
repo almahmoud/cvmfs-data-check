@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/rn4/nib/chr7_random.nib
+/cvmfs/data.galaxyproject.org/byhand/rn4/nib/chrUn_random.nib
+/cvmfs/data.galaxyproject.org/byhand/rn4/nib/chr4_random.nib
+/cvmfs/data.galaxyproject.org/byhand/rn4/nib/chr19_random.nib
+/cvmfs/data.galaxyproject.org/byhand/rn4/nib/chr11_random.nib
+####### SIZE: 6069 KB

@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/oryza_sativa_japonica_nipponbare_IRGSP4.0/srma_index/oryza_sativa_japonica_nipponbare_IRGSP4.0.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/oryza_sativa_japonica_nipponbare_IRGSP4.0/srma_index/oryza_sativa_japonica_nipponbare_IRGSP4.0.fa
+/cvmfs/data.galaxyproject.org/byhand/oryza_sativa_japonica_nipponbare_IRGSP4.0/srma_index/oryza_sativa_japonica_nipponbare_IRGSP4.0.dict
+/cvmfs/data.galaxyproject.org/byhand/oryza_sativa_japonica_nipponbare_IRGSP4.0/srma_index
+/cvmfs/data.galaxyproject.org/byhand/oryza_sativa_japonica_nipponbare_IRGSP4.0/bwa_index/oryza_sativa_japonica_nipponbare_IRGSP4.0.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/oryza_sativa_japonica_nipponbare_IRGSP4.0/bwa_index/oryza_sativa_japonica_nipponbare_IRGSP4.0.fa.ann
+####### SIZE: 30 KB

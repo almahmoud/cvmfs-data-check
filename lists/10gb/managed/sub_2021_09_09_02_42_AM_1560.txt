@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_mutans_UA159_uid57947/NC_004350.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_mutans_UA159_uid57947
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Helicobacter_pylori_26695_uid57787/NC_000915.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Helicobacter_pylori_26695_uid57787
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_abscessus_bolletii_50594_uid205422/NC_021278.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_abscessus_bolletii_50594_uid205422/NC_021279.fna
+####### SIZE: 7612 KB

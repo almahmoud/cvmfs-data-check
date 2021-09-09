@@ -1,0 +1,16 @@
+/cvmfs/data.galaxyproject.org/managed/len/hg19_rCRS_pUC18_phiX174.len
+/cvmfs/data.galaxyproject.org/managed/len/aptMan1.len
+/cvmfs/data.galaxyproject.org/managed/len/compute
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/hg38Patch7.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/gorGor4.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/droBia2.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/panTro5.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/ptePar1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/oreNil3.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/balAcu1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/bunEbo1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/strRat2.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/droKik2.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/serCan1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/micMur2.len
+####### SIZE: 9959 KB

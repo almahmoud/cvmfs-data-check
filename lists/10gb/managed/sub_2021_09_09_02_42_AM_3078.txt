@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodopseudomonas_palustris_BisB5_uid58441
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Enterobacter_R4_368_uid208672/NC_021492.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Enterobacter_R4_368_uid208672/NC_021500.fna
+####### SIZE: 9958 KB

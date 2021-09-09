@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_ulcerans_Agy99_uid62939
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Butyrivibrio_proteoclasticus_B316_uid51489/NC_014390.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Butyrivibrio_proteoclasticus_B316_uid51489/NC_014389.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Butyrivibrio_proteoclasticus_B316_uid51489/NC_014387.fna
+####### SIZE: 9822 KB

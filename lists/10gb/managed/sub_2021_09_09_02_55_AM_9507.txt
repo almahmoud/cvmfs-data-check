@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Phaeobacter_gallaeciensis_DSM_26640_uid232357/NC_023137.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Phaeobacter_gallaeciensis_DSM_26640_uid232357
+####### SIZE: 8245 KB

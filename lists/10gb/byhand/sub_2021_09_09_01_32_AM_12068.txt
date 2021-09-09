@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/seq/eschColi_APEC_O1.2bit
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/seq/chr.nib
+####### SIZE: 6312 KB

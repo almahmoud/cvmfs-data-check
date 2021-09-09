@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/customProDB/omicron-data.duckdns.org/customProDB/ensembl/rnorvegicus-mar2015/ids.RData
+/cvmfs/data.galaxyproject.org/byhand/customProDB/omicron-data.duckdns.org/customProDB/ensembl/rnorvegicus-mar2015/proseq.RData
+####### SIZE: 8358 KB

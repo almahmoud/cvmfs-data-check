@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halomonas_elongata_DSM_2581_uid52781/NC_014532.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halomonas_elongata_DSM_2581_uid52781
+####### SIZE: 8051 KB

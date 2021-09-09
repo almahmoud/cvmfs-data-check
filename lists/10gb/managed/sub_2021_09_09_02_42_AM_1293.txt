@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aeromonas_hydrophila_ML09_119_uid205540/NC_021290.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aeromonas_hydrophila_ML09_119_uid205540
+####### SIZE: 9959 KB

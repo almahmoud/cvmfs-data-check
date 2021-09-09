@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/aptMan1/aptMan1.rev.1.bt2
+####### SIZE: 435924 KB

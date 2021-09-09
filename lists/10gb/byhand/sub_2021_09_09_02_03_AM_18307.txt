@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/geoFor1/bowtie_index/geoFor1.4.ebwt
+####### SIZE: 254221 KB

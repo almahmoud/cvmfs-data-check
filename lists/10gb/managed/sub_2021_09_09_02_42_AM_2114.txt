@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bordetella_bronchiseptica_MO149_uid177517/NC_018829.fna
+####### SIZE: 5044 KB

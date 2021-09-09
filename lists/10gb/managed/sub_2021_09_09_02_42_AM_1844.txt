@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Erwinia_pyrifoliae_Ep1_96_uid40659
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Serratia_proteamaculans_568_uid58725/NC_009829.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Serratia_proteamaculans_568_uid58725/NC_009832.fna
+####### SIZE: 9486 KB

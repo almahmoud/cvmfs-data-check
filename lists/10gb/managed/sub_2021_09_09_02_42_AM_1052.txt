@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/vicVic1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/16190.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/ureaUrea.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/ehrlRumi_WELGEVONDEN.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/Araly1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/odoRosDiv1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/hapBur1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/oreNil1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/17417.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/304.len
+####### SIZE: 6282 KB

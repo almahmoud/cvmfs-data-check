@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Butyrivibrio_proteoclasticus_B316_uid51489/NC_014388.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Butyrivibrio_proteoclasticus_B316_uid51489
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_fermentans_M64_uid62099/NC_014921.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_fermentans_M64_uid62099
+####### SIZE: 6892 KB

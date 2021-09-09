@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/customProDB/omicron-data.duckdns.org/customProDB/ensembl/mmusculus-may2015/ids.RData
+/cvmfs/data.galaxyproject.org/byhand/customProDB/omicron-data.duckdns.org/customProDB/ensembl/mmusculus-may2015/dbsnpinCoding.RData
+####### SIZE: 5726 KB

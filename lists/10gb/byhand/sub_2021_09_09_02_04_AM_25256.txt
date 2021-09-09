@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab1/tmp/chr26.fa
+####### SIZE: 41093 KB

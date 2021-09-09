@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/anabVari_ATCC29413/plasmid_B.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/anabVari_ATCC29413/plasmid_C.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/anabVari_ATCC29413/plasmid_C.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/anabVari_ATCC29413/plasmid_C.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/anabVari_ATCC29413/chr.tRNA.bed
+####### SIZE: 717 KB

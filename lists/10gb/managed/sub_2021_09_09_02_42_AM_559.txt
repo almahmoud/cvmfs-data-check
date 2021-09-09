@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/danRer10/danRer10.4.bt2
+####### SIZE: 334383 KB

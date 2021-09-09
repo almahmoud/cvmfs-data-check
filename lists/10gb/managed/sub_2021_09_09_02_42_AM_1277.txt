@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pantoea_ananatis_LMG_20103_uid46807/NC_013956.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pantoea_ananatis_LMG_20103_uid46807
+####### SIZE: 9323 KB

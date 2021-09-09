@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Fibrella_aestuarina_uid178352
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermus_thermophilus_JL_18_uid162129/NC_017588.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermus_thermophilus_JL_18_uid162129/NC_017590.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermus_thermophilus_JL_18_uid162129/NC_017587.fna
+####### SIZE: 9168 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/encode/september2005_relabeled/mavid/abs/ENr323.maf
+####### SIZE: 59346 KB

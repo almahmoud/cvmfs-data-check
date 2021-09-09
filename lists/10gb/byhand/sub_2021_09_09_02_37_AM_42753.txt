@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/hg18/chr13.axt
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/hg18/chr1.idx
+####### SIZE: 5130 KB

@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/papAnu2/papAnu2.fa.fai
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/papAnu2
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/panPan1/panPan1.fa
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/panPan1/panPan1.fa.fai
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/panPan1
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/allMis1/allMis1.fa
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/allMis1/allMis1.fa.fai
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/allMis1
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/vicPac1/vicPac1.fa
+####### SIZE: 5656 KB

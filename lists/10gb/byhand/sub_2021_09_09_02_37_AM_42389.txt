@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ce4/align/caeRem2/chrII.axt
+####### SIZE: 16703 KB

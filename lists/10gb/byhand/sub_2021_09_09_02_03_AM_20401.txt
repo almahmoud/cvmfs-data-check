@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/Sscrofa9.58/bwa_index
+####### SIZE: 3317345 KB

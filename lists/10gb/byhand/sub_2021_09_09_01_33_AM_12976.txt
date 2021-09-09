@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/vibrChol1/chrII.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/vibrChol1/chrI.gbk
+####### SIZE: 9013 KB

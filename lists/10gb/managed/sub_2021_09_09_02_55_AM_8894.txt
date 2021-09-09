@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Dactylococcopsis_salina_PCC_8305_uid183341/NC_019780.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Dactylococcopsis_salina_PCC_8305_uid183341
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Yersinia_pestis_A1122_uid158119/NC_017169.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Yersinia_pestis_A1122_uid158119/NC_017170.fna
+####### SIZE: 7601 KB

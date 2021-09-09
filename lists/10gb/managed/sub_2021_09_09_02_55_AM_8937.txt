@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acetobacter_pasteurianus_IFO_3283_03_uid158373/NC_017100.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acetobacter_pasteurianus_IFO_3283_03_uid158373
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gordonibacter_pamelaeae_7_10_1_b_uid197167/NC_021021.fna
+####### SIZE: 9769 KB

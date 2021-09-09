@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/plasmids/Plasmids/taxonomy/division.dmp
+/cvmfs/data.galaxyproject.org/managed/kraken_database/plasmids/Plasmids/taxonomy/taxdump.flag
+/cvmfs/data.galaxyproject.org/managed/kraken_database/plasmids/Plasmids/taxonomy/gimap.dlflag
+/cvmfs/data.galaxyproject.org/managed/kraken_database/plasmids/Plasmids/taxonomy/merged.dmp
+/cvmfs/data.galaxyproject.org/managed/kraken_database/plasmids/Plasmids/taxonomy/gencode.dmp
+/cvmfs/data.galaxyproject.org/managed/kraken_database/plasmids/Plasmids/taxonomy/taxdump.dlflag
+/cvmfs/data.galaxyproject.org/managed/kraken_database/plasmids/Plasmids/taxonomy/gimap.flag
+/cvmfs/data.galaxyproject.org/managed/kraken_database/plasmids/Plasmids/taxonomy/gc.prt
+/cvmfs/data.galaxyproject.org/managed/kraken_database/plasmids/Plasmids/taxonomy/readme.txt
+/cvmfs/data.galaxyproject.org/managed/kraken_database/plasmids/Plasmids/taxonomy/delnodes.dmp
+####### SIZE: 3704 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/customProDB/omicron-data.duckdns.org/customProDB/ensembl/choffmanni-may2009/proseq.RData
+/cvmfs/data.galaxyproject.org/byhand/customProDB/omicron-data.duckdns.org/customProDB/ensembl/choffmanni-may2009/ids.RData
+/cvmfs/data.galaxyproject.org/byhand/customProDB/omicron-data.duckdns.org/customProDB/ensembl/choffmanni-may2009/procodingseq.RData
+####### SIZE: 8821 KB

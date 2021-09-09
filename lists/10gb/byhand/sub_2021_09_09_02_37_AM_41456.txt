@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/calJac3/maf/chr10_random.maf
+####### SIZE: 9334 KB

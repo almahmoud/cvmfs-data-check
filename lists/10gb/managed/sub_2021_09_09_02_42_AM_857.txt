@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/ce9/ce9.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/ce9/ce9.fa.amb
+####### SIZE: 2 KB

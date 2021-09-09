@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Escherichia_coli_042_uid161985
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bifidobacterium_animalis_lactis_DSM_10140_uid59357/NC_012815.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bifidobacterium_animalis_lactis_DSM_10140_uid59357
+####### SIZE: 9156 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haemophilus_influenzae_R2846_uid161921
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leptospira_interrogans_serovar_Lai_56601_uid57881/NC_004343.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leptospira_interrogans_serovar_Lai_56601_uid57881/NC_004342.fna
+####### SIZE: 6462 KB

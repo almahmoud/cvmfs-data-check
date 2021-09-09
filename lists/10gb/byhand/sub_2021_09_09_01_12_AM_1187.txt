@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/ponAbe2/maf/chr17_gl000203_random.maf
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/ponAbe2/maf/chrUn_gl000239.maf.index
+####### SIZE: 108 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Salmonella_enterica_Serovar_Cubana_CFSAN002050_uid212973/NC_021818.fna
+####### SIZE: 4931 KB

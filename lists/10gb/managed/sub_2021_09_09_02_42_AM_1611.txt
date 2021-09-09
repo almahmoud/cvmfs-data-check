@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Chloracidobacterium_thermophilum_B_uid73587/NC_016024.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Chloracidobacterium_thermophilum_B_uid73587
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Anoxybacillus_flavithermus_WK1_uid59135/NC_011567.fna
+####### SIZE: 9145 KB

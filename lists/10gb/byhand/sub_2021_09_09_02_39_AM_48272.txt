@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/encode_relabeled/tba/ENm009/human.ENm009.maf.index
+####### SIZE: 3419 KB

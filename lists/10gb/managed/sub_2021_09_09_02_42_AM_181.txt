@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/Schizosaccharomyces_pombe_1.1/Schizosaccharomyces_pombe_1.1.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/Schizosaccharomyces_pombe_1.1/Schizosaccharomyces_pombe_1.1.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/Schizosaccharomyces_pombe_1.1/Schizosaccharomyces_pombe_1.1.4.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/Schizosaccharomyces_pombe_1.1/Schizosaccharomyces_pombe_1.1.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/Schizosaccharomyces_pombe_1.1/Schizosaccharomyces_pombe_1.1.8.ht2
+####### SIZE: 6207 KB

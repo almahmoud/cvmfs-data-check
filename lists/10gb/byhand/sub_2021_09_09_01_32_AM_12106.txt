@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/saliRube_DSM13855/chr.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/saliRube_DSM13855/plasmid_pSR35.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/saliRube_DSM13855/chr.tRNA.bed
+####### SIZE: 7565 KB

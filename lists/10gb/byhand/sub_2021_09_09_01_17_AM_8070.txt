@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/droVir3/bwa_index/droVir3.fa.pac
+####### SIZE: 50300 KB

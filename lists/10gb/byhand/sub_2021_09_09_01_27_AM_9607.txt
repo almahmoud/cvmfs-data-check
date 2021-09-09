@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/sorAra1/bowtie_index
+####### SIZE: 3914341 KB

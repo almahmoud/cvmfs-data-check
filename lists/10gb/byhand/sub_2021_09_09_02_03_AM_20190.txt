@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/apiMel1/chrX.idx
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/apiMel1/chr2R.idx
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/apiMel1/chr4h.idx
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/apiMel1/chrXh.idx
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/apiMel1/chrYh.axt
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/apiMel1/chrYh.idx
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/apiMel1/chr4h.axt
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/apiMel1/chr2R.axt
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/apiMel1/chr2h.axt
+####### SIZE: 7288 KB

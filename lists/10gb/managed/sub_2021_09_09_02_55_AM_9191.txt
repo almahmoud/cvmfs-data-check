@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Zymomonas_mobilis_pomaceae_ATCC_29192_uid68445/NC_015709.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Zymomonas_mobilis_pomaceae_ATCC_29192_uid68445/NC_015715.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Zymomonas_mobilis_pomaceae_ATCC_29192_uid68445/NC_015716.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Zymomonas_mobilis_pomaceae_ATCC_29192_uid68445
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_psittaci_84_55_uid175571/NC_018633.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_psittaci_84_55_uid175571/NC_018619.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_psittaci_84_55_uid175571
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanococcus_maripaludis_C6_uid58947/NC_009975.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanococcus_maripaludis_C6_uid58947
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermus_CCB_US3_UF1_uid81197/NC_016634.fna
+####### SIZE: 9917 KB

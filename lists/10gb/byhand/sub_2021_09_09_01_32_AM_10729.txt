@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/neisMeni_FAM18_1
+/cvmfs/data.galaxyproject.org/byhand/microbes/277/seq/NC_003028.nib
+####### SIZE: 9982 KB

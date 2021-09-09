@@ -1,0 +1,21 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/178/NC_006351.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/178/NC_006350.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/178/NC_006351.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/178/NC_006350.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/178/srma_index/burkPseu_K96243.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/178/srma_index/burkPseu_K96243.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/microbes/178/srma_index/burkPseu_K96243.dict
+/cvmfs/data.galaxyproject.org/byhand/microbes/178/srma_index
+/cvmfs/data.galaxyproject.org/byhand/microbes/178/NC_006351.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/178/NC_006350.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/178/NC_006351.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/178/NC_006350.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/178/bwa_index/cs/burkPseu_K96243.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/microbes/178/bwa_index/cs/burkPseu_K96243.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/microbes/178/bwa_index/cs/burkPseu_K96243.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/microbes/178/bwa_index/cs/burkPseu_K96243.fa.nt.pac
+/cvmfs/data.galaxyproject.org/byhand/microbes/178/bwa_index/cs/burkPseu_K96243.fa.nt.ann
+/cvmfs/data.galaxyproject.org/byhand/microbes/178/bwa_index/cs/burkPseu_K96243.fa.nt.amb
+/cvmfs/data.galaxyproject.org/byhand/microbes/178/bwa_index/cs/burkPseu_K96243.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/microbes/178/bwa_index/cs/burkPseu_K96243.fa.bwt
+####### SIZE: 9210 KB

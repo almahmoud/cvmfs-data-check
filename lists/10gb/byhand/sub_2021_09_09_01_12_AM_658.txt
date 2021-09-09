@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/oryCun1/chrY.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/oryCun1/chrUn_gl000231.axt
+####### SIZE: 5666 KB

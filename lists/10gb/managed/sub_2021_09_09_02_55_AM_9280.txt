@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Taylorella_asinigenitalis_MCE3_uid73771
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chromohalobacter_salexigens_DSM_3043_uid62921/NC_007963.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chromohalobacter_salexigens_DSM_3043_uid62921
+####### SIZE: 8957 KB

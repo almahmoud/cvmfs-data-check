@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Corynebacterium_glutamicum_SCgG1_uid207285
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_epidermidis_RP62A_uid57663/NC_006663.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_epidermidis_RP62A_uid57663/NC_002976.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_epidermidis_RP62A_uid57663
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Campylobacter_concisus_13826_uid58667/NC_009796.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Campylobacter_concisus_13826_uid58667/NC_009795.fna
+####### SIZE: 8616 KB

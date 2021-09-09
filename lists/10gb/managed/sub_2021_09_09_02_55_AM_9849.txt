@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Herminiimonas_arsenicoxydans_uid58291/NC_009138.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Herminiimonas_arsenicoxydans_uid58291
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rickettsia_rickettsii__Sheila_Smith__uid58027/NC_009882.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rickettsia_rickettsii__Sheila_Smith__uid58027
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_cereus_NC7401_uid82815/NC_016792.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_cereus_NC7401_uid82815/NC_016774.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_cereus_NC7401_uid82815/NC_016793.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_cereus_NC7401_uid82815/NC_016773.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_cereus_NC7401_uid82815/NC_016772.fna
+####### SIZE: 9616 KB

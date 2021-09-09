@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/managed/picard_index/rn6/rn6.fa
+/cvmfs/data.galaxyproject.org/managed/picard_index/rn6/rn6.dict
+/cvmfs/data.galaxyproject.org/managed/picard_index/rn6
+/cvmfs/data.galaxyproject.org/managed/picard_index/danRer10/danRer10.fa
+/cvmfs/data.galaxyproject.org/managed/picard_index/danRer10/danRer10.dict
+/cvmfs/data.galaxyproject.org/managed/picard_index/danRer10
+/cvmfs/data.galaxyproject.org/managed/picard_index/aptMan1/aptMan1.fa
+/cvmfs/data.galaxyproject.org/managed/picard_index/aptMan1/aptMan1.dict
+/cvmfs/data.galaxyproject.org/managed/picard_index/aptMan1
+/cvmfs/data.galaxyproject.org/managed/picard_index/dasNov3/dasNov3.fa
+####### SIZE: 7409 KB

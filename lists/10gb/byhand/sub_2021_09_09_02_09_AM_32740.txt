@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/mm10/chrom/chrUn_GL456366.fa
+/cvmfs/data.galaxyproject.org/byhand/mm10/chrom/chr4_JH584295_random.fa
+####### SIZE: 49 KB

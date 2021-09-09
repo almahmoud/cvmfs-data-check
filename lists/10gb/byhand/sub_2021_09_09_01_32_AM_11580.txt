@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/bordBron/bowtie_index/bordBron.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/bordBron/bowtie_index/bordBron.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/bordBron/bowtie_index/bordBron.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/bordBron/bowtie_index/bordBron.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/bordBron/bowtie_index/bordBron.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/bordBron/bowtie_index/bordBron.1.ebwt
+####### SIZE: 8196 KB

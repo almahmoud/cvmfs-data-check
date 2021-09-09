@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/phyloP44way.primate/chr21.phyloP44way.primate.wigFix.gz
+####### SIZE: 41670 KB

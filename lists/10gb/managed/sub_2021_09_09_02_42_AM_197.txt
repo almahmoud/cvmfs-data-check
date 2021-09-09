@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/equCab2/equCab2.fa
+####### SIZE: 1 KB

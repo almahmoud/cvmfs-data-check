@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Terriglobus_roseus_DSM_18391_uid168183
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Blattabacterium__Panesthia_angustipennis_spadica__BPAA_uid193717/NC_020510.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Blattabacterium__Panesthia_angustipennis_spadica__BPAA_uid193717
+####### SIZE: 6442 KB

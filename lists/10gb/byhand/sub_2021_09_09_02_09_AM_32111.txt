@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_TW14359/bwa_index/eschColi_TW14359.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_TW14359/bwa_index/eschColi_TW14359.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_TW14359/bwa_index/eschColi_TW14359.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_TW14359/bwa_index/eschColi_TW14359.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_TW14359/bwa_index/eschColi_TW14359.fa.bwt
+####### SIZE: 6181 KB

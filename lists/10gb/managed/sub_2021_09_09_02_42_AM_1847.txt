@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nostoc_PCC_7524_uid182933
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_aureus_Z172_uid225604/NC_022610.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_aureus_Z172_uid225604/NC_022605.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_aureus_Z172_uid225604/NC_022604.fna
+####### SIZE: 9653 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Segniliparus_rotundus_DSM_44985_uid49049/NC_014168.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Segniliparus_rotundus_DSM_44985_uid49049
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactobacillus_johnsonii_DPC_6026_uid162057/NC_017477.fna
+####### SIZE: 8209 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_aureus_JH1_uid58457
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfobulbus_propionicus_DSM_2032_uid62265/NC_014972.fna
+####### SIZE: 6731 KB

@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_difficile_ATCC_43255_uid197173
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanocaldococcus_fervens_AG86_uid59347/NC_013157.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanocaldococcus_fervens_AG86_uid59347/NC_013156.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanocaldococcus_fervens_AG86_uid59347
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acinetobacter_baumannii_ACICU_uid58765/NC_010606.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acinetobacter_baumannii_ACICU_uid58765/NC_010605.fna
+####### SIZE: 7231 KB

@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactobacillus_brevis_ATCC_367_uid57989/NC_008497.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactobacillus_brevis_ATCC_367_uid57989
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_cenocepacia_J2315_uid57953/NC_011003.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_cenocepacia_J2315_uid57953/NC_011002.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_cenocepacia_J2315_uid57953/NC_011000.fna
+####### SIZE: 9388 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/hmms/gfam/19947.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/hmms/gfam/1700.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/hmms/gfam/30929.hmm
+####### SIZE: 949 KB

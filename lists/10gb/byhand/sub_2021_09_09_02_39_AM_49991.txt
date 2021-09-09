@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/caeRem2/seq
+####### SIZE: 201360 KB

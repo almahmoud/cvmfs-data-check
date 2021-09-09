@@ -1,0 +1,12 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way/maf/chr4_gl000193_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way/maf/chrUn_gl000248.maf.lzot
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way/maf/chrUn_gl000215.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way/maf/chr17_gl000204_random.maf.lzo
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way/maf/chr17_gl000205_random.maf.lzot
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way/maf/chrUn_gl000215.maf.lzot
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way/maf/chrUn_gl000228.maf.lzot
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way/maf/chrUn_gl000218.maf.lzot
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way/maf/chr18_gl000207_random.maf.lzo
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way/maf/chrUn_gl000246.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way/maf/chrUn_gl000214.maf.lzot
+####### SIZE: 9851 KB

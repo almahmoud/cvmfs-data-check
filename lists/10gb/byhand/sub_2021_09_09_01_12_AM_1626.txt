@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/ornAna1/chrUn_gl000244.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/ornAna1/chrUn_gl000234.axt
+####### SIZE: 20 KB

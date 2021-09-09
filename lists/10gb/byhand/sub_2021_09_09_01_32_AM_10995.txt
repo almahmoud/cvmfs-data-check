@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/franTula_TULARENSIS
+/cvmfs/data.galaxyproject.org/byhand/microbes/13473/NC_007964.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/13473/NC_007961.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/13473/seq/NC_007959.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/13473/seq/NC_007961.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/13473/seq/NC_007960.nib
+####### SIZE: 8810 KB

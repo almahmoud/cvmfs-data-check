@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptomyces_fulvissimus_DSM_40593_uid201038/NC_021177.fna
+####### SIZE: 7831 KB

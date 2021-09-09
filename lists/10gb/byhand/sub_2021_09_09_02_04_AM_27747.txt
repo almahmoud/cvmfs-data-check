@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.156.nsq
+####### SIZE: 967335 KB

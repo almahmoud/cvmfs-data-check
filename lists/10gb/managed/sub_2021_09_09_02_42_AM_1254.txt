@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Eubacterium_rectale_uid197161/NC_021010.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Eubacterium_rectale_uid197161
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfobacca_acetoxidans_DSM_11109_uid65785/NC_015388.fna
+####### SIZE: 9884 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/9619/NC_006932.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/9619/NC_006933.gbk
+####### SIZE: 7424 KB

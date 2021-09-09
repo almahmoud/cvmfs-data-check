@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam2/picard_index/canFam2.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/canFam2/picard_index/canFam2.fa
+/cvmfs/data.galaxyproject.org/byhand/canFam2/picard_index/canFam2.dict
+/cvmfs/data.galaxyproject.org/byhand/canFam2/picard_index
+/cvmfs/data.galaxyproject.org/byhand/canFam2/bowtie2_index/canFam2.fa
+/cvmfs/data.galaxyproject.org/byhand/canFam2/bowtie2_index/canFam2.3.bt2
+####### SIZE: 334 KB

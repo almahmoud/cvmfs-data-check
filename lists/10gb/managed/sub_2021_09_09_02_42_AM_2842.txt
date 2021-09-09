@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Buchnera_aphidicola_Cc__Cinara_cedri__uid58579/NC_008513.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Buchnera_aphidicola_Cc__Cinara_cedri__uid58579
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Propionibacterium_acidipropionici_ATCC_4875_uid179069/NC_019395.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Propionibacterium_acidipropionici_ATCC_4875_uid179069
+####### SIZE: 8086 KB

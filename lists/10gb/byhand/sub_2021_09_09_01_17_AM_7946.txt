@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/tupBel1/bwa_index/tupBel1.fa
+/cvmfs/data.galaxyproject.org/byhand/tupBel1/bwa_index/tupBel1.fa.ann
+####### SIZE: 7230 KB

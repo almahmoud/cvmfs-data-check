@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/rn4/maf/chr14.maf
+####### SIZE: 7670 KB

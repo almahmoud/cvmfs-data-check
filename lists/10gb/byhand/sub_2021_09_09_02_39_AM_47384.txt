@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/calJac1/bowtie_index/calJac1.fa
+/cvmfs/data.galaxyproject.org/byhand/calJac1/bowtie_index/cs/calJac1.fa
+/cvmfs/data.galaxyproject.org/byhand/calJac1/bowtie_index/cs/calJac1.3.ebwt
+####### SIZE: 2603 KB

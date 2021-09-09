@@ -1,0 +1,14 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz46way/chrUn_gl000213.maf.lzo
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz46way/chrUn_gl000230.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz46way/chrM.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz46way/chrUn_gl000217.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz46way/chr17_gl000205_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz46way/chr8.maf.lzot
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz46way/chrX.maf.lzot
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz46way/chrUn_gl000234.maf.lzo
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz46way/chr6_apd_hap1.maf.lzot
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz46way/chr9_gl000199_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz46way/chrUn_gl000229.maf.lzot
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz46way/chrM.maf.lzot
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz46way/chrUn_gl000213.maf.index
+####### SIZE: 3413 KB

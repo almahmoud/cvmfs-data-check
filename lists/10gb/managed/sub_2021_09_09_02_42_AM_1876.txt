@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Echinicola_vietnamensis_DSM_17526_uid184076
+####### SIZE: 5560 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/Spur_v2.6/bowtie_index
+####### SIZE: 1722906 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/hg18/chr13.axt
+####### SIZE: 168318 KB

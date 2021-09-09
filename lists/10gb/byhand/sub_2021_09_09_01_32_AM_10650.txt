@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/dasNov1/bowtie_index/dasNov1.fa
+/cvmfs/data.galaxyproject.org/byhand/dasNov1/bowtie_index/cs/dasNov1.fa
+/cvmfs/data.galaxyproject.org/byhand/dasNov1/bowtie_index/cs/dasNov1.3.ebwt
+####### SIZE: 7459 KB

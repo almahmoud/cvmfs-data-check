@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/liftOver/rheMac2ToCalJac1.over.chain
+####### SIZE: 185126 KB

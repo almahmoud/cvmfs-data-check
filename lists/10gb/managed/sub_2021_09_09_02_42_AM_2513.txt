@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermobifida_fusca_YX_uid57703
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haemophilus_influenzae_86_028NP_uid58093/NC_007146.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haemophilus_influenzae_86_028NP_uid58093
+####### SIZE: 7411 KB

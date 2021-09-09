@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/rheMac1/chr10.axt
+####### SIZE: 106824 KB

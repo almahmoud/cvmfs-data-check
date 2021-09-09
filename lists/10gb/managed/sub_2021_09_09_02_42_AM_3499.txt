@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pelobacter_propionicus_DSM_2379_uid58255/NC_008609.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pelobacter_propionicus_DSM_2379_uid58255
+####### SIZE: 8178 KB

@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/259/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/259/NC_007414.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/259/NC_007414.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/259/srma_index/eschColi_EDL933.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/259/srma_index/eschColi_EDL933.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/microbes/259/srma_index/eschColi_EDL933.dict
+/cvmfs/data.galaxyproject.org/byhand/microbes/259/srma_index
+####### SIZE: 9955 KB

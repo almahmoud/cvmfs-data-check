@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droSim1/maf/chr2RHet.maf
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droSim1/maf/chr3RHet.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droSim1/maf/chr4.maf
+####### SIZE: 7115 KB

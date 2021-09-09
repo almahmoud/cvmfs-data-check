@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way/maf/chr17_gl000206_random.maf.index
+####### SIZE: 618 KB

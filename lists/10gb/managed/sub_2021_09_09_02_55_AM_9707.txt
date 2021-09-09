@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Salmonella_enterica_serovar_Typhimurium_D23580_uid86061
+####### SIZE: 4838 KB

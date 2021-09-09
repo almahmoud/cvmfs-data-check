@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactobacillus_johnsonii_NCC_533_uid58029
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Deinococcus_peraridilitoris_DSM_19664_uid183485/NC_019789.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Deinococcus_peraridilitoris_DSM_19664_uid183485/NC_019790.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Deinococcus_peraridilitoris_DSM_19664_uid183485/NC_019793.fna
+####### SIZE: 6452 KB

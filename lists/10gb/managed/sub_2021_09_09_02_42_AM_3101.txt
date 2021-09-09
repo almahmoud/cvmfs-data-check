@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Alicycliphilus_denitrificans_BC_uid49953/NC_014910.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Alicycliphilus_denitrificans_BC_uid49953
+####### SIZE: 9390 KB

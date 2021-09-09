@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Parabacteroides_distasonis_ATCC_8503_uid58301/NC_009615.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Parabacteroides_distasonis_ATCC_8503_uid58301
+####### SIZE: 9537 KB

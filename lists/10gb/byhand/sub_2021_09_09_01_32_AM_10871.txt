@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/saccEryt_NRRL_2338/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/saccEryt_NRRL_2338/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/saccEryt_NRRL_2338/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/saccEryt_NRRL_2338/saccEryt_NRRL_2338.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/saccEryt_NRRL_2338/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/saccEryt_NRRL_2338/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/saccEryt_NRRL_2338/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/saccEryt_NRRL_2338/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/saccEryt_NRRL_2338/chr.tRNA.bed
+####### SIZE: 8836 KB

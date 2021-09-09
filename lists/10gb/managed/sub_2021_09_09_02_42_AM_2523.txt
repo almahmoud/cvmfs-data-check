@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Geobacillus_thermodenitrificans_NG80_2_uid58829/NC_009328.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Geobacillus_thermodenitrificans_NG80_2_uid58829
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanobrevibacter_AbM4_uid206516/NC_021355.fna
+####### SIZE: 9076 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/bwa_index
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/liftOver/bosTau7ToBosTau4.over.chain
+####### SIZE: 7132 KB

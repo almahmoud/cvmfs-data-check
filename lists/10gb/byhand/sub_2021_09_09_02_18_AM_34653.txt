@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab2/quality_scores/chr2.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/equCab2/quality_scores/chr29.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/equCab2/quality_scores/chr6.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/equCab2/quality_scores/chr1.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/equCab2/quality_scores/chr13.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/equCab2/quality_scores/chr27.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/equCab2/quality_scores/chr24.qa.bqv
+####### SIZE: 9376 KB

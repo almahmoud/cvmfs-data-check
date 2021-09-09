@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/rn5/liftOver/rn5ToRn4.over.chain
+####### SIZE: 16569 KB

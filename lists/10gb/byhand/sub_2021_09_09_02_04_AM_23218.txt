@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/ce4/align/priPac1/chrI.axt
+/cvmfs/data.galaxyproject.org/byhand/ce4/align/priPac1/chrII.axt
+####### SIZE: 7067 KB

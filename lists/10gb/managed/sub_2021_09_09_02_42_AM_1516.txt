@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_selenitireducens_MLS10_uid49513
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Plautia_stali_symbiont_uid65033/NC_022534.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Plautia_stali_symbiont_uid65033/NC_022533.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Plautia_stali_symbiont_uid65033/NC_022546.fna
+####### SIZE: 7619 KB

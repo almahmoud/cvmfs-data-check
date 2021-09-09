@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_rhodesiae_NBB3_uid75107
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_arthritidis_158L3_1_uid58005/NC_011025.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_arthritidis_158L3_1_uid58005
+####### SIZE: 7991 KB

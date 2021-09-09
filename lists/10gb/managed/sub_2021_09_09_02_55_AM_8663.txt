@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shewanella_baltica_OS223_uid58775
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sulfurospirillum_barnesii_SES_3_uid168117/NC_018002.fna
+####### SIZE: 7801 KB

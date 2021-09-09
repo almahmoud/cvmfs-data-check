@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermofilum_pendens_Hrk_5_uid58563
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_pseudomallei_K96243_uid57733/NC_006350.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_pseudomallei_K96243_uid57733/NC_006351.fna
+####### SIZE: 8981 KB

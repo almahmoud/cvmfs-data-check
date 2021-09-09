@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ralstonia_pickettii_12J_uid58737
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sulfurihydrogenibium_azorense_Az_Fu1_uid58121/NC_012438.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sulfurihydrogenibium_azorense_Az_Fu1_uid58121
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Helicobacter_pylori_Aklavik86_uid182202/NC_019564.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Helicobacter_pylori_Aklavik86_uid182202/NC_019565.fna
+####### SIZE: 8552 KB

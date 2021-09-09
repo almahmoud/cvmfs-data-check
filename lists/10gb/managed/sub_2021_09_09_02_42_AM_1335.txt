@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Comamonas_testosteroni_CNB_2_uid62961/NC_013446.fna
+####### SIZE: 5323 KB

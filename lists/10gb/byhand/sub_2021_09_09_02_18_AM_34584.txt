@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab2/tmp/chr24.fa
+####### SIZE: 46568 KB

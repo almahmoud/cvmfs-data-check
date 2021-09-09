@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/cerSim1
+####### SIZE: 4212592 KB

@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer5/picard_index/danRer5.fa
+/cvmfs/data.galaxyproject.org/byhand/danRer5/picard_index/danRer5.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/danRer5/picard_index/danRer5.dict
+/cvmfs/data.galaxyproject.org/byhand/danRer5/picard_index
+/cvmfs/data.galaxyproject.org/byhand/danRer5/quality_scores
+####### SIZE: 17 KB

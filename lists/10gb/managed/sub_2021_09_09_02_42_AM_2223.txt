@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Corynebacterium_diphtheriae_PW8_uid84303
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Escherichia_coli_KO11FL_uid52593/NC_016904.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Escherichia_coli_KO11FL_uid52593/NC_016903.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Escherichia_coli_KO11FL_uid52593/NC_016902.fna
+####### SIZE: 7495 KB

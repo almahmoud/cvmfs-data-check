@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/rn5/bwa_index/rn5.fa
+/cvmfs/data.galaxyproject.org/byhand/rn5/bwa_index/rn5.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/rn5/bwa_index/rn5.fa.amb
+####### SIZE: 4044 KB

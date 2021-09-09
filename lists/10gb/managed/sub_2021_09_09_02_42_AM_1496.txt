@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudomonas_aeruginosa_RP73_uid209328/NC_021577.fna
+####### SIZE: 6282 KB

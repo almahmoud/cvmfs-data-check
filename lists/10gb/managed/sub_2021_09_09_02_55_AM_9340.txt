@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_RPE64_uid205541
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_trachomatis_A_5291_uid196770/NC_020946.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_trachomatis_A_5291_uid196770/NC_020939.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_trachomatis_A_5291_uid196770
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leuconostoc_kimchii_IMSNU_11154_uid48589/NC_014134.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leuconostoc_kimchii_IMSNU_11154_uid48589/NC_014131.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leuconostoc_kimchii_IMSNU_11154_uid48589/NC_014132.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leuconostoc_kimchii_IMSNU_11154_uid48589/NC_014135.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leuconostoc_kimchii_IMSNU_11154_uid48589/NC_014133.fna
+####### SIZE: 9096 KB

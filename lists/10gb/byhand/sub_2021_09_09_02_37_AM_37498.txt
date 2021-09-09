@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/aplCal1/bowtie_index/aplCal1.2.ebwt
+####### SIZE: 75590 KB

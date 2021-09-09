@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/ornAna1/maf/chr14.maf
+####### SIZE: 18255 KB

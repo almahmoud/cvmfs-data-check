@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/calJac3/maf/chr5.maf
+####### SIZE: 271903 KB

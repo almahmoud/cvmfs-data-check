@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/seq/chrI.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/seq/chrII.nib
+####### SIZE: 3463 KB

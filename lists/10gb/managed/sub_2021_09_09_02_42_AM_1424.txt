@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Brucella_canis_HSK_A52141_uid83613/NC_016796.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Brucella_canis_HSK_A52141_uid83613/NC_016778.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Brucella_canis_HSK_A52141_uid83613
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_pneumoniae_INV200_uid162035/NC_017593.fna
+####### SIZE: 8574 KB

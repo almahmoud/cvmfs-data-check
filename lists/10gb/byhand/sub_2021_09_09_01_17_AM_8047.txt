@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/lengths/echTel1
+/cvmfs/data.galaxyproject.org/byhand/lengths/pteVam1
+/cvmfs/data.galaxyproject.org/byhand/lengths/ponAbe2
+/cvmfs/data.galaxyproject.org/byhand/lengths/macEug1
+/cvmfs/data.galaxyproject.org/byhand/lengths/petMar1
+####### SIZE: 8431 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/monDom4/maf/chr2.maf
+####### SIZE: 46170 KB

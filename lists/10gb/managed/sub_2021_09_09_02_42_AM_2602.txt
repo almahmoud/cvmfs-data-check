@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Alteromonas_macleodii__Balearic_Sea_AD45__uid176366/NC_018679.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Alteromonas_macleodii__Balearic_Sea_AD45__uid176366
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Escherichia_coli_O127_H6_E2348_69_uid59343/NC_011603.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Escherichia_coli_O127_H6_E2348_69_uid59343/NC_011602.fna
+####### SIZE: 9327 KB

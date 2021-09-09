@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/align/dm2/maf/chr3R.maf.index
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/align/dm2/maf/chrM.maf.index
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/align/dm2/maf/chrX.maf.index
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/align/dm2/maf/chr2R.maf.index
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/align/dm2/maf/chr2L.maf.index
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/align/dm2/maf/chrU.maf.index
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/align/dm2/maf/chrM.maf
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/align/dm2/maf/chr3L.maf.index
+####### SIZE: 911 KB

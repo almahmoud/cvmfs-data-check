@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/dipOrd1/chrUn_gl000247.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/dipOrd1/chr6_mann_hap4.axt
+####### SIZE: 2141 KB

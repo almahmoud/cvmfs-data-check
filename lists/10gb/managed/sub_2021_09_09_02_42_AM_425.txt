@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/Amel_4.5/Amel_4.5.fa
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/Amel_4.5/Amel_4.5.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/Amel_4.5/Amel_4.5.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/Amel_4.5/Amel_4.5.3.ht2
+####### SIZE: 162 KB

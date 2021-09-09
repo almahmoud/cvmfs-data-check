@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/liftOver/ponAbe2ToPanTro2.over.chain
+####### SIZE: 107306 KB

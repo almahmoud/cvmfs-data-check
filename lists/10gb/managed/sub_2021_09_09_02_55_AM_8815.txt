@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_pyogenes_HSC5_uid212978
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leptolyngbya_PCC_7376_uid182928/NC_019683.fna
+####### SIZE: 6884 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Stigmatella_aurantiaca_DW4_3_1_uid158509/NC_014623.fna
+####### SIZE: 10164 KB

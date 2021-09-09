@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leisingera_methylohalidivorans_DSM_14336_uid232356/NC_023135.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leisingera_methylohalidivorans_DSM_14336_uid232356
+####### SIZE: 8719 KB

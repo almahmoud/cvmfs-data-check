@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.31.nsq
+####### SIZE: 549108 KB

@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cronobacter_sakazakii_Sp291_uid189241
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cylindrospermum_stagnale_PCC_7417_uid183111/NC_019744.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cylindrospermum_stagnale_PCC_7417_uid183111/NC_020050.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cylindrospermum_stagnale_PCC_7417_uid183111/NC_019758.fna
+####### SIZE: 5084 KB

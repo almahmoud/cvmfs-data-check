@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTau1/seq
+####### SIZE: 2958064 KB

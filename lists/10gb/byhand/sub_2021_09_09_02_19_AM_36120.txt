@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/rmsk/Ultra336.fa.align
+####### SIZE: 21243 KB

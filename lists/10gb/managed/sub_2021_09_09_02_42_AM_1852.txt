@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Paenibacillus_polymyxa_SC2_uid59583
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfobacterium_autotrophicum_HRM2_uid59061/NC_012109.fna
+####### SIZE: 6257 KB

@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nostoc_PCC_7107_uid182932
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Prevotella_dentalis_DSM_3688_uid184818/NC_019961.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Prevotella_dentalis_DSM_3688_uid184818/NC_019969.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Prevotella_dentalis_DSM_3688_uid184818/NC_019960.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Prevotella_dentalis_DSM_3688_uid184818/NC_019968.fna
+####### SIZE: 9595 KB

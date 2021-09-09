@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/xenTro1/chr19.axt
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/xenTro1/chr9_random.idx
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/xenTro1/chr17.axt
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/xenTro1/chr19_random.axt
+####### SIZE: 9544 KB

@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aminobacterium_colombiense_DSM_12261_uid47083
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Vibrio_cholerae_M66_2_uid59355/NC_012580.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Vibrio_cholerae_M66_2_uid59355/NC_012578.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Vibrio_cholerae_M66_2_uid59355
+####### SIZE: 9777 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/nib/chr21.nib
+####### SIZE: 22923 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_multivorans_ATCC_17616_uid58909/NC_010805.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_multivorans_ATCC_17616_uid58909/NC_010804.fna
+####### SIZE: 5866 KB

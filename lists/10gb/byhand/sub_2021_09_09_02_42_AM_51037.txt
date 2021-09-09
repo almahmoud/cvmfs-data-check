@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/customProDB/omicron-data.duckdns.org/customProDB/ensembl/xtropicalis-may2017/exon_anno.RData
+/cvmfs/data.galaxyproject.org/byhand/customProDB/omicron-data.duckdns.org/customProDB/ensembl/xtropicalis-may2017/ids.RData
+####### SIZE: 5698 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Erwinia_billingiae_Eb661_uid50547
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_oligofermentans_AS_1_3089_uid201429/NC_021175.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_oligofermentans_AS_1_3089_uid201429
+####### SIZE: 9576 KB

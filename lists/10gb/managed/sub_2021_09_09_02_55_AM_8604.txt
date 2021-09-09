@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bradyrhizobium_S23321_uid158167
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodopseudomonas_palustris_CGA009_uid62901/NC_005297.fna
+####### SIZE: 7177 KB

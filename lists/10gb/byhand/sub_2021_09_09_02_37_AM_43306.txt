@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/dipOrd1/bwa_index
+####### SIZE: 3176586 KB

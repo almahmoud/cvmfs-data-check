@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/386/bwa_index
+/cvmfs/data.galaxyproject.org/byhand/microbes/386/NC_008463.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/386/bowtie_index/cs/pseuAeru_UCBPP_PA14.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/386/bowtie_index/cs/pseuAeru_UCBPP_PA14.3.ebwt
+####### SIZE: 9820 KB

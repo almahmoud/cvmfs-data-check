@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/bosTauMd3
+####### SIZE: 4548687 KB

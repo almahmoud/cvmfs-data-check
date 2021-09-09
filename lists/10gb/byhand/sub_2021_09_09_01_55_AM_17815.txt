@@ -1,0 +1,27 @@
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr9.nib
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr2.nib
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr22.nib
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr28.nib
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr13.nib
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr19.nib
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr34.nib
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr24.nib
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr15.nib
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr23.nib
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr11.nib
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr32.nib
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr30.nib
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr25.nib
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr6.nib
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr4.nib
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr21.nib
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr31.nib
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr10.nib
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr7.nib
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr33.nib
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr1.nib
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr17.nib
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr12.nib
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr3.nib
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr26.nib
+####### SIZE: 9777 KB

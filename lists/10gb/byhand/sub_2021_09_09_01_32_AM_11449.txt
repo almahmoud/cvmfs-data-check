@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/novoArom_DSM12444/chr.gbk
+####### SIZE: 8537 KB

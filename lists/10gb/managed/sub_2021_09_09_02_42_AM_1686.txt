@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Herpetosiphon_aurantiacus_DSM_785_uid58599/NC_009972.fna
+####### SIZE: 6287 KB

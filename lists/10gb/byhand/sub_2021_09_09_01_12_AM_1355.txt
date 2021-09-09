@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/equCab2/chrUn_gl000247.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/equCab2/chr6_qbl_hap6.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/equCab2/chr1_gl000191_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/equCab2/chrUn_gl000222.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/equCab2/chrUn_gl000221.axt
+####### SIZE: 5377 KB

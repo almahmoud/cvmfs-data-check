@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haloferax_volcanii_DS2_uid46845/NC_013964.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haloferax_volcanii_DS2_uid46845/NC_013966.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haloferax_volcanii_DS2_uid46845/NC_013965.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haloferax_volcanii_DS2_uid46845/NC_013968.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haloferax_volcanii_DS2_uid46845/NC_013967.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haloferax_volcanii_DS2_uid46845
+####### SIZE: 7958 KB

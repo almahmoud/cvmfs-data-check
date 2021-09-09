@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/13920/NC_007969.gbk
+####### SIZE: 6659 KB

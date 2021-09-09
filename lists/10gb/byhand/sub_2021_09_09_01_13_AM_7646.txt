@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro1/liftOver/panTro1ToHg18.over.chain
+####### SIZE: 49243 KB

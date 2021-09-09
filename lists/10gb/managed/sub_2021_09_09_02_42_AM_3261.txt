@@ -1,0 +1,15 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_tuberculosis_Haarlem3_NITR202_uid202216/NC_021192.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_tuberculosis_Haarlem3_NITR202_uid202216
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_valaisiana_VS116_uid54823/NC_012169.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_valaisiana_VS116_uid54823/NC_012128.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_valaisiana_VS116_uid54823/NC_012166.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_valaisiana_VS116_uid54823/NC_012177.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_valaisiana_VS116_uid54823/NC_012133.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_valaisiana_VS116_uid54823/NC_012130.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_valaisiana_VS116_uid54823/NC_012180.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_valaisiana_VS116_uid54823/NC_012131.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_valaisiana_VS116_uid54823/NC_012185.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_valaisiana_VS116_uid54823/NC_012129.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_valaisiana_VS116_uid54823/NC_012204.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_valaisiana_VS116_uid54823
+####### SIZE: 9431 KB

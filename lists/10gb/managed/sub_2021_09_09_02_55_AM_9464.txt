@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Paenibacillus_polymyxa_CR1_uid231659/NC_023037.fna
+####### SIZE: 5968 KB

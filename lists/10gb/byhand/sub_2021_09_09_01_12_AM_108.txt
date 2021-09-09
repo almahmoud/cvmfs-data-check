@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/tetNig1/chrUn_gl000222.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/tetNig1/chr1_gl000191_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/tetNig1/chrUn_gl000221.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/tetNig1/chr19.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/tetNig1/chr21_gl000210_random.axt
+####### SIZE: 7862 KB

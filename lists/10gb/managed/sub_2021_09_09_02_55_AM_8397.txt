@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Xanthomonas_campestris_uid61643/NC_010688.fna
+####### SIZE: 5031 KB

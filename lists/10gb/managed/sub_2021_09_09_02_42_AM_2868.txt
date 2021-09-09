@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudoxanthomonas_spadix_BD_a59_uid75113/NC_016147.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudoxanthomonas_spadix_BD_a59_uid75113
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Spiribacter_UAH_SP71_uid226111/NC_022664.fna
+####### SIZE: 8754 KB

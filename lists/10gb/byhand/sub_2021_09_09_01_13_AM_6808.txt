@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/droGri2/bowtie_index/cs/droGri2.fa
+/cvmfs/data.galaxyproject.org/byhand/droGri2/bowtie_index/cs/droGri2.3.ebwt
+####### SIZE: 214 KB

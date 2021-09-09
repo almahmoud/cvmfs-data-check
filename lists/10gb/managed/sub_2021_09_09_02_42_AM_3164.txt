@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Salmonella_enterica_serovar_Bareilly_CFSAN000189_uid212971/NC_021844.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Salmonella_enterica_serovar_Bareilly_CFSAN000189_uid212971
+####### SIZE: 9455 KB

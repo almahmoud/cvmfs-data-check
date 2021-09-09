@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptomyces_venezuelae_ATCC_10712_uid177080
+####### SIZE: 8153 KB

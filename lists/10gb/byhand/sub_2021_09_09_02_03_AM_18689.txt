@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/canFam2/chr9.axt
+####### SIZE: 108164 KB

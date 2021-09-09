@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/gasAcu1/quality_scores/chrVI.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/gasAcu1/quality_scores/chrUn.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/gasAcu1/quality_scores/chrXX.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/gasAcu1/quality_scores/chrXI.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/gasAcu1/quality_scores/chrXIX.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/gasAcu1/quality_scores/chrXII.qa.bqv
+####### SIZE: 9778 KB

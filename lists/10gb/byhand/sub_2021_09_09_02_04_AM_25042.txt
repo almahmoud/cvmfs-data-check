@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/monDom4/sam_index/monDom4.fa
+/cvmfs/data.galaxyproject.org/byhand/monDom4/sam_index/monDom4.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/monDom4/sam_index
+####### SIZE: 8 KB

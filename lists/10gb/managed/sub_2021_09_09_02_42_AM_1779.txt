@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanosarcina_mazei_Tuc01_uid190185/NC_020389.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanosarcina_mazei_Tuc01_uid190185
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Crinalium_epipsammum_PCC_9333_uid183113/NC_019755.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Crinalium_epipsammum_PCC_9333_uid183113/NC_019733.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Crinalium_epipsammum_PCC_9333_uid183113/NC_019737.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Crinalium_epipsammum_PCC_9333_uid183113/NC_019756.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Crinalium_epipsammum_PCC_9333_uid183113/NC_019734.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Crinalium_epipsammum_PCC_9333_uid183113/NC_019736.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Crinalium_epipsammum_PCC_9333_uid183113/NC_019754.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Crinalium_epipsammum_PCC_9333_uid183113/NC_019735.fna
+####### SIZE: 7103 KB

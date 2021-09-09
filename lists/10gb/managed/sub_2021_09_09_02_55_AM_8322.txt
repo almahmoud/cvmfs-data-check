@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ralstonia_solanacearum_CFBP2957_uid50545
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nitrosomonas_AL212_uid55727/NC_015221.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nitrosomonas_AL212_uid55727/NC_015223.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nitrosomonas_AL212_uid55727/NC_015222.fna
+####### SIZE: 8840 KB

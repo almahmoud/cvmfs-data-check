@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/mm9/chrUn_gl000239.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/mm9/chr6_apd_hap1.axt
+####### SIZE: 1307 KB

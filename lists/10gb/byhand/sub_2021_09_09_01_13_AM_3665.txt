@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/fr1/chr7.axt
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/fr1/chr10_random.axt
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/fr1/chrM.axt
+####### SIZE: 9357 KB

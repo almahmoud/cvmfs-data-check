@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/27835/sam_index/27835.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/27835/sam_index/27835.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/microbes/27835/sam_index
+/cvmfs/data.galaxyproject.org/byhand/microbes/27835/picard_index/27835.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/microbes/27835/picard_index/27835.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/27835/picard_index/27835.dict
+/cvmfs/data.galaxyproject.org/byhand/microbes/27835/picard_index
+/cvmfs/data.galaxyproject.org/byhand/microbes/27835/seq/27835.2bit
+/cvmfs/data.galaxyproject.org/byhand/microbes/27835/seq/NC_010296.nib
+####### SIZE: 4297 KB

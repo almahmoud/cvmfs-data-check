@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/galGal2/chr11.axt
+####### SIZE: 12047 KB

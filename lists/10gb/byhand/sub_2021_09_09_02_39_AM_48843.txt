@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/danRer3/old
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/danRer3/chr7_random.idx
+####### SIZE: 8835 KB

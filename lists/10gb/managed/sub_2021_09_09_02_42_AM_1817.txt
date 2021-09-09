@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Alteromonas_macleodii__Aegean_Sea_MED64__uid231689
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Carnobacterium_maltaromaticum_LMA28_uid179370/NC_019425.fna
+####### SIZE: 7977 KB

@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/quality_scores/chr3_random.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/panTro2/quality_scores/chr2a_random.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/panTro2/quality_scores/chr17_random.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/panTro2/quality_scores/chr20.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/panTro2/quality_scores/chr12_random.qa.bqv
+####### SIZE: 9103 KB

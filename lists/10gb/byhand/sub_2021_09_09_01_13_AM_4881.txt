@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/felCat3/chr5_h2_hap1.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/felCat3/chr9_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/felCat3/chr4_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/felCat3/chr15_random.axt
+####### SIZE: 2137 KB

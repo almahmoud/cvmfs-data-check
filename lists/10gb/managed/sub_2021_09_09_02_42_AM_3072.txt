@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Marinomonas_mediterranea_MMB_1_uid64753/NC_015276.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Marinomonas_mediterranea_MMB_1_uid64753
+####### SIZE: 9285 KB

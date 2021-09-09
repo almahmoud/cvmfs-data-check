@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/customProDB/omicron-data.duckdns.org/customProDB/ensembl/mmurinus-jul2016
+####### SIZE: 16684 KB

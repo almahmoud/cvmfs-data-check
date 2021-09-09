@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.170.nhd
+####### SIZE: 10238 KB

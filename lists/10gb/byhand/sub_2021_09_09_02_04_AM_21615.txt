@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/felCat4/sam_index/felCat4full.fa
+/cvmfs/data.galaxyproject.org/byhand/felCat4/sam_index/felCat4full.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/felCat4/sam_index
+/cvmfs/data.galaxyproject.org/byhand/felCat4/picard_index/felCat4full.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/felCat4/picard_index/felCat4full.fa
+####### SIZE: 8314 KB

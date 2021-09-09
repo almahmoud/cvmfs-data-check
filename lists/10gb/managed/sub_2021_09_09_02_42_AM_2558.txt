@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Serratia_plymuthica_S13_uid210642/NC_021659.fna
+####### SIZE: 5416 KB

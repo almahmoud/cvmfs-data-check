@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/macEug1/chrUn_gl000249.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/macEug1/chrM.axt
+####### SIZE: 35 KB

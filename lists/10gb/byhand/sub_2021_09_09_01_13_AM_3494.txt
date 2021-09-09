@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/tetNig1full/bowtie_index/cs/tetNig1full.2.ebwt
+####### SIZE: 38129 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacteroides_helcogenes_P_36_108_uid62135/NC_014933.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacteroides_helcogenes_P_36_108_uid62135
+####### SIZE: 7928 KB

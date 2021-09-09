@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/ce2/nib/chrIV.nib
+/cvmfs/data.galaxyproject.org/byhand/ce2/nib/chrM.nib
+####### SIZE: 8549 KB

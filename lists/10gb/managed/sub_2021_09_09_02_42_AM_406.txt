@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/susScr3/susScr3.1.ht2
+####### SIZE: 711218 KB

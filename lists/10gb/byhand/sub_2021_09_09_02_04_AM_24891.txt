@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/gasAcu1/quality_scores/gasAcu1.quals.fa
+####### SIZE: 1339678 KB

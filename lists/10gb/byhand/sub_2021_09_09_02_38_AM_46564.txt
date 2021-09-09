@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.114.nog
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.24.nhi
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.162.nhi
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.63.nog
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.81.nsi
+####### SIZE: 3346 KB

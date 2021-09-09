@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Brachybacterium_faecium_DSM_4810_uid58649
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_thermophilus_CNRZ1066_uid58221/NC_006449.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_thermophilus_CNRZ1066_uid58221
+####### SIZE: 7150 KB

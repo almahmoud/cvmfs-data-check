@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro1/align/hg16/chr6.axt
+####### SIZE: 253650 KB

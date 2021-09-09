@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/ci2/sam_index/ci2full.fa
+/cvmfs/data.galaxyproject.org/byhand/ci2/sam_index/ci2full.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/ci2/sam_index
+/cvmfs/data.galaxyproject.org/byhand/ci2/ci2full/bwa_index/ci2full.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/ci2/ci2full/bwa_index/ci2full.fa.ann
+####### SIZE: 816 KB

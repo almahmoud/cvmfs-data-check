@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/galGal3/maf/chr13_random.maf
+####### SIZE: 36 KB

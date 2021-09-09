@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudomonas_aeruginosa_PA1R_uid228932
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halobacterium_NRC_1_uid57769/NC_002608.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halobacterium_NRC_1_uid57769/NC_001869.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halobacterium_NRC_1_uid57769/NC_002607.fna
+####### SIZE: 8804 KB

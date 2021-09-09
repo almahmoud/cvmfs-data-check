@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/customProDB/omicron-data.duckdns.org/customProDB/ensembl/hsapiens-feb2014/old/exon_anno.RData
+####### SIZE: 17917 KB

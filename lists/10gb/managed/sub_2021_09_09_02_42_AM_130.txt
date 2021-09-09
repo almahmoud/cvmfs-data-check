@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/aptMan1/aptMan1.2.ht2
+####### SIZE: 320073 KB

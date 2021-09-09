@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Synechocystis_PCC_6803_substr__GT_I_uid158059
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Blattabacterium__Periplaneta_americana__BPLAN_uid41287/NC_013418.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Blattabacterium__Periplaneta_americana__BPLAN_uid41287/NC_013419.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Blattabacterium__Periplaneta_americana__BPLAN_uid41287
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_pneumoniae_Taiwan19F_14_uid59119/NC_012469.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_pneumoniae_Taiwan19F_14_uid59119
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_aureus_ST398_uid159247/NC_017336.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_aureus_ST398_uid159247/NC_017334.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_aureus_ST398_uid159247/NC_017335.fna
+####### SIZE: 9022 KB

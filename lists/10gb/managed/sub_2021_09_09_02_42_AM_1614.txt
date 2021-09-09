@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Weissella_koreensis_KACC_15510_uid68837/NC_015759.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Weissella_koreensis_KACC_15510_uid68837
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanobrevibacter_smithii_ATCC_35061_uid58827/NC_009515.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanobrevibacter_smithii_ATCC_35061_uid58827
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Hydrogenobaculum_HO_uid190882/NC_020411.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Hydrogenobaculum_HO_uid190882
+####### SIZE: 9602 KB

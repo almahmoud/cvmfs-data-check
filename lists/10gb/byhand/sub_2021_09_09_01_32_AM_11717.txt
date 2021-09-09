@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/16871
+/cvmfs/data.galaxyproject.org/byhand/microbes/18801/seq/NC_009641.nib
+####### SIZE: 9219 KB

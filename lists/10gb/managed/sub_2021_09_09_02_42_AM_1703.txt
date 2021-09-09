@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactobacillus_buchneri_NRRL_B_30929_uid66205
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Edwardsiella_tarda_EIB202_uid41819/NC_013509.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Edwardsiella_tarda_EIB202_uid41819/NC_013508.fna
+####### SIZE: 6339 KB

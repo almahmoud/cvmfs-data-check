@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ehrlichia_ruminantium_Welgevonden_uid58243/NC_006832.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ehrlichia_ruminantium_Welgevonden_uid58243
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Klebsiella_oxytoca_KCTC_1686_uid83159/NC_016612.fna
+####### SIZE: 8921 KB

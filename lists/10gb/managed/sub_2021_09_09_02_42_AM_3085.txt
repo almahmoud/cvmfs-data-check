@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bartonella_clarridgeiae_73_uid62131
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_constellatus_pharyngis_C818_uid218001/NC_022245.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_constellatus_pharyngis_C818_uid218001
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermotoga_lettingae_TMO_uid58419/NC_009828.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermotoga_lettingae_TMO_uid58419
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haloarcula_marismortui_ATCC_43049_uid57719/NC_006395.fna
+####### SIZE: 9996 KB

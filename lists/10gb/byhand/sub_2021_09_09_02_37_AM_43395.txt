@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer2/chrom/chr21.fa
+####### SIZE: 40690 KB

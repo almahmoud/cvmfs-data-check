@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/bwa_index/burkPseu_1106A.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/bwa_index/burkPseu_1106A.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/bwa_index/burkPseu_1106A.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/bwa_index/burkPseu_1106A.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/bwa_index/burkPseu_1106A.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/bwa_index/burkPseu_1106A.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/bwa_index/burkPseu_1106A.fa.pac
+####### SIZE: 7793 KB

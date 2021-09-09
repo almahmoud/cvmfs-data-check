@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Salmonella_enterica_serovar_Typhimurium_798_uid158047/NC_017046.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Salmonella_enterica_serovar_Typhimurium_798_uid158047
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Salmonella_enterica_serovar_Agona_SL483_uid59431/NC_011148.fna
+####### SIZE: 9798 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/panTro1/chr12.axt
+####### SIZE: 102651 KB

@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/hg19/hg19chrX/dataset_7695a11f-c9d6-4ed1-bab3-e195e057f2d4_files/chrLength.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/hg19/hg19chrX/dataset_7695a11f-c9d6-4ed1-bab3-e195e057f2d4_files/chrStart.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/hg19/hg19chrX/dataset_7695a11f-c9d6-4ed1-bab3-e195e057f2d4_files/chrName.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/hg19/hg19chrX/dataset_7695a11f-c9d6-4ed1-bab3-e195e057f2d4_files/genomeParameters.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/hg19/hg19chrX/dataset_7695a11f-c9d6-4ed1-bab3-e195e057f2d4_files/chrNameLength.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/hg19/hg19chrX/dataset_7695a11f-c9d6-4ed1-bab3-e195e057f2d4_files/Log.out
+####### SIZE: 10 KB

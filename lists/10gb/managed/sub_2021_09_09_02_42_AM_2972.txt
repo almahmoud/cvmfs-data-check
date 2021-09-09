@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_thuringiensis_Al_Hakam_uid58795
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Riesia_pediculicola_USDA_uid46841/NC_013962.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Riesia_pediculicola_USDA_uid46841/NC_014109.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Riesia_pediculicola_USDA_uid46841
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_trachomatis_D_SotonD5_uid196773/NC_020958.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_trachomatis_D_SotonD5_uid196773/NC_020943.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_trachomatis_D_SotonD5_uid196773
+####### SIZE: 8514 KB

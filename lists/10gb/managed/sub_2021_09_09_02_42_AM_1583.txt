@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Sulcia_muelleri_Sulcia_ALF_uid214083/NC_021916.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Sulcia_muelleri_Sulcia_ALF_uid214083
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Prochlorococcus_marinus_NATL1A_uid58423/NC_008819.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Prochlorococcus_marinus_NATL1A_uid58423
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_subtilis_XF_1_uid189187/NC_020244.fna
+####### SIZE: 8107 KB

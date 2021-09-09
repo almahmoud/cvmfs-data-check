@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Corynebacterium_diphtheriae_INCA_402_uid83605
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gallionella_capsiferriformans_ES_2_uid51505/NC_014394.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gallionella_capsiferriformans_ES_2_uid51505
+####### SIZE: 8702 KB

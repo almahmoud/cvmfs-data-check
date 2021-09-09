@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Neisseria_gonorrhoeae_FA_1090_uid57611
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Salmonella_bongori_NCTC_12419_uid70155/NC_015761.fna
+####### SIZE: 6557 KB

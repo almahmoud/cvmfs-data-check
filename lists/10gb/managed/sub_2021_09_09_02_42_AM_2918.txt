@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cellvibrio_japonicus_Ueda107_uid59139
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mannheimia_haemolytica_USDA_ARS_USMARC_183_uid195458/NC_020833.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mannheimia_haemolytica_USDA_ARS_USMARC_183_uid195458
+####### SIZE: 9810 KB

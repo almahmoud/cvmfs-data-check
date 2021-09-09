@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg16/align/mm6/maf/chr18.maf
+####### SIZE: 62610 KB

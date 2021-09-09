@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/liftOver/hg19ToPapHam1.over.chain
+####### SIZE: 123303 KB

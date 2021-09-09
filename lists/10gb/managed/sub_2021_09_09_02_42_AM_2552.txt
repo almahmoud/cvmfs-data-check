@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pyrobaculum_aerophilum_IM2_uid57727/NC_003364.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pyrobaculum_aerophilum_IM2_uid57727
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacteroides_fragilis_YCH46_uid58195/NC_006297.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacteroides_fragilis_YCH46_uid58195/NC_006347.fna
+####### SIZE: 9670 KB

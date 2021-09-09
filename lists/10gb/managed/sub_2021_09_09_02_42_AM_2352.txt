@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudonocardia_dioxanivorans_CB1190_uid65087/NC_015312.fna
+####### SIZE: 7030 KB

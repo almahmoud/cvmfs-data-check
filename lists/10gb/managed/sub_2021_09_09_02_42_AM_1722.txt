@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mannheimia_haemolytica_D174_uid212305
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Campylobacter_coli_76339_uid217050/NC_022132.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Campylobacter_coli_76339_uid217050
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_amyloliquefaciens_plantarum_UCMB5113_uid215236/NC_022081.fna
+####### SIZE: 9680 KB

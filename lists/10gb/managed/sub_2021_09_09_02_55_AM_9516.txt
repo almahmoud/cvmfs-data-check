@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Roseobacter_litoralis_Och_149_uid54719/NC_015730.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Roseobacter_litoralis_Och_149_uid54719
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gallibacterium_anatis_UMN179_uid66567/NC_015461.fna
+####### SIZE: 9177 KB

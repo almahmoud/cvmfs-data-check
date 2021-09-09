@@ -1,0 +1,13 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/streCoel/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/streCoel/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/streCoel/plasmid_SCP2.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/streCoel/plasmid_SCP2.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/streCoel/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/streCoel/plasmid_SCP1.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/streCoel/plasmid_SCP1.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/streCoel/plasmid_SCP2.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/streCoel/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/streCoel/plasmid_SCP1.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/streCoel/plasmid_SCP2.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/streCoel/streCoel.info
+####### SIZE: 9760 KB

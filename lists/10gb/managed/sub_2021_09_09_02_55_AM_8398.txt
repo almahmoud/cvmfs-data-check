@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Xanthomonas_campestris_uid61643
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ehrlichia_chaffeensis_Arkansas_uid57933/NC_007799.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ehrlichia_chaffeensis_Arkansas_uid57933
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bifidobacterium_animalis_lactis_V9_uid158865/NC_017217.fna
+####### SIZE: 9298 KB

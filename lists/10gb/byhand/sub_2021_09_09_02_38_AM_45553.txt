@@ -1,0 +1,16 @@
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/sam_index/hg_g1k_v37.fa
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/sam_index/hg_g1k_v37.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/sam_index
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/download/20140402_SAM_hg_g1k_v37/sam_index/hg_g1k_v37.fa
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/download/20140402_SAM_hg_g1k_v37/sam_index/hg_g1k_v37.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/download/20140402_SAM_hg_g1k_v37/sam_index
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/download/20140402_SAM_hg_g1k_v37/20140226_README_hg_g1k_v37
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/download/20140402_SAM_hg_g1k_v37
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/download
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/picard_index/hg_g1k_v37.fa
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/picard_index/hg_g1k_v37.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/picard_index/hg_g1k_v37.dict
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/picard_index
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/bowtie2_index/hg_g1k_v37.fa
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/bowtie2_index/hg_g1k_v37.3.bt2
+####### SIZE: 108 KB

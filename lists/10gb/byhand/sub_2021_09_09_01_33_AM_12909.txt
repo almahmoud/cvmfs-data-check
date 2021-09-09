@@ -1,0 +1,15 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/bdelBact/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/bdelBact/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/bdelBact/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/bdelBact/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/bdelBact/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/bdelBact/chr.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/bdelBact/chr.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/bdelBact/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/bdelBact/bdelBact.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/bdelBact/chr.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/bdelBact/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/bdelBact/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/bdelBact/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/bdelBact/chr.fna
+####### SIZE: 9302 KB

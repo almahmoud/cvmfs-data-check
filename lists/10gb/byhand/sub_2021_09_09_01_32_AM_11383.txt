@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/ente638/seq/original
+/cvmfs/data.galaxyproject.org/byhand/microbes/ente638/seq/plasmid_pENTE01.nib
+####### SIZE: 9348 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/oryCun2/liftOver/oryCun2ToMonDom5.over.chain
+####### SIZE: 39212 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Salmonella_enterica_arizonae_serovar_62_z4_z23__uid58191/NC_010067.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Salmonella_enterica_arizonae_serovar_62_z4_z23__uid58191
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanocaldococcus_FS406_22_uid42499/NC_013888.fna
+####### SIZE: 9133 KB

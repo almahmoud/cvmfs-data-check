@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/droSim1/bowtie_index/droSim1.rev.2.ebwt
+####### SIZE: 15534 KB

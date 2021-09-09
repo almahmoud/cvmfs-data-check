@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactococcus_lactis_cremoris_NZ9000_uid167481/NC_017949.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactococcus_lactis_cremoris_NZ9000_uid167481
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halobacillus_halophilus_DSM_2266_uid162033/NC_017670.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halobacillus_halophilus_DSM_2266_uid162033/NC_017668.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halobacillus_halophilus_DSM_2266_uid162033/NC_017669.fna
+####### SIZE: 9150 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ruminococcus_albus_7_uid51721
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactobacillus_rhamnosus_LOCK900_uid210957/NC_021723.fna
+####### SIZE: 7303 KB

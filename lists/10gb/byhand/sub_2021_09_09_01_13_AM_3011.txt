@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/liftOver/hg19ToBosTau6.over.chain
+####### SIZE: 266231 KB

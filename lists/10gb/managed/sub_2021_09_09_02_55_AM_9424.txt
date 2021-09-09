@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gardnerella_vaginalis_HMP9231_uid162045/NC_017456.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gardnerella_vaginalis_HMP9231_uid162045
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Paenibacillus_larvae_04_309_uid232355/NC_023147.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Paenibacillus_larvae_04_309_uid232355/NC_023134.fna
+####### SIZE: 7445 KB

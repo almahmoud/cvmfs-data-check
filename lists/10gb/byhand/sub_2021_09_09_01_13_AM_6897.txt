@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/caeJap3/picard_index
+/cvmfs/data.galaxyproject.org/byhand/caeJap3/bowtie2_index/caeJap3.fa
+/cvmfs/data.galaxyproject.org/byhand/caeJap3/bowtie2_index/caeJap3.3.bt2
+####### SIZE: 6015 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodospirillum_centenum_SW_uid58805/NC_011420.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodospirillum_centenum_SW_uid58805
+####### SIZE: 8634 KB

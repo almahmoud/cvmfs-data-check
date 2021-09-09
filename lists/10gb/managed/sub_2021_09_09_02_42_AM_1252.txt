@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudomonas_stutzeri_ATCC_17588___LMG_11199_uid68749/NC_015740.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudomonas_stutzeri_ATCC_17588___LMG_11199_uid68749
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanosarcina_barkeri_Fusaro_uid57715/NC_007349.fna
+####### SIZE: 9052 KB

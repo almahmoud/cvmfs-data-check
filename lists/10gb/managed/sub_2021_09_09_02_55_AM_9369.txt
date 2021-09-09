@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudoalteromonas_atlantica_T6c_uid58283/NC_008228.fna
+####### SIZE: 5138 KB

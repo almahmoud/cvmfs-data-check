@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/sacCer3/bwa_index_v0.7.10-r789/sacCer3.fa.bwt
+####### SIZE: 11873 KB

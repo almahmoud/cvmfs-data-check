@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/customProDB/omicron-data.duckdns.org/customProDB/ensembl/oaries-may2017/ids.RData
+/cvmfs/data.galaxyproject.org/byhand/customProDB/omicron-data.duckdns.org/customProDB/ensembl/oaries-may2017/exon_anno.RData
+####### SIZE: 5992 KB

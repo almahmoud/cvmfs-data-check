@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/mm6/maf/chr21.maf
+####### SIZE: 25222 KB

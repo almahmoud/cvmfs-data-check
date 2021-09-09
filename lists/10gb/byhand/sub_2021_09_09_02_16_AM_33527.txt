@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/tmp/chr16.fa
+####### SIZE: 77497 KB

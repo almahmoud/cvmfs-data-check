@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Anabaena_cylindrica_PCC_7122_uid183339
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_botulinum_B1_Okra_uid59147/NC_010379.fna
+####### SIZE: 7152 KB

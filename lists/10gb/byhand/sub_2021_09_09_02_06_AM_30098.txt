@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro3/panTro3full/bwa_index/panTro3full.fa.rbwt
+####### SIZE: 1211412 KB

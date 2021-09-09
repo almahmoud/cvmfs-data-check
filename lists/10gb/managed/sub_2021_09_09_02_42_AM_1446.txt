@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Erwinia_pyrifoliae_DSM_12163_uid159693
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pyrococcus_horikoshii_OT3_uid57753/NC_000961.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pyrococcus_horikoshii_OT3_uid57753
+####### SIZE: 7491 KB

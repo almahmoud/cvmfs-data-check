@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thiocystis_violascens_DSM_198_uid74025/NC_018012.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thiocystis_violascens_DSM_198_uid74025
+####### SIZE: 9945 KB

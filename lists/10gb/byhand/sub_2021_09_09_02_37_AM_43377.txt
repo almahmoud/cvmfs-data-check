@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer2/nib/chrNA.nib
+####### SIZE: 155419 KB

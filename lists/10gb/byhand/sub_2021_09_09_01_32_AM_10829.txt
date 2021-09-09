@@ -1,0 +1,13 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/13551
+/cvmfs/data.galaxyproject.org/byhand/microbes/hypeButy1/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/hypeButy1/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/hypeButy1/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/hypeButy1/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/hypeButy1/hypeButy1.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/hypeButy1/chr.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/hypeButy1/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/hypeButy1/chr.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/hypeButy1/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/hypeButy1/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/hypeButy1/chr.rRNA.bed
+####### SIZE: 9744 KB

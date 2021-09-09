@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Wolbachia_endosymbiont_TRS_of_Brugia_malayi_uid58107
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Corynebacterium_diphtheriae_HC01_uid84297/NC_016786.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Corynebacterium_diphtheriae_HC01_uid84297
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Actinobacillus_succinogenes_130Z_uid58247/NC_009655.fna
+####### SIZE: 8187 KB

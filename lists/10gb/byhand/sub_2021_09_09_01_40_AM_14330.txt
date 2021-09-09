@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/Araly1/bowtie_index/Araly1.fa
+/cvmfs/data.galaxyproject.org/byhand/Araly1/bowtie_index/cs/Araly1.fa
+/cvmfs/data.galaxyproject.org/byhand/Araly1/bowtie_index/cs/Araly1.3.ebwt
+####### SIZE: 35 KB

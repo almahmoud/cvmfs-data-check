@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/mm9/maf.new/chr6_cox_hap1.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/mm9/maf.new/chr22_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/mm9/maf.new/chr14.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/mm9/maf.new/chr7.maf.index
+####### SIZE: 4590 KB

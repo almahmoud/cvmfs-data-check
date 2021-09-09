@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/nomLeu3/seq
+####### SIZE: 3706048 KB

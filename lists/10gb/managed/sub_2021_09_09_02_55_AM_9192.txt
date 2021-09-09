@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermus_CCB_US3_UF1_uid81197/NC_017278.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermus_CCB_US3_UF1_uid81197
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanococcus_voltae_A3_uid49529/NC_014222.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanococcus_voltae_A3_uid49529
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_epidermidis_ATCC_12228_uid57861/NC_005008.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_epidermidis_ATCC_12228_uid57861/NC_005007.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_epidermidis_ATCC_12228_uid57861/NC_005004.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_epidermidis_ATCC_12228_uid57861/NC_005005.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_epidermidis_ATCC_12228_uid57861/NC_005003.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_epidermidis_ATCC_12228_uid57861/NC_005006.fna
+####### SIZE: 8382 KB

@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/ente638/plasmid_pENTE01.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/ente638/plasmid_pENTE01.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/ente638/plasmid_pENTE01.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/ente638/chr.tRNA.bed
+####### SIZE: 29 KB

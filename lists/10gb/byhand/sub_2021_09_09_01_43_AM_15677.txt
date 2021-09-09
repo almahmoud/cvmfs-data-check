@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/borEut13/sam_index/borEut13.fa
+/cvmfs/data.galaxyproject.org/byhand/borEut13/sam_index/borEut13.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/borEut13/sam_index
+/cvmfs/data.galaxyproject.org/byhand/borEut13/nib/chr19.nib
+####### SIZE: 5790 KB

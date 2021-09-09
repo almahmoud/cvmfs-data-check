@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/angJap1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/hetBac1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/opiHoa1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/gavGan0.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/caeSp51.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/dm6.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/egrGar1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/eboVir3.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/notCor1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/droPse3.len
+####### SIZE: 7570 KB

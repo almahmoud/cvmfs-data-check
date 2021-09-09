@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methylotenera_301_uid49469
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haloarcula_hispanica_ATCC_33960_uid72475/NC_015944.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haloarcula_hispanica_ATCC_33960_uid72475/NC_015943.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haloarcula_hispanica_ATCC_33960_uid72475/NC_015948.fna
+####### SIZE: 6891 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/papAnu2/papAnu2.6.ht2
+####### SIZE: 718593 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Arthrospira_platensis_NIES_39_uid197171/NC_016640.fna
+####### SIZE: 6725 KB

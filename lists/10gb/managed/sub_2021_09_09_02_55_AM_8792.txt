@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_thuringiensis_serovar_konkukian_97_27_uid58089
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Granulibacter_bethesdensis_CGDNIH1_uid58661/NC_008343.fna
+####### SIZE: 7953 KB

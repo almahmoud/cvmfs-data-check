@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/melGal1/liftOver/melGal1ToTaeGut1.over.chain
+####### SIZE: 128963 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/rn6/rn6.5.ht2
+####### SIZE: 1144075 KB

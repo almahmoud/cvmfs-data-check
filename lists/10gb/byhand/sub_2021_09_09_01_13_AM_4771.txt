@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/exclude/multiz28way.b2z/chr21.maf.bz2
+####### SIZE: 111637 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanobrevibacter_AbM4_uid206516
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_phytofermentans_ISDg_uid58519/NC_010001.fna
+####### SIZE: 6786 KB

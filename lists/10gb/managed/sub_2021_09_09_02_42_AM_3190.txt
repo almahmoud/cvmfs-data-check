@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bartonella_tribocorum_CIP_105476_uid59129
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Planctomyces_limnophilus_DSM_3776_uid48643/NC_014149.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Planctomyces_limnophilus_DSM_3776_uid48643/NC_014148.fna
+####### SIZE: 8032 KB

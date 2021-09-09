@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ce5/bowtie_index/ce5.4.ebwt
+####### SIZE: 24483 KB

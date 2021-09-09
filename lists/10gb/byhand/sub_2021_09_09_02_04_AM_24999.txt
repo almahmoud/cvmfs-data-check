@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/PhumU1/bowtie_index/PhumU1.2.ebwt
+####### SIZE: 13229 KB

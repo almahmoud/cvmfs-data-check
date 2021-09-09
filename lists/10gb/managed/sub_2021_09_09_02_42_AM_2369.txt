@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfobacula_toluolica_Tol2_uid175777
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_hyopneumoniae_168_uid162053/NC_017509.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_hyopneumoniae_168_uid162053
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanococcoides_burtonii_DSM_6242_uid58023/NC_007955.fna
+####### SIZE: 9544 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/bosTau2/chr3.axt
+####### SIZE: 230032 KB

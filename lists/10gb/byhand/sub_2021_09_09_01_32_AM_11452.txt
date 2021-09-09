@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/anaeDeha_2CP_C/chr.fna
+####### SIZE: 4967 KB

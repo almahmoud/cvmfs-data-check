@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methylomicrobium_alcaliphilum_uid77119
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acinetobacter_baumannii_BJAB0715_uid210972/NC_021734.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acinetobacter_baumannii_BJAB0715_uid210972/NC_021733.fna
+####### SIZE: 8645 KB

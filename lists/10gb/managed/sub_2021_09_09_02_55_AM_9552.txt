@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methylococcus_capsulatus_Bath_uid57607/NC_002977.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methylococcus_capsulatus_Bath_uid57607
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/delta_proteobacterium_BABL1_uid230716/NC_023003.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/delta_proteobacterium_BABL1_uid230716
+####### SIZE: 8773 KB

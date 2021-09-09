@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudomonas_putida_GB_1_uid58735
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bartonella_henselae_Houston_1_uid57745/NC_005956.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bartonella_henselae_Houston_1_uid57745
+####### SIZE: 9857 KB

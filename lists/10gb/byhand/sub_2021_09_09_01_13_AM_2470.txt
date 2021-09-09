@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/turTru1/chr17_gl000205_random.axt
+####### SIZE: 74 KB

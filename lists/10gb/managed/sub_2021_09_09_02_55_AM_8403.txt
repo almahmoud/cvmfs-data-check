@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydophila_psittaci_6BC_uid63621
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Salmonella_enterica_serovar_Choleraesuis_SC_B67_uid58017/NC_006856.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Salmonella_enterica_serovar_Choleraesuis_SC_B67_uid58017/NC_006855.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Salmonella_enterica_serovar_Choleraesuis_SC_B67_uid58017/NC_006905.fna
+####### SIZE: 6073 KB

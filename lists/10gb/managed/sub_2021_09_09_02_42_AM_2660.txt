@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Orientia_tsutsugamushi_Boryong_uid61621/NC_009488.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Orientia_tsutsugamushi_Boryong_uid61621
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Escherichia_coli_IAI1_uid59377/NC_011741.fna
+####### SIZE: 8876 KB

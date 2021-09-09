@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/droPer1/bwa_index/droPer1.fa
+/cvmfs/data.galaxyproject.org/byhand/droPer1/bwa_index/droPer1.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/droPer1/bwa_index/droPer1.fa.ann
+####### SIZE: 681 KB

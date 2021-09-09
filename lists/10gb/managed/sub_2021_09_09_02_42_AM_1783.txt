@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactobacillus_reuteri_TD1_uid213089/NC_021872.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactobacillus_reuteri_TD1_uid213089
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Xanthomonas_oryzae_MAFF_311018_uid58547/NC_007705.fna
+####### SIZE: 9150 KB

@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nitrobacter_hamburgensis_X14_uid58293
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Azospirillum_B510_uid46085/NC_013860.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Azospirillum_B510_uid46085/NC_013859.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Azospirillum_B510_uid46085/NC_013858.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Azospirillum_B510_uid46085/NC_013855.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Azospirillum_B510_uid46085/NC_013856.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Azospirillum_B510_uid46085/NC_013857.fna
+####### SIZE: 9221 KB

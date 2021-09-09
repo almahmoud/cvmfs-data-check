@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/sacCer2/sacCer2/dataset_166fc7cd-9ff8-4acf-9614-a267eeaf9355_files/chrStart.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/sacCer2/sacCer2/dataset_166fc7cd-9ff8-4acf-9614-a267eeaf9355_files/genomeParameters.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/sacCer2/sacCer2/dataset_166fc7cd-9ff8-4acf-9614-a267eeaf9355_files/chrLength.txt
+####### SIZE: 3 KB

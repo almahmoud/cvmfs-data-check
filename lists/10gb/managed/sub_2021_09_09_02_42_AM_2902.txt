@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Arthrobacter_aurescens_TC1_uid58109/NC_008711.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Arthrobacter_aurescens_TC1_uid58109
+####### SIZE: 9738 KB

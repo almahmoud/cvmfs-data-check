@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodopseudomonas_palustris_TIE_1_uid58995
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanocaldococcus_infernus_ME_uid48803/NC_014122.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanocaldococcus_infernus_ME_uid48803
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Helicobacter_pylori_HUP_B14_uid162213/NC_017734.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Helicobacter_pylori_HUP_B14_uid162213/NC_017733.fna
+####### SIZE: 9926 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/anoGam1/maf/chr3L.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/anoGam1/maf/chrUextra.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/anoGam1/maf/chr3RHet.maf.index
+####### SIZE: 233 KB

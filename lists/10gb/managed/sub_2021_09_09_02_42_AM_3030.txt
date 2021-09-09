@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Geobacter_sulfurreducens_PCA_uid57743/NC_002939.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Geobacter_sulfurreducens_PCA_uid57743
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_thuringiensis_HD_771_uid173374/NC_018503.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_thuringiensis_HD_771_uid173374/NC_018486.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_thuringiensis_HD_771_uid173374/NC_018488.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_thuringiensis_HD_771_uid173374/NC_018490.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_thuringiensis_HD_771_uid173374/NC_018501.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_thuringiensis_HD_771_uid173374/NC_018487.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_thuringiensis_HD_771_uid173374/NC_018489.fna
+####### SIZE: 8069 KB

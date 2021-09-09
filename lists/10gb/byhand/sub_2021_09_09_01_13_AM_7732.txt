@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/tupBel1/picard_index/tupBel1.dict
+####### SIZE: 20430 KB

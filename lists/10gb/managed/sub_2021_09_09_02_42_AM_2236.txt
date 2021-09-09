@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Vibrio_cholerae_O395_uid58425/NC_009457.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Vibrio_cholerae_O395_uid58425
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Azoarcus_KH32C_uid193704/NC_020548.fna
+####### SIZE: 7825 KB

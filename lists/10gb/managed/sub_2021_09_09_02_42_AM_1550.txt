@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Zymomonas_mobilis_ATCC_10988_uid55403
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haemophilus_ducreyi_35000HP_uid57625/NC_002940.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haemophilus_ducreyi_35000HP_uid57625
+####### SIZE: 5501 KB

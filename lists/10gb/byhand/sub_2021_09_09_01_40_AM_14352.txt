@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/tmp/chr21_random.fa
+####### SIZE: 4197 KB

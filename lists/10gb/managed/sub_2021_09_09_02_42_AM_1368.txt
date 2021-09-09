@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Roseburia_intestinalis_uid197164
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Alkalilimnicola_ehrlichii_MLHE_1_uid58467/NC_008340.fna
+####### SIZE: 7354 KB

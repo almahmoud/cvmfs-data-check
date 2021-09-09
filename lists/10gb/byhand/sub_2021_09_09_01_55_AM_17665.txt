@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/loxAfr1/liftOver/loxAfr1ToLoxAfr3.over.chain
+####### SIZE: 68400 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/hg19/dataset_950899_files
+####### SIZE: 27949663 KB

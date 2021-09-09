@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/fr1/maf
+####### SIZE: 126047 KB

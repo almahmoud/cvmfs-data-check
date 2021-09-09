@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/cb3/sam_index/cb3full.fa
+/cvmfs/data.galaxyproject.org/byhand/cb3/sam_index/cb3full.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/cb3/sam_index
+/cvmfs/data.galaxyproject.org/byhand/cb3/cb3canon/bwa_index/cb3canon.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/cb3/cb3canon/bwa_index/cb3canon.fa.ann
+####### SIZE: 93 KB

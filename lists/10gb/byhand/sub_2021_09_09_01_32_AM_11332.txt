@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/mannSucc_MBEL55E
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_K12/sam_index/eschColi_K12.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_K12/sam_index/eschColi_K12.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_K12/sam_index
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_K12/download/20dec2010/1332/sources.txt
+####### SIZE: 9879 KB

@@ -1,0 +1,15 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/galGal2/chr13_random.idx
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/galGal2/chr9.idx
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/galGal2/chrX.idx
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/galGal2/chr12.idx
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/galGal2/chr3_random.idx
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/galGal2/chrY.idx
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/galGal2/chr11_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/galGal2/chr22.idx
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/galGal2/chr16_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/galGal2/chr6_cox_hap1.idx
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/galGal2/chr7_random.idx
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/galGal2/chr6_cox_hap1.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/galGal2/chr18.idx
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/galGal2/chr17.idx
+####### SIZE: 2651 KB

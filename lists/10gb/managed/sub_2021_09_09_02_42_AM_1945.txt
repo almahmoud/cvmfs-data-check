@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Brachyspira_intermedia_PWS_A_uid158369/NC_017243.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Brachyspira_intermedia_PWS_A_uid158369
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Listeria_monocytogenes_serotype_1_2b_SLCC2755_uid52455/NC_014495.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Listeria_monocytogenes_serotype_1_2b_SLCC2755_uid52455/NC_018587.fna
+####### SIZE: 9553 KB

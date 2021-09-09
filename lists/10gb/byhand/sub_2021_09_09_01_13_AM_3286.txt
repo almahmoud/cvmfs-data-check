@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/align/hg18
+####### SIZE: 242078 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm10/chrom/chr4.fa
+####### SIZE: 155897 KB

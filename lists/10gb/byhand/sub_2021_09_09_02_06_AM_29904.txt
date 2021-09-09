@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/seq/hg17full.fa
+####### SIZE: 3082928 KB

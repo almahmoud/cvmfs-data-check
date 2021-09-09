@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Campylobacter_jejuni_M1_uid159535/NC_017280.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Campylobacter_jejuni_M1_uid159535
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_psittaci_CP3_uid175578/NC_018634.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_psittaci_CP3_uid175578/NC_018625.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_psittaci_CP3_uid175578
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Yersinia_pestis_Antiqua_uid58607/NC_008120.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Yersinia_pestis_Antiqua_uid58607/NC_008121.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Yersinia_pestis_Antiqua_uid58607/NC_008122.fna
+####### SIZE: 5721 KB

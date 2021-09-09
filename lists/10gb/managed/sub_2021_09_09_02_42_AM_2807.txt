@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ruegeria_pomeroyi_DSS_3_uid57863
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Variovorax_paradoxus_S110_uid59437/NC_012792.fna
+####### SIZE: 5682 KB

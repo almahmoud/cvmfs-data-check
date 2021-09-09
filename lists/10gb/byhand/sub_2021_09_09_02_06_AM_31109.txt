@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/rn4/rn4full/bowtie_index/cs/rn4full.rev.2.ebwt
+####### SIZE: 313162 KB

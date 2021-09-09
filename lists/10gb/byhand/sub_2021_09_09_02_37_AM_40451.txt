@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/sam_index/anoGam1.fa
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/sam_index/anoGam1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/sam_index
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/download/2011-06-30_README_anoGam1
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/download/2014-03-18_09.55.17_-0400_anoGam1.log
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/download
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/nib/chrM.nib
+####### SIZE: 78 KB

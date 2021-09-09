@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bradyrhizobium_ORS_278_uid58941/NC_009445.fna
+####### SIZE: 7386 KB

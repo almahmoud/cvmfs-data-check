@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/13548/NC_008816.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/13548/NC_008816.gbk
+####### SIZE: 5695 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cupriavidus_taiwanensis_LMG_19424_uid61615/NC_010530.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cupriavidus_taiwanensis_LMG_19424_uid61615/NC_010528.fna
+####### SIZE: 5864 KB

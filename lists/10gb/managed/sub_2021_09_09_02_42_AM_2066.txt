@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ralstonia_solanacearum_GMI1000_uid57593/NC_003296.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ralstonia_solanacearum_GMI1000_uid57593/NC_003295.fna
+####### SIZE: 5757 KB

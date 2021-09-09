@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rubrivivax_gelatinosus_IL144_uid158163
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acholeplasma_brassicae_uid222823/NC_022549.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acholeplasma_brassicae_uid222823
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Yersinia_pestis_CO92_uid57621/NC_003134.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Yersinia_pestis_CO92_uid57621/NC_003132.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Yersinia_pestis_CO92_uid57621/NC_003131.fna
+####### SIZE: 8902 KB

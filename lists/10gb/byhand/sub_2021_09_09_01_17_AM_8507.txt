@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/triCas2/bowtie_index/cs
+####### SIZE: 167119 KB

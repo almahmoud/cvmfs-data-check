@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/download/20dec2010/1419
+####### SIZE: 22337 KB

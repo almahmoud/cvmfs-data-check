@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/allMis1/allMis1.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/allMis1/allMis1.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/allMis1/allMis1.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/allMis1/allMis1.fa
+####### SIZE: 9267 KB

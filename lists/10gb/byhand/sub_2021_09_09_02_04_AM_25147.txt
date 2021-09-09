@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/Tcacao_1.0/bwa_index/Tcacao_1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/Tcacao_1.0/bwa_index/Tcacao_1.fa.amb
+####### SIZE: 412 KB

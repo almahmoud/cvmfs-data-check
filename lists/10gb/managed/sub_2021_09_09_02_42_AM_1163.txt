@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Listeria_monocytogenes_serotype_4b_F2365_uid57689
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Meiothermus_ruber_DSM_1279_uid198526/NC_021081.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Meiothermus_ruber_DSM_1279_uid198526
+####### SIZE: 9028 KB

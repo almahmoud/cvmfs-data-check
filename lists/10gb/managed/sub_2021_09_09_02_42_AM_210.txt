@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/cerSim1/cerSim1.6.ht2
+####### SIZE: 588349 KB

@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/259/bwa_index
+/cvmfs/data.galaxyproject.org/byhand/microbes/259/NC_002655.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/259/NC_002655.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/259/NC_007414.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/259/NC_002655.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/259/bowtie_index/cs/eschColi_EDL933.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/259/bowtie_index/cs/eschColi_EDL933.rev.2.ebwt
+####### SIZE: 9552 KB

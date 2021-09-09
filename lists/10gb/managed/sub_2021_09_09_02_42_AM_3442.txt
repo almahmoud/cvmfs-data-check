@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methylobacterium_chloromethanicum_CM4_uid58933/NC_011757.fna
+####### SIZE: 5724 KB

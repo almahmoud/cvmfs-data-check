@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/16365
+/cvmfs/data.galaxyproject.org/byhand/microbes/pyrAer1/seq/chr.nib
+####### SIZE: 9025 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/caePb2/bowtie_index/caePb2.2.ebwt
+####### SIZE: 20810 KB

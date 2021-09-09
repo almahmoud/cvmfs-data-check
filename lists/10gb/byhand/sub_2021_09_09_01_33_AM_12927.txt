@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_EC4115/bowtie_index/eschColi_EC4115.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_EC4115/bowtie_index/eschColi_EC4115.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_EC4115/bowtie_index/eschColi_EC4115.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_EC4115/bowtie_index/eschColi_EC4115.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_EC4115/bowtie_index/eschColi_EC4115.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_EC4115/bowtie_index/eschColi_EC4115.1.ebwt
+####### SIZE: 8477 KB

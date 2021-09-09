@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/pseuAeru/bowtie_index
+####### SIZE: 29508 KB

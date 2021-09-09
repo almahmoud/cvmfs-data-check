@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/386/seq/pseuAeru_UCBPP_PA14.fa
+####### SIZE: 6476 KB

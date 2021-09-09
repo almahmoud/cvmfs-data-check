@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/13914
+/cvmfs/data.galaxyproject.org/byhand/microbes/methBark1/seq/plasmid1.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/methBark1/seq/chr.nib
+####### SIZE: 8223 KB

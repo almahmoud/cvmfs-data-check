@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Starkeya_novella_DSM_506_uid48815
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Anaplasma_centrale_Israel_uid42155/NC_013532.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Anaplasma_centrale_Israel_uid42155
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Porphyromonas_gingivalis_TDC60_uid67407/NC_015571.fna
+####### SIZE: 9439 KB

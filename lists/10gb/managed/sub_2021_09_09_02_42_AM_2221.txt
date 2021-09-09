@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mesorhizobium_opportunistum_WSM2075_uid40861/NC_015675.fna
+####### SIZE: 6820 KB

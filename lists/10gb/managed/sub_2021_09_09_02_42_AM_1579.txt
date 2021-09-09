@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cronobacter_sakazakii_45402_uid231516/NC_023032.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cronobacter_sakazakii_45402_uid231516
+####### SIZE: 8859 KB

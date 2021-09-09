@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/danRer4/maf/chr8.maf
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/danRer4/maf/chrM.maf
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/danRer4/maf/chrX.maf
+####### SIZE: 9522 KB

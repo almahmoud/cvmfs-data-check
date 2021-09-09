@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_stercorarium_DSM_8532_uid195569/NC_020887.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_stercorarium_DSM_8532_uid195569
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gardnerella_vaginalis_409_05_uid43211/NC_013721.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gardnerella_vaginalis_409_05_uid43211
+####### SIZE: 9099 KB

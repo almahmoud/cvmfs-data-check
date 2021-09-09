@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/customProDB/omicron-data.duckdns.org/customProDB/ensembl/oprinceps-mar2017/proseq.RData
+####### SIZE: 4700 KB

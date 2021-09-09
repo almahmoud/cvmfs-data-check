@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/dasNov3/dasNov3.1.ht2
+####### SIZE: 929197 KB

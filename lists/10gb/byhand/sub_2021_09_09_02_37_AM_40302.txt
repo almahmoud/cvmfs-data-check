@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/rn3/chr4.axt
+####### SIZE: 224000 KB

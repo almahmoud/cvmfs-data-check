@@ -1,0 +1,12 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_pneumoniae_AP200_uid52453/NC_014494.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_pneumoniae_AP200_uid52453
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Treponema_pallidum_DAL_1_uid87065/NC_016844.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Treponema_pallidum_DAL_1_uid87065
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Zymomonas_mobilis_ATCC_10988_uid55403/NC_017183.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Zymomonas_mobilis_ATCC_10988_uid55403/NC_017185.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Zymomonas_mobilis_ATCC_10988_uid55403/NC_017180.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Zymomonas_mobilis_ATCC_10988_uid55403/NC_017181.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Zymomonas_mobilis_ATCC_10988_uid55403/NC_017182.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Zymomonas_mobilis_ATCC_10988_uid55403/NC_017184.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Zymomonas_mobilis_ATCC_10988_uid55403/NC_017262.fna
+####### SIZE: 8618 KB

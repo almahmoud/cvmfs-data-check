@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/tmp/chr11.fa
+####### SIZE: 121368 KB

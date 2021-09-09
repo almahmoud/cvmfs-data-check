@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/salmTyph_TY2/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/salmTyph_TY2/chr.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/salmTyph_TY2/chr.GeneMarkHMM.bed
+####### SIZE: 6035 KB

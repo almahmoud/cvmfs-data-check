@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pyrococcus_furiosus_DSM_3638_uid57873
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/cyanobacterium_UCYN_A_uid43697/NC_013771.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/cyanobacterium_UCYN_A_uid43697
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Erysipelothrix_rhusiopathiae_SY1027_uid206518/NC_021354.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Erysipelothrix_rhusiopathiae_SY1027_uid206518
+####### SIZE: 8239 KB

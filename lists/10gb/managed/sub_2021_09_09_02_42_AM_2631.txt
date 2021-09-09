@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_botulinum_B_Eklund_17B_uid59159
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sulfolobus_islandicus_Y_N_15_51_uid58825/NC_012624.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sulfolobus_islandicus_Y_N_15_51_uid58825/NC_012623.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sulfolobus_islandicus_Y_N_15_51_uid58825
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acetobacter_pasteurianus_IFO_3283_03_uid158373/NC_017142.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acetobacter_pasteurianus_IFO_3283_03_uid158373/NC_017119.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acetobacter_pasteurianus_IFO_3283_03_uid158373/NC_017120.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acetobacter_pasteurianus_IFO_3283_03_uid158373/NC_017118.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acetobacter_pasteurianus_IFO_3283_03_uid158373/NC_017101.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acetobacter_pasteurianus_IFO_3283_03_uid158373/NC_017109.fna
+####### SIZE: 9910 KB

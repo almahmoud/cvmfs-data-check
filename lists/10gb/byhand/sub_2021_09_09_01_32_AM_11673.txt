@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/16297/bwa_index/Xanthomonas_oryzae_MAFF_311018.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/16297/bwa_index/Xanthomonas_oryzae_MAFF_311018.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/microbes/16297/bwa_index/Xanthomonas_oryzae_MAFF_311018.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/microbes/16297/bwa_index/Xanthomonas_oryzae_MAFF_311018.fa.bwt
+####### SIZE: 6034 KB

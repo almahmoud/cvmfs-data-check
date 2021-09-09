@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Magnetospirillum_gryphiswaldense_MSR_1_uid232249
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Flexibacter_litoralis_DSM_6794_uid168257/NC_018018.fna
+####### SIZE: 9202 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/rheMac2/maf/chr15.maf
+####### SIZE: 146985 KB

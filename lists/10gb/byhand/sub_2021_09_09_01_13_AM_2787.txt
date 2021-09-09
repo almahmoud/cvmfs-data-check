@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rn4/chrUn_gl000240.axt
+####### SIZE: 3 KB

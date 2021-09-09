@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/multiz15way/chrUextra.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/multiz15way/chr3L.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/multiz15way/chr2LHet.maf.lzo
+####### SIZE: 8322 KB

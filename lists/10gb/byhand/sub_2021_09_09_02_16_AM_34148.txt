@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/Schizosaccharomyces_pombe_1.1/bwa_index/Schizosaccharomyces_pombe_1.1.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/Schizosaccharomyces_pombe_1.1/bwa_index/Schizosaccharomyces_pombe_1.1.fa.rbwt
+####### SIZE: 9224 KB

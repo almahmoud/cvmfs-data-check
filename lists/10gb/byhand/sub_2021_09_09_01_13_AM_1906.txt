@@ -1,0 +1,15 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/galGal3/maf/chr6_mcf_hap5.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/galGal3/maf/chr5.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/galGal3/maf/chrUn_gl000244.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/galGal3/maf/chr6_ssto_hap7.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/galGal3/maf/chrUn_gl000212.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/galGal3/maf/chrM.maf
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/galGal3/maf/chrUn_gl000214.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/galGal3/maf/chrUn_gl000246.maf
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/galGal3/maf/chr3.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/galGal3/maf/chr20.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/galGal3/maf/chr16.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/galGal3/maf/chr6_cox_hap2.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/galGal3/maf/chr1.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/galGal3/maf/chr17_ctg5_hap1.maf
+####### SIZE: 2866 KB

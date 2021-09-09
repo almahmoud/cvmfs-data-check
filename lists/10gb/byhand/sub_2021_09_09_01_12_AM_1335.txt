@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/equCab2/maf/chr7.maf
+####### SIZE: 197802 KB

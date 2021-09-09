@@ -1,0 +1,13 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_CFT073/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_CFT073/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_CFT073/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_CFT073/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_CFT073/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_CFT073/chr.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_CFT073/chr.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_CFT073/b.sh
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_CFT073/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_CFT073/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_CFT073/eschColi_CFT073.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_CFT073/chr.tRNA.bed
+####### SIZE: 7488 KB

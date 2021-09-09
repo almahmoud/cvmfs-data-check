@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/xantCamp/chr.gbk
+####### SIZE: 10640 KB

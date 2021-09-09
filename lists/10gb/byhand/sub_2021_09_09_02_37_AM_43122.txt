@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/oryza_sativa_japonica_nipponbare_IRGSP4.0/bowtie_index/oryza_sativa_japonica_nipponbare_IRGSP4.0.1.ebwt
+####### SIZE: 108105 KB

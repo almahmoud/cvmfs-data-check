@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/257
+/cvmfs/data.galaxyproject.org/byhand/microbes/salmEnte_PARATYPI_ATC/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/salmEnte_PARATYPI_ATC/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/salmEnte_PARATYPI_ATC/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/salmEnte_PARATYPI_ATC/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/salmEnte_PARATYPI_ATC/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/salmEnte_PARATYPI_ATC/salmEnte_PARATYPI_ATC.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/salmEnte_PARATYPI_ATC/chr.rRNA.bed
+####### SIZE: 9847 KB

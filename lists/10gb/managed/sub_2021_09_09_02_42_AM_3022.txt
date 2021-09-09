@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bordetella_petrii_uid61631
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/_Nostoc_azollae__0708_uid49725/NC_014250.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/_Nostoc_azollae__0708_uid49725/NC_014249.fna
+####### SIZE: 5374 KB

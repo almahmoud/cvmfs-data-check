@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Synechococcus_CC9605_uid58319
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermotoga_maritima_MSB8_uid179902/NC_023151.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermotoga_maritima_MSB8_uid179902
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Helicobacter_heilmannii_ASB1_4_uid182935/NC_019674.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Helicobacter_heilmannii_ASB1_4_uid182935
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sphingobium_japonicum_UT26S_uid47077/NC_014009.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sphingobium_japonicum_UT26S_uid47077/NC_014007.fna
+####### SIZE: 9978 KB

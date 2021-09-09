@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/cavPor3/bwa_index/cavPor3.fa.pac
+####### SIZE: 664849 KB

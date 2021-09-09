@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/customProDB/omicron-data.duckdns.org/customProDB/ensembl/oaries-may2017
+####### SIZE: 23259 KB

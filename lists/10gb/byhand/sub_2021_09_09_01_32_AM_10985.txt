@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/tricEryt_IMS101/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/tricEryt_IMS101/chr.fna
+####### SIZE: 8081 KB

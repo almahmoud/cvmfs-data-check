@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Legionella_pneumophila_Hextuple_3a_uid197192
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Wolbachia_endosymbiont_of_Onchocerca_ochengi_uid171829/NC_018267.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Wolbachia_endosymbiont_of_Onchocerca_ochengi_uid171829
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Francisella_tularensis_holarctica_OSU18_uid58687/NC_008369.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Francisella_tularensis_holarctica_OSU18_uid58687
+####### SIZE: 8326 KB

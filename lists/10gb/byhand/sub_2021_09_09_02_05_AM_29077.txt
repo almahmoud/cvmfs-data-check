@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/encode_relabeled/tba/ENm002
+####### SIZE: 21673 KB

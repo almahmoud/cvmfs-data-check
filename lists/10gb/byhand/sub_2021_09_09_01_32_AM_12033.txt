@@ -1,0 +1,20 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/409/seq/NC_004829.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/409/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/409/NC_004829.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/409/NC_004829.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/409/NC_004829.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/409/NC_004829.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/409/409.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/409/NC_004829.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/409/NC_004829.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/409/NC_004829.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/409/NC_004829.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/409/NC_004829.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/409/NC_004829.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/409/NC_004829.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/409/NC_004829.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/409
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/paraDeni_PD1222.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/seq/plasmid_1.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/seq/chr2.nib
+####### SIZE: 9716 KB

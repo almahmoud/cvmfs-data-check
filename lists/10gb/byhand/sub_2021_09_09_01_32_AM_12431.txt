@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/oenoOeni_PSU_1
+/cvmfs/data.galaxyproject.org/byhand/microbes/arthFB24/plasmid_3.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/arthFB24/plasmid_1.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/arthFB24/plasmid_1.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/arthFB24/plasmid_1.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/arthFB24/plasmid_3.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/arthFB24/plasmid_3.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/arthFB24/seq/plasmid_3.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/arthFB24/seq/plasmid_2.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/arthFB24/seq/plasmid_1.nib
+####### SIZE: 7982 KB

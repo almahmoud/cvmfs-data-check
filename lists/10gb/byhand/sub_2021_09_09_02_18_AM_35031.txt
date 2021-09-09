@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/caeJap4/bwa_index/caeJap4.fa.bwt
+####### SIZE: 60885 KB

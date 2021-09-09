@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Glaciecola_psychrophila_170_uid193711
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydophila_felis_Fe_C_56_uid57971/NC_007900.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydophila_felis_Fe_C_56_uid57971/NC_007899.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydophila_felis_Fe_C_56_uid57971
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_gallisepticum_NC06_2006_080_5_2P_uid172629/NC_018411.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_gallisepticum_NC06_2006_080_5_2P_uid172629
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_trachomatis_L2b_Ams4_uid196795/NC_020981.fna
+####### SIZE: 9573 KB

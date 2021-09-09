@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/encode/september2005_relabeled/mlagan/ENm010/ENm010.maf
+####### SIZE: 38685 KB

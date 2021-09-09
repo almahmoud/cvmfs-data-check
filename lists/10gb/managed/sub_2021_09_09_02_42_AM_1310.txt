@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Spirochaeta_smaragdinae_DSM_11293_uid51369/NC_014364.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Spirochaeta_smaragdinae_DSM_11293_uid51369
+####### SIZE: 9225 KB

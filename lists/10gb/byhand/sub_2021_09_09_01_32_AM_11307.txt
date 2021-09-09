@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/campJeju_81_176/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/campJeju_81_176/campJeju_81_176.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/campJeju_81_176/plasmid_pTet.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/campJeju_81_176/chr.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/campJeju_81_176/plasmid_pVir.CDS.bed
+####### SIZE: 5427 KB

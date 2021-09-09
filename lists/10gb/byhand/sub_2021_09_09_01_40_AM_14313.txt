@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/Araly1/bowtie2_index/Araly1.2.bt2
+####### SIZE: 44928 KB

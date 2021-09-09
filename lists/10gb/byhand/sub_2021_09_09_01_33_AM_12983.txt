@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/16720/seq/pseuAeru_PA7.fa
+####### SIZE: 6526 KB

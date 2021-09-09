@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pantoea_ananatis_uid86861
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ureaplasma_urealyticum_serovar_10_ATCC_33699_uid59011/NC_011374.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ureaplasma_urealyticum_serovar_10_ATCC_33699_uid59011
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_lugdunensis_HKU09_01_uid46233/NC_013893.fna
+####### SIZE: 9239 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/vicPac2/vicPac2.fa
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/vicPac2/vicPac2.fa.amb
+####### SIZE: 2803 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/apiMel4/apiMel4/dataset_95aec843-8c04-4d1e-ab44-6888c1fdfefb_files/Genome
+####### SIZE: 1576961 KB

@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rickettsia_canadensis_CA410_uid88063
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Corynebacterium_maris_DSM_45190_uid214081/NC_021920.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Corynebacterium_maris_DSM_45190_uid214081/NC_021915.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Corynebacterium_maris_DSM_45190_uid214081
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Escherichia_coli_UM146_uid162043/NC_017630.fna
+####### SIZE: 6878 KB

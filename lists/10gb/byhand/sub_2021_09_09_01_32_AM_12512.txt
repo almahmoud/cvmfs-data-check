@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/therFusc_YX/chr.gbk
+####### SIZE: 8236 KB

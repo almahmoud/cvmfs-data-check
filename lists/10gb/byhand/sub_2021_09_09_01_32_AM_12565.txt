@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkCeno_HI2424/chr1.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkCeno_HI2424/chr3.gbk
+####### SIZE: 5948 KB

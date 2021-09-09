@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nakamurella_multipartita_DSM_44233_uid59221
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Vibrio_vulnificus_CMCP6_uid62909/NC_004460.fna
+####### SIZE: 7836 KB

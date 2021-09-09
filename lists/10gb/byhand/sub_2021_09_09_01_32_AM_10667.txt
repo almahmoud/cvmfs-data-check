@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/siliPome_DSS_3/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/siliPome_DSS_3/megaplasmid.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/siliPome_DSS_3/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/siliPome_DSS_3/megaplasmid.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/siliPome_DSS_3/megaplasmid.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/siliPome_DSS_3/megaplasmid.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/siliPome_DSS_3/megaplasmid.Glimmer3.bed
+####### SIZE: 2785 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bradyrhizobium_ORS_278_uid58941
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aeropyrum_pernix_K1_uid57757/NC_000854.fna
+####### SIZE: 9045 KB

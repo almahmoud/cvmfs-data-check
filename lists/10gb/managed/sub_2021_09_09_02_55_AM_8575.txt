@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfitobacterium_dichloroeliminans_LMG_P_21439_uid82555
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_hyorhinis_DBS_1050_uid228933/NC_022807.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_hyorhinis_DBS_1050_uid228933
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudoalteromonas_haloplanktis_TAC125_uid58431/NC_007482.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudoalteromonas_haloplanktis_TAC125_uid58431/NC_007481.fna
+####### SIZE: 9075 KB

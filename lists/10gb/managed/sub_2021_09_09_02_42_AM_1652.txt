@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Enterobacter_cloacae_SCF1_uid59969
+####### SIZE: 4773 KB

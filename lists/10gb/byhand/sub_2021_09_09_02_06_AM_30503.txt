@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer4/nib/chr11.nib
+####### SIZE: 25558 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Janthinobacterium_Marseille_uid58603/NC_009659.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Janthinobacterium_Marseille_uid58603
+####### SIZE: 8148 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Vibrio_harveyi_ATCC_BAA_1116_uid218471
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Prochlorococcus_marinus_MIT_9313_uid57773/NC_005071.fna
+####### SIZE: 8369 KB

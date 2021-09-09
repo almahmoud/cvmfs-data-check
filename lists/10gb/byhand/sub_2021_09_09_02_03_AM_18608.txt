@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/ornAna1/chrM.axt
+####### SIZE: 33 KB

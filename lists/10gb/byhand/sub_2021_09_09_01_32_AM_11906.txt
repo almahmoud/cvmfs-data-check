@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/soliUsit_ELLIN6076/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/soliUsit_ELLIN6076/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/soliUsit_ELLIN6076/chr.info
+####### SIZE: 9739 KB

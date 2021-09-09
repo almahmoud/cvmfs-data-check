@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/tarSyr1.len
+####### SIZE: 13317 KB

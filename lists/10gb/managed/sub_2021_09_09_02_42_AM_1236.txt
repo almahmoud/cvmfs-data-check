@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cyanothece_ATCC_51142_uid59013
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nocardia_farcinica_IFM_10152_uid58203/NC_006362.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nocardia_farcinica_IFM_10152_uid58203/NC_006363.fna
+####### SIZE: 5686 KB

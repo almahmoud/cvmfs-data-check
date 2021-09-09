@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/danRer2/maf/chr15.maf
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/danRer2/maf/chrY.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/danRer2/maf/chr22.maf
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/danRer2/maf/chr19.maf.index
+####### SIZE: 7858 KB

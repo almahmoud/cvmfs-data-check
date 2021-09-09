@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/methMari_C7
+/cvmfs/data.galaxyproject.org/byhand/microbes/haloHalo1/seq/plasmid_pNRC200.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/haloHalo1/seq/plasmid_pNRC100.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/haloHalo1/seq/chr.nib
+####### SIZE: 9129 KB

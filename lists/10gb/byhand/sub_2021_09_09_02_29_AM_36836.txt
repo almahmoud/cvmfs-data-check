@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/loxAfr1/bowtie_index/loxAfr1.4.ebwt
+####### SIZE: 560437 KB

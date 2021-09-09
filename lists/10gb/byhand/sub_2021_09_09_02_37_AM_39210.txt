@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam2/bowtie_index/cs/canFam2.4.ebwt
+####### SIZE: 582275 KB

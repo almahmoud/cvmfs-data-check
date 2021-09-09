@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanosarcina_barkeri_Fusaro_uid57715/NC_007355.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanosarcina_barkeri_Fusaro_uid57715
+####### SIZE: 9625 KB

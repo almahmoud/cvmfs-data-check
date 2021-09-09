@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/droGri2/bowtie_index/cs
+####### SIZE: 204293 KB

@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/17237
+/cvmfs/data.galaxyproject.org/byhand/microbes/hermArse/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/hermArse/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/hermArse/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/hermArse/chr.info
+####### SIZE: 9838 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTau6/bwa_index/bosTau6.fa.rsa
+####### SIZE: 325980 KB

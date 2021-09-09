@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/16351/sam_index/eschColi_W3110.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/16351/sam_index/eschColi_W3110.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/microbes/16351/sam_index
+/cvmfs/data.galaxyproject.org/byhand/microbes/16351/seq/16351.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/16351/seq/16351.2bit
+/cvmfs/data.galaxyproject.org/byhand/microbes/16351/seq/eschColi_W3110.2bit
+/cvmfs/data.galaxyproject.org/byhand/microbes/16351/seq/AC_000091.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/16351/seq/eschColi_W3110.fa
+####### SIZE: 8017 KB

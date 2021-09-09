@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/gorGor1/chr8_gl000197_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/gorGor1/chr4_gl000194_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/gorGor1/chrUn_gl000242.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/gorGor1/chr17_ctg5_hap1.axt
+####### SIZE: 2814 KB

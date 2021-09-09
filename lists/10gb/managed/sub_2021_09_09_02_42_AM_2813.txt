@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Flexistipes_sinusarabici_DSM_4947_uid68147/NC_015672.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Flexistipes_sinusarabici_DSM_4947_uid68147
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_aureus_SA957_uid221288/NC_022442.fna
+####### SIZE: 7775 KB

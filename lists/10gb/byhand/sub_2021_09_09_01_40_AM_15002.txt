@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/ce7/sam_index/ce7.fa
+/cvmfs/data.galaxyproject.org/byhand/ce7/sam_index/ce7.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/ce7/sam_index
+/cvmfs/data.galaxyproject.org/byhand/ce7/picard_index/ce7.fa
+/cvmfs/data.galaxyproject.org/byhand/ce7/picard_index/ce7.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/ce7/picard_index/ce7.dict
+/cvmfs/data.galaxyproject.org/byhand/ce7/picard_index
+/cvmfs/data.galaxyproject.org/byhand/ce7/bowtie2_index/ce7.fa
+/cvmfs/data.galaxyproject.org/byhand/ce7/bowtie2_index/ce7.3.bt2
+####### SIZE: 20 KB

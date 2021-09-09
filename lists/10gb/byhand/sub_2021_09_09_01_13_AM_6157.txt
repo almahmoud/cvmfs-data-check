@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/calJac1/maf/chr16.maf
+####### SIZE: 137643 KB

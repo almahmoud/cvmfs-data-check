@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Geitlerinema_PCC_7407_uid183007/NC_019703.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Geitlerinema_PCC_7407_uid183007
+####### SIZE: 9279 KB

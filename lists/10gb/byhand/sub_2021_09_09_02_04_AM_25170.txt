@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab2_chrM/bowtie_index/cs
+/cvmfs/data.galaxyproject.org/byhand/equCab2_chrM/bowtie_index/chrM.fa
+/cvmfs/data.galaxyproject.org/byhand/equCab2_chrM/bowtie_index/chrM.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/equCab2_chrM/bowtie_index/chrM.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/equCab2_chrM/bowtie_index/chrM.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/equCab2_chrM/bowtie_index/chrM.4.ebwt
+####### SIZE: 8230 KB

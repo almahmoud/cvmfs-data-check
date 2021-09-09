@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudomonas_fluorescens_Pf0_1_uid57591
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bartonella_vinsonii_berkhoffii_Winnie_uid189951/NC_020301.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bartonella_vinsonii_berkhoffii_Winnie_uid189951
+####### SIZE: 9959 KB

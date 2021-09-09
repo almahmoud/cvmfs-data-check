@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acinetobacter_baumannii_AB0057_uid59083/NC_011586.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acinetobacter_baumannii_AB0057_uid59083
+####### SIZE: 8039 KB

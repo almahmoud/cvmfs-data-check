@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/pUC18/seq/pUC18.2bit
+/cvmfs/data.galaxyproject.org/byhand/pUC18/seq/pUC18.fa
+/cvmfs/data.galaxyproject.org/byhand/pUC18/seq
+/cvmfs/data.galaxyproject.org/byhand/pUC18/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/pUC18
+/cvmfs/data.galaxyproject.org/byhand/droGri1/align
+####### SIZE: 33 KB

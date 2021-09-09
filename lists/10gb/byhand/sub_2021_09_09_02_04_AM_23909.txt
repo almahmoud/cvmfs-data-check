@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/Bombyx_mori_p50T_2.0/bowtie2_index/Bombyx_mori_p50T_2.0.2.bt2
+####### SIZE: 105410 KB

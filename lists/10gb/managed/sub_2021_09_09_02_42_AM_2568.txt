@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Hyphomicrobium_denitrificans_1NES1_uid179904
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acinetobacter_baumannii_SDF_uid61601/NC_010395.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acinetobacter_baumannii_SDF_uid61601/NC_010398.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acinetobacter_baumannii_SDF_uid61601/NC_010396.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acinetobacter_baumannii_SDF_uid61601/NC_010400.fna
+####### SIZE: 7225 KB

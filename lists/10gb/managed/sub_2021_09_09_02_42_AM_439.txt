@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/seq/danRer10.2bit
+####### SIZE: 352444 KB

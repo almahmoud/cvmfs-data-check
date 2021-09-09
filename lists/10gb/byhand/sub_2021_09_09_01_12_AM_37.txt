@@ -1,0 +1,21 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/picard_index/hg19.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/hg19/picard_index/hg19canon_sorted.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/hg19/picard_index/hg19.fa
+/cvmfs/data.galaxyproject.org/byhand/hg19/picard_index/hg19canon_sorted.fa
+/cvmfs/data.galaxyproject.org/byhand/hg19/picard_index/hg19canon_sorted.dict
+/cvmfs/data.galaxyproject.org/byhand/hg19/picard_index/hg19.dict
+/cvmfs/data.galaxyproject.org/byhand/hg19/picard_index
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie2_index/hg19.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie2_index/hg19.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie2_index/hg19.3.bt2
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie2_index/hg19.fa
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie2_index/hg19.4.bt2
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie2_index/hg19.rev.1.bt2
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie2_index/hg19.rev.2.bt2
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie2_index
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19full/bwa_index_v0.5.9-r16/hg19.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19full/bwa_index_v0.5.9-r16/cs/hg19full.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19full/bwa_index_v0.5.9-r16/cs/hg19full.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19full/bwa_index_v0.5.9-r16/cs/hg19full.fa.nt.amb
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19full/bwa_index_v0.5.9-r16/cs/hg19full.fa.nt.ann
+####### SIZE: 82 KB

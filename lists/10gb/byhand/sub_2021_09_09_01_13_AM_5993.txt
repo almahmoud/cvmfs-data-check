@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/equCab1/chr18.axt
+####### SIZE: 99456 KB

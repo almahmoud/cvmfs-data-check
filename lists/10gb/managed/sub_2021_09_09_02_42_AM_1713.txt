@@ -1,0 +1,12 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Deinococcus_deserti_VCD115_uid58615
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_thuringiensis_Bt407_uid177931/NC_018880.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_thuringiensis_Bt407_uid177931/NC_018882.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_thuringiensis_Bt407_uid177931/NC_018884.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_thuringiensis_Bt407_uid177931/NC_018881.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_thuringiensis_Bt407_uid177931/NC_018883.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_thuringiensis_Bt407_uid177931/NC_018886.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_thuringiensis_Bt407_uid177931/NC_018878.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_thuringiensis_Bt407_uid177931/NC_018885.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_thuringiensis_Bt407_uid177931/NC_018879.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_thuringiensis_Bt407_uid177931/NC_018877.fna
+####### SIZE: 9908 KB

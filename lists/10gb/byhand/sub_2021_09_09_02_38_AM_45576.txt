@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/bowtie_index/hg_g1k_v37.fa
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/bowtie_index/hg_g1k_v37.3.ebwt
+####### SIZE: 5 KB

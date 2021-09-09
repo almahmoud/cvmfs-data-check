@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/tmp/chr6_qbl_hap2.fa
+####### SIZE: 1178 KB

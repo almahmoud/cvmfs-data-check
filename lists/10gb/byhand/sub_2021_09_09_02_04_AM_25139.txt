@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/apiMel1/bowtie_index/apiMel1.4.ebwt
+####### SIZE: 50887 KB

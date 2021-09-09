@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/vicPac1/chrY.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/vicPac1/chr1_gl000191_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/vicPac1/chrUn_gl000224.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/vicPac1/chrUn_gl000222.axt
+####### SIZE: 9502 KB

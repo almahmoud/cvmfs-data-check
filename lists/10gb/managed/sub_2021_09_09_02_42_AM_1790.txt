@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_cereus_FRI_35_uid173403
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_botulinum_A_ATCC_3502_uid61579/NC_009496.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_botulinum_A_ATCC_3502_uid61579/NC_009495.fna
+####### SIZE: 9206 KB

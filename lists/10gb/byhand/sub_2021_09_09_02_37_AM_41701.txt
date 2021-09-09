@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/monDom4/maf/chr8.maf.index
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/monDom4/maf/chr22.maf
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/monDom4/maf/chr13_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/monDom4/maf/chr17_random.maf
+####### SIZE: 9140 KB

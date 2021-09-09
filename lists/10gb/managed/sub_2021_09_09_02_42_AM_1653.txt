@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Opitutus_terrae_PB90_1_uid58965/NC_010571.fna
+####### SIZE: 5902 KB

@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cronobacter_sakazakii_ES15_uid167045
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/secondary_endosymbiont_of_Heteropsylla_cubana_Thao2000_uid172738/NC_018420.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/secondary_endosymbiont_of_Heteropsylla_cubana_Thao2000_uid172738
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methylovorus_MP688_uid60723/NC_014733.fna
+####### SIZE: 9297 KB

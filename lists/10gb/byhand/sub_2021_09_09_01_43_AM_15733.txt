@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/borEut13/seq/borEut13.fa
+####### SIZE: 2096968 KB

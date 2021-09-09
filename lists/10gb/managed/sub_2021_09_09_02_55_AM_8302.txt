@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanocella_arvoryzae_MRE50_uid61623/NC_009464.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanocella_arvoryzae_MRE50_uid61623
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermosphaera_aggregans_DSM_11486_uid48993/NC_014160.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermosphaera_aggregans_DSM_11486_uid48993
+####### SIZE: 8919 KB

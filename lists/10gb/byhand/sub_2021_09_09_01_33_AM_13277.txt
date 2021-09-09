@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam1/nib/chr10.nib
+####### SIZE: 35507 KB

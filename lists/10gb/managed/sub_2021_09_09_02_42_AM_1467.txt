@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nitrosomonas_europaea_ATCC_19718_uid57647
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Natronococcus_occultus_SP4_uid184863/NC_019976.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Natronococcus_occultus_SP4_uid184863/NC_019975.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Natronococcus_occultus_SP4_uid184863/NC_019974.fna
+####### SIZE: 7066 KB

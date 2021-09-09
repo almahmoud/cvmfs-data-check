@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/encode_relabeled/tba/ENr121/human.ENr121.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/encode_relabeled/tba/ENr121/human.ENr121.maf
+####### SIZE: 9432 KB

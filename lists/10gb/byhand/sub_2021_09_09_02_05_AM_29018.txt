@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/encode_relabeled/tba/ENr324/human.ENr324.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/encode_relabeled/tba/ENr324/human.ENr324.maf
+####### SIZE: 8782 KB

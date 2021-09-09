@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/danRer2/chr10.axt
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/danRer2/chr2_random.idx
+####### SIZE: 2842 KB

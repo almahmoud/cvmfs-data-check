@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/monDom4/chr14.axt
+####### SIZE: 27604 KB

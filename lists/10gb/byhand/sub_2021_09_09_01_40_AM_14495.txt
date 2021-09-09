@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/align/hg18/maf/chr22.maf.lzo
+####### SIZE: 29044 KB

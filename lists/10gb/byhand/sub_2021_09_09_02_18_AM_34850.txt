@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/borEut13/nib/chr7.nib
+####### SIZE: 55941 KB

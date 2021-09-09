@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/92/NC_008596.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/92/NC_008596.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/92/NC_008596.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/92/NC_008596.Glimmer3.bed
+####### SIZE: 7819 KB

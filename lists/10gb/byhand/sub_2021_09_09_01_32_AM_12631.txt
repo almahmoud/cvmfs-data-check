@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/archFulg1
+/cvmfs/data.galaxyproject.org/byhand/microbes/13960/NC_009789.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/13960/NC_009790.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/13960/NC_009789.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/13960/NC_009786.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/13960/NC_009786.CDS.bed
+####### SIZE: 9875 KB

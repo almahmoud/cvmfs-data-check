@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_glumae_BGR1_uid59397/NC_012721.fna
+####### SIZE: 2801 KB

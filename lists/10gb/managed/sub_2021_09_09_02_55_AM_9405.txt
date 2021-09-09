@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanocella_paludicola_SANAE_uid42887/NC_013665.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanocella_paludicola_SANAE_uid42887
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Alicycliphilus_denitrificans_BC_uid49953/NC_014911.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Alicycliphilus_denitrificans_BC_uid49953/NC_014908.fna
+####### SIZE: 6063 KB

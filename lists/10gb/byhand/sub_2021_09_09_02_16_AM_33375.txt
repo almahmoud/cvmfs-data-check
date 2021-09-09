@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/picard_index
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/bowtie2_index/ailMel1.fa
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/bowtie2_index/ailMel1.3.bt2
+####### SIZE: 7753 KB

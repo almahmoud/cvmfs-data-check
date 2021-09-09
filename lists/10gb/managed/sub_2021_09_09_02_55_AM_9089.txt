@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leptothrix_cholodnii_SP_6_uid58971
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rubrivivax_gelatinosus_IL144_uid158163/NC_017075.fna
+####### SIZE: 9864 KB

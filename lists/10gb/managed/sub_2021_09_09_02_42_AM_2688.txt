@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Phaeobacter_gallaeciensis_uid54715
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Xanthomonas_citri_Aw12879_uid194444/NC_020817.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Xanthomonas_citri_Aw12879_uid194444/NC_020816.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Xanthomonas_citri_Aw12879_uid194444/NC_020815.fna
+####### SIZE: 9477 KB

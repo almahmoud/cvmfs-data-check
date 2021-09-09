@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/nomLeu3/seq/nomLeu3.2bit
+####### SIZE: 755171 KB

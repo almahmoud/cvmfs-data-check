@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/xenTro1/chr22.axt
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/xenTro1/chrE50C23.idx
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/xenTro1/chrZ.axt
+####### SIZE: 3538 KB

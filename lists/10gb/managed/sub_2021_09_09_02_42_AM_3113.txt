@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Vibrio_furnissii_NCTC_11218_uid82347/NC_016602.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Vibrio_furnissii_NCTC_11218_uid82347
+####### SIZE: 8139 KB

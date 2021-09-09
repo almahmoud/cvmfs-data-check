@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ce8/seq/ce8.2bit
+####### SIZE: 25183 KB

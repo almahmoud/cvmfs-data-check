@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/caeRem1/sam_index/caeRem1.fa
+/cvmfs/data.galaxyproject.org/byhand/caeRem1/sam_index/caeRem1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/caeRem1/sam_index
+/cvmfs/data.galaxyproject.org/byhand/caeRem1/picard_index/caeRem1.fa
+/cvmfs/data.galaxyproject.org/byhand/caeRem1/picard_index/caeRem1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/caeRem1/picard_index/caeRem1.dict
+/cvmfs/data.galaxyproject.org/byhand/caeRem1/picard_index
+/cvmfs/data.galaxyproject.org/byhand/caeRem1/bowtie2_index/caeRem1.3.bt2
+/cvmfs/data.galaxyproject.org/byhand/caeRem1/bowtie2_index/caeRem1.fa
+####### SIZE: 1596 KB

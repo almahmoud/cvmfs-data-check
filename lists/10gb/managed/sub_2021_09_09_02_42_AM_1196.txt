@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Xanthomonas_oryzae_oryzicola_BLS256_uid54411/NC_017267.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Xanthomonas_oryzae_oryzicola_BLS256_uid54411
+####### SIZE: 9577 KB

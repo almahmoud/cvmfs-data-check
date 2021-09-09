@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ralstonia_eutropha_H16_uid62925/NC_008313.fna
+####### SIZE: 4014 KB

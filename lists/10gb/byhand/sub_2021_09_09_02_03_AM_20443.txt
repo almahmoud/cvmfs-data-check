@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/cb3/cb3full/bwa_index/cb3full.fa.rsa
+####### SIZE: 13244 KB

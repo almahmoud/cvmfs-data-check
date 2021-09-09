@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/customProDB/omicron-data.duckdns.org/customProDB/ensembl/hsapiens-may2017/ids.RData
+####### SIZE: 2419 KB

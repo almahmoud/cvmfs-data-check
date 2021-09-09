@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/rn4/picard_index/rn4.fa
+/cvmfs/data.galaxyproject.org/byhand/rn4/picard_index/rn4.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/rn4/picard_index/rn4.dict
+/cvmfs/data.galaxyproject.org/byhand/rn4/picard_index
+/cvmfs/data.galaxyproject.org/byhand/rn4/quality_scores/chr1_random.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/rn4/quality_scores/chr6_random.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/rn4/quality_scores/chr16_random.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/rn4/quality_scores/chr14.qa.bqv
+####### SIZE: 9987 KB

@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Parachlamydia_acanthamoebae_UV7_uid68335/NC_015702.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Parachlamydia_acanthamoebae_UV7_uid68335
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shigella_flexneri_2002017_uid159233/NC_017321.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shigella_flexneri_2002017_uid159233/NC_017320.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shigella_flexneri_2002017_uid159233/NC_017319.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shigella_flexneri_2002017_uid159233/NC_017330.fna
+####### SIZE: 6330 KB

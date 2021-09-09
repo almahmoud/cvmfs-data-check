@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg16/align/encode/june2005freeze/tba/human.ENm007.maf
+####### SIZE: 7222 KB

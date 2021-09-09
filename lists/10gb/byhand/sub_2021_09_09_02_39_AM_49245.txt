@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro3/panTro3full/bowtie2_index/panTro3full.rev.2.bt2
+####### SIZE: 708138 KB

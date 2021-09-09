@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/rn3/liftOver/rn3ToHg18.over.chain
+####### SIZE: 235093 KB

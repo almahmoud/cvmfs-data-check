@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/xenTro1/chr14.idx
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/xenTro1/chr15.axt
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/xenTro1/chrM.idx
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/xenTro1/chr1.idx
+####### SIZE: 5322 KB

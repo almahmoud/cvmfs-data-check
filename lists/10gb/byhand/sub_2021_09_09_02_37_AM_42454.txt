@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/dp3/align/dm2/chr4_group4.idx
+/cvmfs/data.galaxyproject.org/byhand/dp3/align/dm2/chr4_group5.axt
+####### SIZE: 3747 KB

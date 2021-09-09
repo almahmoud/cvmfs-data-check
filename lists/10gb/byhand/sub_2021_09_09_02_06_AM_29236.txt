@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/bosTau2/maf/chr19.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/bosTau2/maf/chr17_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/bosTau2/maf/chrY.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/bosTau2/maf/chr11.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/bosTau2/maf/chr18.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/bosTau2/maf/chr8.maf.index
+####### SIZE: 3321 KB

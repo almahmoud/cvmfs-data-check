@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/250/NC_007973.gbk
+####### SIZE: 8988 KB

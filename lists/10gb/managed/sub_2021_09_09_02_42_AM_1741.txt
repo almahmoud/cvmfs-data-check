@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Klebsiella_variicola_At_22_uid42113/NC_013850.fna
+####### SIZE: 5407 KB

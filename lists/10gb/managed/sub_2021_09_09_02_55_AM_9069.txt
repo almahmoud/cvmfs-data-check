@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cylindrospermum_stagnale_PCC_7417_uid183111/NC_019757.fna
+####### SIZE: 6938 KB

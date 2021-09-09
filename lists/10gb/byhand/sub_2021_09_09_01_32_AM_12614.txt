@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/colwPsyc_34H/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/colwPsyc_34H/colwPsyc_34H.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/colwPsyc_34H/chr.tRNA.bed
+####### SIZE: 5329 KB

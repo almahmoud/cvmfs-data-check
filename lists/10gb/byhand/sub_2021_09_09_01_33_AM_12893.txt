@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/9638
+/cvmfs/data.galaxyproject.org/byhand/microbes/heliPylo_26695/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/heliPylo_26695/seq
+####### SIZE: 9960 KB

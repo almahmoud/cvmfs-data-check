@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Jonesia_denitrificans_DSM_20603_uid59053
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_thermocellum_ATCC_27405_uid57917/NC_009012.fna
+####### SIZE: 6536 KB

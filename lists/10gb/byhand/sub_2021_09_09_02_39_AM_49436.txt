@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/fr2/tmp
+/cvmfs/data.galaxyproject.org/byhand/fr2/nib/chrM.nib
+####### SIZE: 14 KB

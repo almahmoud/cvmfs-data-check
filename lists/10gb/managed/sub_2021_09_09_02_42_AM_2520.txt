@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Geobacillus_JF8_uid215234
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Caldivirga_maquilingensis_IC_167_uid58711/NC_009954.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Caldivirga_maquilingensis_IC_167_uid58711
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermococcus_kodakarensis_KOD1_uid58225/NC_006624.fna
+####### SIZE: 9650 KB

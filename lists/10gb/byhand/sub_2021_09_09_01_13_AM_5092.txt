@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/ponAbe2/chr6_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/ponAbe2/chrM.axt
+####### SIZE: 3353 KB

@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/fasta/orthofinder/113.fna
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/fasta/orthofinder/235.faa
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/fasta/orthofinder/2168.faa
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/fasta/orthofinder/18933.fna
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/fasta/orthofinder/10106.faa
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/fasta/orthofinder/608.fna
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/fasta/orthofinder/1401.fna

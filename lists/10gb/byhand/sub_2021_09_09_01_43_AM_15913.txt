@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTau5/liftOver/bosTau5ToBosTau4.over.chain
+/cvmfs/data.galaxyproject.org/byhand/bosTau5/liftOver
+/cvmfs/data.galaxyproject.org/byhand/bosTau5/bowtie_index/cs/bosTau5.fa
+/cvmfs/data.galaxyproject.org/byhand/bosTau5/bowtie_index/cs/bosTau5.3.ebwt
+####### SIZE: 3386 KB

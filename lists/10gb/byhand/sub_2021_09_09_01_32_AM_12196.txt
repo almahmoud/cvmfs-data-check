@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/15770
+/cvmfs/data.galaxyproject.org/byhand/microbes/220/seq/NC_005071.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/220/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/220/NC_005071.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/220/NC_005071.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/220/NC_005071.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/220/NC_005071.Glimmer3.bed
+####### SIZE: 8692 KB

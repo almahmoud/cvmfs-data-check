@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTau3/nib/chr4.nib
+####### SIZE: 54138 KB

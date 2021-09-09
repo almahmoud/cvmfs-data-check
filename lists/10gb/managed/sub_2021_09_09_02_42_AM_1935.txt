@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudomonas_putida_H8234_uid208673
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Campylobacter_coli_15_537360_uid226113/NC_022656.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Campylobacter_coli_15_537360_uid226113/NC_022660.fna
+####### SIZE: 8482 KB

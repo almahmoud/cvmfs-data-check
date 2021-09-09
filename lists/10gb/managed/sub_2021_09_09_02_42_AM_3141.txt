@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Xenorhabdus_nematophila_ATCC_19061_uid49133/NC_014228.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Xenorhabdus_nematophila_ATCC_19061_uid49133
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_trachomatis_L2_434_Bu_f__uid198644/NC_021049.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_trachomatis_L2_434_Bu_f__uid198644/NC_021052.fna
+####### SIZE: 9979 KB

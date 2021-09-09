@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/canFam2/chr2a_random.axt
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/canFam2/chr7_random.axt
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/canFam2/chr19_random.axt
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/canFam2/chr6_hla_hap1.axt
+####### SIZE: 9133 KB

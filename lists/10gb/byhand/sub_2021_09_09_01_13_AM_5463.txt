@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/bosTau3/chr22.axt
+####### SIZE: 34383 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/dp3/maf
+####### SIZE: 214907 KB

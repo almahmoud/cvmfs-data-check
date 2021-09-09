@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/droVir2/bowtie_index/droVir2.4.ebwt
+####### SIZE: 46366 KB

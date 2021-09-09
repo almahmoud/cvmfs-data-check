@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudomonas_mendocina_NK_01_uid66299
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Kinetoplastibacterium_oncopeltii_TCC290E_uid189840/NC_020299.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Kinetoplastibacterium_oncopeltii_TCC290E_uid189840
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Helicobacter_cinaedi_ATCC_BAA_847_uid193765/NC_020555.fna
+####### SIZE: 9218 KB

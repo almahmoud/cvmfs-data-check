@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nt/17apr2014/nt.08.nhi
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nt/17apr2014/md5.source
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nt/17apr2014/nt.04.nhi
+####### SIZE: 1153 KB

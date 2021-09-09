@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38female/bwa_index_v0.5.9-r16/hg38female.fa.rsa
+####### SIZE: 370003 KB

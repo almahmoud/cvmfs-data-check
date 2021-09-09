@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/droAna3/sam_index/droAna3.fa
+/cvmfs/data.galaxyproject.org/byhand/droAna3/sam_index/droAna3.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/droAna3/sam_index
+/cvmfs/data.galaxyproject.org/byhand/droAna3/picard_index/droAna3.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/droAna3/picard_index/droAna3.fa
+/cvmfs/data.galaxyproject.org/byhand/droAna3/picard_index/droAna3.dict
+/cvmfs/data.galaxyproject.org/byhand/droAna3/picard_index
+/cvmfs/data.galaxyproject.org/byhand/droAna3/bowtie2_index/droAna3.fa
+/cvmfs/data.galaxyproject.org/byhand/droAna3/bowtie2_index/droAna3.3.bt2
+####### SIZE: 3233 KB

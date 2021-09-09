@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/hg18/maf/broken_indices/chr14.maf.index
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/hg18/maf/broken_indices/chr7.maf.index
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/hg18/maf/broken_indices/chr23.maf.index
+####### SIZE: 3248 KB

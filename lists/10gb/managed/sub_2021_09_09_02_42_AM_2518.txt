@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pirellula_staleyi_DSM_6068_uid43209
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Geobacillus_C56_T3_uid49467/NC_014206.fna
+####### SIZE: 9760 KB

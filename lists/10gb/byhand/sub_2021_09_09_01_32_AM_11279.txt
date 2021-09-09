@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/yersPest_CO92/chr.gbk
+####### SIZE: 13145 KB

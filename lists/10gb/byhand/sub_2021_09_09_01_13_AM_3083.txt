@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ce10/bowtie2_index
+####### SIZE: 146942 KB

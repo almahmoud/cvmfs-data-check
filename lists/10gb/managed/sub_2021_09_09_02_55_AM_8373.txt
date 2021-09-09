@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermodesulfatator_indicus_DSM_15286_uid68285/NC_015681.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermodesulfatator_indicus_DSM_15286_uid68285
+####### SIZE: 4606 KB

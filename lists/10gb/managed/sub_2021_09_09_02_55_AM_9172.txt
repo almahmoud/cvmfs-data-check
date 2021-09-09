@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Marinobacter_BSs20148_uid171995/NC_018268.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Marinobacter_BSs20148_uid171995
+####### SIZE: 8056 KB

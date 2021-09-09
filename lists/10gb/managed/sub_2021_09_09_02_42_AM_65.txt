@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/papAnu2/papAnu2.fa
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/papAnu2/papAnu2.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/papAnu2/papAnu2.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/papAnu2/papAnu2.3.ht2
+####### SIZE: 1787 KB

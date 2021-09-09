@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/calJac1/picard_index
+/cvmfs/data.galaxyproject.org/byhand/calJac1/bowtie2_index/calJac1.fa
+####### SIZE: 7993 KB

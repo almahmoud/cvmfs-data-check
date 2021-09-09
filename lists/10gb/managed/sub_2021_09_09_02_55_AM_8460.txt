@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Alistipes_shahii_WAL_8301_uid197175/NC_021030.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Alistipes_shahii_WAL_8301_uid197175
+####### SIZE: 7461 KB

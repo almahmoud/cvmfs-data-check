@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/anoCar2/bwa_index/anoCar2.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/anoCar2/bwa_index/anoCar2.fa.amb
+####### SIZE: 872 KB

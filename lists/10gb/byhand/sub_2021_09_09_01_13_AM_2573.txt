@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/papHam1/chr6_mcf_hap5.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/papHam1/chrUn_gl000225.axt
+####### SIZE: 5998 KB

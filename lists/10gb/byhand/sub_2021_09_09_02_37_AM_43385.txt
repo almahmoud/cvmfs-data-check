@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer2/chrom/chr22.fa
+####### SIZE: 36591 KB

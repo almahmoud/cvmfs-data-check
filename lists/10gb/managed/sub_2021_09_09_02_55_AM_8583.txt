@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mannheimia_haemolytica_USDA_ARS_SAM_185_uid195457
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mannheimia_haemolytica_M42548_uid198769/NC_021082.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mannheimia_haemolytica_M42548_uid198769
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_amyloliquefaciens_IT_45_uid181617/NC_020273.fna
+####### SIZE: 7953 KB

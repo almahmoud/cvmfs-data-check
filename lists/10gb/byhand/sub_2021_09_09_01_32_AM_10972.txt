@@ -1,0 +1,22 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsEutr_JMP134/megaplasmid.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsEutr_JMP134/chr1.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsEutr_JMP134/plasmid_1.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsEutr_JMP134/plasmid_1.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsEutr_JMP134/chr1.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsEutr_JMP134/chr2.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsEutr_JMP134/chr2.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsEutr_JMP134/megaplasmid.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsEutr_JMP134/chr1.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsEutr_JMP134/chr2.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsEutr_JMP134/ralsEutr_JMP134.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsEutr_JMP134/megaplasmid.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsEutr_JMP134/megaplasmid.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsEutr_JMP134/megaplasmid.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsEutr_JMP134/plasmid_1.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsEutr_JMP134/chr2.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsEutr_JMP134/chr1.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsEutr_JMP134/megaplasmid.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsEutr_JMP134/plasmid_1.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsEutr_JMP134/plasmid_1.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsEutr_JMP134/chr1.Glimmer3
+####### SIZE: 9222 KB

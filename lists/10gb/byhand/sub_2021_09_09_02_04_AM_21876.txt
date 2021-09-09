@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/hg18/maf/chr7.maf
+####### SIZE: 288685 KB

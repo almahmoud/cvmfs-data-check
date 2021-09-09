@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/methVann1
+/cvmfs/data.galaxyproject.org/byhand/microbes/17155/seq/NC_009443.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/17155/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/17155/NC_009443.GeneMark.bed
+####### SIZE: 9689 KB

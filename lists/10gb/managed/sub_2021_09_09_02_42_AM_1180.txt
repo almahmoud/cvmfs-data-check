@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Escherichia_blattae_DSM_4481_uid165043
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Buchnera_aphidicola_JF99__Acyrthosiphon_pisum__uid158847/NC_017253.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Buchnera_aphidicola_JF99__Acyrthosiphon_pisum__uid158847
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Dehalococcoides_ethenogenes_195_uid57763/NC_002936.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Dehalococcoides_ethenogenes_195_uid57763
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_cereus_AH820_uid58751/NC_011777.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_cereus_AH820_uid58751/NC_011776.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_cereus_AH820_uid58751/NC_011771.fna
+####### SIZE: 8603 KB

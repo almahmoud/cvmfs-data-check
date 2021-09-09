@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/CpipJ1/sam_index/CpipJ1.fa
+/cvmfs/data.galaxyproject.org/byhand/CpipJ1/sam_index/CpipJ1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/CpipJ1/sam_index
+####### SIZE: 242 KB

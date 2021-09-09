@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTau4/bwa_index/bosTau4.fa.bwt
+####### SIZE: 1068595 KB

@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_amyloliquefaciens_plantarum_UCMB5113_uid215236
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Polaromonas_naphthalenivorans_CJ2_uid58273/NC_008762.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Polaromonas_naphthalenivorans_CJ2_uid58273/NC_008757.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Polaromonas_naphthalenivorans_CJ2_uid58273/NC_008759.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Polaromonas_naphthalenivorans_CJ2_uid58273/NC_008760.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Polaromonas_naphthalenivorans_CJ2_uid58273/NC_008764.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Polaromonas_naphthalenivorans_CJ2_uid58273/NC_008761.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Polaromonas_naphthalenivorans_CJ2_uid58273/NC_008758.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Polaromonas_naphthalenivorans_CJ2_uid58273/NC_008763.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Polaromonas_naphthalenivorans_CJ2_uid58273/NC_008781.fna
+####### SIZE: 9179 KB

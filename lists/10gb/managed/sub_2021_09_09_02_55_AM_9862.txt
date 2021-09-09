@@ -1,0 +1,12 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_tuberculosis_UT205_uid162183/NC_016934.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_tuberculosis_UT205_uid162183
+/cvmfs/data.galaxyproject.org/managed/kraken_database/viruses/Viruses/taxonomy/gimap.dlflag
+/cvmfs/data.galaxyproject.org/managed/kraken_database/viruses/Viruses/taxonomy/division.dmp
+/cvmfs/data.galaxyproject.org/managed/kraken_database/viruses/Viruses/taxonomy/taxdump.flag
+/cvmfs/data.galaxyproject.org/managed/kraken_database/viruses/Viruses/taxonomy/merged.dmp
+/cvmfs/data.galaxyproject.org/managed/kraken_database/viruses/Viruses/taxonomy/gimap.flag
+/cvmfs/data.galaxyproject.org/managed/kraken_database/viruses/Viruses/taxonomy/gencode.dmp
+/cvmfs/data.galaxyproject.org/managed/kraken_database/viruses/Viruses/taxonomy/taxdump.dlflag
+/cvmfs/data.galaxyproject.org/managed/kraken_database/viruses/Viruses/taxonomy/gc.prt
+/cvmfs/data.galaxyproject.org/managed/kraken_database/viruses/Viruses/taxonomy/readme.txt
+####### SIZE: 9419 KB

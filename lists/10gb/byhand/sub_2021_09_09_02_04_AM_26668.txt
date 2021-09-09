@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.07.nsd
+####### SIZE: 18082 KB

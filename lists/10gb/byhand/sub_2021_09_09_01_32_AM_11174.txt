@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/16401
+/cvmfs/data.galaxyproject.org/byhand/microbes/caldMaqu1/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/caldMaqu1/seq
+####### SIZE: 9998 KB

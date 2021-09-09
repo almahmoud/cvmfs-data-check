@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Stenotrophomonas_maltophilia_R551_3_uid58657/NC_011071.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Stenotrophomonas_maltophilia_R551_3_uid58657
+####### SIZE: 9067 KB

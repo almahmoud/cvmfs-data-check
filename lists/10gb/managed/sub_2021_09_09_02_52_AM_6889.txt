@@ -1,0 +1,27 @@
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/26Gv2.0/hmms/orthofinder/3719.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/26Gv2.0/hmms/orthofinder/9737.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/26Gv2.0/hmms/orthofinder/16096.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/26Gv2.0/hmms/orthofinder/12078.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/26Gv2.0/hmms/orthofinder/160.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/26Gv2.0/hmms/orthofinder/3911.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/26Gv2.0/hmms/orthofinder/6805.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/26Gv2.0/hmms/orthofinder/11742.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/26Gv2.0/hmms/orthofinder/8071.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/26Gv2.0/hmms/orthofinder/17062.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/26Gv2.0/hmms/orthofinder/5865.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/26Gv2.0/hmms/orthofinder/9359.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/26Gv2.0/hmms/orthofinder/7096.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/26Gv2.0/hmms/orthofinder/8883.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/26Gv2.0/hmms/orthofinder/14638.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/26Gv2.0/hmms/orthofinder/1477.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/26Gv2.0/hmms/orthofinder/11267.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/26Gv2.0/hmms/orthofinder/7081.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/26Gv2.0/hmms/orthofinder/11781.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/26Gv2.0/hmms/orthofinder/9767.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/26Gv2.0/hmms/orthofinder/5887.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/26Gv2.0/hmms/orthofinder/16167.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/26Gv2.0/hmms/orthofinder/244.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/26Gv2.0/hmms/orthofinder/17158.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/26Gv2.0/hmms/orthofinder/16065.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/26Gv2.0/hmms/orthofinder/10747.hmm
+####### SIZE: 9679 KB

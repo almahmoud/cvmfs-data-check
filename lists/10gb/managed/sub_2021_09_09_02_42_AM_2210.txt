@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Marivirga_tractuosa_DSM_4126_uid60837/NC_014759.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Marivirga_tractuosa_DSM_4126_uid60837/NC_014750.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Marivirga_tractuosa_DSM_4126_uid60837
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_marinum_M_uid59423/NC_010604.fna
+####### SIZE: 8977 KB

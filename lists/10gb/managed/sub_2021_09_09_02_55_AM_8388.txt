@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_anthracis_Sterne_uid58091
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rickettsia_rickettsii_Iowa_uid58961/NC_010263.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rickettsia_rickettsii_Iowa_uid58961
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acetobacter_pasteurianus_IFO_3283_22_uid158383/NC_017129.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acetobacter_pasteurianus_IFO_3283_22_uid158383/NC_017128.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acetobacter_pasteurianus_IFO_3283_22_uid158383/NC_017127.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acetobacter_pasteurianus_IFO_3283_22_uid158383/NC_017117.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acetobacter_pasteurianus_IFO_3283_22_uid158383/NC_017126.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acetobacter_pasteurianus_IFO_3283_22_uid158383/NC_017145.fna
+####### SIZE: 8134 KB

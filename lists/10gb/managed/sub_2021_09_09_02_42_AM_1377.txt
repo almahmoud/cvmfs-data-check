@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_difficile_630_uid57679/NC_009089.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_difficile_630_uid57679
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Buchnera_aphidicola_APS__Acyrthosiphon_pisum__uid57805/NC_002528.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Buchnera_aphidicola_APS__Acyrthosiphon_pisum__uid57805/NC_002253.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Buchnera_aphidicola_APS__Acyrthosiphon_pisum__uid57805/NC_002252.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Buchnera_aphidicola_APS__Acyrthosiphon_pisum__uid57805
+####### SIZE: 9819 KB

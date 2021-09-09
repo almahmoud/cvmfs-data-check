@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/multiz15way/chr3R.maf.index
+####### SIZE: 79241 KB

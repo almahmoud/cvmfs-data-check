@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/strPur3/srma_index/strPur3.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/strPur3/srma_index/strPur3.fa
+/cvmfs/data.galaxyproject.org/byhand/strPur3/srma_index/strPur3.dict
+####### SIZE: 5966 KB

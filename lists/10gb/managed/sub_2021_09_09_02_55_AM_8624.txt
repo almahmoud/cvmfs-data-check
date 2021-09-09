@@ -1,0 +1,25 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_indicus_pranii_MTCC_9506_uid175523
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Dichelobacter_nodosus_VCS1703A_uid57643/NC_009446.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Dichelobacter_nodosus_VCS1703A_uid57643
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_burgdorferi_JD1_uid161197/NC_017412.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_burgdorferi_JD1_uid161197/NC_017394.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_burgdorferi_JD1_uid161197/NC_017393.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_burgdorferi_JD1_uid161197/NC_017403.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_burgdorferi_JD1_uid161197/NC_017395.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_burgdorferi_JD1_uid161197/NC_017396.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_burgdorferi_JD1_uid161197/NC_017397.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_burgdorferi_JD1_uid161197/NC_017427.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_burgdorferi_JD1_uid161197/NC_017413.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_burgdorferi_JD1_uid161197/NC_017426.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_burgdorferi_JD1_uid161197/NC_017407.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_burgdorferi_JD1_uid161197/NC_017410.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_burgdorferi_JD1_uid161197/NC_017404.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_burgdorferi_JD1_uid161197/NC_017409.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_burgdorferi_JD1_uid161197/NC_017405.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_burgdorferi_JD1_uid161197/NC_017428.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_burgdorferi_JD1_uid161197/NC_017408.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_burgdorferi_JD1_uid161197/NC_017425.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_burgdorferi_JD1_uid161197/NC_017406.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_burgdorferi_JD1_uid161197/NC_013129.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_burgdorferi_JD1_uid161197/NC_017411.fna
+####### SIZE: 9827 KB

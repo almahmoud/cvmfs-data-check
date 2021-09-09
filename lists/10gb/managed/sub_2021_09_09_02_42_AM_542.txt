@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/sacCer3/sacCer3.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/sacCer3/sacCer3.fa
+####### SIZE: 8055 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsSola/chr.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsSola/chr.tRNA.bed
+####### SIZE: 9344 KB

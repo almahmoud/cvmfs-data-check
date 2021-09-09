@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/gasAcu1/bwa_index/gasAcu1.fa
+/cvmfs/data.galaxyproject.org/byhand/gasAcu1/bwa_index/gasAcu1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/gasAcu1/bwa_index/gasAcu1.fa.amb
+####### SIZE: 269 KB

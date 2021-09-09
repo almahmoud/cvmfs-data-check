@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bifidobacterium_breve_ACS_071_V_Sch8b_uid158863
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halothiobacillus_neapolitanus_c2_uid41317/NC_013422.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halothiobacillus_neapolitanus_c2_uid41317
+####### SIZE: 7433 KB

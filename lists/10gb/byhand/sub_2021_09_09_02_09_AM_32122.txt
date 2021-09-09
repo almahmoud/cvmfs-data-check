@@ -1,0 +1,14 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/geobSulf/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/geobSulf/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/geobSulf/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/geobSulf/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/geobSulf/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/geobSulf/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/geobSulf/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/geobSulf/geobSulf.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/geobSulf/chr.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/geobSulf/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/geobSulf/chr.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/geobSulf/chr.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/geobSulf/chr.fna
+####### SIZE: 7398 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanosalsum_zhilinae_DSM_4017_uid68249/NC_015676.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanosalsum_zhilinae_DSM_4017_uid68249
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Geobacter_M18_uid55771/NC_014973.fna
+####### SIZE: 9470 KB

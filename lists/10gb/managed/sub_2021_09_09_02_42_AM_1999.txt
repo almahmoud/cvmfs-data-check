@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_pyogenes_MGAS6180_uid58335/NC_007296.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_pyogenes_MGAS6180_uid58335
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Agrobacterium_vitis_S4_uid58249/NC_011982.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Agrobacterium_vitis_S4_uid58249/NC_011991.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Agrobacterium_vitis_S4_uid58249/NC_011984.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Agrobacterium_vitis_S4_uid58249/NC_011986.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Agrobacterium_vitis_S4_uid58249/NC_011981.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Agrobacterium_vitis_S4_uid58249/NC_011989.fna
+####### SIZE: 8759 KB

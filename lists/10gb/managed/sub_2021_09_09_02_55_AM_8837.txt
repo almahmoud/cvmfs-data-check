@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Neisseria_meningitidis_alpha710_uid161971/NC_017505.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Neisseria_meningitidis_alpha710_uid161971
+####### SIZE: 4449 KB

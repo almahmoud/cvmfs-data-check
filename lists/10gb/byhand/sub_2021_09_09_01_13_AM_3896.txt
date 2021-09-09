@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/canFam1/chr13.axt
+####### SIZE: 80626 KB

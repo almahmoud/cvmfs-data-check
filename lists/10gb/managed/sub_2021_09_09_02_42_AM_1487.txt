@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Prochlorococcus_marinus_MIT_9313_uid57773
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Anaplasma_marginale_Gypsy_Plains_uid227217/NC_022784.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Anaplasma_marginale_Gypsy_Plains_uid227217
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Campylobacter_jejuni_4031_uid222817/NC_022529.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Campylobacter_jejuni_4031_uid222817
+####### SIZE: 8086 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudomonas_aeruginosa_PAO581_uid219357
+####### SIZE: 5992 KB

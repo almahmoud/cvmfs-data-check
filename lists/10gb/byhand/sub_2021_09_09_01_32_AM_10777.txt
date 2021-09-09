@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/17407/NC_010087.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/17407/NC_010084.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/17407/NC_010084.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/17407/NC_010070.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/17407/NC_010070.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/17407/NC_010086.gbk
+####### SIZE: 8494 KB

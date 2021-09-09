@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/259/bowtie_index/cs/eschColi_EDL933.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/259/bowtie_index/cs/eschColi_EDL933.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/259/bowtie_index/cs/eschColi_EDL933.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/259/bowtie_index/cs/eschColi_EDL933.rev.1.ebwt
+####### SIZE: 7768 KB

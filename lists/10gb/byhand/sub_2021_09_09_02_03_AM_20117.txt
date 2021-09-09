@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/multiz15way/chrM.maf
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/multiz15way/README.txt
+####### SIZE: 471 KB

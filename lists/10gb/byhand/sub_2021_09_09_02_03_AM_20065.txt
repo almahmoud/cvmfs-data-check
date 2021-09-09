@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/dm2/tmp
+/cvmfs/data.galaxyproject.org/byhand/dm2/nib/chr3h.nib
+/cvmfs/data.galaxyproject.org/byhand/dm2/nib/chrU.nib
+####### SIZE: 5710 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/mm5/tmp/chr19_random.fa
+/cvmfs/data.galaxyproject.org/byhand/mm5/tmp/chrM.fa
+####### SIZE: 6888 KB

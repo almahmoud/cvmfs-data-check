@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/xenTro2/bowtie2_index
+####### SIZE: 1896127 KB

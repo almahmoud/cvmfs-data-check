@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Colwellia_psychrerythraea_34H_uid57855
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Oligotropha_carboxidovorans_OM5_uid59155/NC_011386.fna
+####### SIZE: 9038 KB

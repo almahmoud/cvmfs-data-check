@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Neisseria_meningitidis_NZ_05_33_uid162077/NC_017518.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Neisseria_meningitidis_NZ_05_33_uid162077
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Riemerella_anatipestifer_RA_CH_2_uid186548/NC_020125.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Riemerella_anatipestifer_RA_CH_2_uid186548
+####### SIZE: 8758 KB

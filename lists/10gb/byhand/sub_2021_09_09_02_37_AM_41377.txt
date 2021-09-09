@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/canFam2/maf/chr7.maf.index
+####### SIZE: 3012 KB

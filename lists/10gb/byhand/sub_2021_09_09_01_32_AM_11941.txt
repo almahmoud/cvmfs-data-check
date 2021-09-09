@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkThai_E264/chrI.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkThai_E264/chrI.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkThai_E264/chrII.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkThai_E264/chrII.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkThai_E264/chrI.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkThai_E264/chrI.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkThai_E264/chrII.fna
+####### SIZE: 8541 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/liftOver/hg19ToProCap1.over.chain
+####### SIZE: 200970 KB

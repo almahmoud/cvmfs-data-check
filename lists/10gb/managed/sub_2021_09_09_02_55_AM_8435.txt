@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pasteurella_multocida_3480_uid161955/NC_017764.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pasteurella_multocida_3480_uid161955
+####### SIZE: 4717 KB

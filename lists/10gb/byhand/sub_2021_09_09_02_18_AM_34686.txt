@@ -1,0 +1,15 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab2/bowtie_index/equCab2chrM.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/equCab2/bowtie_index/equCab2.fa
+/cvmfs/data.galaxyproject.org/byhand/equCab2/bowtie_index/chrM.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/equCab2/bowtie_index/equCab2chrM.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/equCab2/bowtie_index/equCab2.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/equCab2/bowtie_index/chrM.fa
+/cvmfs/data.galaxyproject.org/byhand/equCab2/bowtie_index/chrM.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/equCab2/bowtie_index/chrM.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/equCab2/bowtie_index/equCab2chrM.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/equCab2/bowtie_index/chrM.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/equCab2/bowtie_index/equCab2chrM.fa
+/cvmfs/data.galaxyproject.org/byhand/equCab2/bowtie_index/equCab2chrM.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/equCab2/bowtie_index/chrM.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/equCab2/bowtie_index/chrM.4.ebwt
+####### SIZE: 8708 KB

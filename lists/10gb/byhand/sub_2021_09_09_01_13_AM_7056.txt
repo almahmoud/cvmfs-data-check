@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro1/nib/chr3.nib
+####### SIZE: 102375 KB

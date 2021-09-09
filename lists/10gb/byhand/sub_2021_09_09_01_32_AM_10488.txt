@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ce2/seq/ce2.2bit
+####### SIZE: 25177 KB

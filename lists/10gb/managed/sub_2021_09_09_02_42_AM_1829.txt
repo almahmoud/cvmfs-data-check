@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Dyadobacter_fermentans_DSM_18053_uid59049
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aminobacterium_colombiense_DSM_12261_uid47083/NC_014011.fna
+####### SIZE: 8869 KB

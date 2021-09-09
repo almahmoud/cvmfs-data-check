@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Oligotropha_carboxidovorans_OM5_uid72795/NC_015684.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Oligotropha_carboxidovorans_OM5_uid72795
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactobacillus_plantarum_ZJ316_uid188689/NC_021903.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactobacillus_plantarum_ZJ316_uid188689/NC_021904.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactobacillus_plantarum_ZJ316_uid188689/NC_021912.fna
+####### SIZE: 7524 KB

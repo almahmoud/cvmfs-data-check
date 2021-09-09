@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/petMar1
+####### SIZE: 151469 KB

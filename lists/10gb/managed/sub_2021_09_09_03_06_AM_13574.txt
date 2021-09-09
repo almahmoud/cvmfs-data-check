@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/26Gv2.0/26Gv2.0.taxaLineage.config
+####### SIZE: 2 KB

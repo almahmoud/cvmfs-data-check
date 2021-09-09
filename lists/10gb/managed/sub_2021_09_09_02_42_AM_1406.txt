@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Isoptericola_variabilis_225_uid67501
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aerococcus_urinae_ACS_120_V_Col10a_uid64757/NC_015278.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aerococcus_urinae_ACS_120_V_Col10a_uid64757
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Frankia_symbiont_of_Datisca_glomerata_uid46257/NC_015657.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Frankia_symbiont_of_Datisca_glomerata_uid46257/NC_015664.fna
+####### SIZE: 7428 KB

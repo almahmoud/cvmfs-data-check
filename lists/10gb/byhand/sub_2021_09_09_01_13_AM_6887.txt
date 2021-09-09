@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/fr1/liftOver/fr1ToFr2.over.chain
+####### SIZE: 6029 KB

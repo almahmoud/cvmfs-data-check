@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_gilvum_Spyr1_uid61403/NC_014814.fna
+####### SIZE: 5496 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/md5.diff.download_v_source
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.37.nni
+####### SIZE: 20 KB

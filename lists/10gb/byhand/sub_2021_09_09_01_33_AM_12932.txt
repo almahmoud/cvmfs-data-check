@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/pyroIsla1
+/cvmfs/data.galaxyproject.org/byhand/microbes/13282/seq/NC_006576.nib
+####### SIZE: 9574 KB

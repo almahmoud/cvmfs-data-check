@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/customProDB/omicron-data.duckdns.org/customProDB/ensembl/scerevisiae-dec2013/exon_anno.RData
+/cvmfs/data.galaxyproject.org/byhand/customProDB/omicron-data.duckdns.org/customProDB/ensembl/scerevisiae-dec2013/procodingseq.RData
+/cvmfs/data.galaxyproject.org/byhand/customProDB/omicron-data.duckdns.org/customProDB/ensembl/scerevisiae-dec2013/proseq.RData
+/cvmfs/data.galaxyproject.org/byhand/customProDB/omicron-data.duckdns.org/customProDB/ensembl/scerevisiae-dec2013/ids.RData
+####### SIZE: 5118 KB

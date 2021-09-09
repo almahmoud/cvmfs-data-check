@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/photProf_SS9/chr2.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/photProf_SS9/chr1.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/photProf_SS9/chr2.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/photProf_SS9/chr2.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/photProf_SS9/chr1.fna
+####### SIZE: 9214 KB

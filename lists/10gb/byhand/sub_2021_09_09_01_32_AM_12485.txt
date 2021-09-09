@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/15766
+/cvmfs/data.galaxyproject.org/byhand/microbes/13040/seq/NC_008043.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/13040/seq/NC_008042.nib
+####### SIZE: 9128 KB

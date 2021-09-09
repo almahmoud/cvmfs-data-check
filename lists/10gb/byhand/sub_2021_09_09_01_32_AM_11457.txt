@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/44/NC_005955.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/44/NC_005955.fna
+####### SIZE: 4988 KB

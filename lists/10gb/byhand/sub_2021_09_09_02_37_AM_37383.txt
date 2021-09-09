@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/eriEur1/liftOver
+/cvmfs/data.galaxyproject.org/byhand/eriEur1/.cvmfscatalog
+####### SIZE: 6 KB

@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/align/fr1/maf/chr19.maf.index
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/align/fr1/maf/chr11.maf.index
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/align/fr1/maf/chr18.maf.index
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/align/fr1/maf/chr8.maf.index
+####### SIZE: 242 KB

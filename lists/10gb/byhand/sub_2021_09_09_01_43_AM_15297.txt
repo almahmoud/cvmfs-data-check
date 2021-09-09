@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/priPac1/seq/priPac1.2bit
+####### SIZE: 43254 KB

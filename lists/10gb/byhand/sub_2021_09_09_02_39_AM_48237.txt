@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/encode_relabeled/tba/ENr122
+####### SIZE: 9651 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/dasNov1/bwa_index/dasNov1.fa.pac
+####### SIZE: 941597 KB

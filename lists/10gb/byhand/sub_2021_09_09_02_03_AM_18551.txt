@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/multiz30way/maf/chr7.maf.gz
+####### SIZE: 501791 KB

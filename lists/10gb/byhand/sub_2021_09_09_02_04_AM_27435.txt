@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.106.nnd
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.50.nhi
+####### SIZE: 3022 KB

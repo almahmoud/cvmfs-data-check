@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam2/nib/chr38.nib
+####### SIZE: 13134 KB

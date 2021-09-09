@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/magnMC1/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/magnMC1/chr.tRNA.bed
+####### SIZE: 4678 KB

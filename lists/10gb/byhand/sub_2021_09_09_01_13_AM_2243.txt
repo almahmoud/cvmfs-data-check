@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/dipOrd1/chrUn_gl000217.axt
+####### SIZE: 100 KB

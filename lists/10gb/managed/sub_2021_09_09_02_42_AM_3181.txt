@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_clariflavum_DSM_19732_uid82345/NC_016627.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_clariflavum_DSM_19732_uid82345
+####### SIZE: 9708 KB

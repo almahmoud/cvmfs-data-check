@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acidiphilium_cryptum_JF_5_uid58447/NC_009468.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acidiphilium_cryptum_JF_5_uid58447/NC_009469.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acidiphilium_cryptum_JF_5_uid58447/NC_009484.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acidiphilium_cryptum_JF_5_uid58447
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Fibrella_aestuarina_uid178352/NC_019012.fna
+####### SIZE: 7727 KB

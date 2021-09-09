@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/droYak1/seq/chr2R.nib
+####### SIZE: 10395 KB

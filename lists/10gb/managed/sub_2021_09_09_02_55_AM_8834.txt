@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Mycoplasma_haemolamae_Purdue_uid171259
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Dickeya_zeae_Ech1591_uid59297/NC_012912.fna
+####### SIZE: 5524 KB

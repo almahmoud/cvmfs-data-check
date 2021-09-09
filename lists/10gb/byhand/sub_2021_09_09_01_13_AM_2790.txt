@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rn4/chr14.axt
+####### SIZE: 74880 KB

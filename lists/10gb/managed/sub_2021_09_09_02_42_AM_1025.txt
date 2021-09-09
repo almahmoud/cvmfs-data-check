@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/droBip2.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/rhiBie1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/droEug2.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/cynSem1.len
+####### SIZE: 2792 KB

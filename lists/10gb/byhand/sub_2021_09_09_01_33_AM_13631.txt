@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToGasAcu1.over.chain
+####### SIZE: 12645 KB

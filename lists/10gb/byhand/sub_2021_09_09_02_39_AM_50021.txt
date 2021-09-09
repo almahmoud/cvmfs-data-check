@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/hg38/sam_index/hg38canon.fa
+/cvmfs/data.galaxyproject.org/byhand/hg38/sam_index/hg38.fa
+/cvmfs/data.galaxyproject.org/byhand/hg38/sam_index/hg38canon.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/hg38/sam_index/hg38.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/hg38/sam_index
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38canon/bwa_index_v0.5.9-r16/hg38canon.fa
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38canon/bwa_index_v0.5.9-r16/hg38canon.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38canon/bwa_index_v0.5.9-r16/hg38canon.fa.amb
+####### SIZE: 67 KB

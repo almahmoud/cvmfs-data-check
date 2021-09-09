@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pantoea_ananatis_AJ13355_uid162073/NC_017531.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pantoea_ananatis_AJ13355_uid162073
+####### SIZE: 9349 KB

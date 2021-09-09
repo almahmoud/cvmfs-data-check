@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/Arabidopsis_thaliana_TAIR9/sam_index/Arabidopsis_thaliana_TAIR9.fa
+/cvmfs/data.galaxyproject.org/byhand/Arabidopsis_thaliana_TAIR9/sam_index/Arabidopsis_thaliana_TAIR9.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/Arabidopsis_thaliana_TAIR9/sam_index
+/cvmfs/data.galaxyproject.org/byhand/Arabidopsis_thaliana_TAIR9/picard_index/Arabidopsis_thaliana_TAIR9.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/Arabidopsis_thaliana_TAIR9/picard_index/Arabidopsis_thaliana_TAIR9.fa
+/cvmfs/data.galaxyproject.org/byhand/Arabidopsis_thaliana_TAIR9/picard_index/Arabidopsis_thaliana_TAIR9.dict
+/cvmfs/data.galaxyproject.org/byhand/Arabidopsis_thaliana_TAIR9/picard_index
+/cvmfs/data.galaxyproject.org/byhand/Arabidopsis_thaliana_TAIR9/bowtie2_index/Arabidopsis_thaliana_TAIR9.fa
+/cvmfs/data.galaxyproject.org/byhand/Arabidopsis_thaliana_TAIR9/bowtie2_index/Arabidopsis_thaliana_TAIR9.3.bt2
+####### SIZE: 22 KB

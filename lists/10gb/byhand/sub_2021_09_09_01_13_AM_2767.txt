@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rn4/maf/chr5.maf
+####### SIZE: 152972 KB

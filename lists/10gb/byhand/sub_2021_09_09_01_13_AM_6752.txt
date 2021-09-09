@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/bwa_index/rheMac3.fa
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/bwa_index/rheMac3.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/bwa_index/rheMac3.fa.ann
+####### SIZE: 7999 KB

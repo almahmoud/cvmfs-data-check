@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm10/chrom/chr15.fa
+####### SIZE: 103638 KB

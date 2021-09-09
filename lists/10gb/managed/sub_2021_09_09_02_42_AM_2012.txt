@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Prochlorococcus_marinus_AS9601_uid58307
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bdellovibrio_bacteriovorus_Tiberius_uid182482/NC_019567.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bdellovibrio_bacteriovorus_Tiberius_uid182482
+####### SIZE: 9566 KB

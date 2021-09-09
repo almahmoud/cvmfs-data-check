@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro1/align/mm6/chr21_random.idx
+####### SIZE: 65 KB

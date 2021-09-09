@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_cytotoxicus_NVH_391_98_uid58317
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudovibrio_FO_BEG1_uid82373/NC_016646.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudovibrio_FO_BEG1_uid82373/NC_016642.fna
+####### SIZE: 9923 KB

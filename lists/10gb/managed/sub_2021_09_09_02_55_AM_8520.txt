@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haliangium_ochraceum_DSM_14365_uid41425
+####### SIZE: 9362 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodopseudomonas_palustris_BisA53_uid58445
+####### SIZE: 5458 KB

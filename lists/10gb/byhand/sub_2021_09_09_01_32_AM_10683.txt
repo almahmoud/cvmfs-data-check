@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/pyrFur2
+/cvmfs/data.galaxyproject.org/byhand/microbes/59/NC_010175.GeneMark.bed
+####### SIZE: 8553 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bordetella_pertussis_CS_uid158859/NC_017223.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bordetella_pertussis_CS_uid158859
+####### SIZE: 8176 KB

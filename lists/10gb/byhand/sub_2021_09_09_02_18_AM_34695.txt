@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/dp4/sam_index/dp4.fa
+/cvmfs/data.galaxyproject.org/byhand/dp4/sam_index/dp4.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/dp4/sam_index
+/cvmfs/data.galaxyproject.org/byhand/dp4/picard_index/dp4.fa
+/cvmfs/data.galaxyproject.org/byhand/dp4/picard_index/dp4.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/dp4/picard_index/dp4.dict
+/cvmfs/data.galaxyproject.org/byhand/dp4/picard_index
+/cvmfs/data.galaxyproject.org/byhand/dp4/bowtie2_index/dp4.fa
+####### SIZE: 1214 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/choHof1/bwa_index/choHof1.fa
+/cvmfs/data.galaxyproject.org/byhand/choHof1/bwa_index/choHof1.fa.amb
+####### SIZE: 7885 KB

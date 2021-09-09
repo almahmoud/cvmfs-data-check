@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/therVolc1
+/cvmfs/data.galaxyproject.org/byhand/microbes/17639/seq/NC_009719.nib
+####### SIZE: 8495 KB

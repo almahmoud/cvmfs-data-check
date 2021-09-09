@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Oscillatoria_acuminata_PCC_6304_uid183003/NC_019693.fna
+####### SIZE: 7617 KB

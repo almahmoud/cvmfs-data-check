@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/felCat3/chr8.axt
+####### SIZE: 116763 KB

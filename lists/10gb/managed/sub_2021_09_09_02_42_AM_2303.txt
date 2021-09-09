@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermoanaerobacter_brockii_finnii_Ako_1_uid55639
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Prochlorococcus_marinus_CCMP1375_uid57995/NC_005042.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Prochlorococcus_marinus_CCMP1375_uid57995
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Prochlorococcus_marinus_MIT_9215_uid58819/NC_009840.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Prochlorococcus_marinus_MIT_9215_uid58819
+####### SIZE: 9253 KB

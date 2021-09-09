@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/anoGam1/chr3L.axt
+####### SIZE: 11278 KB

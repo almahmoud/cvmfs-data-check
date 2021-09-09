@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/eschColi_K12
+####### SIZE: 14618 KB

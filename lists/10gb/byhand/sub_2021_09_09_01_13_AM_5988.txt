@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/equCab1/chrX_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/equCab1/chr3_random.axt
+####### SIZE: 1914 KB

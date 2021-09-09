@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/rheMac2/maf/chrX_random.maf
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/rheMac2/maf/chr3_random.maf
+####### SIZE: 8102 KB

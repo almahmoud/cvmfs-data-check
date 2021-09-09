@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Micavibrio_EPB_uid194120/NC_020812.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Micavibrio_EPB_uid194120
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Dehalococcoides_mccartyi_DCMB5_uid190184/NC_020386.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Dehalococcoides_mccartyi_DCMB5_uid190184
+####### SIZE: 7718 KB

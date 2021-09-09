@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTau2/bwa_index
+####### SIZE: 5178708 KB

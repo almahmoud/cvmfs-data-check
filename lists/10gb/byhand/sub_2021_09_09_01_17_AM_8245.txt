@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/liftOver/taeGut1ToGalGal3.over.chain
+####### SIZE: 153799 KB

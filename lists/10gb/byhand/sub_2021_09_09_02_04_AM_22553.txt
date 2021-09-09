@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/monDom4/maf/chr15.maf
+####### SIZE: 25930 KB

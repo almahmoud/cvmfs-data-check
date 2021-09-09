@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/macEug1/chrX.axt
+####### SIZE: 15262 KB

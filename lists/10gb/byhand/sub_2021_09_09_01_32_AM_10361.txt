@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/droSim1/align/dm2/maf/chr2R_random.maf
+####### SIZE: 3954 KB

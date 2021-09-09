@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/hg18/maf/chr19.maf.index
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/hg18/maf/chrUn.maf.index
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/hg18/maf/chr11.maf.index
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/hg18/maf/chr18.maf.index
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/hg18/maf/chr32.maf.index
+####### SIZE: 2492 KB

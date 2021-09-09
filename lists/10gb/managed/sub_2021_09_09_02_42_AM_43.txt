@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg38canon/hg38canon.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg38canon/hg38canon.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg38canon/hg38canon.3.ht2
+####### SIZE: 11 KB

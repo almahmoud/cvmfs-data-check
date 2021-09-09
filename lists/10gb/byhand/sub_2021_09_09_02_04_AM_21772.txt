@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/panTro2canon/bwa_index/panTro2canon.fa.bwt
+####### SIZE: 1162940 KB

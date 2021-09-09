@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/hg19/maf/chr6.maf
+####### SIZE: 314232 KB

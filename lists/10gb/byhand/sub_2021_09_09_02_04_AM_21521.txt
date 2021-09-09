@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal3/seq/galGal3.fa
+####### SIZE: 1 KB

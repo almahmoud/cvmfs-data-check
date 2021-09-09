@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/rn4/rn4canon/bowtie_index/cs/rn4canon.rev.1.ebwt
+####### SIZE: 717332 KB

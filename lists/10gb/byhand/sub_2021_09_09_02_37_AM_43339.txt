@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer2/tmp/chain/chr14.chain
+####### SIZE: 4269 KB

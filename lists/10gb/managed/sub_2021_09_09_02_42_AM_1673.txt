@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thiomonas_intermedia_K12_uid48825
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mannheimia_haemolytica_USMARC_2286_uid213228/NC_021883.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mannheimia_haemolytica_USMARC_2286_uid213228
+####### SIZE: 8707 KB

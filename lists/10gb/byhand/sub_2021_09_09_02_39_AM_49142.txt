@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/Zea_mays_B73_RefGen_v2/bowtie_index/Zea_mays_B73_RefGen_v2.rev.2.ebwt
+####### SIZE: 250580 KB

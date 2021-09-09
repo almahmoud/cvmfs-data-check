@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ochrobactrum_anthropi_ATCC_49188_uid58921/NC_009667.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ochrobactrum_anthropi_ATCC_49188_uid58921
+####### SIZE: 8025 KB

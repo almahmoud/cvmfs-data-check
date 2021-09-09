@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nitrosopumilus_maritimus_SCM1_uid58903/NC_010085.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nitrosopumilus_maritimus_SCM1_uid58903
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_genitalium_M6320_uid173370/NC_018497.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_genitalium_M6320_uid173370
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_avium_paratuberculosis_MAP4_uid202426/NC_021200.fna
+####### SIZE: 9203 KB

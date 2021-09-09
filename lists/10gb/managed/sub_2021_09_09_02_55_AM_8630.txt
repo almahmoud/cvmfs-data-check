@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Natronomonas_moolapensis_8_8_11_uid190182/NC_020388.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Natronomonas_moolapensis_8_8_11_uid190182
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Legionella_longbeachae_NSW150_uid46099/NC_014544.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Legionella_longbeachae_NSW150_uid46099/NC_013861.fna
+####### SIZE: 9887 KB

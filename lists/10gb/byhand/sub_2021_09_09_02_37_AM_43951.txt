@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer6/bowtie_index
+####### SIZE: 3175446 KB

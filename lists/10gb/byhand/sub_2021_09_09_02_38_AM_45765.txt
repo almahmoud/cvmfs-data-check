@@ -1,0 +1,20 @@
+/cvmfs/data.galaxyproject.org/byhand/blastdb/htgs/13apr2014/htgs.00.nhr
+/cvmfs/data.galaxyproject.org/byhand/blastdb/htgs/13apr2014/htgs.02.nsi
+/cvmfs/data.galaxyproject.org/byhand/blastdb/htgs/13apr2014/htgs.08.nin
+/cvmfs/data.galaxyproject.org/byhand/blastdb/htgs/13apr2014/htgs.05.nog
+/cvmfs/data.galaxyproject.org/byhand/blastdb/htgs/13apr2014/htgs.01.nhr
+/cvmfs/data.galaxyproject.org/byhand/blastdb/htgs/13apr2014/htgs.01.nog
+/cvmfs/data.galaxyproject.org/byhand/blastdb/htgs/13apr2014/htgs.03.nni
+/cvmfs/data.galaxyproject.org/byhand/blastdb/htgs/13apr2014/htgs.07.nsd
+/cvmfs/data.galaxyproject.org/byhand/blastdb/htgs/13apr2014/htgs.04.nsi
+/cvmfs/data.galaxyproject.org/byhand/blastdb/htgs/13apr2014/htgs.07.nni
+/cvmfs/data.galaxyproject.org/byhand/blastdb/htgs/13apr2014/htgs.10.nsi
+/cvmfs/data.galaxyproject.org/byhand/blastdb/htgs/13apr2014/htgs.09.nin
+/cvmfs/data.galaxyproject.org/byhand/blastdb/htgs/13apr2014/htgs.02.nog
+/cvmfs/data.galaxyproject.org/byhand/blastdb/htgs/13apr2014/htgs.09.nhd
+/cvmfs/data.galaxyproject.org/byhand/blastdb/htgs/13apr2014/htgs.06.nhi
+/cvmfs/data.galaxyproject.org/byhand/blastdb/htgs/13apr2014/htgs.02.nsd
+/cvmfs/data.galaxyproject.org/byhand/blastdb/htgs/13apr2014/htgs.05.nsd
+/cvmfs/data.galaxyproject.org/byhand/blastdb/htgs/13apr2014/htgs.06.nsi
+/cvmfs/data.galaxyproject.org/byhand/blastdb/htgs/13apr2014/htgs.07.nnd
+####### SIZE: 7816 KB

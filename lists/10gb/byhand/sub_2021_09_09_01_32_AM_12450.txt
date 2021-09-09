@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/9636
+/cvmfs/data.galaxyproject.org/byhand/microbes/myxoXant_DK_1622/seq/chr.nib
+####### SIZE: 9778 KB

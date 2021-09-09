@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/braFlo1/bwa_index/braFlo1.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/braFlo1/bwa_index/braFlo1.fa.ann
+####### SIZE: 1431 KB

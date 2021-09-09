@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/align/hg18/maf/chr2.maf
+####### SIZE: 336794 KB

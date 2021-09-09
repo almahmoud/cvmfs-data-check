@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/rn4/nib/chr15.nib
+####### SIZE: 53594 KB

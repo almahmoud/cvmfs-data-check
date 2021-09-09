@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/oryLat1/maf/chr5.maf
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/oryLat1/maf/chr22_h2_hap1.maf.index
+####### SIZE: 6900 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Arthrobacter_arilaitensis_Re117_uid53509/NC_014550.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Arthrobacter_arilaitensis_Re117_uid53509
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_aureus_MSSA476_uid57841/NC_005951.fna
+####### SIZE: 7731 KB

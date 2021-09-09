@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Actinoplanes_friuliensis_DSM_7358_uid226110/NC_022657.fna
+####### SIZE: 9288 KB

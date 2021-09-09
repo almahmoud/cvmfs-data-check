@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/taeGut1/chr17.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/taeGut1/chr6_ssto_hap7.axt
+####### SIZE: 8951 KB

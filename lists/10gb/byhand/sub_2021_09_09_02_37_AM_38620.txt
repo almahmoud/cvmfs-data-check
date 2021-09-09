@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/mm8/chr1.idx
+####### SIZE: 2582 KB

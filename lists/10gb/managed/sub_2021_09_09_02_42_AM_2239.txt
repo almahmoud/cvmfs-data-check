@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Capnocytophaga_canimorsus_Cc5_uid70727
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_pneumoniae_FH_uid162027/NC_017504.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_pneumoniae_FH_uid162027
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aromatoleum_aromaticum_EbN1_uid58231/NC_006823.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aromatoleum_aromaticum_EbN1_uid58231/NC_006824.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aromatoleum_aromaticum_EbN1_uid58231/NC_006513.fna
+####### SIZE: 8848 KB

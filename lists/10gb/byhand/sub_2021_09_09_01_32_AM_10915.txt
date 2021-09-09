@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/13954/bwa_index
+####### SIZE: 23211 KB

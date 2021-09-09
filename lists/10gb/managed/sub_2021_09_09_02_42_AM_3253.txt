@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Fluviicola_taffensis_DSM_16823_uid65271/NC_015321.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Fluviicola_taffensis_DSM_16823_uid65271
+####### SIZE: 9185 KB

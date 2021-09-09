@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfarculus_baarsii_DSM_2075_uid51371/NC_014365.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfarculus_baarsii_DSM_2075_uid51371
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leuconostoc_mesenteroides_J18_uid84337/NC_016821.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leuconostoc_mesenteroides_J18_uid84337/NC_016828.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leuconostoc_mesenteroides_J18_uid84337/NC_016820.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leuconostoc_mesenteroides_J18_uid84337/NC_016827.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leuconostoc_mesenteroides_J18_uid84337/NC_016805.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leuconostoc_mesenteroides_J18_uid84337/NC_016806.fna
+####### SIZE: 9250 KB

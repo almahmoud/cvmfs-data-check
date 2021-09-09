@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_tuberculosis_H37Rv_uid57777/NC_000962.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_tuberculosis_H37Rv_uid57777
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haloferax_mediterranei_ATCC_33500_uid167315/NC_017942.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haloferax_mediterranei_ATCC_33500_uid167315/NC_017944.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haloferax_mediterranei_ATCC_33500_uid167315/NC_017943.fna
+####### SIZE: 9694 KB

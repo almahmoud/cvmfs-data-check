@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/geoFor1/sam_index/geoFor1.fa
+/cvmfs/data.galaxyproject.org/byhand/geoFor1/sam_index/geoFor1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/geoFor1/sam_index
+/cvmfs/data.galaxyproject.org/byhand/geoFor1/picard_index/geoFor1.fa
+/cvmfs/data.galaxyproject.org/byhand/geoFor1/picard_index/geoFor1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/geoFor1/picard_index/geoFor1.dict
+/cvmfs/data.galaxyproject.org/byhand/geoFor1/picard_index
+####### SIZE: 9968 KB

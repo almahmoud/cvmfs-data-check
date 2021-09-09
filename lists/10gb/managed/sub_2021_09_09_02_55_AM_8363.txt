@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gordonia_bronchialis_DSM_43247_uid41403
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermodesulfobium_narugense_DSM_14796_uid66601/NC_015499.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermodesulfobium_narugense_DSM_14796_uid66601
+####### SIZE: 9012 KB

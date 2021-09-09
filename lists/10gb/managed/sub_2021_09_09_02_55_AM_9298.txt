@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Azospirillum_brasilense_Sp245_uid162161/NC_016619.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Azospirillum_brasilense_Sp245_uid162161/NC_016594.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Azospirillum_brasilense_Sp245_uid162161/NC_016596.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Azospirillum_brasilense_Sp245_uid162161/NC_016617.fna
+####### SIZE: 5620 KB

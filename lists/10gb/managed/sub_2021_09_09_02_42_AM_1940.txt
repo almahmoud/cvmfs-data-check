@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Caldicellulosiruptor_obsidiansis_OB47_uid51501
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Brachyspira_pilosicoli_95_1000_uid50609/NC_014330.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Brachyspira_pilosicoli_95_1000_uid50609
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_garinii_BgVir_uid162165/NC_017804.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_garinii_BgVir_uid162165/NC_017725.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_garinii_BgVir_uid162165/NC_017717.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_garinii_BgVir_uid162165
+####### SIZE: 9618 KB

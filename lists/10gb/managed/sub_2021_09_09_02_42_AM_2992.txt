@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfovibrio_vulgaris__Miyazaki_F__uid59089/NC_011769.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfovibrio_vulgaris__Miyazaki_F__uid59089
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Azospirillum_brasilense_Sp245_uid162161/NC_016597.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Azospirillum_brasilense_Sp245_uid162161/NC_016595.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Azospirillum_brasilense_Sp245_uid162161/NC_016618.fna
+####### SIZE: 9852 KB

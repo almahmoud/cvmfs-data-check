@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/panPan1
+####### SIZE: 3785121 KB

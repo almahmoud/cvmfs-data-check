@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/strPur2/sam_index/strPur2.fa
+/cvmfs/data.galaxyproject.org/byhand/strPur2/sam_index/strPur2.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/strPur2/sam_index
+/cvmfs/data.galaxyproject.org/byhand/strPur2/quality_scores
+####### SIZE: 7715 KB

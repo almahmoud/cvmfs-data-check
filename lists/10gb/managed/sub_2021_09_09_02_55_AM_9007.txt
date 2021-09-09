@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Corynebacterium_pseudotuberculosis_CIP_52_97_uid159667
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanocorpusculum_labreanum_Z_uid58785/NC_008942.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanocorpusculum_labreanum_Z_uid58785
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bifidobacterium_breve_ACS_071_V_Sch8b_uid158863/NC_017218.fna
+####### SIZE: 8191 KB

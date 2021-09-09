@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/align/mm8/maf/chr12.maf
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/align/mm8/maf/chr20.maf.index
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/align/mm8/maf/chr1.maf.index
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/align/mm8/maf/chr8.maf
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/align/mm8/maf/chr21_random.maf
+####### SIZE: 8349 KB

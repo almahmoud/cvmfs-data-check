@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/melGal1/bowtie_index/melGal1.fa
+/cvmfs/data.galaxyproject.org/byhand/melGal1/bowtie_index/melGal1.3.ebwt
+####### SIZE: 1343 KB

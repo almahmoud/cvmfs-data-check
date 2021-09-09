@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/customProDB/omicron-data.duckdns.org/customProDB/ensembl/hsapiens-feb2014/cosmic.RData
+####### SIZE: 6636 KB

@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shewanella_violacea_DSS12_uid47085
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ketogulonicigenium_vulgare_WSH_001_uid161161/NC_017386.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ketogulonicigenium_vulgare_WSH_001_uid161161/NC_017385.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ketogulonicigenium_vulgare_WSH_001_uid161161/NC_017384.fna
+####### SIZE: 8168 KB

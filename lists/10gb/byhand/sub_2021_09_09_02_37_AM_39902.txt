@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/hg18/chr8.idx
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/hg18/chr17_random.idx
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/hg18/chr1_random.axt
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/hg18/chr6_random.idx
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/hg18/chr9_random.axt
+####### SIZE: 7333 KB

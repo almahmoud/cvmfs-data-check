@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thioalkalivibrio_sulfidophilus_HL_EbGr7_uid59179/NC_011901.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thioalkalivibrio_sulfidophilus_HL_EbGr7_uid59179
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydophila_pneumoniae_CWL029_uid57811/NC_000922.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydophila_pneumoniae_CWL029_uid57811
+####### SIZE: 9312 KB

@@ -1,0 +1,15 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/methFlag_KT/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/methFlag_KT/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/methFlag_KT/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/methFlag_KT/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/methFlag_KT/methFlag_KT.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/methFlag_KT/chr.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/methFlag_KT/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/methFlag_KT/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/methFlag_KT/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/methFlag_KT/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/methFlag_KT/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/methFlag_KT/chr.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/methFlag_KT/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/methFlag_KT/chr.tRNA.bed
+####### SIZE: 7313 KB

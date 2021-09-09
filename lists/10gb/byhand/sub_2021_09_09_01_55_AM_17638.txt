@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/LEN
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/rmsk.info
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/.cvmfscatalog
+####### SIZE: 3394 KB

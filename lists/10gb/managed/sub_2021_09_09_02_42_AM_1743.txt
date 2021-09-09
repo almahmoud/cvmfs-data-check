@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactococcus_lactis_cremoris_KW2_uid219629
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Enterococcus_faecalis_D32_uid171261/NC_018222.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Enterococcus_faecalis_D32_uid171261/NC_018223.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Enterococcus_faecalis_D32_uid171261/NC_018221.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Enterococcus_faecalis_D32_uid171261
+####### SIZE: 8483 KB

@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Francisella_cf__novicida_3523_uid162107
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Legionella_pneumophila_Paris_uid58211/NC_006365.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Legionella_pneumophila_Paris_uid58211/NC_006368.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Legionella_pneumophila_Paris_uid58211
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Salmonella_enterica_Serovar_Typhimurium_var__5__CFSAN001921_uid212972/NC_021815.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Salmonella_enterica_Serovar_Typhimurium_var__5__CFSAN001921_uid212972/NC_021816.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Salmonella_enterica_Serovar_Typhimurium_var__5__CFSAN001921_uid212972/NC_021843.fna
+####### SIZE: 9369 KB

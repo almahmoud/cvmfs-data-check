@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/droWil1/bowtie_index/droWil1.fa
+/cvmfs/data.galaxyproject.org/byhand/droWil1/bowtie_index/droWil1.3.ebwt
+####### SIZE: 183 KB

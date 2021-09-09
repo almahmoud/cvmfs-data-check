@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/nomLeu2/bwa_index/nomLeu2.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/nomLeu2/bwa_index/nomLeu2.fa
+/cvmfs/data.galaxyproject.org/byhand/nomLeu2/bwa_index/nomLeu2.fa.ann
+####### SIZE: 3652 KB

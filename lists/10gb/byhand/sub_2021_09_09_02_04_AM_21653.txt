@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/felCat4/seq/felCat4full.fa
+####### SIZE: 3150029 KB

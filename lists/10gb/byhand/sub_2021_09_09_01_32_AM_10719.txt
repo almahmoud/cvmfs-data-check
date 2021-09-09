@@ -1,0 +1,16 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/fusoNucl/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/fusoNucl/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/fusoNucl/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/fusoNucl/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/fusoNucl/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/fusoNucl/chr.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/fusoNucl/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/fusoNucl/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/fusoNucl/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/fusoNucl/chr.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/fusoNucl/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/fusoNucl/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/fusoNucl/fusoNucl.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/fusoNucl/chr.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/fusoNucl/chr.gbk
+####### SIZE: 9966 KB

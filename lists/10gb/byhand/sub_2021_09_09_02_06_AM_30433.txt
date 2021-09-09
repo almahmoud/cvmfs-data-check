@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/strPur2/bwa_index/strPur2.fa.rbwt
+####### SIZE: 332185 KB

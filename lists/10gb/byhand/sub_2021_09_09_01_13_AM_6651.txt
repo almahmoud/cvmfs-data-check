@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/oryLat2/oryLat2full/bwa_index/oryLat2full.fa.rsa
+####### SIZE: 106080 KB

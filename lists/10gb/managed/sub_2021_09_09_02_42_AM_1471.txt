@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sulfolobus_islandicus_L_S_2_15_uid58871
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Exiguobacterium_sibiricum_255_15_uid58053/NC_010550.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Exiguobacterium_sibiricum_255_15_uid58053/NC_010549.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Exiguobacterium_sibiricum_255_15_uid58053/NC_010556.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Exiguobacterium_sibiricum_255_15_uid58053
+####### SIZE: 8745 KB

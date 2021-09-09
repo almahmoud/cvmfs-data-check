@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Legionella_pneumophila_LPE509_uid193710/NC_020521.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Legionella_pneumophila_LPE509_uid193710
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ralstonia_solanacearum_Po82_uid162133/NC_017575.fna
+####### SIZE: 8813 KB

@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/managed/picard_index/nomLeu3/nomLeu3.fa
+/cvmfs/data.galaxyproject.org/managed/picard_index/nomLeu3/nomLeu3.dict
+/cvmfs/data.galaxyproject.org/managed/picard_index/nomLeu3
+/cvmfs/data.galaxyproject.org/managed/picard_index/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/managed/picard_index/apiMel4/apiMel4.fa
+/cvmfs/data.galaxyproject.org/managed/picard_index/apiMel4/apiMel4.dict
+/cvmfs/data.galaxyproject.org/managed/picard_index/apiMel4
+/cvmfs/data.galaxyproject.org/managed/picard_index/Amel_4.5/Amel_4.5.fa
+/cvmfs/data.galaxyproject.org/managed/picard_index/Amel_4.5/Amel_4.5.dict
+/cvmfs/data.galaxyproject.org/managed/picard_index/Amel_4.5
+####### SIZE: 8015 KB

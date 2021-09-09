@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pyrococcus_abyssi_GE5_uid62903/NC_000868.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pyrococcus_abyssi_GE5_uid62903
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_pseudintermedius_ED99_uid162109/NC_017568.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_pseudintermedius_ED99_uid162109
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermococcus_barophilus_MP_uid54733/NC_015471.fna
+####### SIZE: 8661 KB

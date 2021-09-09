@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/tetNig1/maf/chr2.maf
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/tetNig1/maf/chrY.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/tetNig1/maf/chr4_gl000193_random.maf
+####### SIZE: 10000 KB

@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfurobacterium_thermolithotrophum_DSM_11699_uid63405
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Kosmotoga_olearia_TBF_19_5_1_uid59205/NC_012785.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Kosmotoga_olearia_TBF_19_5_1_uid59205
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halyomorpha_halys_symbiont_uid222821/NC_022547.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halyomorpha_halys_symbiont_uid222821
+####### SIZE: 8384 KB

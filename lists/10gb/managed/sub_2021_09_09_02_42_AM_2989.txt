@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Actinoplanes_friuliensis_DSM_7358_uid226110
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_botulinum_Ba4_657_uid59173/NC_012654.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_botulinum_Ba4_657_uid59173/NC_012657.fna
+####### SIZE: 9570 KB

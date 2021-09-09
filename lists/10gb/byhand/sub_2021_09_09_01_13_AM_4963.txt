@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/anoCar1/chr16.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/anoCar1/chr9_random.axt
+####### SIZE: 8637 KB

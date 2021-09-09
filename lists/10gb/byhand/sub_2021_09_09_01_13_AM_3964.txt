@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/monDom1/chrM.idx
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/monDom1/chr3_random.axt
+####### SIZE: 731 KB

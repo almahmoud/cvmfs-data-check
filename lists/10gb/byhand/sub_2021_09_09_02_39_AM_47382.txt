@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/calJac1/liftOver/calJac1ToCanFam2.over.chain
+####### SIZE: 294293 KB

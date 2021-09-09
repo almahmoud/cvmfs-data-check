@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/mm9/maf/chrUn.maf
+####### SIZE: 9986 KB

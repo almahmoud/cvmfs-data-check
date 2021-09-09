@@ -1,0 +1,18 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodSpha_2_4_1/plasmid_B.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodSpha_2_4_1/chr1.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodSpha_2_4_1/plasmid_B.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodSpha_2_4_1/plasmid_E.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodSpha_2_4_1/plasmid_A.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodSpha_2_4_1/chr1.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodSpha_2_4_1/plasmid_E.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodSpha_2_4_1/chr2.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodSpha_2_4_1/plasmid_E.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodSpha_2_4_1/chr1.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodSpha_2_4_1/plasmid_B.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodSpha_2_4_1/plasmid_D.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodSpha_2_4_1/plasmid_E.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodSpha_2_4_1/chr1.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodSpha_2_4_1/plasmid_B.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodSpha_2_4_1/plasmid_C.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodSpha_2_4_1/plasmid_C.Glimmer3
+####### SIZE: 9376 KB

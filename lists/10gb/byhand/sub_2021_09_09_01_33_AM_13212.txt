@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/melGal1/bwa_index/melGal1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/melGal1/bwa_index/melGal1.fa
+/cvmfs/data.galaxyproject.org/byhand/melGal1/bwa_index/melGal1.fa.amb
+####### SIZE: 2495 KB

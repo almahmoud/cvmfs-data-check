@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/seq/ailMel1.fa
+####### SIZE: 2291525 KB

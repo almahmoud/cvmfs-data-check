@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Glaciecola_nitratireducens_FR1064_uid73759/NC_016041.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Glaciecola_nitratireducens_FR1064_uid73759
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rickettsia_prowazekii_Chernikova_uid158053/NC_017049.fna
+####### SIZE: 9296 KB

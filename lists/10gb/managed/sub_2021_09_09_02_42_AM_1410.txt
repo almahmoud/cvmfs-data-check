@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Klebsiella_pneumoniae_rhinoscleromatis_SB3432_uid203334
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ectothiorhodospiraceae_bacterium_M19_40_uid199898/NC_021291.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ectothiorhodospiraceae_bacterium_M19_40_uid199898
+####### SIZE: 8791 KB

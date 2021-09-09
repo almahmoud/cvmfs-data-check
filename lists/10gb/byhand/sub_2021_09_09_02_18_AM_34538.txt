@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTau2/bwa_index/bosTau2.fa.sa
+####### SIZE: 430358 KB

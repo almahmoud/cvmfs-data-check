@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudanabaena_PCC_7367_uid183004/NC_019701.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudanabaena_PCC_7367_uid183004
+####### SIZE: 9359 KB

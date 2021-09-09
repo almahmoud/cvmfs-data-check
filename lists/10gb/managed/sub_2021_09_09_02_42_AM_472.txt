@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/seq/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/managed/seq/wuhCor1.fa
+####### SIZE: 31 KB

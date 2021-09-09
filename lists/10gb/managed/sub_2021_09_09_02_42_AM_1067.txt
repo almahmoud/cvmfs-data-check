@@ -1,0 +1,22 @@
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/apaSpi1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/20079.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/12514.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/Schizosaccharomyces_pombe_1.1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/desuPsyc_LSV54.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/baumCica_HOMALODISCA.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/288.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/286.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/homIni13.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/13623.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/13959.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/nonAfr13.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/neisMeni_MC58_1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/zymoMobi_ZM4.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/caeJap4.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/213.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/priMat13.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/mhcRefnoNs3.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/18255.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/haemSomn_129PT.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/dechArom_RCB.len
+####### SIZE: 5155 KB

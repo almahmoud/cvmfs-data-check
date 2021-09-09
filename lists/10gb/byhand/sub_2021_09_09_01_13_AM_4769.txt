@@ -1,0 +1,19 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/exclude/multiz28way.b2z/chr7_random.maf.bz2t
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/exclude/multiz28way.b2z/chr5_h2_hap1.maf.bz2
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/exclude/multiz28way.b2z/chr13_random.maf.bz2
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/exclude/multiz28way.b2z/chr18_random.maf.bz2t
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/exclude/multiz28way.b2z/chr22_random.maf.bz2
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/exclude/multiz28way.b2z/chr9_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/exclude/multiz28way.b2z/chr7_random.maf.bz2
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/exclude/multiz28way.b2z/chr22_h2_hap1.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/exclude/multiz28way.b2z/chr9.maf.bz2t
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/exclude/multiz28way.b2z/chr16_random.maf.bz2
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/exclude/multiz28way.b2z/chrX.maf.bz2t
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/exclude/multiz28way.b2z/chr5_random.maf.bz2t
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/exclude/multiz28way.b2z/chr19_random.maf.bz2t
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/exclude/multiz28way.b2z/chr16_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/exclude/multiz28way.b2z/chr9_random.maf.bz2
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/exclude/multiz28way.b2z/chr6_qbl_hap2.maf.bz2t
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/exclude/multiz28way.b2z/chr15_random.maf.bz2
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/exclude/multiz28way.b2z/chr10_random.maf.index
+####### SIZE: 6106 KB

@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/caePb3/sam_index/caePb3.fa
+/cvmfs/data.galaxyproject.org/byhand/caePb3/sam_index/caePb3.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/caePb3/sam_index
+/cvmfs/data.galaxyproject.org/byhand/caePb3/picard_index/caePb3.fa
+/cvmfs/data.galaxyproject.org/byhand/caePb3/picard_index/caePb3.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/caePb3/picard_index/caePb3.dict
+/cvmfs/data.galaxyproject.org/byhand/caePb3/picard_index
+####### SIZE: 1278 KB

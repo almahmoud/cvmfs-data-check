@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/13887
+/cvmfs/data.galaxyproject.org/byhand/microbes/streCoel/plasmid_SCP2.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/streCoel/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/streCoel/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/streCoel/seq/plasmid_SCP1.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/streCoel/seq/plasmid_SCP2.nib
+####### SIZE: 8487 KB

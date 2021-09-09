@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_cf__saccharolyticum_K10_uid197201
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Novosphingobium_aromaticivorans_DSM_12444_uid57747/NC_009426.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Novosphingobium_aromaticivorans_DSM_12444_uid57747/NC_009427.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Novosphingobium_aromaticivorans_DSM_12444_uid57747/NC_007794.fna
+####### SIZE: 7933 KB

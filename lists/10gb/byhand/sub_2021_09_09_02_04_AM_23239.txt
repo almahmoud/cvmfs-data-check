@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ce4/seq/ce4.2bit
+####### SIZE: 25178 KB

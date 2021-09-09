@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodospirillum_rubrum_ATCC_11170_uid57655
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlorobium_phaeobacteroides_BS1_uid58131/NC_010831.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlorobium_phaeobacteroides_BS1_uid58131
+####### SIZE: 9797 KB

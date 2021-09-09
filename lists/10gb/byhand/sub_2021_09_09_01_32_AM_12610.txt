@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/223/NC_002755.fna
+####### SIZE: 4363 KB

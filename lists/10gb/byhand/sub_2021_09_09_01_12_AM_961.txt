@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way/maf/chr19_gl000208_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way/maf/md5sum.txt.old
+####### SIZE: 25 KB

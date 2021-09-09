@@ -1,0 +1,18 @@
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/rmsk/Contig10633.fa.align
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/rmsk/Contig100960.fa.align
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/rmsk/Contig156732.fa.align
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/rmsk/Contig136083.fa.align
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/rmsk/Contig37828.fa.align
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/rmsk/Contig49761.fa.out
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/rmsk/Contig133285.fa.align
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/rmsk/Contig52879.fa.out
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/rmsk/Contig53465.fa.align
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/rmsk/Contig260671.fa.out
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/rmsk/Contig162260.fa.out
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/rmsk/Contig198804.fa.align
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/rmsk/Contig124653.fa.align
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/rmsk/Contig267542.fa.align
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/rmsk/Contig131656.fa.out
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/rmsk/Contig272745.fa.out
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/rmsk/Contig89193.fa.align
+####### SIZE: 104 KB

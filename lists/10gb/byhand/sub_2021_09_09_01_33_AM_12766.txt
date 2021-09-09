@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/27835/bwa_index/27835.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/microbes/27835/bwa_index/27835.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/microbes/27835/bwa_index/27835.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/microbes/27835/bwa_index/27835.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/27835/bwa_index/27835.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/microbes/27835/bwa_index/27835.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/microbes/27835/bwa_index/27835.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/microbes/27835/bwa_index/27835.fa.rbwt
+####### SIZE: 8564 KB

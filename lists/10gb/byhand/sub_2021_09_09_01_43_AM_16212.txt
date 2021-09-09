@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/bosTau2/maf/chr7.maf
+####### SIZE: 83566 KB

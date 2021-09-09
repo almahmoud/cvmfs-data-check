@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/19639
+/cvmfs/data.galaxyproject.org/byhand/microbes/404/seq/NC_008498.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/404/seq/NC_008499.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/404/seq/NC_008497.nib
+####### SIZE: 8990 KB

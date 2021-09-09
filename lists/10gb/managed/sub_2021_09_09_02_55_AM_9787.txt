@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Salinarchaeum_laminariae_Harcht_Bsk1_uid207001/NC_021313.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Salinarchaeum_laminariae_Harcht_Bsk1_uid207001
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Brucella_melitensis_ATCC_23457_uid59241/NC_012441.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Brucella_melitensis_ATCC_23457_uid59241/NC_012442.fna
+####### SIZE: 9735 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/monDom5/bowtie_index/cs/monDom5.fa
+/cvmfs/data.galaxyproject.org/byhand/monDom5/bowtie_index/cs/monDom5.3.ebwt
+####### SIZE: 641 KB

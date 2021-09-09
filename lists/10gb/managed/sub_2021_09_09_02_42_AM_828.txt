@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/vicPac1/vicPac1.fa.pac
+####### SIZE: 723207 KB

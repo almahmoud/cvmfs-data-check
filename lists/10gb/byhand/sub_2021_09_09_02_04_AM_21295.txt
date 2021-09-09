@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/nib/chr3L.nib
+####### SIZE: 20159 KB

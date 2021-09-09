@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/loxAfr1/loxAfr1.fa.ann
+####### SIZE: 9684 KB

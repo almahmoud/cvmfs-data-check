@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Enterobacter_cloacae_ATCC_13047_uid48363
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_lutetiensis_033_uid213397/NC_021900.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_lutetiensis_033_uid213397
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Waddlia_chondrophila_WSU_86_1044_uid49531/NC_014226.fna
+####### SIZE: 9486 KB

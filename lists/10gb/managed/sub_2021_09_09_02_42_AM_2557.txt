@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bdellovibrio_bacteriovorus_HD100_uid61595/NC_005363.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bdellovibrio_bacteriovorus_HD100_uid61595
+####### SIZE: 7500 KB

@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactobacillus_delbrueckii_bulgaricus_ATCC_BAA_365_uid57987
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acidothermus_cellulolyticus_11B_uid58501/NC_008578.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acidothermus_cellulolyticus_11B_uid58501
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Prochlorococcus_marinus_AS9601_uid58307/NC_008816.fna
+####### SIZE: 8345 KB

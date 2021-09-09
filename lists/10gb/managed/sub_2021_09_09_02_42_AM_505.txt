@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/dm6/dm6.fa
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/dm6/dm6.3.bt2
+####### SIZE: 23 KB

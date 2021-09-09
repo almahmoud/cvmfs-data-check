@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/woliSucc/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/woliSucc/chr.gbk
+####### SIZE: 6836 KB

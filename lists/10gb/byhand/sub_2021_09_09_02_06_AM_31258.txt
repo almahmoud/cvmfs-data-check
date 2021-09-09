@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/susScr3/nib/chrY.nib
+/cvmfs/data.galaxyproject.org/byhand/susScr3/nib/chrM.nib
+####### SIZE: 809 KB

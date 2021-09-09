@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sinorhizobium_medicae_WSM419_uid58549
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thioalkalivibrio_K90mix_uid46181/NC_013930.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thioalkalivibrio_K90mix_uid46181/NC_013889.fna
+####### SIZE: 9717 KB

@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/13623/NC_010184.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/13623/NC_010184.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/13623/NC_010180.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/13623/NC_010182.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/13623/NC_010181.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/13623/NC_010184.rRNA.bed
+####### SIZE: 6544 KB

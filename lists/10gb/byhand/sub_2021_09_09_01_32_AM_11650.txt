@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/16306/NC_010338.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/16306/NC_010338.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/16306/NC_010335.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/16306/NC_010338.fna
+####### SIZE: 5639 KB

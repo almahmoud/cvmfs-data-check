@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/monDom5/liftOver/monDom5ToBosTau7.over.chain
+####### SIZE: 47049 KB

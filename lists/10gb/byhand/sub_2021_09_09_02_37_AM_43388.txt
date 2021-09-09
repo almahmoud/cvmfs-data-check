@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer2/chrom/chr19.fa
+####### SIZE: 51821 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/droVir2/seq/droVir2.2bit
+####### SIZE: 52936 KB

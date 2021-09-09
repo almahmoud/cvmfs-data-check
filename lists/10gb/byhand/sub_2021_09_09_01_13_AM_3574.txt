@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro4/bowtie_index/cs/panTro4.fa
+/cvmfs/data.galaxyproject.org/byhand/panTro4/bowtie_index/cs/panTro4.3.ebwt
+####### SIZE: 1823 KB

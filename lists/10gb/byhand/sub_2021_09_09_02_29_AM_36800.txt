@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/loxAfr1/picard_index/loxAfr1.fa.fai
+####### SIZE: 8528 KB

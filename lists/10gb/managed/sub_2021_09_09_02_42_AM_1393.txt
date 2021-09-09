@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Proteus_mirabilis_BB2000_uid214430
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haemophilus_influenzae_KR494_uid219323/NC_022356.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haemophilus_influenzae_KR494_uid219323
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptomyces_flavogriseus_ATCC_33331_uid40839/NC_016115.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptomyces_flavogriseus_ATCC_33331_uid40839/NC_016110.fna
+####### SIZE: 7814 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Herbaspirillum_seropedicae_SmR1_uid50427
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cellulomonas_flavigena_DSM_20109_uid48821/NC_014151.fna
+####### SIZE: 9552 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/tarSyr1/picard_index/tarSyr1.dict
+####### SIZE: 85786 KB

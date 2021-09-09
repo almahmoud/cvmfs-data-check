@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Listeria_monocytogenes_SLCC2376_uid175111
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ramlibacter_tataouinensis_TTB310_uid68279/NC_015677.fna
+####### SIZE: 6850 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacteroides_xylanisolvens_XB1A_uid197168
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Synechococcus_WH_8102_uid61581/NC_005070.fna
+####### SIZE: 8337 KB

@@ -1,0 +1,12 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Dehalococcoides_GT_uid42115/NC_013890.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Dehalococcoides_GT_uid42115
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_haemofelis_Langford_1_uid62461/NC_014970.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_haemofelis_Langford_1_uid62461
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acetobacter_pasteurianus_IFO_3283_12_uid158379/NC_017113.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acetobacter_pasteurianus_IFO_3283_12_uid158379/NC_017136.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acetobacter_pasteurianus_IFO_3283_12_uid158379/NC_017116.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acetobacter_pasteurianus_IFO_3283_12_uid158379/NC_017114.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acetobacter_pasteurianus_IFO_3283_12_uid158379/NC_017108.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acetobacter_pasteurianus_IFO_3283_12_uid158379/NC_017137.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acetobacter_pasteurianus_IFO_3283_12_uid158379/NC_017115.fna
+####### SIZE: 8288 KB

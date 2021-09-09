@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/Spur_v2.6/bwa_index/Spur_v2.6.fa.sa
+####### SIZE: 111395 KB

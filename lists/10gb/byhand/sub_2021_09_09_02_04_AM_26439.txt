@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/apiMel2/bwa_index/apiMel2.fa.sa
+####### SIZE: 61341 KB

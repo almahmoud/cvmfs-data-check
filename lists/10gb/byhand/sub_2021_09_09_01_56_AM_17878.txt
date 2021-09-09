@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/eriEur1/quality_scores/scaffold_190599.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/eriEur1/quality_scores/scaffold_47443.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/eriEur1/quality_scores/scaffold_96716.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/eriEur1/quality_scores/scaffold_263900.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/eriEur1/quality_scores/scaffold_72363.qa.bqv

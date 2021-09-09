@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_nuHg19_mtrCRS/sam_index/Homo_sapiens_nuHg19_mtrCRS.fa
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_nuHg19_mtrCRS/sam_index/Homo_sapiens_nuHg19_mtrCRS.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_nuHg19_mtrCRS/sam_index
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_nuHg19_mtrCRS/download/20110608/mtDNA_rCRS.fasta
+####### SIZE: 31 KB

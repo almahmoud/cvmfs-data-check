@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pyrobaculum_arsenaticum_DSM_13514_uid58409
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_cenocepacia_HI2424_uid58369/NC_008545.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_cenocepacia_HI2424_uid58369/NC_008544.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_cenocepacia_HI2424_uid58369/NC_008543.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_cenocepacia_HI2424_uid58369/NC_008542.fna
+####### SIZE: 9738 KB

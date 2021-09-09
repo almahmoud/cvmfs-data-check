@@ -1,0 +1,15 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/mariAqua_VT8/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/mariAqua_VT8/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/mariAqua_VT8/plasmid_pMAQU02.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/mariAqua_VT8/plasmid_pMAQU01.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/mariAqua_VT8/plasmid_pMAQU01.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/mariAqua_VT8/plasmid_pMAQU02.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/mariAqua_VT8/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/mariAqua_VT8/plasmid_pMAQU01.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/mariAqua_VT8/plasmid_pMAQU01.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/mariAqua_VT8/plasmid_pMAQU02.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/mariAqua_VT8/plasmid_pMAQU02.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/mariAqua_VT8/plasmid_pMAQU02.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/mariAqua_VT8/plasmid_pMAQU01.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/mariAqua_VT8/plasmid_pMAQU01.gbk
+####### SIZE: 5062 KB

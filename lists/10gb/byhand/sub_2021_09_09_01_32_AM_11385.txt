@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/ente638/seq/enterobacter_sp_638.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/ente638/seq/chr.nib
+####### SIZE: 6840 KB

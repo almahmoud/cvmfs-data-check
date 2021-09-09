@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudomonas_TKP_uid232248
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Asticcacaulis_excentricus_CB_48_uid55641/NC_014819.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Asticcacaulis_excentricus_CB_48_uid55641/NC_014818.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Asticcacaulis_excentricus_CB_48_uid55641/NC_014817.fna
+####### SIZE: 8657 KB

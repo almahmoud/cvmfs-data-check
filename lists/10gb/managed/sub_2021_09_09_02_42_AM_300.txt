@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19canon/hg19canon.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19canon/hg19canon.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19canon/hg19canon.7.ht2
+####### SIZE: 6 KB

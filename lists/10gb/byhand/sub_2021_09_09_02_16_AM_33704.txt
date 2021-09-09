@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/align/multiz8way/maf/chr15_random.maf.lzo
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/align/multiz8way/maf/chr18_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/align/multiz8way/maf/chr7_random.maf.index
+####### SIZE: 7789 KB

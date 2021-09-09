@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sulfolobus_acidocaldarius_N8_uid189027/NC_020246.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sulfolobus_acidocaldarius_N8_uid189027
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/halophilic_archaeon_DL31_uid72619/NC_015959.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/halophilic_archaeon_DL31_uid72619/NC_015955.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/halophilic_archaeon_DL31_uid72619/NC_015954.fna
+####### SIZE: 7928 KB

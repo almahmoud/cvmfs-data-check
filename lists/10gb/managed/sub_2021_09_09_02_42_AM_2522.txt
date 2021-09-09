@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shewanella_frigidimarina_NCIMB_400_uid58265/NC_008345.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shewanella_frigidimarina_NCIMB_400_uid58265
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Geobacillus_thermodenitrificans_NG80_2_uid58829/NC_009329.fna
+####### SIZE: 9662 KB

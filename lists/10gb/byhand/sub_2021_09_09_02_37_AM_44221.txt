@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/monDom4/quality_scores
+####### SIZE: 10762355 KB

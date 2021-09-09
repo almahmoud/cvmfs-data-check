@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/fr1/seq/chrUn.nib
+####### SIZE: 170664 KB

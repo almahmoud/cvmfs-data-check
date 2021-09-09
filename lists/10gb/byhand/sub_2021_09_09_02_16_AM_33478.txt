@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/Araly1/seq/Araly1.2bit
+####### SIZE: 51645 KB

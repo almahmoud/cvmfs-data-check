@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro4/picard_index
+/cvmfs/data.galaxyproject.org/byhand/panTro4/bowtie2_index/panTro4.fa
+/cvmfs/data.galaxyproject.org/byhand/panTro4/bowtie2_index/panTro4.3.bt2
+####### SIZE: 6148 KB

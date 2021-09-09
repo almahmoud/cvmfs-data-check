@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Archaeoglobus_fulgidus_DSM_4304_uid57717/NC_000917.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Archaeoglobus_fulgidus_DSM_4304_uid57717
+####### SIZE: 4321 KB

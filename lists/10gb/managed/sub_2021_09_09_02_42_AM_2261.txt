@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gluconobacter_oxydans_621H_uid58239/NC_006677.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gluconobacter_oxydans_621H_uid58239
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aciduliprofundum_boonei_T469_uid43333/NC_013926.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aciduliprofundum_boonei_T469_uid43333
+####### SIZE: 8529 KB

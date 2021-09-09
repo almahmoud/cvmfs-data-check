@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/hg38/dataset_950901_files
+####### SIZE: 29299521 KB

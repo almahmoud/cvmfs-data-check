@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermus_scotoductus_SA_01_uid62273
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chloroflexus_Y_400_fl_uid59085/NC_012032.fna
+####### SIZE: 7558 KB

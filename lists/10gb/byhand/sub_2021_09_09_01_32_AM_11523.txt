@@ -1,0 +1,13 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/28035
+/cvmfs/data.galaxyproject.org/byhand/microbes/enteFaec_V583/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/enteFaec_V583/plasmid_pTEF3.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/enteFaec_V583/plasmid_pTEF3.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/enteFaec_V583/plasmid_pTEF1.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/enteFaec_V583/plasmid_pTEF3.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/enteFaec_V583/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/enteFaec_V583/plasmid_pTEF2.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/enteFaec_V583/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/enteFaec_V583/seq/plasmid_pTEF2.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/enteFaec_V583/seq/plasmid_pTEF1.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/enteFaec_V583/seq/plasmid_pTEF3.nib
+####### SIZE: 9849 KB

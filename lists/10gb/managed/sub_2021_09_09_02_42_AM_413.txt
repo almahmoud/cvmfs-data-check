@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/otoGar1/otoGar1.6.ht2
+####### SIZE: 486850 KB

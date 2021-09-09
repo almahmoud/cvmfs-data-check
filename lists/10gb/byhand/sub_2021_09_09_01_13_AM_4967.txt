@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/anoCar1/chr19.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/anoCar1/chr8_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/anoCar1/chr6_qbl_hap2.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/anoCar1/chr2_random.axt
+####### SIZE: 9538 KB

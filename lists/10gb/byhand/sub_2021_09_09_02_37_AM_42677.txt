@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/mm6/maf/chr7.maf
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/mm6/maf/chrE26C13.maf
+####### SIZE: 7898 KB

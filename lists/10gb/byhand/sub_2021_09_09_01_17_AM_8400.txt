@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/choHof1/bowtie_index/choHof1.fa
+/cvmfs/data.galaxyproject.org/byhand/choHof1/bowtie_index/choHof1.3.ebwt
+####### SIZE: 8449 KB

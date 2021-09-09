@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Belliella_baltica_DSM_15883_uid168182/NC_018010.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Belliella_baltica_DSM_15883_uid168182
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cyanothece_ATCC_51142_uid59013/NC_010543.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cyanothece_ATCC_51142_uid59013/NC_010547.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cyanothece_ATCC_51142_uid59013/NC_010541.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cyanothece_ATCC_51142_uid59013/NC_010542.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cyanothece_ATCC_51142_uid59013/NC_010539.fna
+####### SIZE: 8843 KB

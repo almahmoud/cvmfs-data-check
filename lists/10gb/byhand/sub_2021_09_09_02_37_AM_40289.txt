@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/rn3/chr14_random.idx
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/rn3/chr3_random.axt
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/rn3/chr1.idx
+####### SIZE: 7084 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/customProDB/omicron-data.duckdns.org/customProDB/ensembl/hsapiens-feb2014/dbsnpinCoding.RData
+####### SIZE: 55651 KB

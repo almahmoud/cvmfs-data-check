@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/sacCer2
+####### SIZE: 21512 KB

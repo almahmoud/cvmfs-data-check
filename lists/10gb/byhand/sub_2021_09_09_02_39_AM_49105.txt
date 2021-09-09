@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/melUnd1/bowtie_index/cs/melUnd1.fa
+/cvmfs/data.galaxyproject.org/byhand/melUnd1/bowtie_index/cs/melUnd1.3.ebwt
+####### SIZE: 672 KB

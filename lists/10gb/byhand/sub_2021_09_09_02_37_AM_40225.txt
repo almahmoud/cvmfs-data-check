@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/danRer3/chr6.axt
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/danRer3/chr15_random.idx
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/danRer3/chr1_random.idx
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/danRer3/chrY_random.idx
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/danRer3/chr19_random.axt
+####### SIZE: 8201 KB

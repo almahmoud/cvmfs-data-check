@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/equCab2/chr15.axt
+####### SIZE: 110244 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptomyces_fulvissimus_DSM_40593_uid201038
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rickettsia_rickettsii_Arizona_uid86655/NC_016909.fna
+####### SIZE: 9092 KB

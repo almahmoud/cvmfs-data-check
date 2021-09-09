@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droSec1/chrU.axt
+####### SIZE: 12067 KB

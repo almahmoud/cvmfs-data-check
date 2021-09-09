@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudomonas_putida_S16_uid68747/NC_015733.fna
+####### SIZE: 5929 KB

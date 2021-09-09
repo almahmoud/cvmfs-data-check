@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/brucMeli/chrII.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/brucMeli/chrI.gbk
+####### SIZE: 5824 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/dasNov2
+####### SIZE: 2250997 KB

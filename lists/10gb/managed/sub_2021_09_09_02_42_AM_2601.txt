@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermoanaerobacter_wiegelii_Rt8_B1_uid52581/NC_015958.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermoanaerobacter_wiegelii_Rt8_B1_uid52581
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Francisella_TX077308_uid68321/NC_015696.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Francisella_TX077308_uid68321
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Alteromonas_macleodii__Balearic_Sea_AD45__uid176366/NC_018680.fna
+####### SIZE: 9608 KB

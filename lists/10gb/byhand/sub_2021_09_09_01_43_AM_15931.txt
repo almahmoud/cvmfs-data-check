@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTau6/bowtie2_index/bosTau6.2.bt2
+####### SIZE: 646896 KB

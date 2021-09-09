@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/rn4/liftOver/rn4ToHg17.over.chain
+####### SIZE: 231347 KB

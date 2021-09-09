@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/danRer3/chr3.axt
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/danRer3/chr17_random.axt
+####### SIZE: 6583 KB

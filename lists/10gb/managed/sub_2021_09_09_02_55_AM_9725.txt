@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Geobacillus_HH01_uid188479/NC_020210.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Geobacillus_HH01_uid188479
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Vibrio_harveyi_ATCC_BAA_1116_uid58957/NC_009777.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Vibrio_harveyi_ATCC_BAA_1116_uid58957/NC_009784.fna
+####### SIZE: 9377 KB

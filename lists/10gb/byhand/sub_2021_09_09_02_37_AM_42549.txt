@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/caeJap2/bwa_index/caeJap2.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/caeJap2/bwa_index/caeJap2.fa
+####### SIZE: 2 KB

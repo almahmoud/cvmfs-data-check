@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/28111/seq/NC_010162.nib
+####### SIZE: 6365 KB

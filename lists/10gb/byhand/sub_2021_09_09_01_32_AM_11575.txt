@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/bordBron/bwa_index/bordBron.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/microbes/bordBron/bwa_index/bordBron.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/microbes/bordBron/bwa_index/bordBron.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/bordBron/bwa_index/bordBron.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/bordBron/bwa_index/bordBron.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/microbes/bordBron/bwa_index/bordBron.fa.rpac
+####### SIZE: 7173 KB

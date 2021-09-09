@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/droSim1/seq/droSim1.2bit
+####### SIZE: 35634 KB

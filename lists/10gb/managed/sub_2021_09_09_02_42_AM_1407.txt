@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Frankia_symbiont_of_Datisca_glomerata_uid46257/NC_015656.fna
+####### SIZE: 5273 KB

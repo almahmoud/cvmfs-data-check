@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/nib/chr22_h2_hap1.nib
+/cvmfs/data.galaxyproject.org/byhand/hg18/nib/chr4_random.nib
+/cvmfs/data.galaxyproject.org/byhand/hg18/nib/chr11_random.nib
+/cvmfs/data.galaxyproject.org/byhand/hg18/nib/chr19_random.nib
+/cvmfs/data.galaxyproject.org/byhand/hg18/nib/chr6_cox_hap1.nib
+####### SIZE: 3009 KB

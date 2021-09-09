@@ -1,0 +1,13 @@
+/cvmfs/data.galaxyproject.org/byhand/musMus7
+/cvmfs/data.galaxyproject.org/byhand/anoCar2/sam_index/anoCar2.fa
+/cvmfs/data.galaxyproject.org/byhand/anoCar2/sam_index/anoCar2.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/anoCar2/sam_index
+/cvmfs/data.galaxyproject.org/byhand/anoCar2/download/2011_README_anoCar2
+/cvmfs/data.galaxyproject.org/byhand/anoCar2/download
+/cvmfs/data.galaxyproject.org/byhand/anoCar2/picard_index/anoCar2.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/anoCar2/picard_index/anoCar2.fa
+/cvmfs/data.galaxyproject.org/byhand/anoCar2/picard_index/anoCar2.dict
+/cvmfs/data.galaxyproject.org/byhand/anoCar2/picard_index
+/cvmfs/data.galaxyproject.org/byhand/anoCar2/bowtie2_index/anoCar2.fa
+/cvmfs/data.galaxyproject.org/byhand/anoCar2/bowtie2_index/anoCar2.3.bt2
+####### SIZE: 1962 KB

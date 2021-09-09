@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/dm2/nib/chrX.nib
+####### SIZE: 10852 KB

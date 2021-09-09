@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/rn3/bwa_index/rn3.fa
+/cvmfs/data.galaxyproject.org/byhand/rn3/bwa_index/rn3.fa.ann
+####### SIZE: 3 KB

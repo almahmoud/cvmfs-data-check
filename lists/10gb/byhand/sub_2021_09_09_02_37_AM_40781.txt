@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/felCat4/felCat4full/bowtie2_index/felCat4full.1.bt2
+####### SIZE: 661514 KB

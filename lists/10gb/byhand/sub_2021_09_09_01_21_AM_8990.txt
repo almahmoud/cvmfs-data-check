@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg16/align/mm3/chr7.idx
+/cvmfs/data.galaxyproject.org/byhand/hg16/align/mm3/chr2.idx
+####### SIZE: 9599 KB

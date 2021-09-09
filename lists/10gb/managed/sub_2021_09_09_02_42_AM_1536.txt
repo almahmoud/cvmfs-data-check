@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_lentocellum_DSM_5427_uid49117
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nostoc_punctiforme_PCC_73102_uid57767/NC_010633.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nostoc_punctiforme_PCC_73102_uid57767/NC_010631.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nostoc_punctiforme_PCC_73102_uid57767/NC_010632.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nostoc_punctiforme_PCC_73102_uid57767/NC_010630.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nostoc_punctiforme_PCC_73102_uid57767/NC_010629.fna
+####### SIZE: 5495 KB

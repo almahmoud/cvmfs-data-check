@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/choHof1/chr14.axt
+####### SIZE: 73642 KB

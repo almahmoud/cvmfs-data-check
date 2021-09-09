@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/sacCer3/sacCer3.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/sacCer3/sacCer3.fa.amb
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/sacCer3/sacCer3.fa.pac
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/sacCer3/sacCer3.fa.sa
+####### SIZE: 8908 KB

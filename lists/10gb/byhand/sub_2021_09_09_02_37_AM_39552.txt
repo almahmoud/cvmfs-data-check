@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/Sscrofa9.58/srma_index/Sscrofa9.58.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/Sscrofa9.58/srma_index/Sscrofa9.58.fa
+/cvmfs/data.galaxyproject.org/byhand/Sscrofa9.58/srma_index/Sscrofa9.58.dict
+/cvmfs/data.galaxyproject.org/byhand/Sscrofa9.58/srma_index
+/cvmfs/data.galaxyproject.org/byhand/Sscrofa9.58/bwa_index/Sscrofa9.58.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/Sscrofa9.58/bwa_index/Sscrofa9.58.fa.amb
+####### SIZE: 3000 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodococcus_erythropolis_CCM2595_uid216088
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Spirochaeta_Buddy_uid63633/NC_015152.fna
+####### SIZE: 9602 KB

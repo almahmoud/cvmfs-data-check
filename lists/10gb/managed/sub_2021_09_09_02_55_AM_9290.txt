@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Calothrix_PCC_7507_uid182930
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Francisella_cf__novicida_3523_uid162107/NC_017449.fna
+####### SIZE: 8889 KB

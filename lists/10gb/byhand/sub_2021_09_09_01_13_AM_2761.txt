@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rn4/maf/chrUn_gl000232.maf
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rn4/maf/chr7.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rn4/maf/chrUn_gl000213.maf
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rn4/maf/chrUn_gl000211.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rn4/maf/chrUn_gl000238.maf
+####### SIZE: 2681 KB

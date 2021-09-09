@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfovibrio_africanus_Walvis_Bay_uid66847/NC_016629.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfovibrio_africanus_Walvis_Bay_uid66847
+####### SIZE: 8327 KB

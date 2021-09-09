@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/bioGla0.len
+####### SIZE: 10015 KB

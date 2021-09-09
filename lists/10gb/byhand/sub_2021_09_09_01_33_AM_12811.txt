@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/16800/NC_008027.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/16800/NC_008027.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/16800/NC_008027.GeneMark-2.5f
+####### SIZE: 7189 KB

@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Fibrobacter_succinogenes_S85_uid161919/NC_017448.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Fibrobacter_succinogenes_S85_uid161919
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermus_oshimai_JL_2_uid178948/NC_019387.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermus_oshimai_JL_2_uid178948/NC_019388.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermus_oshimai_JL_2_uid178948/NC_019386.fna
+####### SIZE: 9999 KB

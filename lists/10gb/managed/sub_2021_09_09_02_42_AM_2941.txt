@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_leprae_Br4923_uid59293/NC_011896.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_leprae_Br4923_uid59293
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermacetogenium_phaeum_DSM_12270_uid177811/NC_018870.fna
+####### SIZE: 9392 KB

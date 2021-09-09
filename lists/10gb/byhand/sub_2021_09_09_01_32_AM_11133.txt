@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/mculMari1/chr.gbk
+####### SIZE: 6005 KB

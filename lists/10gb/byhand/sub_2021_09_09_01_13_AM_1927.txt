@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/galGal3/chr20.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/galGal3/chrY.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/galGal3/chr19_gl000209_random.axt
+####### SIZE: 6663 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/papAnu2/papAnu2.fa.sa
+####### SIZE: 1439640 KB

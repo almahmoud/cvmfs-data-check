@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/xenTro2/maf/chr9.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/xenTro2/maf/chr17_ctg5_hap1.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/xenTro2/maf/chrUn_gl000249.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/xenTro2/maf/chrUn_gl000216.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/xenTro2/maf/chr21.maf
+####### SIZE: 2741 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/loxAfr1/picard_index/loxAfr1.dict
+####### SIZE: 30024 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Oscillatoria_nigro_viridis_PCC_7112_uid183110
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leptospira_interrogans_serovar_Copenhageni_Fiocruz_L1_130_uid58065/NC_005824.fna
+####### SIZE: 8548 KB

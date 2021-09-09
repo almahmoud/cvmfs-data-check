@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/caeJap4/bwa_index/caeJap4.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/caeJap4/bwa_index/caeJap4.fa
+/cvmfs/data.galaxyproject.org/byhand/caeJap4/bwa_index/caeJap4.fa.amb
+####### SIZE: 961 KB

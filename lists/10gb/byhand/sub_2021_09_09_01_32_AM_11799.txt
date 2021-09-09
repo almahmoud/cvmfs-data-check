@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/16364
+/cvmfs/data.galaxyproject.org/byhand/microbes/jannCCS1/seq/plasmid1.nib
+####### SIZE: 8288 KB

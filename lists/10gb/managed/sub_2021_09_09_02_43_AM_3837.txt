@@ -1,0 +1,22 @@
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/orthomcl/11.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/orthomcl/28538.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/orthomcl/6101.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/orthomcl/11827.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/orthomcl/34244.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/orthomcl/19115.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/orthomcl/26160.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/orthomcl/7209.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/orthomcl/10725.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/orthomcl/23123.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/orthomcl/35544.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/orthomcl/10385.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/orthomcl/4731.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/orthomcl/3194.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/orthomcl/17150.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/orthomcl/7456.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/orthomcl/33310.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/orthomcl/4277.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/orthomcl/1256.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/orthomcl/161.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/orthomcl/19973.aln
+####### SIZE: 9999 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm8/liftOver/mm8ToTetNig1.over.chain
+####### SIZE: 13329 KB

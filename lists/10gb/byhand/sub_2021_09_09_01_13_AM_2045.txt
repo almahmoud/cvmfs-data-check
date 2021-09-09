@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/panTro2/chrUn_gl000244.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/panTro2/chrUn_gl000237.hg19.panTro2.net.axt.gz
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/panTro2/chr17_gl000205_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/panTro2/chrUn_gl000234.hg19.panTro2.net.axt.gz
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/panTro2/chr18_gl000207_random.hg19.panTro2.net.axt.gz
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/panTro2/chr8_gl000197_random.axt
+####### SIZE: 471 KB

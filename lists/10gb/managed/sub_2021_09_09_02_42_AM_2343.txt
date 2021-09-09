@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Vibrio_parahaemolyticus_BB22OP_uid184822
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cenarchaeum_symbiosum_A_uid61411/NC_014820.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cenarchaeum_symbiosum_A_uid61411
+####### SIZE: 9118 KB

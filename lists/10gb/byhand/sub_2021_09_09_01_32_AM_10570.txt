@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/otoGar3/bwa_index/otoGar3.fa.rbwt
+####### SIZE: 922751 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/mm7/maf/chr21.maf
+####### SIZE: 43823 KB

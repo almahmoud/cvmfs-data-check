@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/danRer2/chrZ.axt
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/danRer2/chr21.axt
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/danRer2/chr27_random.idx
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/danRer2/chr13.axt
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/danRer2/chr22.axt
+####### SIZE: 6763 KB

@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Anaplasma_phagocytophilum_Dog2_uid213225/NC_021881.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Anaplasma_phagocytophilum_Dog2_uid213225
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Treponema_pallidum_Nichols_uid208669/NC_021490.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Treponema_pallidum_Nichols_uid208669
+####### SIZE: 5187 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm6/liftOver/mm6ToMonDom1.over.chain
+####### SIZE: 62277 KB

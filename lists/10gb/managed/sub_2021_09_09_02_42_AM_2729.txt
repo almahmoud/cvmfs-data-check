@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/beta_proteobacterium_CB_uid191340
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Petrotoga_mobilis_SJ95_uid58747/NC_010003.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Petrotoga_mobilis_SJ95_uid58747
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Marinobacter_adhaerens_HP15_uid162009/NC_017507.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Marinobacter_adhaerens_HP15_uid162009/NC_017508.fna
+####### SIZE: 6564 KB

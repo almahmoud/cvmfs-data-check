@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/droPer1/bwa_index/droPer1.fa.pac
+####### SIZE: 45990 KB

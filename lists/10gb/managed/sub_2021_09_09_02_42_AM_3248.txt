@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bartonella_quintana_RM_11_uid174512/NC_018533.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bartonella_quintana_RM_11_uid174512
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Psychrobacter_arcticus_273_4_uid58021/NC_007204.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Psychrobacter_arcticus_273_4_uid58021
+####### SIZE: 8408 KB

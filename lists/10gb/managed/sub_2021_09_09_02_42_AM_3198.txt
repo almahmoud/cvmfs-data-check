@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Deinococcus_gobiensis_I_0_uid162509
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shigella_boydii_Sb227_uid58215/NC_007608.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shigella_boydii_Sb227_uid58215/NC_007613.fna
+####### SIZE: 8975 KB

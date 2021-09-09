@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9female/bowtie2_index/mm9female.fa
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9female/bowtie2_index/mm9female.3.bt2
+####### SIZE: 7 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/papHam1/papHam1.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/papHam1/papHam1.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/papHam1/papHam1.3.ht2
+####### SIZE: 6677 KB

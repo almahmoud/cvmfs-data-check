@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_K12/bwa_index/eschColi_K12.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_K12/bwa_index/eschColi_K12.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_K12/bwa_index/eschColi_K12.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_K12/bwa_index/eschColi_K12.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_K12/bwa_index/eschColi_K12.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_K12/bwa_index/eschColi_K12.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_K12/bwa_index/eschColi_K12.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_K12/bwa_index/eschColi_K12.fa.bwt
+####### SIZE: 6802 KB

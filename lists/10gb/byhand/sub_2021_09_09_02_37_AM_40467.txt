@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/align/dm1/chr3L.axt
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/align/dm1/chr3R.idx
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/align/dm1/chrM.axt
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/align/dm1/chr3L.idx
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/align/dm1/chrU.idx
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/align/dm1/chrM.idx
+####### SIZE: 8016 KB

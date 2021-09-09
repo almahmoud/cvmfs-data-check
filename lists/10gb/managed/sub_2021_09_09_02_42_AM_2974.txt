@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Francisella_tularensis_holarctica_LVS_uid58595
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/butyrate_producing_bacterium_SSC_2_uid197181/NC_021016.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/butyrate_producing_bacterium_SSC_2_uid197181
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Taylorella_asinigenitalis_MCE3_uid73771/NC_016043.fna
+####### SIZE: 9683 KB

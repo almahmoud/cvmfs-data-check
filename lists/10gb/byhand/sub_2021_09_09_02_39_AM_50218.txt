@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/rn4/nib/chr5.nib
+####### SIZE: 84520 KB

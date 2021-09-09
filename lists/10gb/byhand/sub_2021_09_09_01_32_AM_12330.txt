@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/tropWhip_TW08_27/chr.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/tropWhip_TW08_27
+/cvmfs/data.galaxyproject.org/byhand/microbes/geobMeta_GS15/plasmid_unnamed.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/geobMeta_GS15/plasmid_unnamed.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/geobMeta_GS15/plasmid_unnamed.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/geobMeta_GS15/seq/plasmid_unnamed.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/geobMeta_GS15/seq/chr.nib
+####### SIZE: 8811 KB

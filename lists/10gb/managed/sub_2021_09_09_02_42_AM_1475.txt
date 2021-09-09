@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_anthracis_Ames_uid57909
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermotoga_neapolitana_DSM_4359_uid59065/NC_011978.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermotoga_neapolitana_DSM_4359_uid59065
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodoferax_ferrireducens_T118_uid58353/NC_007901.fna
+####### SIZE: 9178 KB

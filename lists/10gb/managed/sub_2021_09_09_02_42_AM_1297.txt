@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Corynebacterium_glutamicum_ATCC_13032_uid61611/NC_006958.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Corynebacterium_glutamicum_ATCC_13032_uid61611
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_mobile_163K_uid58077/NC_006908.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_mobile_163K_uid58077
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhizobium_etli_bv__mimosae_Mim1_uid213896/NC_021907.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhizobium_etli_bv__mimosae_Mim1_uid213896/NC_021908.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhizobium_etli_bv__mimosae_Mim1_uid213896/NC_021911.fna
+####### SIZE: 9886 KB

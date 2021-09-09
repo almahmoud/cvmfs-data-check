@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Yersinia_enterocolitica_palearctica_Y11_uid162069/NC_017564.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Yersinia_enterocolitica_palearctica_Y11_uid162069
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Geobacillus_Y4_1MC1_uid55779/NC_014651.fna
+####### SIZE: 9170 KB

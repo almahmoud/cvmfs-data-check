@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/sacCer3/bowtie_index/cs
+####### SIZE: 20921 KB

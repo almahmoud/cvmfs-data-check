@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/tmp/chr18_random.fa
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/tmp/chr6_cox_hap1.fa
+####### SIZE: 8340 KB

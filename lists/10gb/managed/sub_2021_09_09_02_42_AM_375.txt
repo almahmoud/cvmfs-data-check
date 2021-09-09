@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/gadMor1/gadMor1.2.ht2
+####### SIZE: 148447 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/saiBol1/bowtie_index/saiBol1.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/saiBol1/bowtie_index/saiBol1.fa
+####### SIZE: 1332 KB

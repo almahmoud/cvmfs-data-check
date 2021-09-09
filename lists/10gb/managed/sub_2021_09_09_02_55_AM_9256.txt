@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_trachomatis_G_11222_uid161361
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_licheniformis_DSM_13___ATCC_14580_uid58199/NC_006322.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_licheniformis_DSM_13___ATCC_14580_uid58199
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mesorhizobium_loti_MAFF303099_uid57601/NC_002682.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mesorhizobium_loti_MAFF303099_uid57601/NC_002679.fna
+####### SIZE: 9965 KB

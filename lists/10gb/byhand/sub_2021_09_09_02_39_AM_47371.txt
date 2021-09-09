@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/calJac1/bwa_index/calJac1.fa.bwt
+####### SIZE: 1109401 KB

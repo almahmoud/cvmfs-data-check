@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_cereus_NC7401_uid82815
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Kyrpidia_tusciae_DSM_2912_uid48361/NC_014098.fna
+####### SIZE: 8859 KB

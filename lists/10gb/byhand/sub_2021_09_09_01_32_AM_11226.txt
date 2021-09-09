@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/procMari_CCMP1375
+/cvmfs/data.galaxyproject.org/byhand/microbes/276/seq/NC_003210.nib
+####### SIZE: 8907 KB

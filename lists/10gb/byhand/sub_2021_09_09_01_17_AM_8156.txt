@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/bowtie_index/cs/xenTro3.2.ebwt
+####### SIZE: 165788 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ce2/bowtie2_index/ce2.3.bt2
+####### SIZE: 1 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Escherichia_coli_O157_H7_EDL933_uid57831
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Syntrophothermus_lipocalidus_DSM_12680_uid49527/NC_014220.fna
+####### SIZE: 7956 KB

@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/align/hg18/maf/chr19_random.maf.lzo
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/align/hg18/maf/chr22.maf.index
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/align/hg18/maf/chr17_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/align/hg18/maf/chr19.maf.index
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/align/hg18/maf/chr11.maf.index
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/align/hg18/maf/chrUn.maf.index
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/align/hg18/maf/chr15_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/align/hg18/maf/chr19.maf.lzot
+####### SIZE: 9651 KB

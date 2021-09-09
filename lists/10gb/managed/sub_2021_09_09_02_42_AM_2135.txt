@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Natrialba_magadii_ATCC_43099_uid46245/NC_013922.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Natrialba_magadii_ATCC_43099_uid46245
+####### SIZE: 8125 KB

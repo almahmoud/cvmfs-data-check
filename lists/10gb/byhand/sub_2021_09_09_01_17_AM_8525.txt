@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/CpipJ1/bwa_index/CpipJ1.fa.pac
+####### SIZE: 141368 KB

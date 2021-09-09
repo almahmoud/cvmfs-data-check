@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/mm6/maf/chr14.maf
+####### SIZE: 60959 KB

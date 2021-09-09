@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_MG1655/bowtie_index/eschColi_MG1655.1.ebwt
+####### SIZE: 5391 KB

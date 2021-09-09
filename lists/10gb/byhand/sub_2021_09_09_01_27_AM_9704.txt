@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/dm3/sam_index/dm3.fa
+/cvmfs/data.galaxyproject.org/byhand/dm3/sam_index/dm3.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/dm3/sam_index
+/cvmfs/data.galaxyproject.org/byhand/dm3/nib/chrU.nib
+/cvmfs/data.galaxyproject.org/byhand/dm3/nib/chr2LHet.nib
+/cvmfs/data.galaxyproject.org/byhand/dm3/nib/chrM.nib
+/cvmfs/data.galaxyproject.org/byhand/dm3/nib/chr3RHet.nib
+####### SIZE: 6336 KB

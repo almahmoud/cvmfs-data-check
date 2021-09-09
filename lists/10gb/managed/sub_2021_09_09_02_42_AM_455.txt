@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/seq/danRer10.fa
+####### SIZE: 1366380 KB

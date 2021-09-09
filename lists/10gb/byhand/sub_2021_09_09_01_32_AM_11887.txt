@@ -1,0 +1,15 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/thioCrun_XCL_2/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/thioCrun_XCL_2/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/thioCrun_XCL_2/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/thioCrun_XCL_2/chr.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/thioCrun_XCL_2/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/thioCrun_XCL_2/thioCrun_XCL_2.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/thioCrun_XCL_2/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/thioCrun_XCL_2/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/thioCrun_XCL_2/chr.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/thioCrun_XCL_2/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/thioCrun_XCL_2/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/thioCrun_XCL_2/chr.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/thioCrun_XCL_2/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/thioCrun_XCL_2/chr.fna
+####### SIZE: 5926 KB

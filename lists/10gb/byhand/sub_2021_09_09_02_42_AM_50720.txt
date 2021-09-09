@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/otoGar1/bowtie_index/cs/otoGar1.rev.2.ebwt
+####### SIZE: 240273 KB

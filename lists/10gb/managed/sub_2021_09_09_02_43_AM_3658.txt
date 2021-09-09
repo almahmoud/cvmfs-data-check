@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/ncbi_taxonomy/ncbi-2015-10-05/division.dmp
+/cvmfs/data.galaxyproject.org/managed/ncbi_taxonomy/ncbi-2015-10-05/gencode.dmp
+/cvmfs/data.galaxyproject.org/managed/ncbi_taxonomy/ncbi-2015-10-05/gc.prt
+/cvmfs/data.galaxyproject.org/managed/ncbi_taxonomy/ncbi-2015-10-05/merged.dmp
+/cvmfs/data.galaxyproject.org/managed/ncbi_taxonomy/ncbi-2015-10-05/readme.txt
+/cvmfs/data.galaxyproject.org/managed/ncbi_taxonomy/ncbi-2015-10-05/delnodes.dmp
+####### SIZE: 3818 KB

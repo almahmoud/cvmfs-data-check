@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/lengths/rheMac1
+/cvmfs/data.galaxyproject.org/byhand/lengths/rn4
+/cvmfs/data.galaxyproject.org/byhand/lengths/.cvmfscatalog
+####### SIZE: 3831 KB

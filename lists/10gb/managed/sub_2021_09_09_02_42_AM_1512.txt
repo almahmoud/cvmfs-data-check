@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sodalis_glossinidius__morsitans__uid58553/NC_007713.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sodalis_glossinidius__morsitans__uid58553/NC_007714.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sodalis_glossinidius__morsitans__uid58553/NC_007715.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sodalis_glossinidius__morsitans__uid58553/NC_007712.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sodalis_glossinidius__morsitans__uid58553
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_pseudopneumoniae_IS7493_uid71153/NC_015876.fna
+####### SIZE: 8517 KB

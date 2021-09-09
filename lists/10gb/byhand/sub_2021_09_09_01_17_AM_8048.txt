@@ -1,0 +1,15 @@
+/cvmfs/data.galaxyproject.org/byhand/lengths/bosTau2
+/cvmfs/data.galaxyproject.org/byhand/lengths/equCab2
+/cvmfs/data.galaxyproject.org/byhand/lengths/musMus5
+/cvmfs/data.galaxyproject.org/byhand/lengths/fugRub1
+/cvmfs/data.galaxyproject.org/byhand/lengths/myoLuc1
+/cvmfs/data.galaxyproject.org/byhand/lengths/speTri1
+/cvmfs/data.galaxyproject.org/byhand/lengths/dasNov2
+/cvmfs/data.galaxyproject.org/byhand/lengths/mm8
+/cvmfs/data.galaxyproject.org/byhand/lengths/bosTau4
+/cvmfs/data.galaxyproject.org/byhand/lengths/gorGor1
+/cvmfs/data.galaxyproject.org/byhand/lengths/lMaj5
+/cvmfs/data.galaxyproject.org/byhand/lengths/ornAna1
+/cvmfs/data.galaxyproject.org/byhand/lengths/mm9
+/cvmfs/data.galaxyproject.org/byhand/lengths/bosTau3
+####### SIZE: 5697 KB

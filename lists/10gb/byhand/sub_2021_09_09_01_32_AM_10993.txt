@@ -1,0 +1,13 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/13356
+/cvmfs/data.galaxyproject.org/byhand/microbes/franTula_TULARENSIS/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/franTula_TULARENSIS/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/franTula_TULARENSIS/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/franTula_TULARENSIS/chr.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/franTula_TULARENSIS/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/franTula_TULARENSIS/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/franTula_TULARENSIS/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/franTula_TULARENSIS/franTula_TULARENSIS.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/franTula_TULARENSIS/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/franTula_TULARENSIS/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/franTula_TULARENSIS/chr.GeneMarkHMM.bed
+####### SIZE: 8568 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sphingobacterium_21_uid64755
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Proteus_mirabilis_HI4320_uid61599/NC_010555.fna
+####### SIZE: 6209 KB

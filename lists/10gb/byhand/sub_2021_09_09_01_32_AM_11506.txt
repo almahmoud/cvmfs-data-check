@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/baciSubt/bwa_index/baciSubt.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/baciSubt/bwa_index/baciSubt.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/microbes/baciSubt/bwa_index/baciSubt.fa.bwt
+####### SIZE: 4117 KB

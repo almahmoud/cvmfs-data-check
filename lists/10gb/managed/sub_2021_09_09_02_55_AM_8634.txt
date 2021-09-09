@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Propionibacterium_acnes_6609_uid162137
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Verrucosispora_maris_AB_18_032_uid66297/NC_015409.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Verrucosispora_maris_AB_18_032_uid66297/NC_015434.fna
+####### SIZE: 9210 KB

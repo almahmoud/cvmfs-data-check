@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/align/fr1/chr18.axt
+####### SIZE: 16023 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudomonas_stutzeri_CCUG_29243_uid168379
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Klebsiella_pneumoniae_KCTC_2242_uid162147/NC_017541.fna
+####### SIZE: 4871 KB

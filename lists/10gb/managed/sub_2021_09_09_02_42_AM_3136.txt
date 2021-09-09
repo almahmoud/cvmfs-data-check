@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methylobacterium_extorquens_DM4_uid61617/NC_012987.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methylobacterium_extorquens_DM4_uid61617/NC_012988.fna
+####### SIZE: 6029 KB

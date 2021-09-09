@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTau6/bowtie_index/cs/bosTau6.fa
+/cvmfs/data.galaxyproject.org/byhand/bosTau6/bowtie_index/cs/bosTau6.3.ebwt
+####### SIZE: 685 KB

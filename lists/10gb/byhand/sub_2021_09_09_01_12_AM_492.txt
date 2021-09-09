@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/monDom5/chrUn_gl000248.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/monDom5/chrUn_gl000236.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/monDom5/chr19_gl000209_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/monDom5/chrUn_gl000233.axt
+####### SIZE: 126 KB

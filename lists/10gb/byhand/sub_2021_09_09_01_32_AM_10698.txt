@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_MG1655
+####### SIZE: 38660 KB

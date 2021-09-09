@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/apiMel3/chr3L.axt
+####### SIZE: 9465 KB

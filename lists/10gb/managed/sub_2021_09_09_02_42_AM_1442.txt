@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sulfobacillus_acidophilus_TPY_uid68841
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acidovorax_ebreus_TPSY_uid59233/NC_011992.fna
+####### SIZE: 7284 KB

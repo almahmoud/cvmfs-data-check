@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg38/hg38.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg38/hg38.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg38/hg38.7.ht2
+####### SIZE: 17 KB

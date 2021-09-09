@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/rheMac2/maf/chr6_cox_hap1.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/rheMac2/maf/chr14.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/rheMac2/maf/chr7.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/rheMac2/maf/chr10.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/rheMac2/maf/chr6.maf.index
+####### SIZE: 1713 KB

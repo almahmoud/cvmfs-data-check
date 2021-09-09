@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/ponAbe2/chrUn_gl000228.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/ponAbe2/chrUn_gl000240.axt
+####### SIZE: 302 KB

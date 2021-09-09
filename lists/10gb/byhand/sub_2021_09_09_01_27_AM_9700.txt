@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/dm3/bwa_index_v0.5.9-r16/dm3.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/dm3/bwa_index_v0.5.9-r16/dm3.fa.ann
+####### SIZE: 2 KB

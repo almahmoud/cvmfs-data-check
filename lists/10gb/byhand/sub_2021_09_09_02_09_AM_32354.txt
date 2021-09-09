@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/gorGor3/bowtie_index/cs/gorGor3.4.ebwt
+####### SIZE: 689151 KB

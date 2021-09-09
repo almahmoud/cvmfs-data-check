@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Isosphaera_pallida_ATCC_43644_uid62207/NC_014962.fna
+####### SIZE: 5422 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm5/liftOver/mm5ToMm6.over.chain
+####### SIZE: 22626 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/mm5/tmp/chrX_random.fa.zip
+/cvmfs/data.galaxyproject.org/byhand/mm5/tmp/chrY_random.fa.zip
+####### SIZE: 3701 KB

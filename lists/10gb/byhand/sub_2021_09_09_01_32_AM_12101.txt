@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/16259/NC_007946.fna
+####### SIZE: 5018 KB

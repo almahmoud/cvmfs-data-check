@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanosarcina_acetivorans_C2A_uid57879
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aeropyrum_camini_SY1___JCM_12091_uid222311/NC_022521.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aeropyrum_camini_SY1___JCM_12091_uid222311
+####### SIZE: 8869 KB

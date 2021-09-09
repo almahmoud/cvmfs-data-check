@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Salmonella_enterica_serovar_Bovismorbificans_3114_uid218006
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Hyphomicrobium_denitrificans_1NES1_uid179904/NC_021172.fna
+####### SIZE: 8504 KB

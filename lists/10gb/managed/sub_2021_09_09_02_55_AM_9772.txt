@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_botulinum_F_230613_uid159513
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_gallisepticum_NC96_1596_4_2P_uid172626/NC_018408.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_gallisepticum_NC96_1596_4_2P_uid172626
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Kocuria_rhizophila_DC2201_uid59099/NC_010617.fna
+####### SIZE: 8610 KB

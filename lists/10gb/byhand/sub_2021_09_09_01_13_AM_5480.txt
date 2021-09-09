@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/bosTau3
+####### SIZE: 6358922 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam1/align/mm6/chr30.idx
+/cvmfs/data.galaxyproject.org/byhand/canFam1/align/mm6/chr19.idx
+####### SIZE: 1621 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Syntrophobotulus_glycolicus_DSM_8271_uid63343/NC_015172.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Syntrophobotulus_glycolicus_DSM_8271_uid63343
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bifidobacterium_dentium_Bd1_uid43091/NC_013714.fna
+####### SIZE: 9367 KB

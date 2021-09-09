@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sinorhizobium_fredii_USDA_257_uid168059
+####### SIZE: 7536 KB

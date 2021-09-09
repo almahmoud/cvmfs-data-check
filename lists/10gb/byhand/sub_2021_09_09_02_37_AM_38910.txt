@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/rn3/chrM.idx
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/rn3/chr1.canFam2.rn3.net.axt.gz
+####### SIZE: 2306 KB

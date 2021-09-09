@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/galGal2
+####### SIZE: 333253 KB

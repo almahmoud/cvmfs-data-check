@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer2/align/mm6/chr21.axt
+####### SIZE: 9134 KB

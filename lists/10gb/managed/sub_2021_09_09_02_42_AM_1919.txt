@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sulfolobus_solfataricus_P2_uid57721
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Midichloria_mitochondrii_IricVA_uid68687/NC_015722.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Midichloria_mitochondrii_IricVA_uid68687
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_thailandensis_E264_uid58081/NC_007650.fna
+####### SIZE: 8208 KB

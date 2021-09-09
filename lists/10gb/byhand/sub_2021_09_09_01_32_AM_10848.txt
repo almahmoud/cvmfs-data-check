@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/therTher_HB8/chr.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/therTher_HB8/plasmid_pTT27.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/therTher_HB8/plasmid_pTT27.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/therTher_HB8/plasmid_pTT8.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/therTher_HB8/plasmid_pTT8.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/therTher_HB8/chr.tRNA.bed
+####### SIZE: 4602 KB

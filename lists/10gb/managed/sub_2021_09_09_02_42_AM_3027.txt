@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanoculleus_marisnigri_JR1_uid58561
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leptospirillum_ferriphilum_ML_04_uid175904/NC_018649.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leptospirillum_ferriphilum_ML_04_uid175904
+####### SIZE: 7232 KB

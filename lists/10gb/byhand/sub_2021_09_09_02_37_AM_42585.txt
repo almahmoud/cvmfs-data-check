@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam3/seq/canFam3.fa
+####### SIZE: 2401621 KB

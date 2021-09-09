@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19canon/bowtie2_index/hg19canon.fa
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19canon/bowtie2_index/hg19canon.3.bt2
+####### SIZE: 5 KB

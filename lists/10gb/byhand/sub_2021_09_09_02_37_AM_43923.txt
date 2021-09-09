@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer6/bwa_index/danRer6.fa.sa
+####### SIZE: 184620 KB

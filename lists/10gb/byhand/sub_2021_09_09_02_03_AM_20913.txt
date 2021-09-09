@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/bosTau2/chr18.idx
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/bosTau2/chr3.idx
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/bosTau2/chr10_random.idx
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/bosTau2/chr17.idx
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/bosTau2/chr11.idx
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/bosTau2/chr15.idx
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/bosTau2/chrY.axt
+####### SIZE: 8951 KB

@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/monDom4/chr8_random.idx
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/monDom4/chrUn_random.axt
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/monDom4/chrY_random.idx
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/monDom4/chr8_random.axt
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/monDom4/chr10_random.axt
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/monDom4/chr14.idx
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/monDom4/chrM.axt
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/monDom4/chr17_random.axt
+####### SIZE: 873 KB

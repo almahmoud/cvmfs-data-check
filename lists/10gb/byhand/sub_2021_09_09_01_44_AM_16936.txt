@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/rmsk/Ultra517.fa.align
+####### SIZE: 18973 KB

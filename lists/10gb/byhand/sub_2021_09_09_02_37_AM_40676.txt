@@ -1,0 +1,13 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal3/quality_scores/chr7_random.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/galGal3/quality_scores/chr9.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/galGal3/quality_scores/chr26.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/galGal3/quality_scores/chr17.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/galGal3/quality_scores/chr5_random.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/galGal3/quality_scores/chr18.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/galGal3/quality_scores/chr7.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/galGal3/quality_scores/chr12.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/galGal3/quality_scores/chr8_random.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/galGal3/quality_scores/chr28.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/galGal3/quality_scores/chr19.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/galGal3/quality_scores/chr23.qa.bqv
+####### SIZE: 9335 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/therTher_HB27
+/cvmfs/data.galaxyproject.org/byhand/microbes/16841/seq/NC_008610.nib
+####### SIZE: 9692 KB

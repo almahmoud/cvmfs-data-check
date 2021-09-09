@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer7/liftOver/danRer7ToHg19.over.chain
+####### SIZE: 21340 KB

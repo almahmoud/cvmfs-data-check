@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Advenella_kashmirensis_WT001_uid80859
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Turneriella_parva_DSM_21527_uid168321/NC_018021.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Turneriella_parva_DSM_21527_uid168321/NC_018020.fna
+####### SIZE: 8756 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clavibacter_michiganensis_sepedonicus_uid61577
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfatibacillum_alkenivorans_AK_01_uid58913/NC_011768.fna
+####### SIZE: 9833 KB

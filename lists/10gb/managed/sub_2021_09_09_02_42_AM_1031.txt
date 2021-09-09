@@ -1,0 +1,21 @@
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/manVit1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/danRer10.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/chaVoc1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/poeFor1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/rn6.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/dicLab1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/bruMal2.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/chrPic2.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/aptFor1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/panRed1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/marVir1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/bucRhi1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/sudEbo1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/corCor1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/balPav1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/cucCan1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/caeAng2.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/nipNip1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/carCri1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/triSpi1.len
+####### SIZE: 9232 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Delftia_Cs1_4_uid67319
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Flavobacterium_psychrophilum_JIP02_86_uid61627/NC_009613.fna
+####### SIZE: 9461 KB

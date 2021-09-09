@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhizobium_etli_bv__mimosae_Mim1_uid213896/NC_021909.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhizobium_etli_bv__mimosae_Mim1_uid213896/NC_021906.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhizobium_etli_bv__mimosae_Mim1_uid213896/NC_021910.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhizobium_etli_bv__mimosae_Mim1_uid213896/NC_021905.fna
+####### SIZE: 5301 KB

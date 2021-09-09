@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/petMar1/quality_scores
+####### SIZE: 4277649 KB

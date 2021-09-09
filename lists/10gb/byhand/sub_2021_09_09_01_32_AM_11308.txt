@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/campJeju_81_176
+/cvmfs/data.galaxyproject.org/byhand/microbes/leucMese_ATCC8293/seq/plasmid_pLEUM1.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/leucMese_ATCC8293/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/leucMese_ATCC8293/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/leucMese_ATCC8293/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/leucMese_ATCC8293/plasmid_pLEUM1.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/leucMese_ATCC8293/chr.GeneMark-2.5f
+####### SIZE: 9973 KB

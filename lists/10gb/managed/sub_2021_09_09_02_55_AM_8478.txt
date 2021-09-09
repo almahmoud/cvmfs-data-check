@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sinorhizobium_meliloti_1021_uid57603/NC_003078.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sinorhizobium_meliloti_1021_uid57603/NC_003037.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sinorhizobium_meliloti_1021_uid57603/NC_003047.fna
+####### SIZE: 6630 KB

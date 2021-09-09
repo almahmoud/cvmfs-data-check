@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactococcus_lactis_cremoris_A76_uid160937/NC_017492.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactococcus_lactis_cremoris_A76_uid160937
+####### SIZE: 4989 KB

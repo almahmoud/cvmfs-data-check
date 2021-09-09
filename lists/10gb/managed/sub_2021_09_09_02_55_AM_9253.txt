@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bartonella_australis_Aust_NH1_uid189950/NC_020300.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bartonella_australis_Aust_NH1_uid189950
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ethanoligenens_harbinense_YUAN_3_uid46255/NC_014828.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ethanoligenens_harbinense_YUAN_3_uid46255
+####### SIZE: 9134 KB

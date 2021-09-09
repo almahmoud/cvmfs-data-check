@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acidovorax_KKS102_uid176500/NC_018708.fna
+####### SIZE: 5148 KB

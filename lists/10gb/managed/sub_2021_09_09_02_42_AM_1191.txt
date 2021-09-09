@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Photorhabdus_luminescens_laumondii_TTO1_uid61593/NC_005126.fna
+####### SIZE: 5636 KB

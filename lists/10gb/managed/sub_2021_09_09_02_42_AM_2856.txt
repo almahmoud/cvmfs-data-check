@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_anthracis_H9401_uid162021/NC_017729.fna
+####### SIZE: 5170 KB

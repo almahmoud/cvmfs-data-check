@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/caldSacc_DSM8903/chr.gbk
+####### SIZE: 6821 KB

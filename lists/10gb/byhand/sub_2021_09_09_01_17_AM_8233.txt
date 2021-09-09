@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/taeGut1canon/bowtie_index/cs
+####### SIZE: 1252897 KB

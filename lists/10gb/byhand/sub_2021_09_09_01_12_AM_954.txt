@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way/maf/chr21.maf.lzot
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way/maf/chr1.maf.lzot
+####### SIZE: 7344 KB

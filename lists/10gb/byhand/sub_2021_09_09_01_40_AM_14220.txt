@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/bowtie2_index/ailMel1.1.bt2
+####### SIZE: 738537 KB

@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/sam_index/xenTro3.fa
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/sam_index/xenTro3.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/sam_index
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/picard_index/xenTro3.fa
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/picard_index/xenTro3.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/picard_index/xenTro3.dict
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/picard_index
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/bowtie2_index/xenTro3.fa
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/bowtie2_index/xenTro3.3.bt2
+####### SIZE: 9055 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/nitrOcea_ATCC19707/chr.gbk
+####### SIZE: 7993 KB

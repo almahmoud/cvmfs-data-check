@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/ce9/sam_index/ce9.fa
+/cvmfs/data.galaxyproject.org/byhand/ce9/sam_index/ce9.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/ce9/sam_index
+/cvmfs/data.galaxyproject.org/byhand/ce9/picard_index/ce9.fa
+/cvmfs/data.galaxyproject.org/byhand/ce9/picard_index/ce9.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/ce9/picard_index/ce9.dict
+/cvmfs/data.galaxyproject.org/byhand/ce9/picard_index
+/cvmfs/data.galaxyproject.org/byhand/ce9/bowtie2_index/ce9.fa
+/cvmfs/data.galaxyproject.org/byhand/ce9/bowtie2_index/ce9.3.bt2
+####### SIZE: 20 KB

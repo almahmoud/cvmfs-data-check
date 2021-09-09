@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/vibrVuln_YJ016_1/chrI.gbk
+####### SIZE: 7523 KB

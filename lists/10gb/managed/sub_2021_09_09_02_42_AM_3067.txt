@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ruminococcus_bromii_uid197158/NC_021013.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ruminococcus_bromii_uid197158
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Alicyclobacillus_acidocaldarius_DSM_446_uid59199/NC_013207.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Alicyclobacillus_acidocaldarius_DSM_446_uid59199/NC_013206.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Alicyclobacillus_acidocaldarius_DSM_446_uid59199/NC_013208.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Alicyclobacillus_acidocaldarius_DSM_446_uid59199/NC_013205.fna
+####### SIZE: 7638 KB

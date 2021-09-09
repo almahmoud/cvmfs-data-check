@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/nib/chr13_random.nib
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/nib/chrM.nib
+####### SIZE: 4951 KB

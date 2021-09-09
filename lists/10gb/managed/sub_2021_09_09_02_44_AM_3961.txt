@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/gfam/9.aln
+####### SIZE: 19555 KB

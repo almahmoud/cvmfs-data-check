@@ -1,0 +1,14 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/saliTrop_CNB_440/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/saliTrop_CNB_440/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/saliTrop_CNB_440/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/saliTrop_CNB_440/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/saliTrop_CNB_440/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/saliTrop_CNB_440/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/saliTrop_CNB_440/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/saliTrop_CNB_440/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/saliTrop_CNB_440/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/saliTrop_CNB_440/chr.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/saliTrop_CNB_440/saliTrop_CNB_440.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/saliTrop_CNB_440/chr.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/saliTrop_CNB_440/chr.GeneMark-2.5f
+####### SIZE: 7640 KB

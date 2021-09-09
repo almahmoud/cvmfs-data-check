@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/377/NC_010125.gbk
+####### SIZE: 8566 KB

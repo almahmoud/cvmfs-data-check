@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/susScr3/snp/Column_names_snp55chr_files.xlsx
+####### SIZE: 13 KB

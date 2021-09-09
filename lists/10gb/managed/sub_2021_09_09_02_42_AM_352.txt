@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/panTro3canon/panTro3canon.1.ht2
+####### SIZE: 774279 KB

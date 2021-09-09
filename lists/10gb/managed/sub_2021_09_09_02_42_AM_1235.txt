@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cyanothece_ATCC_51142_uid59013/NC_010546.fna
+####### SIZE: 4888 KB

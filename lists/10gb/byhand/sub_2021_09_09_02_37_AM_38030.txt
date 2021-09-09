@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/rn4/chr16.axt
+####### SIZE: 146304 KB

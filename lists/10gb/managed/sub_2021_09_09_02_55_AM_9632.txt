@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sulfurimonas_denitrificans_DSM_1251_uid58185/NC_007575.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sulfurimonas_denitrificans_DSM_1251_uid58185
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Enterococcus_faecalis_V583_uid57669/NC_004671.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Enterococcus_faecalis_V583_uid57669/NC_004669.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Enterococcus_faecalis_V583_uid57669/NC_004670.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Enterococcus_faecalis_V583_uid57669/NC_004668.fna
+####### SIZE: 7697 KB

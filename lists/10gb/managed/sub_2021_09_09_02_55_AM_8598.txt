@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Arthrospira_platensis_NIES_39_uid197171
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Fusobacterium_nucleatum_polymorphum_ATCC_10953_uid54419/NC_009506.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Fusobacterium_nucleatum_polymorphum_ATCC_10953_uid54419
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Erwinia_amylovora_ATCC_49946_uid46943/NC_013973.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Erwinia_amylovora_ATCC_49946_uid46943/NC_013972.fna
+####### SIZE: 6858 KB

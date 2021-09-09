@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Frankia_alni_ACN14a_uid58695/NC_008278.fna
+####### SIZE: 7427 KB

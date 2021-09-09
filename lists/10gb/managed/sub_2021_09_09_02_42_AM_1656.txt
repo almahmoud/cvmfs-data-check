@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sinorhizobium_fredii_HH103_uid86865
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sphingomonas_wittichii_RW1_uid58691/NC_009508.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sphingomonas_wittichii_RW1_uid58691/NC_009507.fna
+####### SIZE: 8275 KB

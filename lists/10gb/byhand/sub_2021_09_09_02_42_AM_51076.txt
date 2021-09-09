@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/customProDB/omicron-data.duckdns.org/customProDB/ensembl/hsapiens-may2012/proseq.RData
+####### SIZE: 18030 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/ornAna1/maf/chr7_gl000195_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/ornAna1/maf/chr7.maf.index
+####### SIZE: 824 KB

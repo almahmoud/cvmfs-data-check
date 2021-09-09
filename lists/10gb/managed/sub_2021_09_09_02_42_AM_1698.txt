@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfosporosinus_meridiei_DSM_13257_uid75097/NC_018515.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfosporosinus_meridiei_DSM_13257_uid75097
+####### SIZE: 9660 KB

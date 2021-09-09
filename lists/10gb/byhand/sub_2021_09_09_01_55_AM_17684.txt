@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/venter1/sam_index/venter1.fa
+/cvmfs/data.galaxyproject.org/byhand/venter1/sam_index/venter1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/venter1/sam_index
+####### SIZE: 8 KB

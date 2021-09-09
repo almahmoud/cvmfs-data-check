@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Alteromonas_macleodii__English_Channel_615__uid210781/NC_021716.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Alteromonas_macleodii__English_Channel_615__uid210781
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Vibrio_cholerae_O395_uid58425/NC_009456.fna
+####### SIZE: 9984 KB

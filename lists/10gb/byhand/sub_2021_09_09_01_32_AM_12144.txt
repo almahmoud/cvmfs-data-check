@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/neisMeni_Z2491_1
+/cvmfs/data.galaxyproject.org/byhand/microbes/19065/NC_009466.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/19065/NC_009466.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/19065/seq/NC_009466.nib
+####### SIZE: 9224 KB

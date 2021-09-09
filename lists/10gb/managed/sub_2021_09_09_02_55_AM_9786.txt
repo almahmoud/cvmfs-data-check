@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Hyphomicrobium_denitrificans_ATCC_51888_uid50325/NC_014313.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Hyphomicrobium_denitrificans_ATCC_51888_uid50325
+####### SIZE: 7215 KB

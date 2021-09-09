@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/eriEur1
+####### SIZE: 2765430 KB

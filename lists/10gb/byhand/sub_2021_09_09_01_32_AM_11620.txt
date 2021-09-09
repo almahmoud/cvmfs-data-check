@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/237/NC_007795.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/237/237.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/237/NC_007795.fna
+####### SIZE: 9107 KB

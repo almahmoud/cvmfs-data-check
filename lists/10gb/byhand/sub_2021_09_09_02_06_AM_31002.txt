@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/rn4/sam_index/rn4.fa
+/cvmfs/data.galaxyproject.org/byhand/rn4/sam_index/rn4.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/rn4/sam_index
+/cvmfs/data.galaxyproject.org/byhand/rn4/rn4canon/bowtie2_index/rn4canon.fa
+/cvmfs/data.galaxyproject.org/byhand/rn4/rn4canon/bowtie2_index/rn4canon.3.bt2
+####### SIZE: 7393 KB

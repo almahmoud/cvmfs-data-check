@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/loxAfr1/seq/loxAfr1.2bit
+####### SIZE: 924016 KB

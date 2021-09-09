@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Kineococcus_radiotolerans_SRS30216_uid58067/NC_009664.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Kineococcus_radiotolerans_SRS30216_uid58067
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sulfuricurvum_kujiense_DSM_16994_uid60789/NC_014754.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sulfuricurvum_kujiense_DSM_16994_uid60789/NC_014763.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sulfuricurvum_kujiense_DSM_16994_uid60789/NC_014756.fna
+####### SIZE: 9805 KB

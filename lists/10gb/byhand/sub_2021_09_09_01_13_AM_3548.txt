@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/liftOver
+####### SIZE: 233400 KB

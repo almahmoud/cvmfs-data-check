@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/13954/bwa_index/cs/burkPseu_1710B.fa.nt.pac
+/cvmfs/data.galaxyproject.org/byhand/microbes/13954/bwa_index/cs/burkPseu_1710B.fa.pac
+####### SIZE: 3570 KB

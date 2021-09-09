@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/dasNov1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/13427.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/15751.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/methVann1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/brucMeli.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/16723.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/simHumanMam.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/pseHum1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/ce10.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/falciparum.len
+####### SIZE: 6302 KB

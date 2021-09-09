@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/droSim1/nib/chr4.nib
+/cvmfs/data.galaxyproject.org/byhand/droSim1/nib/chr3h_random.nib
+/cvmfs/data.galaxyproject.org/byhand/droSim1/nib/chr2R_random.nib
+####### SIZE: 2638 KB

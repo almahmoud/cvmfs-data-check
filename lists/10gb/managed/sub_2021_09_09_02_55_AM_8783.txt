@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Natrinema_J7_uid171337
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodomicrobium_vannielii_ATCC_17100_uid43247/NC_014664.fna
+####### SIZE: 7740 KB

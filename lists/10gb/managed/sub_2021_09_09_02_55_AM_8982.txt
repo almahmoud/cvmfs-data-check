@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_mallei_ATCC_23344_uid57725
+####### SIZE: 5785 KB

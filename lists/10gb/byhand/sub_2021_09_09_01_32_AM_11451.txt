@@ -1,0 +1,14 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/anaeDeha_2CP_C/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/anaeDeha_2CP_C/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/anaeDeha_2CP_C/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/anaeDeha_2CP_C/anaeDeha_2CP_C.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/anaeDeha_2CP_C/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/anaeDeha_2CP_C/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/anaeDeha_2CP_C/chr.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/anaeDeha_2CP_C/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/anaeDeha_2CP_C/chr.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/anaeDeha_2CP_C/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/anaeDeha_2CP_C/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/anaeDeha_2CP_C/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/anaeDeha_2CP_C/chr.tRNA.bed
+####### SIZE: 7284 KB

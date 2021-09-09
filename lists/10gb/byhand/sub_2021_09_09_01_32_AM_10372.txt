@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/droSim1/align/dm2/chr3L.axt
+####### SIZE: 41906 KB

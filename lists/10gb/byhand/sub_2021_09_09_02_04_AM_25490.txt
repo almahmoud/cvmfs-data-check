@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/mm9/maf/chr24.maf
+####### SIZE: 47308 KB

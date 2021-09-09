@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/ponAbe2/chr17_random.axt
+####### SIZE: 3184 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Dickeya_zeae_Ech1591_uid59297
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Salmonella_enterica_serovar_Typhi_Ty2_uid57973/NC_004631.fna
+####### SIZE: 9520 KB

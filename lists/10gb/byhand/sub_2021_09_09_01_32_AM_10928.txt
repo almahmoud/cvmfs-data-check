@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/chloTepi_TLS/chr.gbk
+####### SIZE: 4900 KB

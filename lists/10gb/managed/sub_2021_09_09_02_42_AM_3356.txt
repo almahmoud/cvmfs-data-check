@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cardinium_endosymbiont_cEper1_of_Encarsia_pergandiella_uid175524/NC_018605.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cardinium_endosymbiont_cEper1_of_Encarsia_pergandiella_uid175524/NC_018606.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cardinium_endosymbiont_cEper1_of_Encarsia_pergandiella_uid175524
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Frateuria_aurantia_DSM_6220_uid81775/NC_017033.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Frateuria_aurantia_DSM_6220_uid81775
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_perfringens_13_uid57681/NC_003042.fna
+####### SIZE: 9076 KB

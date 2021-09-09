@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/dm6/dm6.fa
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/dm6/dm6.fa.amb
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/dm6/dm6.fa.ann
+####### SIZE: 94 KB

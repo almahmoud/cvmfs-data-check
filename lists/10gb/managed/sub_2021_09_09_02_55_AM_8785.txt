@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodococcus_jostii_RHA1_uid58325/NC_008268.fna
+####### SIZE: 7731 KB

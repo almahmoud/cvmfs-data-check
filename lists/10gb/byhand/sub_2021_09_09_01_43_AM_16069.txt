@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/hg18/chr11.idx
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/hg18/chr17.idx
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/hg18/chr3.idx
+####### SIZE: 9221 KB

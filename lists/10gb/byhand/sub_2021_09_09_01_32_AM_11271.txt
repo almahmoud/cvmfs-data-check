@@ -1,0 +1,25 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/nostSp/plasmid_pCC7120gamma.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/nostSp/plasmid_pCC7120epsilon.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/nostSp/plasmid_pCC7120gamma.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/nostSp/plasmid_pCC7120delta.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/nostSp/plasmid_pCC7120delta.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/nostSp/plasmid_pCC7120gamma.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/nostSp/plasmid_pCC7120gamma.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/nostSp/plasmid_pCC7120delta.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/nostSp/plasmid_pCC7120zeta.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/nostSp/plasmid_pCC7120alpha.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/nostSp/plasmid_pCC7120delta.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/nostSp/plasmid_pCC7120delta.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/nostSp/plasmid_pCC7120zeta.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/nostSp/plasmid_pCC7120epsilon.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/nostSp/plasmid_pCC7120zeta.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/nostSp/plasmid_pCC7120gamma.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/nostSp/plasmid_pCC7120zeta.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/nostSp/plasmid_pCC7120alpha.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/nostSp/plasmid_pCC7120epsilon.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/nostSp/plasmid_pCC7120alpha.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/nostSp/chr.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/nostSp/plasmid_pCC7120zeta.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/nostSp/plasmid_pCC7120delta.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/nostSp/plasmid_pCC7120epsilon.fna
+####### SIZE: 216 KB

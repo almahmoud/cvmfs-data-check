@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/droEre2/bowtie2_index/droEre2.rev.1.bt2
+####### SIZE: 51503 KB

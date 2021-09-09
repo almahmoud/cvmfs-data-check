@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/tetNig1/chr16.axt
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/tetNig1/chrY.axt
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/tetNig1/chr10.idx
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/tetNig1/chr8.idx
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/tetNig1/chr16.idx
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/tetNig1/chr14.axt
+####### SIZE: 8569 KB

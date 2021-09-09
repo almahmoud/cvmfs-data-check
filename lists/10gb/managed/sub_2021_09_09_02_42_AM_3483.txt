@@ -1,0 +1,12 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Brucella_melitensis_ATCC_23457_uid59241
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Selenomonas_ruminantium_lactilytica_TAM6421_uid157247/NC_017072.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Selenomonas_ruminantium_lactilytica_TAM6421_uid157247/NC_017069.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Selenomonas_ruminantium_lactilytica_TAM6421_uid157247/NC_017070.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Selenomonas_ruminantium_lactilytica_TAM6421_uid157247/NC_017076.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Selenomonas_ruminantium_lactilytica_TAM6421_uid157247/NC_017078.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Selenomonas_ruminantium_lactilytica_TAM6421_uid157247/NC_017077.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Selenomonas_ruminantium_lactilytica_TAM6421_uid157247/NC_017071.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Selenomonas_ruminantium_lactilytica_TAM6421_uid157247/NC_017073.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Selenomonas_ruminantium_lactilytica_TAM6421_uid157247/NC_017068.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Selenomonas_ruminantium_lactilytica_TAM6421_uid157247/NC_017074.fna
+####### SIZE: 6887 KB

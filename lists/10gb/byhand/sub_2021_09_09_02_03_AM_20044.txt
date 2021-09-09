@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam2/liftOver/canFam2ToRheMac2.over.chain
+####### SIZE: 331787 KB

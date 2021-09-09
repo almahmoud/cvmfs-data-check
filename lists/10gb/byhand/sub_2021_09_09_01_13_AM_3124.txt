@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hetGla1/bwa_index/hetGla1.fa.sa
+####### SIZE: 322752 KB

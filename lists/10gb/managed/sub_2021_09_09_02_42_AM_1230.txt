@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Corynebacterium_glutamicum_ATCC_13032_uid57905
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermaerobacter_marianensis_DSM_12885_uid61727/NC_014831.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermaerobacter_marianensis_DSM_12885_uid61727
+####### SIZE: 8924 KB

@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/Xanthomonas_oryzae_PXO99A/sam_index/Xanthomonas_oryzae_PXO99A.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/Xanthomonas_oryzae_PXO99A/sam_index/Xanthomonas_oryzae_PXO99A.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/microbes/Xanthomonas_oryzae_PXO99A/sam_index
+/cvmfs/data.galaxyproject.org/byhand/microbes/Xanthomonas_oryzae_PXO99A/download/26jan2011/1216/Xanthomonas_oryzae_PXO99A.fa
+####### SIZE: 5199 KB

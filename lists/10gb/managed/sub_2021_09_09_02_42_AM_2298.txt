@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bradyrhizobium_S23321_uid158167/NC_017082.fna
+####### SIZE: 7164 KB

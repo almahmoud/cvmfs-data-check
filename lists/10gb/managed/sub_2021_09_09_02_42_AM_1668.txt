@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Serratia_liquefaciens_ATCC_27592_uid212306
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_amyloliquefaciens_XH7_uid158881/NC_017191.fna
+####### SIZE: 9140 KB

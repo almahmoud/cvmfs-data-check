@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/petMar1/bwa_index/petMar1.fa.rbwt
+####### SIZE: 376194 KB

@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/petMar1/sam_index/petMar1.fa
+/cvmfs/data.galaxyproject.org/byhand/petMar1/sam_index/petMar1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/petMar1/sam_index
+/cvmfs/data.galaxyproject.org/byhand/petMar1/picard_index/petMar1.fa
+/cvmfs/data.galaxyproject.org/byhand/petMar1/picard_index/petMar1.fa.fai
+####### SIZE: 7070 KB

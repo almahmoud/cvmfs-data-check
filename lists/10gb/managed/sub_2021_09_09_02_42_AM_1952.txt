@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Escherichia_coli_SMS_3_5_uid58919/NC_010498.fna
+####### SIZE: 5021 KB

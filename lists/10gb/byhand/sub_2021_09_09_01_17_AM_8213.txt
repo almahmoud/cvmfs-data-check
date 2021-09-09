@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/quality_scores
+####### SIZE: 3856985 KB

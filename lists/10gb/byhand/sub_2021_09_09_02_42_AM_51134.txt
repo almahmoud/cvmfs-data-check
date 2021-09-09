@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/customProDB/omicron-data.duckdns.org/customProDB/ensembl/oniloticus-may2017/exon_anno.RData
+####### SIZE: 6514 KB

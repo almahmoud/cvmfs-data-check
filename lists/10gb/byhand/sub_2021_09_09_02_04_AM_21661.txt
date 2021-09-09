@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/felCat4/felCat4canon/bowtie2_index
+####### SIZE: 2385381 KB

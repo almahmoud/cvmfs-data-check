@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacteroides_fragilis_YCH46_uid58195
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halorhodospira_halophila_SL1_uid58473/NC_008789.fna
+####### SIZE: 7920 KB

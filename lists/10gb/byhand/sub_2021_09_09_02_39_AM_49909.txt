@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/mm8/chr13.axt
+####### SIZE: 5749 KB

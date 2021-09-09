@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Geodermatophilus_obscurus_DSM_43160_uid43725/NC_013757.fna
+####### SIZE: 5273 KB

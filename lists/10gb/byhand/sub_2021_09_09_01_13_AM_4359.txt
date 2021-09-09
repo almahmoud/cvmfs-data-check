@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/hg18/maf/chr21.hg18.hg18.net.maf
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/hg18/maf/chr5.hg18.hg18.net.maf.index
+####### SIZE: 9026 KB

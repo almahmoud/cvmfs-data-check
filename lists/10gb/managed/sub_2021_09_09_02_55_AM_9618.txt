@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Prevotella_dentalis_DSM_3688_uid184818
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Neisseria_gonorrhoeae_TCDC_NG08107_uid161097/NC_017510.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Neisseria_gonorrhoeae_TCDC_NG08107_uid161097/NC_017511.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Neisseria_gonorrhoeae_TCDC_NG08107_uid161097
+####### SIZE: 7676 KB

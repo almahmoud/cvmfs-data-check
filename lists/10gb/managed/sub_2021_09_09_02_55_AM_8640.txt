@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Proteus_mirabilis_HI4320_uid61599/NC_010554.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Proteus_mirabilis_HI4320_uid61599
+####### SIZE: 8093 KB

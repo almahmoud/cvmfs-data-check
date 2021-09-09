@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Treponema_pedis_T_A4_uid215715/NC_022097.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Treponema_pedis_T_A4_uid215715
+####### SIZE: 5729 KB

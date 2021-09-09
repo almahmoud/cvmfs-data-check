@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Calothrix_PCC_7507_uid182930/NC_019682.fna
+####### SIZE: 6957 KB

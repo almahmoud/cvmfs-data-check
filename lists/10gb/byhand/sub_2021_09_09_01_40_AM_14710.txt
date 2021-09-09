@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/align/panTro2/maf/chr22_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/align/panTro2/maf/chr6.maf.lzot
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/align/panTro2/maf/chr7.maf.index
+####### SIZE: 1503 KB

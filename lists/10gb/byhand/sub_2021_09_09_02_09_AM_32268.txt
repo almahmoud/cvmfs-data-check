@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/droVir1/liftOver/droVir1ToDm2.over.chain
+####### SIZE: 24605 KB

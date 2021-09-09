@@ -1,0 +1,17 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_genitalium_M6282_uid173371
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_recurrentis_A1_uid58793/NC_011246.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_recurrentis_A1_uid58793/NC_011244.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_recurrentis_A1_uid58793/NC_011255.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_recurrentis_A1_uid58793/NC_011263.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_recurrentis_A1_uid58793/NC_011258.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_recurrentis_A1_uid58793/NC_011253.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_recurrentis_A1_uid58793/NC_011252.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_recurrentis_A1_uid58793/NC_011260.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_recurrentis_A1_uid58793
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhizobium_leguminosarum_bv__viciae_3841_uid57955/NC_008381.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhizobium_leguminosarum_bv__viciae_3841_uid57955/NC_008383.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhizobium_leguminosarum_bv__viciae_3841_uid57955/NC_008379.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhizobium_leguminosarum_bv__viciae_3841_uid57955/NC_008378.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhizobium_leguminosarum_bv__viciae_3841_uid57955/NC_008382.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhizobium_leguminosarum_bv__viciae_3841_uid57955/NC_008384.fna
+####### SIZE: 5724 KB

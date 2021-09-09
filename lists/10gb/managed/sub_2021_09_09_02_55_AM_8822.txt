@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Legionella_pneumophila_Thunder_Bay_uid206517
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pirellula_staleyi_DSM_6068_uid43209/NC_013720.fna
+####### SIZE: 9565 KB

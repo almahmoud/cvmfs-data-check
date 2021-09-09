@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Xanthobacter_autotrophicus_Py2_uid58453/NC_009717.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Xanthobacter_autotrophicus_Py2_uid58453/NC_009720.fna
+####### SIZE: 5573 KB

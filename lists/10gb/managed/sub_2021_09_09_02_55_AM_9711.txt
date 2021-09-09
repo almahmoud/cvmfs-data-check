@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_thuringiensis_HD_789_uid173860
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Verminephrobacter_eiseniae_EF01_2_uid58675/NC_008771.fna
+####### SIZE: 6312 KB

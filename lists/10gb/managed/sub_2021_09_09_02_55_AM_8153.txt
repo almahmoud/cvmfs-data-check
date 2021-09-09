@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/mm10/mm10/dataset_5e31b655-e1b3-4c90-ae18-bbafb09a15fc_files/chrStart.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/mm10/mm10/dataset_5e31b655-e1b3-4c90-ae18-bbafb09a15fc_files/genomeParameters.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/mm10/mm10/dataset_5e31b655-e1b3-4c90-ae18-bbafb09a15fc_files/chrName.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/mm10/mm10/dataset_5e31b655-e1b3-4c90-ae18-bbafb09a15fc_files/Log.out
+####### SIZE: 17 KB

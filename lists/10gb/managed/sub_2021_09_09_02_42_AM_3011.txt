@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Saccharomonospora_viridis_DSM_43017_uid59055
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cellulomonas_fimi_ATCC_484_uid66779/NC_015514.fna
+####### SIZE: 8499 KB

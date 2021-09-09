@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Coraliomargarita_akajimensis_DSM_45221_uid47079/NC_014008.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Coraliomargarita_akajimensis_DSM_45221_uid47079
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Isosphaera_pallida_ATCC_43644_uid62207/NC_014957.fna
+####### SIZE: 7492 KB

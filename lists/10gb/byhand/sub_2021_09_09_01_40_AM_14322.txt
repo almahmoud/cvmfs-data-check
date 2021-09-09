@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/Araly1/bwa_index/Araly1.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/Araly1/bwa_index/Araly1.fa.ann
+####### SIZE: 75 KB

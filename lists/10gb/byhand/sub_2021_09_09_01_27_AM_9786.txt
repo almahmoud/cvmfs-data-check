@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droSim1/maf/chr2L.maf
+####### SIZE: 44800 KB

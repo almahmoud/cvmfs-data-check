@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sphingobium_chlorophenolicum_L_1_uid52597
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thioalkalimicrobium_cyclicum_ALM1_uid67391/NC_015581.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thioalkalimicrobium_cyclicum_ALM1_uid67391
+####### SIZE: 8370 KB

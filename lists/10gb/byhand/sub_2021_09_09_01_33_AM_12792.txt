@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/15750/NC_007925.fna
+####### SIZE: 5462 KB

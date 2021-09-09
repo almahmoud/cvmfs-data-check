@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Campylobacter_hominis_ATCC_BAA_381_uid58981/NC_009714.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Campylobacter_hominis_ATCC_BAA_381_uid58981/NC_009713.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Campylobacter_hominis_ATCC_BAA_381_uid58981
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Alkaliphilus_metalliredigens_QYMF_uid58171/NC_009633.fna
+####### SIZE: 8287 KB

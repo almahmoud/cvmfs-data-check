@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/strPur3/bwa_index/strPur3.fa.rpac
+####### SIZE: 224488 KB

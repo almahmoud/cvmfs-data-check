@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_cereus_E33L_uid58103/NC_006274.fna
+####### SIZE: 5251 KB

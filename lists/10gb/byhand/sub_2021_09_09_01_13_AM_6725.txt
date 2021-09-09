@@ -1,0 +1,13 @@
+/cvmfs/data.galaxyproject.org/byhand/sacCer2/perm_index
+/cvmfs/data.galaxyproject.org/byhand/sacCer2/tmp
+/cvmfs/data.galaxyproject.org/byhand/sacCer2/sam_index/sacCer2.fa
+/cvmfs/data.galaxyproject.org/byhand/sacCer2/sam_index/sacCer2.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/sacCer2/sam_index
+/cvmfs/data.galaxyproject.org/byhand/sacCer2/picard_index/sacCer2.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/sacCer2/picard_index/sacCer2.fa
+/cvmfs/data.galaxyproject.org/byhand/sacCer2/picard_index/sacCer2.dict
+/cvmfs/data.galaxyproject.org/byhand/sacCer2/picard_index
+/cvmfs/data.galaxyproject.org/byhand/sacCer2/align
+/cvmfs/data.galaxyproject.org/byhand/sacCer2/quality_scores
+/cvmfs/data.galaxyproject.org/byhand/sacCer2/seq/sacCer2.2bit
+####### SIZE: 3011 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/tetNig2/liftOver/tetNig2ToGasAcu1.over.chain
+####### SIZE: 27441 KB

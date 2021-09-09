@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/choHof1/picard_index/choHof1.fa
+####### SIZE: 1 KB

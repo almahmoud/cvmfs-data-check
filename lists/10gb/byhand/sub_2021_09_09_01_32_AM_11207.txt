@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/baciAnth_AMES/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/baciAnth_AMES/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/baciAnth_AMES/baciAnth_AMES.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/baciAnth_AMES/chr.tRNA.bed
+####### SIZE: 5186 KB

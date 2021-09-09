@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/droYak2/bowtie_index/droYak2.fa
+/cvmfs/data.galaxyproject.org/byhand/droYak2/bowtie_index/droYak2.3.ebwt
+####### SIZE: 121 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Enterobacter_cloacae_dissolvens_SDM_uid168997/NC_018079.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Enterobacter_cloacae_dissolvens_SDM_uid168997
+####### SIZE: 9848 KB

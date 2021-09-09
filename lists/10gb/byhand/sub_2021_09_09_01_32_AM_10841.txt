@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/acinSp_ADP1/chr.gbk
+####### SIZE: 8931 KB

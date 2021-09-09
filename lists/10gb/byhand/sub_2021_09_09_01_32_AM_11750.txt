@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/pyrAby1
+/cvmfs/data.galaxyproject.org/byhand/microbes/63/seq/NC_007622.nib
+####### SIZE: 8996 KB

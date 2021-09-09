@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_gilvum_PYR_GCK_uid59421/NC_009339.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_gilvum_PYR_GCK_uid59421/NC_009341.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_gilvum_PYR_GCK_uid59421/NC_009338.fna
+####### SIZE: 5903 KB

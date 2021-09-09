@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal4/bwa_index/galGal4.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/galGal4/bwa_index/galGal4.fa.ann
+####### SIZE: 936 KB

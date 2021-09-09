@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/lengths/dasNov1
+/cvmfs/data.galaxyproject.org/byhand/lengths/bosTau1
+/cvmfs/data.galaxyproject.org/byhand/lengths/anoCar1
+/cvmfs/data.galaxyproject.org/byhand/lengths/canFam1
+####### SIZE: 6349 KB

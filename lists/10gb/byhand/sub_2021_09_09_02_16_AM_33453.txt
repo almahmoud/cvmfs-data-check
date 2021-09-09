@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/hg20/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/hg20
+/cvmfs/data.galaxyproject.org/byhand/phiX/perm_index/phiX.fa
+####### SIZE: 7 KB

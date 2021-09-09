@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/droSec1/bowtie_index/droSec1.fa
+/cvmfs/data.galaxyproject.org/byhand/droSec1/bowtie_index/droSec1.3.ebwt
+####### SIZE: 190 KB

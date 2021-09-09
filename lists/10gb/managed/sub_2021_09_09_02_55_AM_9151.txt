@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Escherichia_coli_S88_uid62979
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Erythrobacter_litoralis_HTCC2594_uid58299/NC_007722.fna
+####### SIZE: 8147 KB

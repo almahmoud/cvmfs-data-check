@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_ambifaria_AMMD_uid58303/NC_008392.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_ambifaria_AMMD_uid58303/NC_008390.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_ambifaria_AMMD_uid58303/NC_008391.fna
+####### SIZE: 7415 KB

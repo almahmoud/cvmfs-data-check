@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/eriEur1/maf/chr22.maf
+####### SIZE: 14797 KB

@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/oryLat1/chr20.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/oryLat1/chr9_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/oryLat1/chr16.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/oryLat1/chr15_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/oryLat1/chrY.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/oryLat1/chr7_random.axt
+####### SIZE: 8678 KB

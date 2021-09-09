@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_anthracis_CDC_684_uid59303
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Marinithermus_hydrothermalis_DSM_14884_uid65783/NC_015387.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Marinithermus_hydrothermalis_DSM_14884_uid65783
+####### SIZE: 9962 KB

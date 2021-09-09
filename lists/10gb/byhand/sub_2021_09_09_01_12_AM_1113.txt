@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/echTel1/chr12.axt
+####### SIZE: 75821 KB

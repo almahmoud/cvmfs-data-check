@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chloroflexus_aggregans_DSM_9485_uid58621/NC_011831.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chloroflexus_aggregans_DSM_9485_uid58621
+####### SIZE: 9287 KB

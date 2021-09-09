@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/bowtie_index/anoGam1.fa
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/bowtie_index/anoGam1.3.ebwt
+####### SIZE: 168 KB

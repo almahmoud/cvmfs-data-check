@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/Spur_v2.6/bowtie_index/cs/Spur_v2.6.fa
+/cvmfs/data.galaxyproject.org/byhand/Spur_v2.6/bowtie_index/cs/Spur_v2.6.3.ebwt
+####### SIZE: 2013 KB

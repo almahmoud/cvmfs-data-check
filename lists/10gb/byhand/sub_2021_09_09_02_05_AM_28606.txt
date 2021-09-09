@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/encode/september2005_relabeled/mavid/rel/ENm014.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/encode/september2005_relabeled/mavid/rel/ENr221.maf.index
+####### SIZE: 8598 KB

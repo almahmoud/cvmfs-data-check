@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Neisseria_meningitidis_M01_240149_uid162079/NC_017514.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Neisseria_meningitidis_M01_240149_uid162079
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Spiroplasma_taiwanense_CT_1_uid212975/NC_021832.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Spiroplasma_taiwanense_CT_1_uid212975/NC_021846.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Spiroplasma_taiwanense_CT_1_uid212975
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_gallisepticum_NC95_13295_2_2P_uid172625/NC_018407.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_gallisepticum_NC95_13295_2_2P_uid172625
+####### SIZE: 8467 KB

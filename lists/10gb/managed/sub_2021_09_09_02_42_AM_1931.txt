@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Tsukamurella_paurometabola_DSM_20162_uid48829/NC_014158.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Tsukamurella_paurometabola_DSM_20162_uid48829
+####### SIZE: 8781 KB

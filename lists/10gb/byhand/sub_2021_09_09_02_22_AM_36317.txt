@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/rmsk/Ultra380.fa.align
+####### SIZE: 10261 KB

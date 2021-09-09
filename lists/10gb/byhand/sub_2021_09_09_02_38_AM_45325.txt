@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/align/mm8/chr6.idx
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/align/mm8/chr9.idx
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/align/mm8/chrX.idx
+####### SIZE: 7261 KB

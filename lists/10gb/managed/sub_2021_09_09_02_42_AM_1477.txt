@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Corallococcus_coralloides_DSM_2259_uid157997/NC_017030.fna
+####### SIZE: 9986 KB

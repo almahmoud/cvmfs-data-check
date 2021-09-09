@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudomonas_VLB120_uid226717
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacteroides_thetaiotaomicron_VPI_5482_uid62913/NC_004703.fna
+####### SIZE: 5948 KB

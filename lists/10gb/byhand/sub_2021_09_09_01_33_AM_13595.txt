@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm10/chrom
+####### SIZE: 2720228 KB

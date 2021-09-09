@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptomyces_albus_J1074_uid196849
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermomicrobium_roseum_DSM_5159_uid59341/NC_011961.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermomicrobium_roseum_DSM_5159_uid59341/NC_011959.fna
+####### SIZE: 9677 KB

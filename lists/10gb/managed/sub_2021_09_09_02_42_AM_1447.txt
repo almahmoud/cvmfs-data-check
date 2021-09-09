@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Parvibaculum_lavamentivorans_DS_1_uid58739/NC_009719.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Parvibaculum_lavamentivorans_DS_1_uid58739
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Neisseria_gonorrhoeae_NCCP11945_uid59191/NC_011034.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Neisseria_gonorrhoeae_NCCP11945_uid59191/NC_011035.fna
+####### SIZE: 9977 KB

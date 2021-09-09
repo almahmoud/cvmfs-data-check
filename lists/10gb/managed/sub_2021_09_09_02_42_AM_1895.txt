@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_VKM_Ac_1815D_uid199859
+####### SIZE: 5392 KB

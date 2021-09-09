@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/multiz44way/chr21_random.maf.lzot
+####### SIZE: 2 KB

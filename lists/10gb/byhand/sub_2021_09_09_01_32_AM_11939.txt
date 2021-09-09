@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/301
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkThai_E264/seq/chrII.nib
+####### SIZE: 9707 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/customProDB/omicron-data.duckdns.org/customProDB/ensembl/lafricana-may2009/procodingseq.RData
+####### SIZE: 6420 KB

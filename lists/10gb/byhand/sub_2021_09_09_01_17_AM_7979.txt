@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/monDom5/sam_index/monDom5.fa
+/cvmfs/data.galaxyproject.org/byhand/monDom5/sam_index/monDom5.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/monDom5/sam_index
+/cvmfs/data.galaxyproject.org/byhand/monDom5/picard_index/monDom5.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/monDom5/picard_index/monDom5.fa
+/cvmfs/data.galaxyproject.org/byhand/monDom5/picard_index/monDom5.dict
+/cvmfs/data.galaxyproject.org/byhand/monDom5/picard_index
+/cvmfs/data.galaxyproject.org/byhand/monDom5/bowtie2_index/monDom5.fa
+/cvmfs/data.galaxyproject.org/byhand/monDom5/bowtie2_index/monDom5.3.bt2
+####### SIZE: 659 KB

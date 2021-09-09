@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Salmonella_enterica_serovar_Typhimurium_T000240_uid84397
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methylobacterium_extorquens_AM1_uid57605/NC_012807.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methylobacterium_extorquens_AM1_uid57605/NC_012810.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methylobacterium_extorquens_AM1_uid57605/NC_012809.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methylobacterium_extorquens_AM1_uid57605/NC_012811.fna
+####### SIZE: 6385 KB

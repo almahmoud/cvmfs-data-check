@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsSola/plasmid_pGMI1000MP.gbk
+####### SIZE: 4977 KB

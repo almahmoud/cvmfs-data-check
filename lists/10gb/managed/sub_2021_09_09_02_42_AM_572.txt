@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/eschColi_K12/eschColi_K12.rev.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/eschColi_K12/eschColi_K12.3.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/eschColi_K12/eschColi_K12.1.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/eschColi_K12/eschColi_K12.4.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/eschColi_K12/eschColi_K12.2.bt2
+####### SIZE: 9007 KB

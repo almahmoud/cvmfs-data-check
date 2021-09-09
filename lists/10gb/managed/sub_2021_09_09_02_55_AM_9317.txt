@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cellulomonas_fimi_ATCC_484_uid66779
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Advenella_kashmirensis_WT001_uid80859/NC_017965.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Advenella_kashmirensis_WT001_uid80859/NC_017964.fna
+####### SIZE: 8614 KB

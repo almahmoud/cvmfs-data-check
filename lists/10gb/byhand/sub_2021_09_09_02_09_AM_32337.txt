@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/gorGor3/bwa_index
+####### SIZE: 4446468 KB

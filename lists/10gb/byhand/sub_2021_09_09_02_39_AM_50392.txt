@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/susScr3/sam_index/susScr3.fa
+/cvmfs/data.galaxyproject.org/byhand/susScr3/sam_index/susScr3.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/susScr3/sam_index
+####### SIZE: 308 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/seq/vicPac2.2bit
+####### SIZE: 562556 KB

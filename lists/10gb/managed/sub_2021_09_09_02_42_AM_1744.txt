@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Alistipes_finegoldii_DSM_17242_uid168180/NC_018011.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Alistipes_finegoldii_DSM_17242_uid168180
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_aureus_N315_uid57837/NC_003140.fna
+####### SIZE: 7428 KB

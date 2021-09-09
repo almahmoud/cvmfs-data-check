@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/myoLuc1/chrUn_gl000245.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/myoLuc1/chrUn_gl000238.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/myoLuc1/chr18_gl000207_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/myoLuc1/chrUn_gl000217.axt
+####### SIZE: 180 KB

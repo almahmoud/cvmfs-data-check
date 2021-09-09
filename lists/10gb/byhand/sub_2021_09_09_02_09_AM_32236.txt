@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/ci2/srma_index/ci2full.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/ci2/srma_index/ci2full.fa
+/cvmfs/data.galaxyproject.org/byhand/ci2/srma_index/ci2full.dict
+/cvmfs/data.galaxyproject.org/byhand/ci2/srma_index
+/cvmfs/data.galaxyproject.org/byhand/ci2/ci2canon/bwa_index/ci2canon.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/ci2/ci2canon/bwa_index/ci2canon.fa.ann
+####### SIZE: 791 KB

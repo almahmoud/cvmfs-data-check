@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/canFam2/canFam2.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/canFam2/canFam2.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/canFam2/canFam2.7.ht2
+####### SIZE: 316 KB

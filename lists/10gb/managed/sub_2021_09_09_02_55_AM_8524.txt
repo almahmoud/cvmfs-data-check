@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Hirschia_baltica_ATCC_49814_uid59365/NC_012982.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Hirschia_baltica_ATCC_49814_uid59365
+####### SIZE: 6935 KB

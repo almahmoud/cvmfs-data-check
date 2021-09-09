@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermococcus_litoralis_DSM_5473_uid82997/NC_022084.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermococcus_litoralis_DSM_5473_uid82997
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Eubacterium_rectale_ATCC_33656_uid59169/NC_012781.fna
+####### SIZE: 7812 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/8way-multiZ/chr21.maf.index
+####### SIZE: 14155 KB

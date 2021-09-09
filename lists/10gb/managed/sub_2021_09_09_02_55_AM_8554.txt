@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shewanella_baltica_OS678_uid50553/NC_016901.fna
+####### SIZE: 5238 KB

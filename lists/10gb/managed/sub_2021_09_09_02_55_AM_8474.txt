@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactobacillus_salivarius_CECT_5713_uid162005/NC_017499.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactobacillus_salivarius_CECT_5713_uid162005/NC_017481.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactobacillus_salivarius_CECT_5713_uid162005/NC_017479.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactobacillus_salivarius_CECT_5713_uid162005
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfotomaculum_ruminis_DSM_2154_uid67507/NC_015589.fna
+####### SIZE: 8151 KB

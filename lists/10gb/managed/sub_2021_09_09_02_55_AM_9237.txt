@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlorobium_phaeovibrioides_DSM_265_uid58129/NC_009337.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlorobium_phaeovibrioides_DSM_265_uid58129
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanococcus_maripaludis_X1_uid70729/NC_015847.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanococcus_maripaludis_X1_uid70729
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactobacillus_helveticus_CNRZ32_uid212302/NC_021744.fna
+####### SIZE: 9573 KB

@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nitrosomonas_AL212_uid55727
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermobaculum_terrenum_ATCC_BAA_798_uid42011/NC_013525.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermobaculum_terrenum_ATCC_BAA_798_uid42011/NC_013526.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermobaculum_terrenum_ATCC_BAA_798_uid42011
+####### SIZE: 9462 KB

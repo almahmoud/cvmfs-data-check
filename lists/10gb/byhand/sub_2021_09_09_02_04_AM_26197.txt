@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/align/rn4/maf/chr3.maf.index
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/align/rn4/maf/chr16.maf.index
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/align/rn4/maf/chr20.maf.index
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/align/rn4/maf/chr1.maf.index
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/align/rn4/maf/chr13.maf.index
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/align/rn4/maf/chr19.maf.index
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/align/rn4/maf/chr11.maf.index
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/align/rn4/maf/chr18.maf.index
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/align/rn4/maf/chr8.maf.index
+####### SIZE: 9282 KB

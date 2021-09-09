@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/16351/bwa_index/eschColi_W3110.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/microbes/16351/bwa_index/eschColi_W3110.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/microbes/16351/bwa_index/eschColi_W3110.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/16351/bwa_index/eschColi_W3110.fa.rbwt
+####### SIZE: 5107 KB

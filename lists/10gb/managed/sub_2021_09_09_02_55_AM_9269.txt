@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Metallosphaera_cuprina_Ar_4_uid66329/NC_015435.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Metallosphaera_cuprina_Ar_4_uid66329
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acetobacter_pasteurianus_IFO_3283_01_uid59279/NC_013215.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acetobacter_pasteurianus_IFO_3283_01_uid59279/NC_013212.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acetobacter_pasteurianus_IFO_3283_01_uid59279/NC_013213.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acetobacter_pasteurianus_IFO_3283_01_uid59279/NC_013211.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acetobacter_pasteurianus_IFO_3283_01_uid59279/NC_013210.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acetobacter_pasteurianus_IFO_3283_01_uid59279/NC_013214.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acetobacter_pasteurianus_IFO_3283_01_uid59279/NC_013209.fna
+####### SIZE: 6964 KB

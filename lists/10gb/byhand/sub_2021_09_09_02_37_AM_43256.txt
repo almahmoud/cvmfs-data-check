@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/monDom1/seq/monDom1.2bit
+####### SIZE: 924665 KB

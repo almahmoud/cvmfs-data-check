@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/fr2/maf
+####### SIZE: 125523 KB

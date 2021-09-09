@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/franCcI3/chr.fna
+####### SIZE: 5383 KB

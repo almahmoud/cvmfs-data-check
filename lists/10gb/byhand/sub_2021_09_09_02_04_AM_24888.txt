@@ -1,0 +1,13 @@
+/cvmfs/data.galaxyproject.org/byhand/gasAcu1/quality_scores/chrVIII.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/gasAcu1/quality_scores/chrIV.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/gasAcu1/quality_scores/chrIX.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/gasAcu1/quality_scores/chrXVI.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/gasAcu1/quality_scores/chrXVII.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/gasAcu1/quality_scores/chrIII.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/gasAcu1/quality_scores/chrXVIII.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/gasAcu1/quality_scores/chrV.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/gasAcu1/quality_scores/chrII.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/gasAcu1/quality_scores/chrXIII.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/gasAcu1/quality_scores/chrI.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/gasAcu1/quality_scores/chrXXI.qa.bqv
+####### SIZE: 9539 KB

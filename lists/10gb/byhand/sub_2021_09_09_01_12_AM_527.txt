@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/taeGut1/maf/chr21.maf
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/taeGut1/maf/chrM.maf.index
+####### SIZE: 2270 KB

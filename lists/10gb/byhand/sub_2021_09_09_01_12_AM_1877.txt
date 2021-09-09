@@ -1,0 +1,1 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/canFam2/chr21.axt

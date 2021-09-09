@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer2/align/mm6/chrUn.idx
+/cvmfs/data.galaxyproject.org/byhand/danRer2/align/mm6/chrNA.idx
+/cvmfs/data.galaxyproject.org/byhand/danRer2/align/mm6/chr14.idx
+/cvmfs/data.galaxyproject.org/byhand/danRer2/align/mm6/chr21.idx
+####### SIZE: 5432 KB

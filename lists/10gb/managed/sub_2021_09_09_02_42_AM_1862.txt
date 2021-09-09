@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sphaerochaeta_pleomorpha_Grapes_uid82365/NC_016633.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sphaerochaeta_pleomorpha_Grapes_uid82365
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactobacillus_casei_W56_uid178736/NC_020057.fna
+####### SIZE: 7175 KB

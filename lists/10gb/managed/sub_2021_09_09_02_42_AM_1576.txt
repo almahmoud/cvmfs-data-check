@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhizobium_leguminosarum_bv__viciae_3841_uid57955/NC_008380.fna
+####### SIZE: 5010 KB

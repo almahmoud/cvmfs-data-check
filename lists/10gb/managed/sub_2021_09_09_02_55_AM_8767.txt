@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermosynechococcus_NK55_uid231517
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Parvularcula_bermudensis_HTCC2503_uid51641/NC_014414.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Parvularcula_bermudensis_HTCC2503_uid51641
+####### SIZE: 8257 KB

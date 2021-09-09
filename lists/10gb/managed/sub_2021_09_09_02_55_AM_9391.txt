@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haloarcula_marismortui_ATCC_43049_uid57719/NC_006391.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haloarcula_marismortui_ATCC_43049_uid57719/NC_006390.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haloarcula_marismortui_ATCC_43049_uid57719/NC_006392.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haloarcula_marismortui_ATCC_43049_uid57719/NC_006397.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haloarcula_marismortui_ATCC_43049_uid57719/NC_006393.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haloarcula_marismortui_ATCC_43049_uid57719/NC_006389.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haloarcula_marismortui_ATCC_43049_uid57719/NC_006394.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haloarcula_marismortui_ATCC_43049_uid57719/NC_006396.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haloarcula_marismortui_ATCC_43049_uid57719
+####### SIZE: 8075 KB

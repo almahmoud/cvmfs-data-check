@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/Xanthomonas_oryzae_PXO99A/bowtie_index/cs/Xanthomonas_oryzae_PXO99A.1.ebwt
+####### SIZE: 5559 KB

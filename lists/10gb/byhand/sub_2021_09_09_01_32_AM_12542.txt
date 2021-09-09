@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/haheChej_KCTC_2396/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/haheChej_KCTC_2396/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/haheChej_KCTC_2396/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/haheChej_KCTC_2396/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/haheChej_KCTC_2396/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/haheChej_KCTC_2396/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/haheChej_KCTC_2396/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/haheChej_KCTC_2396/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/haheChej_KCTC_2396/chr.GeneMark-2.5f
+####### SIZE: 9775 KB

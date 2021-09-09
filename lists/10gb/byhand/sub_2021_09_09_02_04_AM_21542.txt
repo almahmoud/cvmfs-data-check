@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal3/liftOver/galGal3ToEquCab1.over.chain
+####### SIZE: 23104 KB

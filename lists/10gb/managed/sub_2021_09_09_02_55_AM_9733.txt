@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Hyphomonas_neptunium_ATCC_15444_uid58433
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Actinobacillus_pleuropneumoniae_serovar_3_JL03_uid58891/NC_010278.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Actinobacillus_pleuropneumoniae_serovar_3_JL03_uid58891
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermoplasmatales_archaeon_BRNA1_uid195930/NC_020892.fna
+####### SIZE: 9570 KB

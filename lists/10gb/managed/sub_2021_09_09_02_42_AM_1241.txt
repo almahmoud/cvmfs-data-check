@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Agrobacterium_radiobacter_K84_uid58269
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Selenomonas_sputigena_ATCC_35185_uid55329/NC_015437.fna
+####### SIZE: 9756 KB

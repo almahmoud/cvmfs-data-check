@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_tuberculosis_Erdman___ATCC_35801_uid193763
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermovirga_lienii_DSM_17291_uid77129/NC_016149.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermovirga_lienii_DSM_17291_uid77129/NC_016148.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermovirga_lienii_DSM_17291_uid77129
+####### SIZE: 8324 KB

@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/azoaSp_EBN1/chr.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/azoaSp_EBN1/plasmid_2.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/azoaSp_EBN1/plasmid_2.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/azoaSp_EBN1/plasmid_2.info
+####### SIZE: 9552 KB

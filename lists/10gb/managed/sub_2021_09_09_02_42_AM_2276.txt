@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gluconacetobacter_xylinus_NBRC_3288_uid46523
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/_Ruminococcus__obeum_uid197165/NC_021022.fna
+####### SIZE: 7209 KB

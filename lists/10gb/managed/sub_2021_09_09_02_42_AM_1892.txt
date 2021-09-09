@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aliivibrio_salmonicida_LFI1238_uid59251/NC_011312.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aliivibrio_salmonicida_LFI1238_uid59251/NC_011313.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aliivibrio_salmonicida_LFI1238_uid59251/NC_011316.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aliivibrio_salmonicida_LFI1238_uid59251
+####### SIZE: 9113 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Yersinia_pseudotuberculosis_IP_32953_uid58157
+####### SIZE: 4801 KB

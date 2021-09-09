@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/sinoMeli/plasmid_pSymA.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/sinoMeli/chr.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/sinoMeli/plasmid_pSymA.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/sinoMeli/plasmid_pSymB.gbk
+####### SIZE: 5538 KB

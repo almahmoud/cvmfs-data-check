@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_amyloliquefaciens_IT_45_uid181617/NC_020272.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_amyloliquefaciens_IT_45_uid181617
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leuconostoc_carnosum_JB16_uid176371/NC_018675.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leuconostoc_carnosum_JB16_uid176371/NC_018698.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leuconostoc_carnosum_JB16_uid176371/NC_018674.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leuconostoc_carnosum_JB16_uid176371/NC_018699.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leuconostoc_carnosum_JB16_uid176371/NC_018673.fna
+####### SIZE: 9556 KB

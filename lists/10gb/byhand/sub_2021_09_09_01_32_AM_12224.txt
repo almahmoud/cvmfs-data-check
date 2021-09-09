@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/gramFors_KT0803/chr.gbk
+####### SIZE: 8705 KB

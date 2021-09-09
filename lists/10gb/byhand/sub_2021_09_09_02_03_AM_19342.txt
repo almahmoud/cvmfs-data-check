@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/hg18/chr4.idx
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/hg18/chr30.idx
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/hg18/chr19.idx
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/hg18/chr36.idx
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/hg18/chrUn.idx
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/hg18/chr27.idx
+####### SIZE: 8553 KB

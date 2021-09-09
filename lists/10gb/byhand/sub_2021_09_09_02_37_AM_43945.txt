@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer6/bowtie_index/danRer6.fa
+/cvmfs/data.galaxyproject.org/byhand/danRer6/bowtie_index/danRer6.3.ebwt
+####### SIZE: 699 KB

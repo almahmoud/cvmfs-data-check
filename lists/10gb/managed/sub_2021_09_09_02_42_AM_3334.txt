@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rivularia_PCC_7116_uid182929
+####### SIZE: 8652 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/taxonomy/nodes.dmp
+####### SIZE: 84918 KB

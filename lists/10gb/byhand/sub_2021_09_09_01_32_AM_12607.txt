@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/methSmit1/chr.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/methSmit1/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/methSmit1/chr.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/methSmit1/methSmit1.info
+####### SIZE: 4402 KB

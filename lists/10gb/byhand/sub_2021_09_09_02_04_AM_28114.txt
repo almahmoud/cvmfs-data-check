@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/calJac1/bowtie2_index/calJac1.4.bt2
+####### SIZE: 715119 KB

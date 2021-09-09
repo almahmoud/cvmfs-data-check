@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam2/nib/chr36.nib
+####### SIZE: 16524 KB

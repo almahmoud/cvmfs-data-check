@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/dasNov2.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/therPend1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/13067.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/28583.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/13643.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/caeJap1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/16365.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/13146.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/simPriHuman30.len
+####### SIZE: 5952 KB

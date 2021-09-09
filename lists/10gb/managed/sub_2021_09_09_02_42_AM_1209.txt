@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_smegmatis_MC2_155_uid57701/NC_008596.fna
+####### SIZE: 6923 KB

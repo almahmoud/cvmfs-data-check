@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacteriovorax_marinus_SJ_uid82341/NC_016620.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacteriovorax_marinus_SJ_uid82341
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Synechococcus_elongatus_PCC_7942_uid58045/NC_007595.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Synechococcus_elongatus_PCC_7942_uid58045/NC_007604.fna
+####### SIZE: 9533 KB

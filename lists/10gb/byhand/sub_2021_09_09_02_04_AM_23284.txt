@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/dp3/align/dm2/maf/chrXL_group1e.maf
+####### SIZE: 18519 KB

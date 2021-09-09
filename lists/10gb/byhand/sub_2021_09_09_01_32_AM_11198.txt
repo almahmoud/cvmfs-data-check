@@ -1,0 +1,17 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/acidJS42/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/acidJS42/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/acidJS42/plasmid_pAOVO01.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/acidJS42/plasmid_pAOVO02.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/acidJS42/chr.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/acidJS42/plasmid_pAOVO02.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/acidJS42/plasmid_pAOVO01.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/acidJS42/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/acidJS42/plasmid_pAOVO01.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/acidJS42/plasmid_pAOVO02.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/acidJS42/plasmid_pAOVO01.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/acidJS42/plasmid_pAOVO02.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/acidJS42/plasmid_pAOVO01.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/acidJS42/plasmid_pAOVO02.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/acidJS42/plasmid_pAOVO01.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/acidJS42/plasmid_pAOVO01.GeneMark.bed
+####### SIZE: 5125 KB

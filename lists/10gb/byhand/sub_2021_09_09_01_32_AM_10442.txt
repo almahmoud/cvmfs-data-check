@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hetGla2/bowtie2_index
+####### SIZE: 3214427 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/align/hg17/maf
+####### SIZE: 90228 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal3/liftOver/galGal3ToAllMis0.over.chain
+####### SIZE: 116612 KB

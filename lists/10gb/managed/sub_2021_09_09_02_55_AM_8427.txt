@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermomonospora_curvata_DSM_43183_uid41885
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Hyperthermus_butylicus_DSM_5456_uid57755/NC_008818.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Hyperthermus_butylicus_DSM_5456_uid57755
+####### SIZE: 8899 KB

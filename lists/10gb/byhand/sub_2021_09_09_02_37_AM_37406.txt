@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/Arabidopsis_thaliana_TAIR10/bwa_index/cs/Arabidopsis_thaliana_TAIR10.fa.rpac
+####### SIZE: 29216 KB

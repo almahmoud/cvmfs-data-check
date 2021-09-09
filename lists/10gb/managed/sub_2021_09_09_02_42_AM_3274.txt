@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_stercorarium_DSM_8532_uid186819
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Brachybacterium_faecium_DSM_4810_uid58649/NC_013172.fna
+####### SIZE: 6532 KB

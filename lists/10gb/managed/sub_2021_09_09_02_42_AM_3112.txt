@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Tolumonas_auensis_DSM_9187_uid59395/NC_012691.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Tolumonas_auensis_DSM_9187_uid59395
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Vibrio_furnissii_NCTC_11218_uid82347/NC_016628.fna
+####### SIZE: 8489 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/tmp/chr9_random.fa
+/cvmfs/data.galaxyproject.org/byhand/mm9/tmp/chr1_random.fa
+####### SIZE: 1675 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/micMur1/bowtie_index/micMur1.fa
+/cvmfs/data.galaxyproject.org/byhand/micMur1/bowtie_index/micMur1.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/micMur1/bowtie_index/.__afs2112
+####### SIZE: 5889 KB

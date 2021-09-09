@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/leptInte/chrI.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/leptInte/chrI.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/leptInte/leptInte.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/leptInte/chrI.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/leptInte/chrI.GeneMark-2.5f
+####### SIZE: 5403 KB

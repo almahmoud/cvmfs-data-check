@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Actinoplanes_SE50_110_uid162333
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halobacterium_salinarum_R1_uid61571/NC_010367.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halobacterium_salinarum_R1_uid61571/NC_010366.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halobacterium_salinarum_R1_uid61571/NC_010369.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halobacterium_salinarum_R1_uid61571/NC_010368.fna
+####### SIZE: 9821 KB

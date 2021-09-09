@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/archaeon_Mx1201_uid196597/NC_020913.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/archaeon_Mx1201_uid196597
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Colwellia_psychrerythraea_34H_uid57855/NC_003910.fna
+####### SIZE: 8631 KB

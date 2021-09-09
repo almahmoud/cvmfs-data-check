@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_cereus_03BB102_uid59299/NC_012472.fna
+####### SIZE: 5220 KB

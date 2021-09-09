@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfotomaculum_kuznetsovii_DSM_6115_uid67357/NC_015573.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfotomaculum_kuznetsovii_DSM_6115_uid67357
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Sulcia_muelleri_GWSS_uid58943/NC_010118.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Sulcia_muelleri_GWSS_uid58943
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Legionella_pneumophila_LPE509_uid193710/NC_020522.fna
+####### SIZE: 7705 KB

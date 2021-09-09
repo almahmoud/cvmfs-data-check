@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Caulobacter_segnis_ATCC_21756_uid41709/NC_014100.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Caulobacter_segnis_ATCC_21756_uid41709
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactobacillus_delbrueckii_bulgaricus_ND02_uid60621/NC_014728.fna
+####### SIZE: 9236 KB

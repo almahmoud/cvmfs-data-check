@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/bowtie2_index/anoCar1.1.bt2
+####### SIZE: 571702 KB

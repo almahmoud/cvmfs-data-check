@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/equCab1/equCab1.fa.amb
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/equCab1/equCab1.fa.ann
+####### SIZE: 795 KB

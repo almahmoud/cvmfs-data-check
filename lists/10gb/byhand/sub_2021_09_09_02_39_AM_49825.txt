@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/fr1/maf/chr10.maf
+####### SIZE: 10701 KB

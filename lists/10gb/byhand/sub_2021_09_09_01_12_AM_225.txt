@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way_v1/chrY.maf.index
+####### SIZE: 116403 KB

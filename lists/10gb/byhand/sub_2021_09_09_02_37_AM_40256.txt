@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/rn3/maf/chr13.maf
+####### SIZE: 169746 KB

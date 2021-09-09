@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/hg18/maf/chrY.maf
+####### SIZE: 40366 KB

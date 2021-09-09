@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Dinoroseobacter_shibae_DFL_12_uid58707/NC_009952.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Dinoroseobacter_shibae_DFL_12_uid58707
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rickettsia_canadensis_CA410_uid88063/NC_016929.fna
+####### SIZE: 9277 KB

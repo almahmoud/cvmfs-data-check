@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/monDom4/chrX_random.axt
+####### SIZE: 4 KB

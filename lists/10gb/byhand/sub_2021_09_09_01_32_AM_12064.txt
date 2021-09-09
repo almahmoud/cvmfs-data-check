@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/sam_index/eschColi_APEC_O1.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/sam_index/eschColi_APEC_O1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/sam_index
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/download/16dec2010/1522/eschColi_APEC_O1_plasmid_pAPEC-O1-R.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/download/16dec2010/1522/eschColi_APEC_O1_plasmid_pAPEC-O1-ColBM.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/download/16dec2010/1522/eschColi_APEC_O1_complete_genome.fa
+####### SIZE: 5455 KB

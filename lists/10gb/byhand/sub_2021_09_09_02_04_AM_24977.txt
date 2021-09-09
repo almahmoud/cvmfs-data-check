@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/PhumU1/sam_index/PhumU1.fa
+/cvmfs/data.galaxyproject.org/byhand/PhumU1/sam_index/PhumU1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/PhumU1/sam_index
+/cvmfs/data.galaxyproject.org/byhand/PhumU1/download/20101209_README_PhumU1
+/cvmfs/data.galaxyproject.org/byhand/PhumU1/download
+####### SIZE: 130 KB

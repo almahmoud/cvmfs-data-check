@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/sam_indexes
+####### SIZE: 52208 KB

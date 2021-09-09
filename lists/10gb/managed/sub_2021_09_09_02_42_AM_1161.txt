@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Planctomyces_brasiliensis_DSM_5305_uid60583
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halorubrum_lacusprofundi_ATCC_49239_uid58807/NC_012030.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halorubrum_lacusprofundi_ATCC_49239_uid58807/NC_012028.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halorubrum_lacusprofundi_ATCC_49239_uid58807/NC_012029.fna
+####### SIZE: 9615 KB

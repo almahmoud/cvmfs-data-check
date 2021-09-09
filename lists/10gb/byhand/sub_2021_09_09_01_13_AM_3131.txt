@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hetGla1/liftOver/hetGla1ToMm10.over.chain
+####### SIZE: 218879 KB

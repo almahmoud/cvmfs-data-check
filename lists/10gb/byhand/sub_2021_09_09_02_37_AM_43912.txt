@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer3/liftOver/danRer3ToTetNig1.over.chain
+####### SIZE: 50707 KB

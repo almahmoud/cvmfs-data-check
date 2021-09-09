@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acidaminococcus_fermentans_DSM_20731_uid43471/NC_013740.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acidaminococcus_fermentans_DSM_20731_uid43471
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chloroherpeton_thalassium_ATCC_35110_uid59187/NC_011026.fna
+####### SIZE: 7884 KB

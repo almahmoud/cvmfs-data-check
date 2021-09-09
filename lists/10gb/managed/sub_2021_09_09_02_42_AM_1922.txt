@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanococcus_maripaludis_C7_uid58847
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Micrococcus_luteus_NCTC_2665_uid59033/NC_012803.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Micrococcus_luteus_NCTC_2665_uid59033
+####### SIZE: 6721 KB

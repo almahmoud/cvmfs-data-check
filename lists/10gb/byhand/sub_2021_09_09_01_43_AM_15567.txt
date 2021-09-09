@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/dp4/bowtie_index/dp4.4.ebwt
+####### SIZE: 35659 KB

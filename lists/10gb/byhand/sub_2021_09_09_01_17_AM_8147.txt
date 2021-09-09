@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/liftOver/xenTro3ToAnoCar2.over.chain
+####### SIZE: 21605 KB

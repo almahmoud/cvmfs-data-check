@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/heliPylo_26695
+/cvmfs/data.galaxyproject.org/byhand/microbes/20079/sam_index/eschColi_DH10B.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/20079/sam_index/eschColi_DH10B.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/microbes/20079/sam_index
+/cvmfs/data.galaxyproject.org/byhand/microbes/20079/seq/20079.2bit
+/cvmfs/data.galaxyproject.org/byhand/microbes/20079/seq/20079.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/20079/seq/eschColi_DH10B.2bit
+####### SIZE: 8272 KB

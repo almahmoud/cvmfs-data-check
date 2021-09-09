@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/cavPor3/chrUn_gl000230.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/cavPor3/chr17_gl000206_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/cavPor3/chrUn_gl000228.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/cavPor3/chrUn_gl000240.axt
+####### SIZE: 124 KB

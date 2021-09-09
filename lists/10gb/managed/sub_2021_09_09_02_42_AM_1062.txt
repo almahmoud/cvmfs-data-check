@@ -1,0 +1,12 @@
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/choHof1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/heliHepa.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/19857.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/333.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/87.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/thioDeni_ATCC25259.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/evoSim1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/aplCal0.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/17679.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/16319.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/paraDeni_PD1222.len
+####### SIZE: 9772 KB

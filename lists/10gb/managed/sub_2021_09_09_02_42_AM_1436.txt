@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shewanella_sediminis_HAW_EB3_uid58835
+####### SIZE: 5470 KB

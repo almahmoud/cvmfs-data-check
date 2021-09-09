@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pectobacterium_SCC3193_uid193707
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Agrobacterium_fabrum_C58_uid57865/NC_003065.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Agrobacterium_fabrum_C58_uid57865/NC_003064.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Agrobacterium_fabrum_C58_uid57865/NC_003062.fna
+####### SIZE: 8686 KB

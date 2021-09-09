@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Amycolatopsis_mediterranei_S699_uid171830
+####### SIZE: 10155 KB

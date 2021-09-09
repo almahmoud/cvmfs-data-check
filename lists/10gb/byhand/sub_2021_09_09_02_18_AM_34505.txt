@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/oviAri1/bowtie_index/oviAri1.fa
+/cvmfs/data.galaxyproject.org/byhand/oviAri1/bowtie_index/cs/oviAri1.fa
+####### SIZE: 2 KB

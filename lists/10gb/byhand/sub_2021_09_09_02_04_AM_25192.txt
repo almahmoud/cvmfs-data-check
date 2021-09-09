@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/turTru2/seq/turTru2.2bit
+####### SIZE: 661301 KB

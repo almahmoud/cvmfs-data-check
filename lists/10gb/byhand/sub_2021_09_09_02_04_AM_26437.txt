@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/apiMel2/bwa_index/apiMel2.fa
+/cvmfs/data.galaxyproject.org/byhand/apiMel2/bwa_index/apiMel2.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/apiMel2/bwa_index/apiMel2.fa.amb
+####### SIZE: 280 KB

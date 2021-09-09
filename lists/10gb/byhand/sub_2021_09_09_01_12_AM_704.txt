@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/sorAra1/maf/chr22.maf
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/sorAra1/maf/chr4_gl000193_random.maf
+####### SIZE: 9871 KB

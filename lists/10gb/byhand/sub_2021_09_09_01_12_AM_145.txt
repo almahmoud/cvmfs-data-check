@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/oryLat2/chrUn_gl000222.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/oryLat2/chrUn_gl000221.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/oryLat2/chrUn_gl000230.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/oryLat2/chr17.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/oryLat2/chrUn_gl000228.axt
+####### SIZE: 6020 KB

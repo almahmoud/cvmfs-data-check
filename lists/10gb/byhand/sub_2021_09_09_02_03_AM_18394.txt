@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9female/bowtie2_index/mm9female.rev.2.bt2
+####### SIZE: 623981 KB

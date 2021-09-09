@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methylovorus_glucosetrophus_SIP3_4_uid59367
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudomonas_aeruginosa_MTB_uid231150/NC_023019.fna
+####### SIZE: 9577 KB

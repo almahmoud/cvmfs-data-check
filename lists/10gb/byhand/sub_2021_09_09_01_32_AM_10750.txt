@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/20197
+/cvmfs/data.galaxyproject.org/byhand/microbes/17679/seq/NC_010003.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/17679/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/17679/NC_010003.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/17679/NC_010003.info
+####### SIZE: 9977 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/exclude/multiz17way/chr6_qbl_hap2.maf
+####### SIZE: 39298 KB

@@ -1,0 +1,15 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/44
+/cvmfs/data.galaxyproject.org/byhand/microbes/woliSucc/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/woliSucc/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/woliSucc/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/woliSucc/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/woliSucc/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/woliSucc/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/woliSucc/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/woliSucc/woliSucc.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/woliSucc/chr.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/woliSucc/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/woliSucc/chr.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/woliSucc/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/woliSucc/chr.GeneMark-2.5f
+####### SIZE: 9593 KB

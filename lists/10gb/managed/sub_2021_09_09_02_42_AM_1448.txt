@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Neisseria_gonorrhoeae_NCCP11945_uid59191
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_pseudomallei_MSHR346_uid55259/NC_012695.fna
+####### SIZE: 6280 KB

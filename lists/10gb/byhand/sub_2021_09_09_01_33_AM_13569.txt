@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/byhand/mm10/chrom/chrUn_GL456396.fa
+/cvmfs/data.galaxyproject.org/byhand/mm10/chrom/chrY_JH584303_random.fa
+/cvmfs/data.galaxyproject.org/byhand/mm10/chrom/chrUn_GL456381.fa
+/cvmfs/data.galaxyproject.org/byhand/mm10/chrom/chr4_JH584293_random.fa
+/cvmfs/data.galaxyproject.org/byhand/mm10/chrom/chr7_GL456219_random.fa
+/cvmfs/data.galaxyproject.org/byhand/mm10/chrom/chrUn_GL456370.fa
+/cvmfs/data.galaxyproject.org/byhand/mm10/chrom/chr1_GL456210_random.fa
+/cvmfs/data.galaxyproject.org/byhand/mm10/chrom/chrUn_GL456239.fa
+/cvmfs/data.galaxyproject.org/byhand/mm10/chrom/chrUn_GL456394.fa
+/cvmfs/data.galaxyproject.org/byhand/mm10/chrom/chrUn_GL456367.fa
+####### SIZE: 894 KB

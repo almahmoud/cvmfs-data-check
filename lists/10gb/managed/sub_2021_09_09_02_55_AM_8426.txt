@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Helicobacter_pylori_HUP_B14_uid162213
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermomonospora_curvata_DSM_43183_uid41885/NC_013510.fna
+####### SIZE: 7184 KB

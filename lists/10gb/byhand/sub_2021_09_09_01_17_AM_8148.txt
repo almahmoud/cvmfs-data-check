@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/xenTro3/liftOver/xenTro3ToRn4.over.chain
+####### SIZE: 15977 KB

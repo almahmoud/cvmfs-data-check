@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/Xanthomonas_oryzae_PXO99A/download
+/cvmfs/data.galaxyproject.org/byhand/microbes/Xanthomonas_oryzae_PXO99A/seq/Xanthomonas_oryzae_PXO99A.2bit
+####### SIZE: 6484 KB

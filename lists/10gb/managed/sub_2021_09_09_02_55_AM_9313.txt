@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chitinophaga_pinensis_DSM_2588_uid59113/NC_013132.fna
+####### SIZE: 9041 KB

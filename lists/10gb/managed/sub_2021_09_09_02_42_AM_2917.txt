@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ilyobacter_polytropus_DSM_2926_uid59769
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cellvibrio_japonicus_Ueda107_uid59139/NC_010995.fna
+####### SIZE: 7643 KB

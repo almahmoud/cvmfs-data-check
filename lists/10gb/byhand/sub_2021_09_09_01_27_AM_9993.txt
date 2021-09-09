@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/felCat3/picard_index/felCat3.dict
+####### SIZE: 27967 KB

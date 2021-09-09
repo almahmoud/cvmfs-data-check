@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Vibrio_fischeri_MJ11_uid58907/NC_011184.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Vibrio_fischeri_MJ11_uid58907
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Photorhabdus_asymbiotica_ATCC_43949_uid59243/NC_012961.fna
+####### SIZE: 7374 KB

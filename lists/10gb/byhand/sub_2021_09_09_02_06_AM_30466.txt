@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/droYak1/tmp/chr3L.fa.zip
+####### SIZE: 7591 KB

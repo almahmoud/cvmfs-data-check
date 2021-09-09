@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/bosTau1/chrX.axt
+####### SIZE: 70371 KB

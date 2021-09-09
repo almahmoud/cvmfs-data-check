@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Xylella_fastidiosa_Temecula1_uid57869/NC_004556.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Xylella_fastidiosa_Temecula1_uid57869
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Marinobacter_hydrocarbonoclasticus_ATCC_49840_uid162203/NC_017067.fna
+####### SIZE: 8950 KB

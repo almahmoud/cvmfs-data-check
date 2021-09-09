@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg16/align/mm4/chr20.axt
+####### SIZE: 54456 KB

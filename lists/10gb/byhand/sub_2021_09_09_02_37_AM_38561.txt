@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/mm8/maf/chr28.maf
+####### SIZE: 41267 KB

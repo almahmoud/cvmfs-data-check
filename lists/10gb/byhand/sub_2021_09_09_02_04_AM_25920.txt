@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/tarSyr1/bowtie_index/cs/tarSyr1.1.ebwt
+####### SIZE: 803027 KB

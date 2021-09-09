@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_equi_zooepidemicus_uid59261/NC_012470.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_equi_zooepidemicus_uid59261
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lysinibacillus_sphaericus_C3_41_uid58945/NC_010381.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lysinibacillus_sphaericus_C3_41_uid58945/NC_010382.fna
+####### SIZE: 9038 KB

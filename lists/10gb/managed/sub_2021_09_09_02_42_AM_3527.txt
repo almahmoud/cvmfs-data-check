@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudomonas_resinovorans_NBRC_106553_uid208671
+####### SIZE: 6429 KB

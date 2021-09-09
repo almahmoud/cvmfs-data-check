@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Herpetosiphon_aurantiacus_DSM_785_uid58599
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_cepacia_GG4_uid173858/NC_018514.fna
+####### SIZE: 9703 KB

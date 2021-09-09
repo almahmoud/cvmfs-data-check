@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTauMd3/bwa_index/bosTauMd3.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/bosTauMd3/bwa_index/bosTauMd3.fa
+/cvmfs/data.galaxyproject.org/byhand/bosTauMd3/bwa_index/bosTauMd3.fa.amb
+####### SIZE: 1208 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Roseobacter_denitrificans_OCh_114_uid58597/NC_008209.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Roseobacter_denitrificans_OCh_114_uid58597
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_haemofelis_Ohio2_uid162029/NC_017520.fna
+####### SIZE: 9537 KB

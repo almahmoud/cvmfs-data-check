@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/phyloP44way.primate/chr17_random.phyloP44way.primate.wigFix.gz
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/phyloP44way.primate/chrM.phyloP44way.primate.wigFix.gz
+####### SIZE: 1276 KB

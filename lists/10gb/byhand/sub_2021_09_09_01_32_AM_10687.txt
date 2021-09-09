@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/59/NC_010175.GeneMarkHMM.bed
+####### SIZE: 193 KB

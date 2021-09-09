@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/dm3/dataset_950794_files/Genome
+####### SIZE: 166657 KB

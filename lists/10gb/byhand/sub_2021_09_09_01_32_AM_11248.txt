@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/pastMult/chr.gbk
+####### SIZE: 4966 KB

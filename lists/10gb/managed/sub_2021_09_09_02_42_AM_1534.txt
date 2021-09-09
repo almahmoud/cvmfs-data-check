@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Marinomonas_posidonica_IVIA_Po_181_uid67323
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Deinococcus_maricopensis_DSM_21211_uid62225/NC_014958.fna
+####### SIZE: 7334 KB

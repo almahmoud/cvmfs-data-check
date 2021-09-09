@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/gorGor1/chr15.axt
+####### SIZE: 105213 KB

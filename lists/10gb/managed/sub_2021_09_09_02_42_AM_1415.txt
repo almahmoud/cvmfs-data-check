@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Flavobacterium_psychrophilum_JIP02_86_uid61627
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leuconostoc_C2_uid68743/NC_015734.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leuconostoc_C2_uid68743
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_mycoides_capri_LC_95010_uid66189/NC_015407.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_mycoides_capri_LC_95010_uid66189/NC_015431.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_mycoides_capri_LC_95010_uid66189
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Kineococcus_radiotolerans_SRS30216_uid58067/NC_009806.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Kineococcus_radiotolerans_SRS30216_uid58067/NC_009660.fna
+####### SIZE: 9053 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg16/align/encode/june2005freeze/tba/human.ENr133.maf
+####### SIZE: 6875 KB

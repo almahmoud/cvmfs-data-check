@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/rn4/chr7.idx
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/rn4/chr13.idx
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/rn4/chr22_h2_hap1.axt
+####### SIZE: 5152 KB

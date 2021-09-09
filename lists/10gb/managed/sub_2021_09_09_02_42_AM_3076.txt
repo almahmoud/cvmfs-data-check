@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Simiduia_agarivorans_SA1_uid177713
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gloeobacter_JS_uid225602/NC_022600.fna
+####### SIZE: 8946 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methylobacterium_4_46_uid58843/NC_010511.fna
+####### SIZE: 7587 KB

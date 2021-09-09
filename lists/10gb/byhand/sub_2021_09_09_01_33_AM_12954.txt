@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_TW14359/bowtie_index/cs/eschColi_TW14359.1.ebwt
+####### SIZE: 5666 KB

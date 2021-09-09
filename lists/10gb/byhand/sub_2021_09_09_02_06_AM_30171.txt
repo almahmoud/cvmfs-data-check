@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/cavPor3/bowtie2_index/cavPor3.1.bt2
+####### SIZE: 871855 KB

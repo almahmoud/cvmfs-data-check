@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/18459
+/cvmfs/data.galaxyproject.org/byhand/microbes/shigFlex_2A/seq/plasmid_pCP301.nib
+####### SIZE: 7992 KB

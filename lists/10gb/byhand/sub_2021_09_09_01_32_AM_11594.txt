@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/17109/NC_009953.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/17109/NC_009953.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/17109/17109.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/17109/NC_009953.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/17109/NC_009953.GeneMarkHMM.bed
+####### SIZE: 6243 KB

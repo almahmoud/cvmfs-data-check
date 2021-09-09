@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ce8/bwa_index/ce8.fa.bwt
+####### SIZE: 36726 KB

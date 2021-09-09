@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pelagibacterium_halotolerans_B2_uid74393
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_botulinum_A2_Kyoto_uid59229/NC_012563.fna
+####### SIZE: 8033 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_AK1/bwa_index
+####### SIZE: 4588445 KB

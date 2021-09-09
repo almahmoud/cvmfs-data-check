@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/rn4/bwa_index/rn4.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/rn4/bwa_index/rn4.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/rn4/bwa_index/rn4.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/rn4/bwa_index/rn4.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/rn4/bwa_index/rn4.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/rn4/bwa_index/rn4.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/rn4/bwa_index/rn4.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/rn4/bwa_index/rn4.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/rn4/bwa_index
+####### SIZE: 17 KB

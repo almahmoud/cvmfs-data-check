@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_pseudomallei_1026b_uid162511/NC_017831.fna
+####### SIZE: 4054 KB

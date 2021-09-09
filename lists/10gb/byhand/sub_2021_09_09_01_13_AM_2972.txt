@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/liftOver/hg19ToTetNig1.over.chain
+####### SIZE: 14681 KB

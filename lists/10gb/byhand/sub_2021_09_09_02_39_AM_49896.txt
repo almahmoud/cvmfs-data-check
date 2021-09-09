@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/mm8/chr20.axt
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/mm8/chr11.axt
+####### SIZE: 9812 KB

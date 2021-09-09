@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/db/blast/orthomcl.phr
+####### SIZE: 53024 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Klebsiella_oxytoca_E718_uid170256
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_subtilis_natto_BEST195_uid183001/NC_017194.fna
+####### SIZE: 6511 KB

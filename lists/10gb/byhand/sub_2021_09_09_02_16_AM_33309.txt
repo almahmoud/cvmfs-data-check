@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/mm4/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/mm4
+/cvmfs/data.galaxyproject.org/byhand/loxAfr3/sam_index/loxAfr3.fa
+/cvmfs/data.galaxyproject.org/byhand/loxAfr3/sam_index/loxAfr3.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/loxAfr3/sam_index
+/cvmfs/data.galaxyproject.org/byhand/loxAfr3/picard_index/loxAfr3.fa
+/cvmfs/data.galaxyproject.org/byhand/loxAfr3/picard_index/loxAfr3.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/loxAfr3/picard_index/loxAfr3.dict
+/cvmfs/data.galaxyproject.org/byhand/loxAfr3/picard_index
+####### SIZE: 553 KB

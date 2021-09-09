@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/borEut13/bowtie_index/cs
+####### SIZE: 2210897 KB

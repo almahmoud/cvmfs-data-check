@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Dickeya_dadantii_3937_uid52537
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Allochromatium_vinosum_DSM_180_uid46083/NC_013862.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Allochromatium_vinosum_DSM_180_uid46083/NC_013852.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Allochromatium_vinosum_DSM_180_uid46083/NC_013851.fna
+####### SIZE: 8517 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nocardiopsis_dassonvillei_DSM_43111_uid49483
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_ambifaria_MC40_6_uid58701/NC_010553.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_ambifaria_MC40_6_uid58701/NC_010557.fna
+####### SIZE: 7904 KB

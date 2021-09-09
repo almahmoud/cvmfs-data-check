@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam1/align/hg17/chr15.axt
+####### SIZE: 95680 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/17375/NC_008245.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/17375/NC_008245.fna
+####### SIZE: 6517 KB

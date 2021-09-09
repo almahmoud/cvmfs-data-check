@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Oligotropha_carboxidovorans_OM4_uid162135
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clavibacter_michiganensis_NCPPB_382_uid61625/NC_009478.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clavibacter_michiganensis_NCPPB_382_uid61625/NC_009479.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clavibacter_michiganensis_NCPPB_382_uid61625/NC_009480.fna
+####### SIZE: 7174 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/aplCal1/bwa_index/aplCal1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/aplCal1/bwa_index/aplCal1.fa.amb
+####### SIZE: 1237 KB

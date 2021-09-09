@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cupriavidus_metallidurans_CH34_uid57815/NC_007973.fna
+####### SIZE: 3891 KB

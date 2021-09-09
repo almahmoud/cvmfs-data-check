@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shewanella_oneidensis_MR_1_uid57949
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Enterobacter_cloacae_SCF1_uid59969/NC_014618.fna
+####### SIZE: 9857 KB

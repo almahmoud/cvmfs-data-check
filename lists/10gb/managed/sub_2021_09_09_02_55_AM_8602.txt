@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Carboxydothermus_hydrogenoformans_Z_2901_uid57821
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Caldiarchaeum_subterraneum_uid227223/NC_022786.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Caldiarchaeum_subterraneum_uid227223
+####### SIZE: 5720 KB

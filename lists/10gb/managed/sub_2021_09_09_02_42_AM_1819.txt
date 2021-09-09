@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_saccharolyticum_WM1_uid51419/NC_014376.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_saccharolyticum_WM1_uid51419
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cyanothece_PCC_7822_uid52547/NC_014503.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cyanothece_PCC_7822_uid52547/NC_014502.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cyanothece_PCC_7822_uid52547/NC_014504.fna
+####### SIZE: 9625 KB

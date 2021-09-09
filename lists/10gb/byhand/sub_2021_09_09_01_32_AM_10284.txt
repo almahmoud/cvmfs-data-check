@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/Ptrichocarpa_156/bwa_index/Ptrichocarpa_156.fa.rbwt
+####### SIZE: 152761 KB

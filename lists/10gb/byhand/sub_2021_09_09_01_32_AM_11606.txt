@@ -1,0 +1,15 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/nitrEuro/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/nitrEuro/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/nitrEuro/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/nitrEuro/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/nitrEuro/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/nitrEuro/chr.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/nitrEuro/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/nitrEuro/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/nitrEuro/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/nitrEuro/chr.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/nitrEuro/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/nitrEuro/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/nitrEuro/nitrEuro.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/nitrEuro/chr.tRNA.bed
+####### SIZE: 6864 KB

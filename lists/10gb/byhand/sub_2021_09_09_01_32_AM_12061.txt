@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/16230/NC_008611.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/16230/NC_008611.GeneMarkHMM-2.6m
+####### SIZE: 5920 KB

@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/eschColi_K12/eschColi_K12.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/eschColi_K12/eschColi_K12.5.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/eschColi_K12/eschColi_K12.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/eschColi_K12/eschColi_K12.2.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/eschColi_K12/eschColi_K12.1.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/eschColi_K12/eschColi_K12.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/eschColi_K12/eschColi_K12.4.ht2
+####### SIZE: 9566 KB

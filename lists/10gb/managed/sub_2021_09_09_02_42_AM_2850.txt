@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Stenotrophomonas_maltophilia_D457_uid162199
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Alteromonas_macleodii__Ionian_Sea_U4__uid210780/NC_021711.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Alteromonas_macleodii__Ionian_Sea_U4__uid210780/NC_021710.fna
+####### SIZE: 9311 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkCeno_AU_1054/chr2.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkCeno_AU_1054/chr3.tRNA.bed
+####### SIZE: 2764 KB

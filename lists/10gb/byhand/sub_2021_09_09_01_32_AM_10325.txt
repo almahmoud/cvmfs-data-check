@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/oryCun2/bowtie_index/oryCun2.fa
+/cvmfs/data.galaxyproject.org/byhand/oryCun2/bowtie_index/cs/oryCun2.fa
+/cvmfs/data.galaxyproject.org/byhand/oryCun2/bowtie_index/cs/oryCun2.3.ebwt
+####### SIZE: 741 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/multiz15way/alignments/refGene.exonAA.fa.gz
+####### SIZE: 55397 KB

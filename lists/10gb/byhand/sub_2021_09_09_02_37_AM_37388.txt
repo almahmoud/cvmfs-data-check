@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/Arabidopsis_thaliana_TAIR10/chrom/TAIR10_chr3.fa
+####### SIZE: 23200 KB

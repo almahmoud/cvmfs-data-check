@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_perfringens_ATCC_13124_uid57901/NC_008261.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_perfringens_ATCC_13124_uid57901
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leptospira_borgpetersenii_serovar_Hardjo_bovis_L550_uid58507/NC_008509.fna
+####### SIZE: 6772 KB

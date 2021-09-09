@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_mallei_SAVP1_uid58387/NC_008784.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_mallei_SAVP1_uid58387/NC_008785.fna
+####### SIZE: 5184 KB

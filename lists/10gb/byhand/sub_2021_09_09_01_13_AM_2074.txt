@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz46way/chrUn_gl000248.maf.lzo
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz46way/chrUn_gl000235.maf.lzo
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz46way/chrUn_gl000243.maf.lzo
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz46way/chrUn_gl000235.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz46way/chr7.maf.lzot
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz46way/chrUn_gl000228.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz46way/chrUn_gl000227.maf.lzo
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz46way/md5sum.txt
+####### SIZE: 2591 KB

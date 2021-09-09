@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/sam_index/bosTau7.fa
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/sam_index/bosTau7.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/sam_index
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/picard_index/bosTau7.dict
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/picard_index/bosTau7.fa
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/picard_index/bosTau7.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/picard_index
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/bowtie2_index/bosTau7.fa
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/bowtie2_index/bosTau7.3.bt2
+####### SIZE: 5756 KB

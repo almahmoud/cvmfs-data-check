@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/dm3/bwa_index_v0.5.9-r16/dm3.fa.bwt
+####### SIZE: 61794 KB

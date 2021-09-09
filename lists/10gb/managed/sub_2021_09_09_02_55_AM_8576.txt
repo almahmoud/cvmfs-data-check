@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudoalteromonas_haloplanktis_TAC125_uid58431
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Idiomarina_loihiensis_GSL_199_uid205256/NC_021286.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Idiomarina_loihiensis_GSL_199_uid205256
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Geobacter_metallireducens_GS_15_uid57731/NC_007515.fna
+####### SIZE: 9464 KB

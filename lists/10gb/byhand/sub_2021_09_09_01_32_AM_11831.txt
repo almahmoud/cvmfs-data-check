@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/chrII.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/chrII.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/chrI.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/chrI.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/chrI.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/chrII.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/burkPseu_1106A.info
+####### SIZE: 4383 KB

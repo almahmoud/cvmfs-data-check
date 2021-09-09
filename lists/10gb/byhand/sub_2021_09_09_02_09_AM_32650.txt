@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam1/align/hg17/chr21.idx
+/cvmfs/data.galaxyproject.org/byhand/canFam1/align/hg17/chrM.axt
+####### SIZE: 1490 KB

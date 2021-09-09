@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/mm8/chr31.idx
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/mm8/chr17.idx
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/mm8/chr15.idx
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/mm8/chr13.idx
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/mm8/chr2.idx
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/mm8/chr7.idx
+####### SIZE: 9079 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_botulinum_A3_Loch_Maree_uid59149
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Vibrio_nigripulchritudo_SnF1_uid222819/NC_022543.fna
+####### SIZE: 6417 KB

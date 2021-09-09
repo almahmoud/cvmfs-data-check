@@ -1,0 +1,14 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/bwa_index
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/NC_009838.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/NC_009837.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/NC_009837.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/NC_009838.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/NC_009838.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/NC_009838.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/chr.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/NC_009837.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/bowtie_index/cs/eschColi_APEC_O1.fa
+####### SIZE: 8838 KB

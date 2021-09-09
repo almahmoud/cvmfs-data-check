@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam3/bwa_index/canFam3.fa.rpac
+####### SIZE: 588618 KB

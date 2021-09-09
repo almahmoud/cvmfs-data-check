@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/64/NC_002976.gbk
+####### SIZE: 5901 KB

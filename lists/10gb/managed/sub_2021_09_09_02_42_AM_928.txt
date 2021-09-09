@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/felCat5/felCat5.fa
+####### SIZE: 1 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer2/align/mm6/chrNA.axt
+####### SIZE: 69079 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/tarSyr1/liftOver/tarSyr1ToMm10.over.chain
+####### SIZE: 179632 KB

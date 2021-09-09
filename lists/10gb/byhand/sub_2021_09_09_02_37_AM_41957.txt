@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/calJac1/maf/chr21.maf
+####### SIZE: 52951 KB

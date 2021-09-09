@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/download
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/seq/burkPseu_1106A.2bit
+####### SIZE: 8768 KB

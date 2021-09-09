@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/galGal3/maf/chrUn_gl000237.maf.index
+####### SIZE: 17 KB

@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/16719
+/cvmfs/data.galaxyproject.org/byhand/microbes/novoArom_DSM12444/plasmid_pNL2.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/novoArom_DSM12444/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/novoArom_DSM12444/plasmid_pNL2.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/novoArom_DSM12444/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/novoArom_DSM12444/plasmid_pNL2.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/novoArom_DSM12444/plasmid_pNL2.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/novoArom_DSM12444/seq/plasmid_pNL2.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/novoArom_DSM12444/seq/plasmid_pNL1.nib
+####### SIZE: 9191 KB

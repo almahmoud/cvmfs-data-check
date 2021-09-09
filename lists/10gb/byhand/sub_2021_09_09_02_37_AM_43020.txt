@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal2/galGal2full
+/cvmfs/data.galaxyproject.org/byhand/galGal2/galGal2canon
+/cvmfs/data.galaxyproject.org/byhand/galGal2/.cvmfscatalog
+####### SIZE: 11 KB

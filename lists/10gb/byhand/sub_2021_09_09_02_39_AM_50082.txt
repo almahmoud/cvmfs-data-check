@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/hg38/seq/hg38.fa
+/cvmfs/data.galaxyproject.org/byhand/hg38/seq/hg38female.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/hg38/seq/hg38.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/hg38/seq/README
+####### SIZE: 22 KB

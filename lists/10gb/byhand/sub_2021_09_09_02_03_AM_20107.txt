@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/droVir1/chr3L.idx
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/droVir1/chr2h.idx
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/droVir1/chrU.idx
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/droVir1/chrM.idx
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/droVir1/chr2L.idx
+####### SIZE: 1705 KB

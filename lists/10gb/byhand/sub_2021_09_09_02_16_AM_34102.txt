@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/seq/ponAbe2.fa
+####### SIZE: 3433309 KB

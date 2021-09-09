@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/dipOrd1/bowtie2_index/dipOrd1.fa
+/cvmfs/data.galaxyproject.org/byhand/dipOrd1/bowtie2_index/dipOrd1.3.bt2
+####### SIZE: 5053 KB

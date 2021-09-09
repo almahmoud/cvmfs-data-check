@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/droMoj2/liftOver/droMoj2ToDroMoj3.over.chain
+####### SIZE: 710 KB

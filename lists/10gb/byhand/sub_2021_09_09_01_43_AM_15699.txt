@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/borEut13/nib/chr3.nib
+####### SIZE: 86187 KB

@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/align/hg18/maf/chr5.maf.index
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/align/hg18/maf/chr3.maf.index
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/align/hg18/maf/chr16.maf.index
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/align/hg18/maf/chr20.maf.index
+####### SIZE: 1635 KB

@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/sam_index/tetNig1.fa
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/sam_index/tetNig1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/sam_index/tetNig1_0.1.6.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/sam_index
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/nib/chr9.nib
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/nib/chr3_random.nib
+####### SIZE: 5166 KB

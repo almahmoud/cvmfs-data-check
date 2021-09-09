@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_toyonensis_BCT_7112_uid227218/NC_022781.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_toyonensis_BCT_7112_uid227218
+####### SIZE: 9877 KB

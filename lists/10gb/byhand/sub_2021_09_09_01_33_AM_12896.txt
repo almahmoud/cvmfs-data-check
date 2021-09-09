@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/20079/seq/NC_010473.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/20079/seq/eschColi_DH10B.fa
+####### SIZE: 6931 KB

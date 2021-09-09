@@ -1,0 +1,15 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/moorTher_ATCC39073/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/moorTher_ATCC39073/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/moorTher_ATCC39073/moorTher_ATCC39073.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/moorTher_ATCC39073/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/moorTher_ATCC39073/chr.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/moorTher_ATCC39073/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/moorTher_ATCC39073/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/moorTher_ATCC39073/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/moorTher_ATCC39073/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/moorTher_ATCC39073/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/moorTher_ATCC39073/chr.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/moorTher_ATCC39073/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/moorTher_ATCC39073/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/moorTher_ATCC39073/chr.GeneMarkHMM-2.6m
+####### SIZE: 6463 KB

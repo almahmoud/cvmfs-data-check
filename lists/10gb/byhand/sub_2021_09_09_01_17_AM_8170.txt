@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/mm3/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/mm3
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/perm_index
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/tmp
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/sam_index/taeGut1.fa
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/sam_index/taeGut1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/sam_index
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/annotation/ENSEMBL_taeGut1_extend.txt
+####### SIZE: 6089 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/papHam1/seq/papHam1.2bit
+####### SIZE: 749572 KB

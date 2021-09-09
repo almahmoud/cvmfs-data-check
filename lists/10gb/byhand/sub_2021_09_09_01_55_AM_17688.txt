@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/venter1/srma_index/venter1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/venter1/srma_index/venter1.fa
+/cvmfs/data.galaxyproject.org/byhand/venter1/srma_index/venter1.dict
+/cvmfs/data.galaxyproject.org/byhand/venter1/srma_index
+/cvmfs/data.galaxyproject.org/byhand/venter1/bwa_index/venter1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/venter1/bwa_index/venter1.fa.amb
+####### SIZE: 1078 KB

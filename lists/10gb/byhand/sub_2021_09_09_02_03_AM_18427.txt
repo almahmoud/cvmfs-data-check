@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/tmp/chr16.fa
+####### SIZE: 97936 KB

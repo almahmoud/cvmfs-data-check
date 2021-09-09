@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfovibrio_vulgaris_Hildenborough_uid57645/NC_002937.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfovibrio_vulgaris_Hildenborough_uid57645
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Actinobacillus_pleuropneumoniae_serovar_7_AP76_uid59231/NC_010941.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Actinobacillus_pleuropneumoniae_serovar_7_AP76_uid59231/NC_010940.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Actinobacillus_pleuropneumoniae_serovar_7_AP76_uid59231/NC_010939.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Actinobacillus_pleuropneumoniae_serovar_7_AP76_uid59231/NC_010942.fna
+####### SIZE: 9606 KB

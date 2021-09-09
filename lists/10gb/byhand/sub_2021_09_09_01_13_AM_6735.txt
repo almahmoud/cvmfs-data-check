@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/sacCer2/bowtie_index/sacCer2.fa
+/cvmfs/data.galaxyproject.org/byhand/sacCer2/bowtie_index/sacCer2.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/sacCer2/bowtie_index/sacCer2.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/sacCer2/bowtie_index/sacCer2.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/sacCer2/bowtie_index/sacCer2.2.ebwt
+####### SIZE: 5942 KB

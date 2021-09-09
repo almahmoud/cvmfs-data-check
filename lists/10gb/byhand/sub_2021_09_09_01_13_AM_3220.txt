@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/nib/chr21_random.nib
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/nib/chr15_random.nib
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/nib/chr19.nib
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/nib/chr2_random.nib
+####### SIZE: 6658 KB

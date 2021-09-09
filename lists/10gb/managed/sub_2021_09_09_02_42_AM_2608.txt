@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Deferribacter_desulfuricans_SSM1_uid46653/NC_013939.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Deferribacter_desulfuricans_SSM1_uid46653
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Alicycliphilus_denitrificans_K601_uid66307/NC_015423.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Alicycliphilus_denitrificans_K601_uid66307/NC_015422.fna
+####### SIZE: 9761 KB

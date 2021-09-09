@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer3/nib/chr15.nib
+####### SIZE: 22954 KB

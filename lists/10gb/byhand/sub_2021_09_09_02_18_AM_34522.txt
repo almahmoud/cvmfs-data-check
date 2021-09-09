@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTau2/sam_index/bosTau2.fa
+/cvmfs/data.galaxyproject.org/byhand/bosTau2/sam_index/bosTau2.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/bosTau2/sam_index
+/cvmfs/data.galaxyproject.org/byhand/bosTau2/download/2011_README_bosTau2
+/cvmfs/data.galaxyproject.org/byhand/bosTau2/download
+/cvmfs/data.galaxyproject.org/byhand/bosTau2/picard_index/bosTau2.fa
+####### SIZE: 6857 KB

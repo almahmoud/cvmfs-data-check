@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer5/bwa_index/danRer5.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/danRer5/bwa_index/danRer5.fa.ann
+####### SIZE: 1098 KB

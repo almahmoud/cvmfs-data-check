@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro1/align/mm8/chr23.idx
+/cvmfs/data.galaxyproject.org/byhand/panTro1/align/mm8/chr13_random.idx
+/cvmfs/data.galaxyproject.org/byhand/panTro1/align/mm8/chrX.idx
+/cvmfs/data.galaxyproject.org/byhand/panTro1/align/mm8/chr9.idx
+####### SIZE: 4503 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/macEug1.len
+####### SIZE: 11817 KB

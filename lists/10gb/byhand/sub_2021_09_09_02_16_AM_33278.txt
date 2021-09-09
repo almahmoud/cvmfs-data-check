@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/ce9/bwa_index/ce9.fa
+/cvmfs/data.galaxyproject.org/byhand/ce9/bwa_index/ce9.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/ce9/bwa_index/ce9.fa.amb
+####### SIZE: 3 KB

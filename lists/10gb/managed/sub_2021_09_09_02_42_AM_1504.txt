@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanoculleus_bourgensis_MS2_uid171377
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptomyces_cattleya_NRRL_8057___DSM_46488_uid77117/NC_016113.fna
+####### SIZE: 4561 KB

@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/20079/bowtie_index/eschColi_DH10B.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/20079/bowtie_index/eschColi_DH10B.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/20079/bowtie_index/eschColi_DH10B.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/20079/bowtie_index/eschColi_DH10B.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/20079/bowtie_index/eschColi_DH10B.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/20079/bowtie_index/eschColi_DH10B.1.ebwt
+####### SIZE: 7697 KB

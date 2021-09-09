@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Marinobacter_hydrocarbonoclasticus_ATCC_49840_uid162203
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Escherichia_coli_CFT073_uid57915/NC_004431.fna
+####### SIZE: 9139 KB

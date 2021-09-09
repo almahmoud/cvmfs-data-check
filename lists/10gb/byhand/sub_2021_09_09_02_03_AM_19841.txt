@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/hg17/chrUn.axt
+####### SIZE: 24077 KB

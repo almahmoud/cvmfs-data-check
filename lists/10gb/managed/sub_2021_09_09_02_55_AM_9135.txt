@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/uncultured_Sulfuricurvum_RIFRC_1_uid193658/NC_020505.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/uncultured_Sulfuricurvum_RIFRC_1_uid193658
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudoxanthomonas_suwonensis_11_1_uid62105/NC_014924.fna
+####### SIZE: 8068 KB

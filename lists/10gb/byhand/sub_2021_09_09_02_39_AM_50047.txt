@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38canon/bowtie_index
+####### SIZE: 3081951 KB

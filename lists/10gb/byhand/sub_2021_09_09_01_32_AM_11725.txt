@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/178/seq/NC_006351.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/178/seq/burkPseu_K96243.2bit
+####### SIZE: 3320 KB

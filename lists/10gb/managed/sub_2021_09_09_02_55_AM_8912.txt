@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Dickeya_dadantii_Ech586_uid42519/NC_013592.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Dickeya_dadantii_Ech586_uid42519
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Deferribacter_desulfuricans_SSM1_uid46653/NC_013940.fna
+####### SIZE: 9857 KB

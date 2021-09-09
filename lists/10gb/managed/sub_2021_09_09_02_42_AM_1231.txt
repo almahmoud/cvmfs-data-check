@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Liberibacter_asiaticus_gxpsy_uid193764/NC_020549.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Liberibacter_asiaticus_gxpsy_uid193764
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Dehalobacter_11DCA_uid177715/NC_018866.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Dehalobacter_11DCA_uid177715
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Buchnera_aphidicola__Cinara_tujafilina__uid68101/NC_015662.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Buchnera_aphidicola__Cinara_tujafilina__uid68101
+####### SIZE: 9492 KB

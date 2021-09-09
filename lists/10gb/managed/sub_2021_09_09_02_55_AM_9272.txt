@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ralstonia_solanacearum_PSI07_uid50539/NC_014311.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ralstonia_solanacearum_PSI07_uid50539
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Paenibacillus_polymyxa_M1_uid162159/NC_017543.fna
+####### SIZE: 9423 KB

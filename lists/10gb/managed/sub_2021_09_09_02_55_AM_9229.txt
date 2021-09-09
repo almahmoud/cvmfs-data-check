@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Alcanivorax_dieselolei_B5_uid176364
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pyrobaculum_islandicum_DSM_4184_uid58635/NC_008701.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pyrobaculum_islandicum_DSM_4184_uid58635
+####### SIZE: 8511 KB

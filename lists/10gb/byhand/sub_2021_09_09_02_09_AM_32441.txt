@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam1/nib/chr27.nib
+####### SIZE: 23969 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/fr1/maf/chr9.maf
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/fr1/maf/chr16.maf
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/fr1/maf/chr12_random.maf
+####### SIZE: 9972 KB

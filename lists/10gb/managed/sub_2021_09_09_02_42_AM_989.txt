@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/bosTauMd3/bosTauMd3.fa.pac
+####### SIZE: 649640 KB

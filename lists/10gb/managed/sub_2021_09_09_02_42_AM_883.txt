@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/Schizosaccharomyces_pombe_1.1
+####### SIZE: 21526 KB

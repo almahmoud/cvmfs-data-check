@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/otoGar1/chr6_ssto_hap7.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/otoGar1/chrUn_gl000223.axt
+####### SIZE: 3874 KB

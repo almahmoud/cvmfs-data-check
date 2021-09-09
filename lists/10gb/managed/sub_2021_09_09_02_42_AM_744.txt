@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/picard_index/panPan1/panPan1.dict
+/cvmfs/data.galaxyproject.org/managed/picard_index/panPan1
+/cvmfs/data.galaxyproject.org/managed/picard_index/allMis1/allMis1.fa
+/cvmfs/data.galaxyproject.org/managed/picard_index/allMis1/allMis1.dict
+/cvmfs/data.galaxyproject.org/managed/picard_index/allMis1
+/cvmfs/data.galaxyproject.org/managed/picard_index/vicPac1/vicPac1.fa
+####### SIZE: 6892 KB

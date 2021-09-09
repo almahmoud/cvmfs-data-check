@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/encode/september2005_relabeled/mlagan/ENr122/ENr122.maf.index
+####### SIZE: 3675 KB

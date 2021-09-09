@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/align/mm8/chr3.axt
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/align/mm8/chr3_random.axt
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/align/mm8/chr10.axt
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/align/mm8/chr21_random.idx
+####### SIZE: 8602 KB

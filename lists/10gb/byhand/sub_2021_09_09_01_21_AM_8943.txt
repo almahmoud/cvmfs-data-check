@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg16/align/panTro1/maf/chrX.maf
+####### SIZE: 199234 KB

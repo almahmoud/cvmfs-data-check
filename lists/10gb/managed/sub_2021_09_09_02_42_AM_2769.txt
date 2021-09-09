@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Octadecabacter_arcticus_238_uid54699
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Francisella_tularensis_mediasiatica_FSC147_uid58939/NC_010677.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Francisella_tularensis_mediasiatica_FSC147_uid58939
+####### SIZE: 9190 KB

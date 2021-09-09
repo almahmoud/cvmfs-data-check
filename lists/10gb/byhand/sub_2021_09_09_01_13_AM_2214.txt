@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/xenTro2/chrUn_gl000217.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/xenTro2/chr11_gl000202_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/xenTro2/chr10.axt
+####### SIZE: 8624 KB

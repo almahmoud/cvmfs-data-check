@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer5/perm_index
+/cvmfs/data.galaxyproject.org/byhand/danRer5/sam_index/danRer5.fa
+/cvmfs/data.galaxyproject.org/byhand/danRer5/sam_index/danRer5.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/danRer5/sam_index/pull_galaxy_data_on_thumper.sh
+/cvmfs/data.galaxyproject.org/byhand/danRer5/sam_index
+####### SIZE: 14 KB

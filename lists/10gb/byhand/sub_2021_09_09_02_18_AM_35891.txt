@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/mm8/mm8full/bowtie_index/mm8full.fa
+/cvmfs/data.galaxyproject.org/byhand/mm8/mm8full/bowtie_index/cs/mm8full.fa
+/cvmfs/data.galaxyproject.org/byhand/mm8/mm8full/bowtie_index/cs/mm8full.3.ebwt
+####### SIZE: 16 KB

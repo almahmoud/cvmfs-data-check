@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/felCat3/maf/chrUn_gl000211.maf
+####### SIZE: 146 KB

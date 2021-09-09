@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/exclude/multiz5way/chr9.maf
+####### SIZE: 544539 KB

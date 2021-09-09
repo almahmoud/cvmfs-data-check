@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/chloChlo_CAD3/chr.gbk
+####### SIZE: 5647 KB

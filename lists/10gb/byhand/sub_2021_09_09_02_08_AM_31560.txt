@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/otoGar1/bwa_index
+####### SIZE: 5026058 KB

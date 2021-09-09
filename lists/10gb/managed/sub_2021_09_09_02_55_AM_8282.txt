@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sphingomonas_MM_1_uid193771/NC_020561.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sphingomonas_MM_1_uid193771
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Brucella_ovis_ATCC_25840_uid58113/NC_009504.fna
+####### SIZE: 9767 KB

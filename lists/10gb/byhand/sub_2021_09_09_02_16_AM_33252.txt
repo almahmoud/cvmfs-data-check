@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/echTel1/bowtie_index/cs/echTel1.fa
+/cvmfs/data.galaxyproject.org/byhand/echTel1/bowtie_index/cs/echTel1.3.ebwt
+####### SIZE: 7217 KB

@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/17249
+/cvmfs/data.galaxyproject.org/byhand/microbes/methJann1/lg_extrachr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/methJann1/seq/sm_extrachr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/methJann1/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/methJann1/seq/lg_extrachr.nib
+####### SIZE: 9312 KB

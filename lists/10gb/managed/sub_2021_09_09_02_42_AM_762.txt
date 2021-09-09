@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/vicPac2
+####### SIZE: 3725088 KB

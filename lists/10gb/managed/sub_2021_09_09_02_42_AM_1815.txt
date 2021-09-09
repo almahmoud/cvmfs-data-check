@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Intrasporangium_calvum_DSM_43043_uid61729
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Xanthomonas_campestris_ATCC_33913_uid57887/NC_003902.fna
+####### SIZE: 9020 KB

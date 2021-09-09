@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/rn4/maf/chr3.maf.index
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/rn4/maf/chrM.maf
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/rn4/maf/chr16.maf.index
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/rn4/maf/chr20.maf.index
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/rn4/maf/chr31.maf.index
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/rn4/maf/chr1.maf.index
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/rn4/maf/chr13.maf.index
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/rn4/maf/chr22.maf.index
+####### SIZE: 7897 KB

@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/triCas2/sam_index/triCas2.fa
+/cvmfs/data.galaxyproject.org/byhand/triCas2/sam_index/triCas2.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/triCas2/sam_index
+/cvmfs/data.galaxyproject.org/byhand/triCas2/bowtie2_index/triCas2.fa
+/cvmfs/data.galaxyproject.org/byhand/triCas2/bowtie2_index/triCas2.3.bt2
+####### SIZE: 225 KB

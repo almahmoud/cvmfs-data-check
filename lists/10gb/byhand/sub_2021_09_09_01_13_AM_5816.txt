@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/galGal2/chr7.axt
+####### SIZE: 12823 KB

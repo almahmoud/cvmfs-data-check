@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/sacCer3/dataset_952370_files
+####### SIZE: 1641463 KB

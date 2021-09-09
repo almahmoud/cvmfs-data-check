@@ -1,0 +1,12 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsSola/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsSola/plasmid_pGMI1000MP.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsSola/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsSola/ralsSola.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsSola/plasmid_pGMI1000MP.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsSola/plasmid_pGMI1000MP.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsSola/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsSola/plasmid_pGMI1000MP.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsSola/plasmid_pGMI1000MP.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsSola/plasmid_pGMI1000MP.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/ralsSola/plasmid_pGMI1000MP.fna
+####### SIZE: 6252 KB

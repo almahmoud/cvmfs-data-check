@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/AgamP3/seq/AgamP3.fa
+####### SIZE: 271154 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haloarcula_hispanica_ATCC_33960_uid72475
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leadbetterella_byssophila_DSM_17132_uid60161/NC_014655.fna
+####### SIZE: 7881 KB

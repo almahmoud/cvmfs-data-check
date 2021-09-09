@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacteroides_fragilis_NCTC_9343_uid57639/NC_003228.fna
+####### SIZE: 5156 KB

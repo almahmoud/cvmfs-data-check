@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/campJeju_RM1221
+/cvmfs/data.galaxyproject.org/byhand/microbes/oceaIhey/seq/chr.nib
+####### SIZE: 9495 KB

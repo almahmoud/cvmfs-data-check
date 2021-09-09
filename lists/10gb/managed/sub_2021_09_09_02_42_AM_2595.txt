@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Helicobacter_pylori_SJM180_uid53541
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Xylanimonas_cellulosilytica_DSM_15894_uid41935/NC_013531.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Xylanimonas_cellulosilytica_DSM_15894_uid41935/NC_013530.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Xylanimonas_cellulosilytica_DSM_15894_uid41935
+####### SIZE: 9243 KB

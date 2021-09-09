@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/myoLuc2/bwa_index/myoLuc2.fa.rbwt
+####### SIZE: 720125 KB

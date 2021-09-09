@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/hypeButy1
+/cvmfs/data.galaxyproject.org/byhand/microbes/geobUran_RF4/seq/chr.nib
+####### SIZE: 9454 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/rn4/chr3_random.axt
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/rn4/chr20_random.axt
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/rn4/chrX_random.axt
+####### SIZE: 3157 KB

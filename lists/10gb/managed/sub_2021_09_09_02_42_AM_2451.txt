@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Salmonella_enterica_serovar_Typhi_Ty21a_uid201427
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Francisella_tularensis_holarctica_FTNF002_00_uid58999/NC_009749.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Francisella_tularensis_holarctica_FTNF002_00_uid58999
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aggregatibacter_actinomycetemcomitans_D11S_1_uid41333/NC_014629.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aggregatibacter_actinomycetemcomitans_D11S_1_uid41333/NC_013438.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aggregatibacter_actinomycetemcomitans_D11S_1_uid41333/NC_013597.fna
+####### SIZE: 8603 KB

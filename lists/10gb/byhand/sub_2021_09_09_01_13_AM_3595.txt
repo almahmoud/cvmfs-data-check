@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/tetNig1/maf/chr5.maf
+####### SIZE: 8984 KB

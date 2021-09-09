@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/petMar1/seq/petMar1.2bit
+####### SIZE: 294235 KB

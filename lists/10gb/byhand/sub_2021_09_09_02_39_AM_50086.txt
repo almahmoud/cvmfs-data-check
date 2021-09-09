@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg38/seq/hg38full.fa
+####### SIZE: 3196759 KB

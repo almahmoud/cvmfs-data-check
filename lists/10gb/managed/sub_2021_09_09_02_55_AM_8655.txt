@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pantoea_ananatis_PA13_uid162181
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Erysipelothrix_rhusiopathiae_Fujisawa_uid68021/NC_015601.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Erysipelothrix_rhusiopathiae_Fujisawa_uid68021
+####### SIZE: 8374 KB

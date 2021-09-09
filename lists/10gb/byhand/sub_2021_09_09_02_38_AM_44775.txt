@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/galGal3/maf/chr17.maf
+####### SIZE: 8195 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/myoLuc2/bowtie_index/cs/myoLuc2.rev.1.ebwt
+####### SIZE: 555575 KB

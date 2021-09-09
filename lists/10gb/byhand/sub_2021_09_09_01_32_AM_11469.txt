@@ -1,0 +1,14 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/desuHafn_Y51/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/desuHafn_Y51/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/desuHafn_Y51/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/desuHafn_Y51/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/desuHafn_Y51/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/desuHafn_Y51/chr.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/desuHafn_Y51/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/desuHafn_Y51/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/desuHafn_Y51/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/desuHafn_Y51/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/desuHafn_Y51/chr.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/desuHafn_Y51/chr.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/desuHafn_Y51/desuHafn_Y51.info
+####### SIZE: 8287 KB

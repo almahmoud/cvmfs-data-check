@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/cerSim1/cerSim1.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/cerSim1/cerSim1.fa.amb
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/cerSim1/cerSim1.fa
+####### SIZE: 1022 KB

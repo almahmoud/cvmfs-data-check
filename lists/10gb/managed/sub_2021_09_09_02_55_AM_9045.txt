@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfovibrio_desulfuricans_ND132_uid63159/NC_016803.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfovibrio_desulfuricans_ND132_uid63159
+####### SIZE: 7650 KB

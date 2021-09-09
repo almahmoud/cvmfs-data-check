@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/lengths/sorAra1
+/cvmfs/data.galaxyproject.org/byhand/lengths/myoLuc0
+/cvmfs/data.galaxyproject.org/byhand/lengths/dm3
+/cvmfs/data.galaxyproject.org/byhand/lengths/felCat3
+/cvmfs/data.galaxyproject.org/byhand/lengths/vicPac1
+/cvmfs/data.galaxyproject.org/byhand/lengths/droSim1
+/cvmfs/data.galaxyproject.org/byhand/lengths/musMus6
+/cvmfs/data.galaxyproject.org/byhand/lengths/droYak2
+####### SIZE: 9659 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/hg18/maf/chr14.maf.index
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/hg18/maf/chr7.maf.index
+####### SIZE: 1975 KB

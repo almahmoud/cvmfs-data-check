@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ce10/liftOver/ce10ToCaeSp111.over.chain
+####### SIZE: 7909 KB

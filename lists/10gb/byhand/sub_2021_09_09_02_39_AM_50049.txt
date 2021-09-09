@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/hg38/download/20140313_seq_hg38/hg38full.fa.ids
+/cvmfs/data.galaxyproject.org/byhand/hg38/download/20140313_seq_hg38/hg38female.fa.ids
+/cvmfs/data.galaxyproject.org/byhand/hg38/download/20140313_seq_hg38/make_hg38_variants.sh
+/cvmfs/data.galaxyproject.org/byhand/hg38/download/20140313_seq_hg38/hg38canon.fa.ids
+####### SIZE: 38 KB

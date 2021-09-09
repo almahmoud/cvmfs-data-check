@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/sorAra1/bowtie_index/cs/sorAra1.fa
+/cvmfs/data.galaxyproject.org/byhand/sorAra1/bowtie_index/cs/sorAra1.3.ebwt
+####### SIZE: 5855 KB

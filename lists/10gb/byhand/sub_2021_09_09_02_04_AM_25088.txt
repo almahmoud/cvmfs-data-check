@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/monDom4/liftOver/monDom4ToHg17.over.chain
+####### SIZE: 83684 KB

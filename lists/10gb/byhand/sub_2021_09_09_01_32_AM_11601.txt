@@ -1,0 +1,16 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/anapMarg_ST_MARIES/chr.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/anapMarg_ST_MARIES/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/anapMarg_ST_MARIES/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/anapMarg_ST_MARIES/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/anapMarg_ST_MARIES/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/anapMarg_ST_MARIES/anapMarg_ST_MARIES.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/anapMarg_ST_MARIES/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/anapMarg_ST_MARIES/chr.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/anapMarg_ST_MARIES/chr.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/anapMarg_ST_MARIES/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/anapMarg_ST_MARIES/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/anapMarg_ST_MARIES/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/anapMarg_ST_MARIES/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/anapMarg_ST_MARIES/chr.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/anapMarg_ST_MARIES/chr.rRNA.bed
+####### SIZE: 5515 KB

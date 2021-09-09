@@ -1,0 +1,16 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/355
+/cvmfs/data.galaxyproject.org/byhand/microbes/19469/NC_010487.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/19469/NC_010498.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/19469/NC_010485.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/19469/NC_010498.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/19469/NC_010498.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/19469/NC_010487.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/19469/NC_010486.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/19469/NC_010487.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/19469/NC_010488.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/19469/seq/NC_010486.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/19469/seq/NC_010488.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/19469/seq/NC_010487.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/19469/seq/NC_010485.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/19469/seq/NC_010498.nib
+####### SIZE: 8540 KB

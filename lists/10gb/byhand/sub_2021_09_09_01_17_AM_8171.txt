@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/annotation
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/picard_index/taeGut1.fa
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/picard_index/taeGut1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/picard_index/taeGut1.dict
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/picard_index
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/align
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/taeGut1full/bwa_index/taeGut1full.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/taeGut1full/bwa_index/taeGut1full.fa.amb
+####### SIZE: 8054 KB

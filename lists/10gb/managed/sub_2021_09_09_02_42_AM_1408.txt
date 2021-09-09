@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Frankia_symbiont_of_Datisca_glomerata_uid46257
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Klebsiella_pneumoniae_rhinoscleromatis_SB3432_uid203334/NC_021231.fna
+####### SIZE: 5409 KB

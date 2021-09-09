@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/monDom5/chr8_gl000197_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/monDom5/chr17_gl000205_random.axt
+####### SIZE: 52 KB

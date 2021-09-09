@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/17413/NC_010002.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/17413/NC_010002.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/17413/NC_010002.fna
+####### SIZE: 8620 KB

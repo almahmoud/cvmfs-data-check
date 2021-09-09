@@ -1,0 +1,17 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/chrI.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/chrII.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/chrII.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/srma_index/burkPseu_1106A.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/srma_index/burkPseu_1106A.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/srma_index/burkPseu_1106A.dict
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/srma_index
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/bwa_index/cs/burkPseu_1106A.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/bwa_index/cs/burkPseu_1106A.fa.nt.amb
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/bwa_index/cs/burkPseu_1106A.fa.nt.ann
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/bwa_index/cs/burkPseu_1106A.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/bwa_index/cs/burkPseu_1106A.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/bwa_index/cs/burkPseu_1106A.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/bwa_index/cs/burkPseu_1106A.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/bwa_index/cs/burkPseu_1106A.fa.nt.pac
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/bwa_index/cs/burkPseu_1106A.fa.rpac
+####### SIZE: 7917 KB

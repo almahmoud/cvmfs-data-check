@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acholeplasma_palmae_J233_uid222824
+####### SIZE: 1545 KB

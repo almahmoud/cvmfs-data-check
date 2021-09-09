@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Singulisphaera_acidiphila_DSM_18658_uid81777/NC_019892.fna
+####### SIZE: 9539 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Geobacillus_thermoleovorans_CCB_US3_UF5_uid82949/NC_016593.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Geobacillus_thermoleovorans_CCB_US3_UF5_uid82949
+####### SIZE: 7131 KB

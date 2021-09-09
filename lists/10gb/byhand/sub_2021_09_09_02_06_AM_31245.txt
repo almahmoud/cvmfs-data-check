@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/susScr3/snp/snp55chr15.zip
+####### SIZE: 50949 KB

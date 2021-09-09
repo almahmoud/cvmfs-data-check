@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/gasAcu1/chr6.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/gasAcu1/chrUn_gl000246.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/gasAcu1/chrUn_gl000224.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/gasAcu1/chrUn_gl000236.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/gasAcu1/chrUn_gl000243.axt
+####### SIZE: 5847 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/IscaW1/seq/IscaW1.2bit
+####### SIZE: 465836 KB

@@ -1,0 +1,13 @@
+/cvmfs/data.galaxyproject.org/byhand/droYak1/align
+/cvmfs/data.galaxyproject.org/byhand/droYak1/seq/chrX_random.nib
+/cvmfs/data.galaxyproject.org/byhand/droYak1/seq/chrM.nib
+/cvmfs/data.galaxyproject.org/byhand/droYak1/seq/chr3R_random.nib
+/cvmfs/data.galaxyproject.org/byhand/droYak1/seq/chr2L_random.nib
+/cvmfs/data.galaxyproject.org/byhand/droYak1/seq/chr2h_random.nib
+/cvmfs/data.galaxyproject.org/byhand/droYak1/seq/chrYh_random.nib
+/cvmfs/data.galaxyproject.org/byhand/droYak1/seq/chr4.nib
+/cvmfs/data.galaxyproject.org/byhand/droYak1/seq/chrXh_random.nib
+/cvmfs/data.galaxyproject.org/byhand/droYak1/seq/chr2R_random.nib
+/cvmfs/data.galaxyproject.org/byhand/droYak1/seq/chr4_random.nib
+/cvmfs/data.galaxyproject.org/byhand/droYak1/seq/chr3h_random.nib
+####### SIZE: 3750 KB

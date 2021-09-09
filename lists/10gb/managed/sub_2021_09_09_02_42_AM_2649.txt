@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cupriavidus_metallidurans_CH34_uid57815
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_gallolyticus_ATCC_BAA_2069_uid63617/NC_015219.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_gallolyticus_ATCC_BAA_2069_uid63617/NC_015215.fna
+####### SIZE: 9210 KB

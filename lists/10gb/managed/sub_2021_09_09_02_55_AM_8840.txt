@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leptospira_borgpetersenii_serovar_Hardjo_bovis_JB197_uid58509/NC_008511.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leptospira_borgpetersenii_serovar_Hardjo_bovis_JB197_uid58509/NC_008510.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leptospira_borgpetersenii_serovar_Hardjo_bovis_JB197_uid58509
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thauera_MZ1T_uid58987/NC_011667.fna
+####### SIZE: 7764 KB

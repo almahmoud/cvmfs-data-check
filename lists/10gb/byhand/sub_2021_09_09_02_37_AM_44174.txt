@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/caeRem3/bwa_index/caeRem3.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/caeRem3/bwa_index/caeRem3.fa.amb
+####### SIZE: 195 KB

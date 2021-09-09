@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/ponAbe2/maf/chr3.maf
+####### SIZE: 359220 KB

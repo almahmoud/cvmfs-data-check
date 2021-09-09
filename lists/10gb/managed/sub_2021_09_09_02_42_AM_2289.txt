@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudomonas_syringae_phaseolicola_1448A_uid58099/NC_005773.fna
+####### SIZE: 5873 KB

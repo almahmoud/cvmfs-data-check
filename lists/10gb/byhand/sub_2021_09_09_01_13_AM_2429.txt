@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rheMac2/chr9_gl000201_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rheMac2/chr6_ssto_hap7.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rheMac2/chrUn_gl000223.axt
+####### SIZE: 6139 KB

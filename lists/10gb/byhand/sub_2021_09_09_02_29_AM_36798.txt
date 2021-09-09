@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/loxAfr1/sam_index/loxAfr1.fa
+/cvmfs/data.galaxyproject.org/byhand/loxAfr1/sam_index/loxAfr1.fa.fai
+####### SIZE: 8529 KB

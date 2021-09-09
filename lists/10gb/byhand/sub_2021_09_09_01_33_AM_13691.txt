@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/mm10/bowtie_index/mm10.fa
+/cvmfs/data.galaxyproject.org/byhand/mm10/bowtie_index/mm10.3.ebwt
+####### SIZE: 7 KB

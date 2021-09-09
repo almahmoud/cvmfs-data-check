@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/mm9/maf/chr4_ctg9_hap1.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/mm9/maf/chrUn_gl000241.maf.index
+####### SIZE: 113 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_smegmatis_JS623_uid184820/NC_019966.fna
+####### SIZE: 6404 KB

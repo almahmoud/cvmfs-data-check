@@ -1,0 +1,14 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewBalt/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewBalt/plasmid_pSbal01.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewBalt/plasmid_pSbal01.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewBalt/plasmid_pSbal03.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewBalt/plasmid_pSbal01.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewBalt/plasmid_pSbal04.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewBalt/plasmid_pSbal03.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewBalt/plasmid_pSbal03.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewBalt/plasmid_pSbal02.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewBalt/plasmid_pSbal02.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewBalt/chr.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewBalt/plasmid_pSbal02.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewBalt/plasmid_pSbal04.GeneMark.bed
+####### SIZE: 5227 KB

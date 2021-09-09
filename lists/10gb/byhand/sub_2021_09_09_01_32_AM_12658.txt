@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/plasmid_pO157.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/plasmid_pOSAK1.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/srma_index/eschColi_O157H7_Sakai.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/srma_index/eschColi_O157H7_Sakai.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/srma_index/eschColi_O157H7_Sakai.dict
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/srma_index
+####### SIZE: 9658 KB

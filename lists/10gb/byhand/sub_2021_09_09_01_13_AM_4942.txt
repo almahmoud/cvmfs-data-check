@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/anoCar1/maf/chr4_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/anoCar1/maf/chr20.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/anoCar1/maf/chr1.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/anoCar1/maf/chr6_qbl_hap2.maf
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/anoCar1/maf/chr13.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/anoCar1/maf/chr6_random.maf.index
+####### SIZE: 1452 KB

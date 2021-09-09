@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/tupBel1/chrY.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/tupBel1/chrUn_gl000231.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/tupBel1/chrUn_gl000219.axt
+####### SIZE: 7663 KB

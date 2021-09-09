@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Anaeromyxobacter_K_uid58953/NC_011145.fna
+####### SIZE: 5014 KB

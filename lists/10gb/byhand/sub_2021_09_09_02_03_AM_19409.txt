@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/mm8/maf/chr9.maf
+####### SIZE: 61852 KB

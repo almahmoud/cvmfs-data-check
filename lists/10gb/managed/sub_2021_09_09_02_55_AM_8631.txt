@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Legionella_longbeachae_NSW150_uid46099
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Francisella_noatunensis_orientalis_Toba_04_uid164779/NC_017909.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Francisella_noatunensis_orientalis_Toba_04_uid164779
+####### SIZE: 7780 KB

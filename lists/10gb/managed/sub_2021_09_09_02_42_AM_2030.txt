@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thioalkalivibrio_nitratireducens_DSM_14787_uid184011
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ammonifex_degensii_KC4_uid41053/NC_013386.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ammonifex_degensii_KC4_uid41053/NC_013385.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ammonifex_degensii_KC4_uid41053
+####### SIZE: 8249 KB

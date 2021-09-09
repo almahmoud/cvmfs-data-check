@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/equCab1/chr17_random.axt
+####### SIZE: 4637 KB

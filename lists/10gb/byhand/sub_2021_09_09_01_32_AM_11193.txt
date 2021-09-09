@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/ehrlRumi_WELGEVONDEN
+/cvmfs/data.galaxyproject.org/byhand/microbes/17477/seq/NC_009084.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/17477/seq/NC_009083.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/17477/seq/NC_009085.nib
+####### SIZE: 8533 KB

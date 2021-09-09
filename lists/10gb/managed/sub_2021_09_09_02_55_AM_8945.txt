@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_pseudomallei_NCTC_13179_uid226109
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cyanothece_PCC_7425_uid59435/NC_011880.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cyanothece_PCC_7425_uid59435/NC_011882.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cyanothece_PCC_7425_uid59435/NC_011885.fna
+####### SIZE: 7683 KB

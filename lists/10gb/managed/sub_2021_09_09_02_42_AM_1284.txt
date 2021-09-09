@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acidovorax_avenae_ATCC_19860_uid42497/NC_015138.fna
+####### SIZE: 5431 KB

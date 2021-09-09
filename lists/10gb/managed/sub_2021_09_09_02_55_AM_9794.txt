@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Azospirillum_lipoferum_4B_uid82343/NC_016585.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Azospirillum_lipoferum_4B_uid82343/NC_016586.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Azospirillum_lipoferum_4B_uid82343/NC_016624.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Azospirillum_lipoferum_4B_uid82343/NC_016623.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Azospirillum_lipoferum_4B_uid82343/NC_016622.fna
+####### SIZE: 5853 KB

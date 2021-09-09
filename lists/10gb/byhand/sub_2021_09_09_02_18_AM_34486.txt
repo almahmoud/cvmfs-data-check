@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/oviAri1/sam_index/oviAri1.fa
+/cvmfs/data.galaxyproject.org/byhand/oviAri1/sam_index/oviAri1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/oviAri1/sam_index
+/cvmfs/data.galaxyproject.org/byhand/oviAri1/picard_index/oviAri1.fa
+/cvmfs/data.galaxyproject.org/byhand/oviAri1/picard_index/oviAri1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/oviAri1/picard_index/oviAri1.dict
+/cvmfs/data.galaxyproject.org/byhand/oviAri1/picard_index
+####### SIZE: 299 KB

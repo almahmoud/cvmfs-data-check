@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_bovis_BCG_Pasteur_1173P2_uid58781/NC_008769.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_bovis_BCG_Pasteur_1173P2_uid58781
+####### SIZE: 8672 KB

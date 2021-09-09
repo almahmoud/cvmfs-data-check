@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/echTel1/chr7_gl000195_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/echTel1/chr17_gl000204_random.axt
+####### SIZE: 43 KB

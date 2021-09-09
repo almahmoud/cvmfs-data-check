@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Caulobacter_crescentus_CB15_uid57891
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Listeria_welshimeri_serovar_6b_SLCC5334_uid61605/NC_008555.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Listeria_welshimeri_serovar_6b_SLCC5334_uid61605
+####### SIZE: 9565 KB

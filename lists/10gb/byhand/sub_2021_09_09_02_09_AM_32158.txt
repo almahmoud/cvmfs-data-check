@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodRubr_ATCC11170/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodRubr_ATCC11170/plasmid_unnamed.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodRubr_ATCC11170/plasmid_unnamed.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodRubr_ATCC11170/chr.tRNA.bed
+####### SIZE: 4320 KB

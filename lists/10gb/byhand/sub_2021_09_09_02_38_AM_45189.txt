@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_nuHg19_mtrCRS/seq
+####### SIZE: 3922025 KB

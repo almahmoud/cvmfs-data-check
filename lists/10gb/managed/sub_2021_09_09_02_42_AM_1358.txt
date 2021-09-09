@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Amycolicicoccus_subflavus_DQS3_9A1_uid67253
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Vibrio_Ex25_uid41601/NC_013457.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Vibrio_Ex25_uid41601/NC_013456.fna
+####### SIZE: 9865 KB

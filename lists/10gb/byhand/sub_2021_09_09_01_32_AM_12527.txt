@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/bactThet_VPI_5482/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/bactThet_VPI_5482/plasmid_p5482.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/bactThet_VPI_5482/plasmid_p5482.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/bactThet_VPI_5482/plasmid_p5482.fna
+####### SIZE: 6240 KB

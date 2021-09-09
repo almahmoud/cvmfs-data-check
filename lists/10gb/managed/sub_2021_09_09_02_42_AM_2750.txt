@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactobacillus_plantarum_JDM1_uid59361
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Geobacter_uraniireducens_Rf4_uid58475/NC_009483.fna
+####### SIZE: 8260 KB

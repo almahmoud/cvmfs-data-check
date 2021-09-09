@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanosphaerula_palustris_E1_9c_uid59193
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_clausii_KSM_K16_uid58237/NC_006582.fna
+####### SIZE: 7164 KB

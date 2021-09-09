@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/nomLeu3/nomLeu3.fa
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/nomLeu3/nomLeu3.fa.fai
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/nomLeu3
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/apiMel4/apiMel4.fa
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/apiMel4/apiMel4.fa.fai
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/apiMel4
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/Amel_4.5/Amel_4.5.fa
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/Amel_4.5/Amel_4.5.fa.fai
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/Amel_4.5
+####### SIZE: 2141 KB

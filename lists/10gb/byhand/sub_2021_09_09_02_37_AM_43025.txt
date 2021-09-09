@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/chrPic1/bowtie2_index/chrPic1.fa
+/cvmfs/data.galaxyproject.org/byhand/chrPic1/bowtie2_index/chrPic1.3.bt2
+####### SIZE: 4882 KB

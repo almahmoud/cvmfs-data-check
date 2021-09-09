@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/ente638/sam_index/enterobacter_sp_638.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/ente638/sam_index/enterobacter_sp_638.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/microbes/ente638/sam_index
+/cvmfs/data.galaxyproject.org/byhand/microbes/ente638/nib/plasmid_pENTE01.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/ente638/nib/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/ente638/nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/ente638/seq/ente638.2bit
+/cvmfs/data.galaxyproject.org/byhand/microbes/ente638/seq/original/NC_009425_mod.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/ente638/seq/original/NC_009425.fasta
+/cvmfs/data.galaxyproject.org/byhand/microbes/ente638/seq/original/NC_009436_mod.fa
+####### SIZE: 9373 KB

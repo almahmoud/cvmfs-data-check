@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/caeJap3/bowtie_index/caeJap3.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/caeJap3/bowtie_index/caeJap3.fa
+####### SIZE: 317 KB

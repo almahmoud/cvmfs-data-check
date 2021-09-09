@@ -1,0 +1,17 @@
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/capCar1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/fulGla1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/stePar1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/chlSab2.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/bosMut1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/corBra1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/ascSuu1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/sebRub1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/droYak3.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/esoLuc1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/aptMan1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/equPrz1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/papAnu3.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/bosTau8.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/aciBauTYTH_1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/haeCon2.len
+####### SIZE: 8020 KB

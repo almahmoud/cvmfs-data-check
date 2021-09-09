@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/dipOrd1/sam_index
+/cvmfs/data.galaxyproject.org/byhand/dipOrd1/picard_index/dipOrd1.fa
+####### SIZE: 7714 KB

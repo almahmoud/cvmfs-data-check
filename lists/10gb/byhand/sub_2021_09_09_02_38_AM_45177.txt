@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_nuHg19_mtrCRS/download/20110608
+####### SIZE: 926522 KB

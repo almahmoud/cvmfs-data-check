@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Agrobacterium_vitis_S4_uid58249/NC_011988.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Agrobacterium_vitis_S4_uid58249
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Paracoccus_aminophilus_JCM_7686_uid214795/NC_022044.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Paracoccus_aminophilus_JCM_7686_uid214795/NC_022050.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Paracoccus_aminophilus_JCM_7686_uid214795/NC_022049.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Paracoccus_aminophilus_JCM_7686_uid214795/NC_022042.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Paracoccus_aminophilus_JCM_7686_uid214795/NC_022043.fna
+####### SIZE: 8791 KB

@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pelodictyon_phaeoclathratiforme_BU_1_uid58173/NC_011060.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pelodictyon_phaeoclathratiforme_BU_1_uid58173
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Yersinia_pestis_biovar_Microtus_91001_uid58037/NC_005813.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Yersinia_pestis_biovar_Microtus_91001_uid58037/NC_005816.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Yersinia_pestis_biovar_Microtus_91001_uid58037/NC_005815.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Yersinia_pestis_biovar_Microtus_91001_uid58037/NC_005814.fna
+####### SIZE: 6193 KB

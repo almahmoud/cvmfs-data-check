@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab2/seq/equCab2chrM.fa
+/cvmfs/data.galaxyproject.org/byhand/equCab2/seq/chrM.fa
+####### SIZE: 18 KB

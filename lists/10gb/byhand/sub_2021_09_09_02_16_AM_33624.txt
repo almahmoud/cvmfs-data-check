@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/align/hg18/maf/chr4.maf.index
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/align/hg18/maf/chrX.maf.lzot
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/align/hg18/maf/chrM.maf.lzot
+####### SIZE: 1124 KB

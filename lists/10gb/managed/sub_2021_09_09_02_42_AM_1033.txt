@@ -1,0 +1,14 @@
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/rhiFer1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/micMur3.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/necAme1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/chaVoc2.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/melInc2.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/rhiRox1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/eboVir2.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/lepDis1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/droTak2.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/phyCat1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/hg38Patch3.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/panPan2.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/resEbo1.len
+####### SIZE: 7265 KB

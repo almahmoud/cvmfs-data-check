@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/ornAna1/maf/chr16.maf
+####### SIZE: 20087 KB

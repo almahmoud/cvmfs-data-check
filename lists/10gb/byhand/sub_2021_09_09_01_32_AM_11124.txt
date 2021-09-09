@@ -1,0 +1,15 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/nitrWino_NB_255/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/nitrWino_NB_255/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/nitrWino_NB_255/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/nitrWino_NB_255/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/nitrWino_NB_255/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/nitrWino_NB_255/chr.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/nitrWino_NB_255/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/nitrWino_NB_255/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/nitrWino_NB_255/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/nitrWino_NB_255/chr.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/nitrWino_NB_255/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/nitrWino_NB_255/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/nitrWino_NB_255/nitrWino_NB_255.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/nitrWino_NB_255/chr.tRNA.bed
+####### SIZE: 8385 KB

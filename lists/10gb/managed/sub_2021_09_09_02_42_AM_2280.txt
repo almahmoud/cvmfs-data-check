@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leuconostoc_carnosum_JB16_uid176371
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodobacter_sphaeroides_KD131_uid59277/NC_011960.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodobacter_sphaeroides_KD131_uid59277/NC_011962.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodobacter_sphaeroides_KD131_uid59277/NC_011958.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodobacter_sphaeroides_KD131_uid59277/NC_011963.fna
+####### SIZE: 6431 KB

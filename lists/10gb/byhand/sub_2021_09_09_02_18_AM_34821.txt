@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer1/chrom/chr25.fa
+####### SIZE: 17123 KB

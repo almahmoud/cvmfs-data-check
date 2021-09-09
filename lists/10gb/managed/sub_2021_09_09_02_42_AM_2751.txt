@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Geobacter_uraniireducens_Rf4_uid58475
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Prevotella_oral_taxon_299_F0039_uid45899/NC_022124.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Prevotella_oral_taxon_299_F0039_uid45899/NC_022111.fna
+####### SIZE: 7551 KB

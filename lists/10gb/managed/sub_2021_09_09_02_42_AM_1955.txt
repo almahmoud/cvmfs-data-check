@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Oscillatoria_acuminata_PCC_6304_uid183003
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bifidobacterium_animalis_lactis_ATCC_27673_uid222803/NC_022523.fna
+####### SIZE: 9681 KB

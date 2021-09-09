@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/otoGar3/sam_index/otoGar3.fa
+/cvmfs/data.galaxyproject.org/byhand/otoGar3/sam_index/otoGar3.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/otoGar3/sam_index
+/cvmfs/data.galaxyproject.org/byhand/otoGar3/picard_index/otoGar3.fa
+/cvmfs/data.galaxyproject.org/byhand/otoGar3/picard_index/otoGar3.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/otoGar3/picard_index/otoGar3.dict
+/cvmfs/data.galaxyproject.org/byhand/otoGar3/picard_index
+/cvmfs/data.galaxyproject.org/byhand/otoGar3/bowtie2_index/otoGar3.fa
+/cvmfs/data.galaxyproject.org/byhand/otoGar3/bowtie2_index/otoGar3.3.bt2
+####### SIZE: 4777 KB

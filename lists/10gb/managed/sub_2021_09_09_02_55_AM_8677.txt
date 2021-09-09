@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodopseudomonas_palustris_HaA2_uid58439/NC_007778.fna
+####### SIZE: 5282 KB

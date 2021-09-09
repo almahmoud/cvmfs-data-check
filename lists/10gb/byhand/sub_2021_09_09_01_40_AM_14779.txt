@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/align/rheMac2/maf/chr9_random.maf.lzo
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/align/rheMac2/maf/chr19_random.maf.lzot
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/align/rheMac2/maf/chr6_cox_hap1_random.maf.lzo
+####### SIZE: 9581 KB

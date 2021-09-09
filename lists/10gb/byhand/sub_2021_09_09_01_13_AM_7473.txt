@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro1/align/mm8/maf/chr8.maf
+####### SIZE: 100385 KB

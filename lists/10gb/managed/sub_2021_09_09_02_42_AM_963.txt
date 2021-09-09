@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/panTro3canon/panTro3canon.fa.pac
+####### SIZE: 767648 KB

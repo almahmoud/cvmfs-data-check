@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haemophilus_parainfluenzae_T3T1_uid72801
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Amycolicicoccus_subflavus_DQS3_9A1_uid67253/NC_015560.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Amycolicicoccus_subflavus_DQS3_9A1_uid67253/NC_015561.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Amycolicicoccus_subflavus_DQS3_9A1_uid67253/NC_015564.fna
+####### SIZE: 6890 KB

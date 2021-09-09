@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_pneumoniae_INV200_uid162035
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfotomaculum_carboxydivorans_CO_1_SRB_uid67317/NC_015565.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfotomaculum_carboxydivorans_CO_1_SRB_uid67317
+####### SIZE: 7814 KB

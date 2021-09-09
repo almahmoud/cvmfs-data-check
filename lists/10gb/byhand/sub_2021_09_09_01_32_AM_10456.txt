@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hetGla2/bowtie_index/cs/hetGla2.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hetGla2/bowtie_index/cs/hetGla2.fa
+####### SIZE: 1009 KB

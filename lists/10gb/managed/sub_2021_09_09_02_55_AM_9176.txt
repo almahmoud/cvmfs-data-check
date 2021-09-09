@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Megasphaera_elsdenii_DSM_20460_uid71135/NC_015873.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Megasphaera_elsdenii_DSM_20460_uid71135
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Atopobium_parvulum_DSM_20469_uid59195/NC_013203.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Atopobium_parvulum_DSM_20469_uid59195
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Helicobacter_pylori_OK113_uid193715/NC_020508.fna
+####### SIZE: 9574 KB

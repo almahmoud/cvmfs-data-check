@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/picard_index/papAnu2
+/cvmfs/data.galaxyproject.org/managed/picard_index/panPan1/panPan1.fa
+####### SIZE: 8564 KB

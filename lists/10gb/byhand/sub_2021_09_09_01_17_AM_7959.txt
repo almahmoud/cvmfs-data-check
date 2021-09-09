@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/tupBel1/bowtie_index/cs/tupBel1.rev.2.ebwt
+####### SIZE: 260790 KB

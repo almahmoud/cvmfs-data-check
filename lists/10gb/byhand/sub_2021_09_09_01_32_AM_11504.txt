@@ -1,0 +1,14 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/18809/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/18809/18809.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/18809
+/cvmfs/data.galaxyproject.org/byhand/microbes/baciSubt/sam_index/baciSubt.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/baciSubt/sam_index/baciSubt.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/microbes/baciSubt/sam_index
+/cvmfs/data.galaxyproject.org/byhand/microbes/baciSubt/picard_index/baciSubt.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/baciSubt/picard_index/baciSubt.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/microbes/baciSubt/picard_index/baciSubt.dict
+/cvmfs/data.galaxyproject.org/byhand/microbes/baciSubt/picard_index
+/cvmfs/data.galaxyproject.org/byhand/microbes/baciSubt/seq/baciSubt.2bit
+/cvmfs/data.galaxyproject.org/byhand/microbes/baciSubt/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/baciSubt/seq/baciSubt.fa
+####### SIZE: 7296 KB

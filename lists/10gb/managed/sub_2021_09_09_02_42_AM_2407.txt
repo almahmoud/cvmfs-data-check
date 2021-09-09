@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptomyces_scabiei_87_22_uid46531/NC_013929.fna
+####### SIZE: 10053 KB

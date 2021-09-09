@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/178/download
+/cvmfs/data.galaxyproject.org/byhand/microbes/178/seq/178.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/178/seq/178.2bit
+/cvmfs/data.galaxyproject.org/byhand/microbes/178/seq/NC_006350.nib
+####### SIZE: 9186 KB

@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/20079/bwa_index/eschColi_DH10B.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/20079/bwa_index/eschColi_DH10B.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/microbes/20079/bwa_index/eschColi_DH10B.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/microbes/20079/bwa_index/eschColi_DH10B.fa.rbwt
+####### SIZE: 5152 KB

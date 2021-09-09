@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfosporosinus_acidiphilus_SJ4_uid156759/NC_018068.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfosporosinus_acidiphilus_SJ4_uid156759
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Prosthecochloris_aestuarii_DSM_271_uid58151/NC_011061.fna
+####### SIZE: 9897 KB

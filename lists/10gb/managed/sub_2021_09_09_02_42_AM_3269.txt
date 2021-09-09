@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Hahella_chejuensis_KCTC_2396_uid58483
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermosediminibacter_oceani_DSM_16646_uid51421/NC_014377.fna
+####### SIZE: 9411 KB

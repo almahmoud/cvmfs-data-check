@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/sam_index/nomLeu1.fa
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/sam_index/nomLeu1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/sam_index
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/picard_index/nomLeu1.fa
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/picard_index/nomLeu1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/picard_index/nomLeu1.dict
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/picard_index
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/bowtie2_index/nomLeu1.fa
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/bowtie2_index/nomLeu1.3.bt2
+####### SIZE: 8575 KB

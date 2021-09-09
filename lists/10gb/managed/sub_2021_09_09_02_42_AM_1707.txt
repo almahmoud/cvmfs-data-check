@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nocardioides_JS614_uid58149
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Calditerrivibrio_nitroreducens_DSM_19672_uid60821/NC_014749.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Calditerrivibrio_nitroreducens_DSM_19672_uid60821/NC_014758.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Calditerrivibrio_nitroreducens_DSM_19672_uid60821
+####### SIZE: 9647 KB

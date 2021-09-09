@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/droWil1/bwa_index/droWil1.fa.bwt
+####### SIZE: 86680 KB

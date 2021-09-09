@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/musFur1/musFur1.fa
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/musFur1/musFur1.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/musFur1/musFur1.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/musFur1/musFur1.7.ht2
+####### SIZE: 1036 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shigella_dysenteriae_Sd197_uid58213/NC_007606.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shigella_dysenteriae_Sd197_uid58213
+####### SIZE: 8851 KB

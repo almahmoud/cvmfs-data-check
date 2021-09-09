@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Agromonas_oligotrophica_S58_uid192186
+####### SIZE: 8191 KB

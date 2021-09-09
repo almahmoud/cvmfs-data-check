@@ -1,0 +1,22 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodPalu_CGA009/seq/plasmid_pRPA.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodPalu_CGA009/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodPalu_CGA009/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodPalu_CGA009/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodPalu_CGA009/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodPalu_CGA009/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodPalu_CGA009/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodPalu_CGA009/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodPalu_CGA009/plasmid_pRPA.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodPalu_CGA009/chr.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodPalu_CGA009/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodPalu_CGA009/plasmid_pRPA.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodPalu_CGA009/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodPalu_CGA009/plasmid_pRPA.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodPalu_CGA009/plasmid_pRPA.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodPalu_CGA009/chr.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodPalu_CGA009/rhodPalu_CGA009.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodPalu_CGA009/plasmid_pRPA.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodPalu_CGA009/plasmid_pRPA.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodPalu_CGA009/plasmid_pRPA.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodPalu_CGA009/plasmid_pRPA.Glimmer3.bed
+####### SIZE: 7951 KB

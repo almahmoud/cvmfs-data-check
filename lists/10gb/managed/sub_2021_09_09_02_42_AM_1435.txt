@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodanobacter_2APBS1_uid74431
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shewanella_sediminis_HAW_EB3_uid58835/NC_009831.fna
+####### SIZE: 9656 KB

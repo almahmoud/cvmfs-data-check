@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Azoarcus_KH32C_uid193704/NC_020516.fna
+####### SIZE: 5034 KB

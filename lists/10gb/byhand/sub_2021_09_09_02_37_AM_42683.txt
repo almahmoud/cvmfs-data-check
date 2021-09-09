@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/mm6/maf/chr14.maf
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/mm6/maf/chr7_random.maf
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/mm6/maf/chr24.maf
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/mm6/maf/chrZ_random.maf
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/mm6/maf/chr28.maf.index
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/mm6/maf/chr7.maf.index
+####### SIZE: 7923 KB

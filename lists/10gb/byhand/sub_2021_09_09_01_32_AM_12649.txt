@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/sam_index/eschColi_O157H7_Sakai.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/sam_index/eschColi_O157H7_Sakai.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/sam_index
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/download/20dec2010/1419/eschColi_O157H7_EC4115_plasmid_pEC4115.fasta
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/download/20dec2010/1419/eschColi_O157H7_EC4115_plasmid_pO157.fasta
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/download/20dec2010/1419/sources.txt
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/download/20dec2010/1419/eschColi_O157H7_Sakai_plasmid_pOSAK1.fasta
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/download/20dec2010/1419/eschColi_O157H7_EC4115.fasta
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/download/20dec2010/1419/eschColi_O157H7_Sakai_plasmid_pO157.fasta
+####### SIZE: 5757 KB

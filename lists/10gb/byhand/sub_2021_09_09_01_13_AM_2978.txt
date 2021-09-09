@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/liftOver/hg19ToOryCun1.over.chain
+####### SIZE: 210474 KB

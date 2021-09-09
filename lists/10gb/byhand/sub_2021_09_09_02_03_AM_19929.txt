@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/rn4/maf/chr24.maf
+####### SIZE: 42365 KB

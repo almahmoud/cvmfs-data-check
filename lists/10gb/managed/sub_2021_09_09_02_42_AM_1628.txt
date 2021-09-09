@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Saccharopolyspora_erythraea_NRRL_2338_uid62947/NC_009142.fna
+####### SIZE: 8135 KB

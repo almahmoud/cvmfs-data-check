@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/align/hg18/maf/chr1.maf.index
+####### SIZE: 699 KB

@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halovivax_ruber_XH_70_uid184819/NC_019964.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halovivax_ruber_XH_70_uid184819
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermus_scotoductus_SA_01_uid62273/NC_014975.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermus_scotoductus_SA_01_uid62273/NC_014974.fna
+####### SIZE: 8726 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab1/bwa_index/equCab1.fa.rbwt
+####### SIZE: 901793 KB

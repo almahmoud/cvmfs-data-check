@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/nib/chr17_random.nib
+/cvmfs/data.galaxyproject.org/byhand/panTro2/nib/chr8_random.nib
+/cvmfs/data.galaxyproject.org/byhand/panTro2/nib/chr14_random.nib
+/cvmfs/data.galaxyproject.org/byhand/panTro2/nib/chr6_hla_hap1.nib
+####### SIZE: 7088 KB

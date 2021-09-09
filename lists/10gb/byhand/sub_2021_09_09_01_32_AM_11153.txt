@@ -1,0 +1,14 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewDeni/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewDeni/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewDeni/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewDeni/chr.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewDeni/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewDeni/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewDeni/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewDeni/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewDeni/chr.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewDeni/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewDeni/shewDeni.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewDeni/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewDeni/chr.tRNA.bed
+####### SIZE: 8708 KB

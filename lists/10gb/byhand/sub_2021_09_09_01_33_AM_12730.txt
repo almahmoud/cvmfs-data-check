@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/burk383/chr1.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/burk383/chr1.Glimmer3
+####### SIZE: 8853 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/borEut13/nib/chr4.nib
+####### SIZE: 83903 KB

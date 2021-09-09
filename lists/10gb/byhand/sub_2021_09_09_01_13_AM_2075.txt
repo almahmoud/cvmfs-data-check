@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz46way/chrX.maf.index
+####### SIZE: 119819 KB

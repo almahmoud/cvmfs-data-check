@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/17629/NC_010322.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/17629/NC_010322.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/17629/NC_010322.CDS.bed
+####### SIZE: 6343 KB

@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudoalteromonas_atlantica_T6c_uid58283
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Portiera_aleyrodidarum_TV_uid195460/NC_020831.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Portiera_aleyrodidarum_TV_uid195460
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Caulobacter_crescentus_CB15_uid57891/NC_002696.fna
+####### SIZE: 9684 KB

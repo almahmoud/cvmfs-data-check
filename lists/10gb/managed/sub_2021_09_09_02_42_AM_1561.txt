@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_abscessus_bolletii_50594_uid205422/NC_021282.fna
+####### SIZE: 4954 KB

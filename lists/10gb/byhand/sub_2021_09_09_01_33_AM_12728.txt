@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/burk383/seq/chr2.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/burk383/seq/chr3.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/burk383/seq/chr1.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/burk383/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/burk383/chr2.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/burk383/chr3.fna
+####### SIZE: 9970 KB

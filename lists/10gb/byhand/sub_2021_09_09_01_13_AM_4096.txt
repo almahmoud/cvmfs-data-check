@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/rn3/chr13.axt
+####### SIZE: 153459 KB

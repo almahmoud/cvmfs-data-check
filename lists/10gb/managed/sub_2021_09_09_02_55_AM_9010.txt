@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudomonas_mendocina_NK_01_uid66299/NC_015410.fna
+####### SIZE: 5383 KB

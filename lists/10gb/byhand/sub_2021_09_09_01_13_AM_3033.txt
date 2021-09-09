@@ -1,0 +1,24 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie_index/cs/hg19.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie_index/cs/hg19.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie_index/cs/hg19.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie_index/cs/hg19.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie_index/cs/hg19.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie_index/cs/hg19.fa
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie_index/cs/hg19.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie_index/cs
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie_index/hg19.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie_index/hg19.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie_index/hg19.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie_index/hg19.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie_index/hg19.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie_index/hg19chrM.fa
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie_index/hg19.fa
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie_index/hg19chrM.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie_index/hg19chrM.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie_index/hg19chrM.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie_index/make_h_sapiens_asm_37.sh
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie_index/hg19.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie_index/hg19chrM.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie_index/hg19chrM.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/bowtie_index/hg19chrM.1.ebwt
+####### SIZE: 8240 KB

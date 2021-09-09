@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Serratia_marcescens_FGI94_uid185180
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Marinomonas_MWYL1_uid58715/NC_009654.fna
+####### SIZE: 9870 KB

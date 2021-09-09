@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/rheMac2/chr16.axt
+####### SIZE: 137658 KB

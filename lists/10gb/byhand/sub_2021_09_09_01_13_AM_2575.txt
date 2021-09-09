@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/papHam1/chrUn_gl000234.axt
+####### SIZE: 58 KB

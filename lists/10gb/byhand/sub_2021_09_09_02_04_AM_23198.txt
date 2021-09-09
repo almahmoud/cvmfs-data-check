@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ce4/bowtie2_index/ce4.4.bt2
+####### SIZE: 24483 KB

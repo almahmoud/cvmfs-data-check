@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm5/tmp/chrUn_random.fa.zip
+####### SIZE: 21774 KB

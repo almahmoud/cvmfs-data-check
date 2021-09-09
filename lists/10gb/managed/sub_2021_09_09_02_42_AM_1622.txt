@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sulfolobus_islandicus_M_14_25_uid58849
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Tannerella_forsythia_ATCC_43037_uid83157/NC_016610.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Tannerella_forsythia_ATCC_43037_uid83157
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Escherichia_coli_O103_H2_12009_uid41013/NC_013354.fna
+####### SIZE: 9416 KB

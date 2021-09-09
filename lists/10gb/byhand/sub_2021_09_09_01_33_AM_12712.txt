@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/azorCaul2/chr.fna
+####### SIZE: 5319 KB

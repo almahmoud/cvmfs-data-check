@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Salmonella_enterica_serovar_Gallinarum_pullorum_RKS5078_uid87035
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Kinetoplastibacterium_crithidii__ex_Angomonas_deanei_ATCC_30255__uid183630/NC_019815.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Kinetoplastibacterium_crithidii__ex_Angomonas_deanei_ATCC_30255__uid183630
+####### SIZE: 6233 KB

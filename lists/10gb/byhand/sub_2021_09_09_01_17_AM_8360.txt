@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/droPer1/liftOver/droPer1ToDm2.over.chain
+####### SIZE: 23032 KB

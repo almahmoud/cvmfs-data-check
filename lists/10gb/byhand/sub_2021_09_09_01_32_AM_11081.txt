@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/16400
+/cvmfs/data.galaxyproject.org/byhand/microbes/nocaJS61/seq/plasmid_pNOCA01.nib
+####### SIZE: 7815 KB

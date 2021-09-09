@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Salinispora_tropica_CNB_440_uid58565
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Paludibacter_propionicigenes_WB4_uid60725/NC_014734.fna
+####### SIZE: 8790 KB

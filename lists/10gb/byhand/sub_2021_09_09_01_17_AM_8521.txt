@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/CpipJ1/srma_index/CpipJ1.fa
+/cvmfs/data.galaxyproject.org/byhand/CpipJ1/srma_index/CpipJ1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/CpipJ1/srma_index/CpipJ1.dict
+/cvmfs/data.galaxyproject.org/byhand/CpipJ1/srma_index
+/cvmfs/data.galaxyproject.org/byhand/CpipJ1/bwa_index/CpipJ1.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/CpipJ1/bwa_index/CpipJ1.fa.ann
+####### SIZE: 1361 KB

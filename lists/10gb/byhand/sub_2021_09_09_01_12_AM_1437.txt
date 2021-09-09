@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/speTri1/chr17_ctg5_hap1.axt
+####### SIZE: 1288 KB

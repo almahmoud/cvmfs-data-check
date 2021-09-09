@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/dm3/dm3/dataset_10797bbe-186d-4c6a-b139-e271fd641137_files/chrLength.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/dm3/dm3/dataset_10797bbe-186d-4c6a-b139-e271fd641137_files/chrName.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/dm3/dm3/dataset_10797bbe-186d-4c6a-b139-e271fd641137_files/Log.out
+####### SIZE: 11 KB

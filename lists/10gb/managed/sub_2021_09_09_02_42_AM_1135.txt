@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/plasmids/Plasmids/library/Plasmids/am/ftp-genomes/Plasmids
+####### SIZE: 465264 KB

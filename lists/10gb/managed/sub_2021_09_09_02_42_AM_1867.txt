@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Modestobacter_marinus_uid167487/NC_017955.fna
+####### SIZE: 5523 KB

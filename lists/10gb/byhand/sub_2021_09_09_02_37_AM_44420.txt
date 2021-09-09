@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab1/tmp/chr4.fa
+####### SIZE: 97267 KB

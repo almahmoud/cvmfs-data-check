@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/rn5/dataset_952367_files/chrStart.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/rn5/dataset_952367_files/chrName.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/rn5/dataset_952367_files/genomeParameters.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/rn5/dataset_952367_files/chrLength.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/rn5/dataset_952367_files/chrNameLength.txt
+####### SIZE: 170 KB

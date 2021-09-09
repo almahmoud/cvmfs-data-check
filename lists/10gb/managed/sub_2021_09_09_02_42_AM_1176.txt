@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bradyrhizobium_BTAi1_uid58505
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acidilobus_saccharovorans_345_15_uid51395/NC_014374.fna
+####### SIZE: 9901 KB

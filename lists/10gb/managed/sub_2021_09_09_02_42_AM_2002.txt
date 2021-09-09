@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Zymomonas_mobilis_ATCC_29191_uid170612/NC_018145.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Zymomonas_mobilis_ATCC_29191_uid170612
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Exiguobacterium_AT1b_uid59093/NC_012673.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Exiguobacterium_AT1b_uid59093
+####### SIZE: 9887 KB

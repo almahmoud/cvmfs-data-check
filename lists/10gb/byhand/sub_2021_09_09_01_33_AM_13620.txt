@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToSorAra1.over.chain
+####### SIZE: 71918 KB

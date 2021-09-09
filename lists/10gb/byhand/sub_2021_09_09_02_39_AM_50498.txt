@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/bwa_index/nomLeu1.fa.bwt
+####### SIZE: 1075209 KB

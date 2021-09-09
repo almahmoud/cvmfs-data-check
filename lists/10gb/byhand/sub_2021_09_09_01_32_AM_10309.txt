@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/oryCun2/seq/oryCun2.2bit
+####### SIZE: 698725 KB

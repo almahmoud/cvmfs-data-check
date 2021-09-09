@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/taeGut1/chrUn_gl000225.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/taeGut1/chrUn_gl000229.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/taeGut1/chr6_mcf_hap5.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/taeGut1/chrUn_gl000249.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/taeGut1/chr17_gl000203_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/taeGut1/chrM.axt
+####### SIZE: 327 KB

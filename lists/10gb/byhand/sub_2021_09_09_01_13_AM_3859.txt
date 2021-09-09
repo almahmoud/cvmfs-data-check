@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/canFam1/maf/chrX.maf
+####### SIZE: 87896 KB

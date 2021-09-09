@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/rn3/bwa_index/rn3.fa.sa
+####### SIZE: 346088 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/monDom1/bowtie_index/monDom1.rev.1.ebwt
+####### SIZE: 980084 KB

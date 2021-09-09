@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nocardia_brasiliensis_ATCC_700358_uid86913/NC_018681.fna
+####### SIZE: 9347 KB

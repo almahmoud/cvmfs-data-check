@@ -1,0 +1,14 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/dechArom_RCB/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/dechArom_RCB/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/dechArom_RCB/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/dechArom_RCB/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/dechArom_RCB/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/dechArom_RCB/chr.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/dechArom_RCB/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/dechArom_RCB/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/dechArom_RCB/dechArom_RCB.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/dechArom_RCB/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/dechArom_RCB/chr.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/dechArom_RCB/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/dechArom_RCB/chr.tRNA.bed
+####### SIZE: 6506 KB

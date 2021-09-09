@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/seq/tetNig1.2bit
+####### SIZE: 100129 KB

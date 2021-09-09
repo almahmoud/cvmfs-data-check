@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam2/nib/chr11.nib
+####### SIZE: 37802 KB

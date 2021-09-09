@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/16720/bwa_index
+/cvmfs/data.galaxyproject.org/byhand/microbes/16720/bowtie_index/cs/pseuAeru_PA7.fa
+####### SIZE: 9659 KB

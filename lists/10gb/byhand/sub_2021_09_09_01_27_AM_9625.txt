@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/anoCar2/bwa_index/anoCar2.fa.rbwt
+####### SIZE: 658867 KB

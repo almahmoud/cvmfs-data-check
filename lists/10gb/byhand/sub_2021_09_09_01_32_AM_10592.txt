@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/xenTro1/picard_index
+/cvmfs/data.galaxyproject.org/byhand/xenTro1/bowtie2_index/xenTro1.fa
+/cvmfs/data.galaxyproject.org/byhand/xenTro1/bowtie2_index/xenTro1.3.bt2
+####### SIZE: 6397 KB

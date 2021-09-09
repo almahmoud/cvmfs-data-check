@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/gorGor3/sam_index/gorGor3.fa
+/cvmfs/data.galaxyproject.org/byhand/gorGor3/sam_index/gorGor3.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/gorGor3/sam_index
+/cvmfs/data.galaxyproject.org/byhand/gorGor3/picard_index/gorGor3.fa
+/cvmfs/data.galaxyproject.org/byhand/gorGor3/picard_index/gorGor3.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/gorGor3/picard_index/gorGor3.dict
+####### SIZE: 8903 KB

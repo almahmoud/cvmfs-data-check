@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg38
+####### SIZE: 4355455 KB

@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodopirellula_baltica_SH_1_uid61589
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Singulisphaera_acidiphila_DSM_18658_uid81777/NC_019893.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Singulisphaera_acidiphila_DSM_18658_uid81777/NC_019894.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Singulisphaera_acidiphila_DSM_18658_uid81777/NC_019895.fna
+####### SIZE: 7209 KB

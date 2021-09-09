@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Caldicellulosiruptor_kronotskyensis_2002_uid60491
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Riemerella_anatipestifer_ATCC_11845___DSM_15868_uid60727/NC_014738.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Riemerella_anatipestifer_ATCC_11845___DSM_15868_uid60727
+####### SIZE: 7097 KB

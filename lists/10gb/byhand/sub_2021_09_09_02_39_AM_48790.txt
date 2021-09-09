@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/danRer2/maf/chr9_random.maf
+####### SIZE: 60 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/seq/dasNov3.fa
+####### SIZE: 3617906 KB

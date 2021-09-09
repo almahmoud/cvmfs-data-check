@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg16/liftOver/hg16ToMm6.over.chain
+####### SIZE: 237555 KB

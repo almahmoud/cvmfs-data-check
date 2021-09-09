@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/triCas2/bwa_index/triCas2.fa.rbwt
+####### SIZE: 73126 KB

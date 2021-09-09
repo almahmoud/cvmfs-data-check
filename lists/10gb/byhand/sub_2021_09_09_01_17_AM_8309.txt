@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_AK1
+####### SIZE: 15348341 KB

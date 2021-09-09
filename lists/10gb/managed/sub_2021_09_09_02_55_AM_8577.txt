@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Geobacter_metallireducens_GS_15_uid57731/NC_007517.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Geobacter_metallireducens_GS_15_uid57731
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Xylella_fastidiosa_Temecula1_uid57869/NC_004554.fna
+####### SIZE: 7941 KB

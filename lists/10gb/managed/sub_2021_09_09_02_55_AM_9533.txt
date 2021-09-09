@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfitobacterium_hafniense_DCB_2_uid57749
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Helicobacter_cetorum_MIT_00_7128_uid162217/NC_017738.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Helicobacter_cetorum_MIT_00_7128_uid162217/NC_017737.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Helicobacter_cetorum_MIT_00_7128_uid162217
+####### SIZE: 9124 KB

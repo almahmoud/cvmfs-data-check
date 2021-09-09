@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/calJac3/align/calJac3.canFam2.net.axt.gz
+####### SIZE: 1021318 KB

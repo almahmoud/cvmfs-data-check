@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/droSec1/chr3h.axt
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/droSec1/chr2h.idx
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/droSec1/chrM.idx
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/droSec1/chr4.axt
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/droSec1/chr2L.idx
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/droSec1/chrU.idx
+####### SIZE: 5362 KB

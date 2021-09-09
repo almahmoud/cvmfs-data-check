@@ -1,0 +1,12 @@
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/vicPac2
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/dm6/dm6.fa
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/dm6/dm6.fa.fai
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/dm6
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/musFur1/musFur1.fa
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/musFur1/musFur1.fa.fai
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/musFur1
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/hg19_rCRS_pUC18_phiX174/hg19_rCRS_pUC18_phiX174.fa
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/hg19_rCRS_pUC18_phiX174/hg19_rCRS_pUC18_phiX174.fa.fai
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/hg19_rCRS_pUC18_phiX174
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/papAnu2/papAnu2.fa
+####### SIZE: 9387 KB

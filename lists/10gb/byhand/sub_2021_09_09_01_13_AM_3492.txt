@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/tetNig1full/bwa_index
+####### SIZE: 589943 KB

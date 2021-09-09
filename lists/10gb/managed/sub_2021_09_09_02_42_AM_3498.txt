@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mesorhizobium_ciceri_biovar_biserrulae_WSM1271_uid62101
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pelobacter_propionicus_DSM_2379_uid58255/NC_008607.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pelobacter_propionicus_DSM_2379_uid58255/NC_008608.fna
+####### SIZE: 6864 KB

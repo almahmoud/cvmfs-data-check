@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/tupBel1/seq/tupBel1.fa
+####### SIZE: 3650005 KB

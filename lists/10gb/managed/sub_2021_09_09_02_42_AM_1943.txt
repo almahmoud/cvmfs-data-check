@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Azotobacter_vinelandii_DJ_uid57597/NC_012560.fna
+####### SIZE: 5315 KB

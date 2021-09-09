@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/picrTorr1/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/picrTorr1/chr.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/picrTorr1/chr.gbk
+####### SIZE: 5015 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/monDom4/chr20_random.axt
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/monDom4/chrX_random.axt
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/monDom4/chr21.axt
+####### SIZE: 4561 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/oryLat2/chr15.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/oryLat2/chr10.axt
+####### SIZE: 9592 KB

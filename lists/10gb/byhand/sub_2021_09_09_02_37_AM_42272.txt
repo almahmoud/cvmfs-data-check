@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/quality_scores/chr6.qa.bqv
+####### SIZE: 13083 KB

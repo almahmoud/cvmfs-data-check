@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/mm8/mm8canon/bwa_index/mm8canon.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/mm8/mm8canon/bwa_index/mm8canon.fa.amb
+####### SIZE: 26 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg16/align/mm6/maf/chr9_random.maf
+####### SIZE: 1202 KB

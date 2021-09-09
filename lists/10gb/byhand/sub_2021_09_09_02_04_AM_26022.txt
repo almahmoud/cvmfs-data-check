@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_nuHg19_mtrCRS/picard_index/Homo_sapiens_nuHg19_mtrCRS.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_nuHg19_mtrCRS/picard_index/Homo_sapiens_nuHg19_mtrCRS.fa
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_nuHg19_mtrCRS/picard_index/Homo_sapiens_nuHg19_mtrCRS.dict
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_nuHg19_mtrCRS/picard_index
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_nuHg19_mtrCRS/bowtie2_index/Homo_sapiens_nuHg19_mtrCRS.fa
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_nuHg19_mtrCRS/bowtie2_index/Homo_sapiens_nuHg19_mtrCRS.3.bt2
+####### SIZE: 33 KB

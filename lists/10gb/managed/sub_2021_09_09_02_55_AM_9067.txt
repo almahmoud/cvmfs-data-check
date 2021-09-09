@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mannheimia_succiniciproducens_MBEL55E_uid58197/NC_006300.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mannheimia_succiniciproducens_MBEL55E_uid58197
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cronobacter_sakazakii_Sp291_uid189241/NC_020263.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cronobacter_sakazakii_Sp291_uid189241/NC_020262.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cronobacter_sakazakii_Sp291_uid189241/NC_020261.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cronobacter_sakazakii_Sp291_uid189241/NC_020260.fna
+####### SIZE: 9068 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nitrosococcus_halophilus_Nc4_uid46803/NC_013960.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nitrosococcus_halophilus_Nc4_uid46803
+####### SIZE: 8152 KB

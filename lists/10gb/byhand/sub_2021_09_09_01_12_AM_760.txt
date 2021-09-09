@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/sorAra1/chr2.axt
+####### SIZE: 132297 KB

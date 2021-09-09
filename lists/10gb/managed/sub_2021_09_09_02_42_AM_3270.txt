@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermosediminibacter_oceani_DSM_16646_uid51421
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aeromonas_veronii_B565_uid66323/NC_015424.fna
+####### SIZE: 6773 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/nocaFarc_IFM10152/chr.gbk
+####### SIZE: 13645 KB

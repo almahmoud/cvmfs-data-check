@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/harvest.txt
+/cvmfs/data.galaxyproject.org/byhand/microbes/13954/sam_index/burkPseu_1710B.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/13954/sam_index/burkPseu_1710B.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/microbes/13954/sam_index
+/cvmfs/data.galaxyproject.org/byhand/microbes/13954/download/31dec2010/1211/README
+/cvmfs/data.galaxyproject.org/byhand/microbes/13954/download/31dec2010/1211/chrII.fasta
+/cvmfs/data.galaxyproject.org/byhand/microbes/13954/download/31dec2010/1211/chrI.fasta
+####### SIZE: 7446 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/orieTsut_BORYONG
+/cvmfs/data.galaxyproject.org/byhand/microbes/15758/seq/NC_009619.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/15758/seq/NC_009632.nib
+####### SIZE: 9855 KB

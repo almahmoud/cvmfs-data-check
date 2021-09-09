@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/10690/NC_008254.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/10690/NC_008242.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/10690/NC_008254.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/10690/NC_008243.gbk
+####### SIZE: 4685 KB

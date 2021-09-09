@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/align/dm1/chr2R.axt
+####### SIZE: 13478 KB

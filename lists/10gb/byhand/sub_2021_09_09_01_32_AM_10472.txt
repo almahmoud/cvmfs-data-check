@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/ce2/tmp
+/cvmfs/data.galaxyproject.org/byhand/ce2/sam_index/ce2.fa
+/cvmfs/data.galaxyproject.org/byhand/ce2/sam_index/ce2.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/ce2/sam_index
+/cvmfs/data.galaxyproject.org/byhand/ce2/nib/chrII.nib
+####### SIZE: 7474 KB

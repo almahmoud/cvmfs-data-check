@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mesorhizobium_opportunistum_WSM2075_uid40861
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Corynebacterium_diphtheriae_PW8_uid84303/NC_016789.fna
+####### SIZE: 9331 KB

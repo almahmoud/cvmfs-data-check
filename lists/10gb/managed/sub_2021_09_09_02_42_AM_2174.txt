@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sinorhizobium_meliloti_1021_uid57603
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Prevotella_melaninogenica_ATCC_25845_uid51377/NC_014371.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Prevotella_melaninogenica_ATCC_25845_uid51377/NC_014370.fna
+####### SIZE: 9773 KB

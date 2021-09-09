@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/liftOver/rheMac3ToPanTro4.over.chain
+####### SIZE: 107185 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_CFT073/nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_CFT073/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_CFT073/seq/eschColi_CFT073.2bit
+####### SIZE: 6394 KB

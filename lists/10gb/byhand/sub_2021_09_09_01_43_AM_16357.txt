@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/xenTro2/maf/chr6.maf
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/xenTro2/maf/chr17_random.maf
+####### SIZE: 7758 KB

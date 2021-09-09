@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/monDom1/bwa_index/monDom1.fa.rsa
+####### SIZE: 434967 KB

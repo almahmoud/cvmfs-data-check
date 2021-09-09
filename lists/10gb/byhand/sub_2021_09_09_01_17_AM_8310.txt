@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/strPur3/sam_index/strPur3.fa
+/cvmfs/data.galaxyproject.org/byhand/strPur3/sam_index/strPur3.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/strPur3/sam_index
+/cvmfs/data.galaxyproject.org/byhand/strPur3/download/20110307_README_strPur3
+/cvmfs/data.galaxyproject.org/byhand/strPur3/download
+####### SIZE: 5260 KB

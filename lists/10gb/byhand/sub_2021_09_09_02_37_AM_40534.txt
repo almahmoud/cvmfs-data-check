@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer7/liftOver/danRer7ToXenTro2.over.chain
+####### SIZE: 22602 KB

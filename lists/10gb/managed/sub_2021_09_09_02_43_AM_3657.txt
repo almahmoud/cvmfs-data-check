@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database
+####### SIZE: 206268883 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/oryza_sativa_japonica_nipponbare_IRGSP4.0/bwa_index/oryza_sativa_japonica_nipponbare_IRGSP4.0.fa.rsa
+####### SIZE: 46726 KB

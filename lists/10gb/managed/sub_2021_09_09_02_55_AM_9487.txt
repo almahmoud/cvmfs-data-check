@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Dictyoglomus_thermophilum_H_6_12_uid59439/NC_011297.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Dictyoglomus_thermophilum_H_6_12_uid59439
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pelobacter_carbinolicus_DSM_2380_uid58241/NC_007498.fna
+####### SIZE: 7520 KB

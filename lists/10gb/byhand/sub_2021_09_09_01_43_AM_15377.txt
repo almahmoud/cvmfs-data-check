@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTau2/bwa_index/bosTau2.fa
+/cvmfs/data.galaxyproject.org/byhand/bosTau2/bwa_index/bosTau2.fa.ann
+####### SIZE: 3901 KB

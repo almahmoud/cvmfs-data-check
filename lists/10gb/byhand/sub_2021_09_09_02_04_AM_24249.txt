@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer2/chrom
+####### SIZE: 1583077 KB

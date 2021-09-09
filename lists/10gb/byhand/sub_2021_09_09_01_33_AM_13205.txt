@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/gorGor3/bowtie_index
+####### SIZE: 5956991 KB

@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/calJac1/maf/chrUn_gl000239.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/calJac1/maf/chrUn_gl000225.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/calJac1/maf/chrUn_gl000227.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/calJac1/maf/chr11_gl000202_random.maf.index
+####### SIZE: 9 KB

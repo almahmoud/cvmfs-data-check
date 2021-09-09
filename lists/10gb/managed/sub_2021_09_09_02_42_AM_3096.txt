@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ehrlichia_ruminantium_Welgevonden_uid58013/NC_005295.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ehrlichia_ruminantium_Welgevonden_uid58013
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Corynebacterium_pseudotuberculosis_C231_uid159675/NC_017301.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Corynebacterium_pseudotuberculosis_C231_uid159675
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_MCS_uid58465/NC_008147.fna
+####### SIZE: 7842 KB

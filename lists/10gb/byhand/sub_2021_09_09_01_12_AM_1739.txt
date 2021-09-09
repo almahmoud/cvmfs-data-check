@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/eriEur1/chr12.axt
+####### SIZE: 58724 KB

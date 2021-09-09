@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/sacCer2/seq
+####### SIZE: 15091 KB

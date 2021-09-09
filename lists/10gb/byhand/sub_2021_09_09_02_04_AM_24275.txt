@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer2/align/tetNig1/chr14.axt
+/cvmfs/data.galaxyproject.org/byhand/danRer2/align/tetNig1/chr20.idx
+/cvmfs/data.galaxyproject.org/byhand/danRer2/align/tetNig1/chr19.idx
+####### SIZE: 6704 KB

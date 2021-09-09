@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rheMac2/maf/chr8.maf
+####### SIZE: 245025 KB

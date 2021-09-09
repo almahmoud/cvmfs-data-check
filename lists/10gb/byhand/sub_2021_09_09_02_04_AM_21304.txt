@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/bowtie2_index/anoGam1.rev.2.bt2
+####### SIZE: 64248 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/hg19/chr2a.axt
+####### SIZE: 202640 KB

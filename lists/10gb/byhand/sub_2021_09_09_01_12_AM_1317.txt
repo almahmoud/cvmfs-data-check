@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/equCab2/maf/chr19.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/equCab2/maf/chrUn_gl000218.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/equCab2/maf/chr8_gl000196_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/equCab2/maf/chr11.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/equCab2/maf/chrY.maf.index
+####### SIZE: 3605 KB

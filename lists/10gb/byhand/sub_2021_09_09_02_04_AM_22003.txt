@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/ponAbe2/chr20.axt
+####### SIZE: 109061 KB

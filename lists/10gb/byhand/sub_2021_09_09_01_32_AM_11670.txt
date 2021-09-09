@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/16297/download/26jan2011
+/cvmfs/data.galaxyproject.org/byhand/microbes/16297/download
+/cvmfs/data.galaxyproject.org/byhand/microbes/16297/seq/16297.2bit
+/cvmfs/data.galaxyproject.org/byhand/microbes/16297/seq/16297.fa
+####### SIZE: 9812 KB

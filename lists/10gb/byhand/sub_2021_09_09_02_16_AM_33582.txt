@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/nib/chr6_qbl_hap2_random.nib
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/nib/chr2b_random.nib
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/nib/chr6_cox_hap1.nib
+####### SIZE: 8195 KB

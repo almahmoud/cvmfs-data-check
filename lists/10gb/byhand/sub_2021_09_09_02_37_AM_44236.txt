@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/monDom4/liftOver/monDom4ToRn4.over.chain
+####### SIZE: 46665 KB

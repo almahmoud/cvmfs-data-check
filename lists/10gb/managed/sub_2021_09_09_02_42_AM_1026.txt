@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/nasLar1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/tytAlb1.len
+####### SIZE: 8882 KB

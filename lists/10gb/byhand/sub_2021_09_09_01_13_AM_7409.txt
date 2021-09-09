@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro1/align/hg16/chr3_random.axt
+####### SIZE: 19931 KB

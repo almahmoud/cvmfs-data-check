@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/oryLat1/maf/chr19.maf
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/oryLat1/maf/chr10.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/oryLat1/maf/chr6.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/oryLat1/maf/chr18.maf
+####### SIZE: 9027 KB

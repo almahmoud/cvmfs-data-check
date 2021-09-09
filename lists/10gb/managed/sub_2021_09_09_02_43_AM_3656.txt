@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/.cvmfscatalog
+####### SIZE: 1 KB

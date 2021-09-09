@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/caeJap3/sam_index/caeJap3.fa
+/cvmfs/data.galaxyproject.org/byhand/caeJap3/sam_index/caeJap3.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/caeJap3/sam_index
+/cvmfs/data.galaxyproject.org/byhand/caeJap3/picard_index/caeJap3.fa
+/cvmfs/data.galaxyproject.org/byhand/caeJap3/picard_index/caeJap3.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/caeJap3/picard_index/caeJap3.dict
+####### SIZE: 8028 KB

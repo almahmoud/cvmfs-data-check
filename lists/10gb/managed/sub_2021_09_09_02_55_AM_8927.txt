@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cyanothece_PCC_7424_uid59025/NC_011729.fna
+####### SIZE: 5887 KB

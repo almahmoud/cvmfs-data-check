@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Brucella_melitensis_biovar_Abortus_2308_uid62937
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Ruthia_magnifica_Cm__Calyptogena_magnifica__uid58645/NC_008610.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Ruthia_magnifica_Cm__Calyptogena_magnifica__uid58645
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Synechocystis_PCC_6803_substr__GT_I_uid158059/NC_017052.fna
+####### SIZE: 9095 KB

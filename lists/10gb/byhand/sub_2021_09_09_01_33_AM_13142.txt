@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/liftOver/anoCar1ToHg18.over.chain
+####### SIZE: 28904 KB

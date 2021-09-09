@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_cenocepacia_AU_1054_uid58371/NC_008060.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_cenocepacia_AU_1054_uid58371/NC_008062.fna
+####### SIZE: 4449 KB

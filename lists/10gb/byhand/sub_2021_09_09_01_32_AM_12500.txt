@@ -1,0 +1,14 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/386/srma_index/pseuAeru_UCBPP_PA14.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/microbes/386/srma_index/pseuAeru_UCBPP_PA14.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/386/srma_index/pseuAeru_UCBPP_PA14.dict
+/cvmfs/data.galaxyproject.org/byhand/microbes/386/srma_index
+/cvmfs/data.galaxyproject.org/byhand/microbes/386/bwa_index/pseuAeru_UCBPP_PA14.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/386/bwa_index/pseuAeru_UCBPP_PA14.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/microbes/386/bwa_index/pseuAeru_UCBPP_PA14.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/microbes/386/bwa_index/pseuAeru_UCBPP_PA14.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/microbes/386/bwa_index/pseuAeru_UCBPP_PA14.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/microbes/386/bwa_index/pseuAeru_UCBPP_PA14.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/microbes/386/bwa_index/pseuAeru_UCBPP_PA14.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/386/bwa_index/pseuAeru_UCBPP_PA14.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/386/bwa_index/pseuAeru_UCBPP_PA14.fa.rpac
+####### SIZE: 9594 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm10/bwa_index_v0.5.9-r16
+####### SIZE: 4000321 KB

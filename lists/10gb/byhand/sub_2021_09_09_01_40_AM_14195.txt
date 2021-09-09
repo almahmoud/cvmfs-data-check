@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal4/liftOver/galGal4ToMm10.over.chain
+####### SIZE: 18040 KB

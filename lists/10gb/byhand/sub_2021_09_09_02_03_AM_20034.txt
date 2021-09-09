@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam2/liftOver/canFam2ToBosTau7.over.chain
+####### SIZE: 262767 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/nib/chr12.nib
+####### SIZE: 64624 KB

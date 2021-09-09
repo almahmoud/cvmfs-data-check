@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/strPur2/liftOver/strPur2ToHg18.over.chain
+####### SIZE: 39919 KB

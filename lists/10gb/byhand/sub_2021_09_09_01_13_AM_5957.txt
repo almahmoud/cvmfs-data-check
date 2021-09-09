@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/monDom4/chr22.axt
+####### SIZE: 7763 KB

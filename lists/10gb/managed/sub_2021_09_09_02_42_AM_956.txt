@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/rheMac2/rheMac2.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/rheMac2/rheMac2.fa.amb
+####### SIZE: 2782 KB

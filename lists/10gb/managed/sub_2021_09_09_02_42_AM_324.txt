@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/equCab1/equCab1.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/equCab1/equCab1.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/equCab1/equCab1.3.ht2
+####### SIZE: 419 KB

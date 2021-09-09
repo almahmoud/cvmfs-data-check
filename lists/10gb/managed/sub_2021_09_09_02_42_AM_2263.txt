@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_thailandensis_MSMB121_uid201037
+####### SIZE: 6673 KB

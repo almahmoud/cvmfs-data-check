@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/liftOver/hg19ToLoxAfr3.over.chain
+####### SIZE: 256474 KB

@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Listeria_monocytogenes_serotype_1_2c_SLCC2372_uid174872/NC_018588.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Listeria_monocytogenes_serotype_1_2c_SLCC2372_uid174872
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Wolbachia_endosymbiont_of_Drosophila_simulans_wHa_uid198768/NC_021089.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Wolbachia_endosymbiont_of_Drosophila_simulans_wHa_uid198768
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rickettsia_peacockii_Rustic_uid59301/NC_012732.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rickettsia_peacockii_Rustic_uid59301/NC_012730.fna
+####### SIZE: 9822 KB

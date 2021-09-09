@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Spirosoma_linguale_DSM_74_uid43413
+####### SIZE: 8419 KB

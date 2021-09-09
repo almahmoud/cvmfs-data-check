@@ -1,0 +1,16 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/methMari_C5_1/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/methMari_C5_1/plasmid_pMMC501.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/methMari_C5_1/plasmid_pMMC501.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/methMari_C5_1/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/methMari_C5_1/chr.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/methMari_C5_1/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/methMari_C5_1/plasmid_pMMC501.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/methMari_C5_1/plasmid_pMMC501.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/methMari_C5_1/plasmid_pMMC501.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/methMari_C5_1/plasmid_pMMC501.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/methMari_C5_1/plasmid_pMMC501.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/methMari_C5_1/methMari_C5_1.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/methMari_C5_1/chr.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/methMari_C5_1/chr.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/methMari_C5_1/plasmid_pMMC501.GeneMark.bed
+####### SIZE: 6336 KB

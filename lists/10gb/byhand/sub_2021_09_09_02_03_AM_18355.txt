@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/droAna3/seq/droAna3.fa
+####### SIZE: 230302 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/rmsk/Ultra483.fa.align
+####### SIZE: 15814 KB

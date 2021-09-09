@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gordonia_KTR9_uid174812/NC_018581.fna
+####### SIZE: 5390 KB

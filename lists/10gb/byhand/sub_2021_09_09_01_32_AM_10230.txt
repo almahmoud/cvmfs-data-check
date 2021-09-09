@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/felCat3/seq/felCat3.2bit
+####### SIZE: 1020525 KB

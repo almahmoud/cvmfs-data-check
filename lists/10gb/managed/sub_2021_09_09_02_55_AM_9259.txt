@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halorhabdus_tiamatea_SARL4B_uid214082/NC_021921.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halorhabdus_tiamatea_SARL4B_uid214082
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Tetragenococcus_halophilus_uid74441/NC_016052.fna
+####### SIZE: 8451 KB

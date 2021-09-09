@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_rhodesiae_NBB3_uid75107/NC_016604.fna
+####### SIZE: 6355 KB

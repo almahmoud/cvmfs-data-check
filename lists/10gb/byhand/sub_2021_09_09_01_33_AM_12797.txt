@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/12931/seq/Xanthomonas_oryzae_KACC10331.2bit
+/cvmfs/data.galaxyproject.org/byhand/microbes/12931/seq/NC_006834.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/12931/seq/Xanthomonas_oryzae_KACC10331.fa
+####### SIZE: 8515 KB

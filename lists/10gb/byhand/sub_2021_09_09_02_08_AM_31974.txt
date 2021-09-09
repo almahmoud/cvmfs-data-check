@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/customProDB/omicron-data.duckdns.org/customProDB/ensembl/loculatus-may2017/procodingseq.RData
+####### SIZE: 11438 KB

@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droAna3/chrYHet.axt
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droAna3/chrXHet.axt
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droAna3/chr2RHet.axt
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droAna3/chr4.axt
+####### SIZE: 6820 KB

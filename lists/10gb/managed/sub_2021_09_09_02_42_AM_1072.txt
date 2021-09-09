@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/loxAfr2.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/macEug2.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/petMar3.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/neoSch1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/criGriChoV2.len
+####### SIZE: 9628 KB

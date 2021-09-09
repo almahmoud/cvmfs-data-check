@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/desuHafn_Y51/chr.fna
+####### SIZE: 5674 KB

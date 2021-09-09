@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/bowtie_index/eschColi_O157H7_Sakai.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/bowtie_index/eschColi_O157H7_Sakai.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/bowtie_index/eschColi_O157H7_Sakai.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/bowtie_index/eschColi_O157H7_Sakai.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/bowtie_index/eschColi_O157H7_Sakai.2.ebwt
+####### SIZE: 7709 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sebaldella_termitidis_ATCC_33386_uid41865/NC_013517.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sebaldella_termitidis_ATCC_33386_uid41865
+####### SIZE: 8828 KB

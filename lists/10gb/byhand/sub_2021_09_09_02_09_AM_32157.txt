@@ -1,0 +1,23 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodRubr_ATCC11170/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodRubr_ATCC11170/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodRubr_ATCC11170/plasmid_unnamed.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodRubr_ATCC11170/plasmid_unnamed.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodRubr_ATCC11170/chr.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodRubr_ATCC11170/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodRubr_ATCC11170/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodRubr_ATCC11170/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodRubr_ATCC11170/plasmid_unnamed.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodRubr_ATCC11170/plasmid_unnamed.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodRubr_ATCC11170/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodRubr_ATCC11170/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodRubr_ATCC11170/plasmid_unnamed.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodRubr_ATCC11170/chr.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodRubr_ATCC11170/plasmid_unnamed.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodRubr_ATCC11170/rhodRubr_ATCC11170.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodRubr_ATCC11170/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodRubr_ATCC11170/plasmid_unnamed.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodRubr_ATCC11170/plasmid_unnamed.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodRubr_ATCC11170/plasmid_unnamed.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodRubr_ATCC11170/plasmid_unnamed.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhodRubr_ATCC11170/chr.Glimmer3
+####### SIZE: 6516 KB

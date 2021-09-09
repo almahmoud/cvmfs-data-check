@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermodesulfovibrio_yellowstonii_DSM_11347_uid59257
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Alteromonas_macleodii__Ionian_Sea_U7__uid210785/NC_021717.fna
+####### SIZE: 6391 KB

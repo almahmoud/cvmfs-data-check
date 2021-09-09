@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/haemInfl_KW20
+/cvmfs/data.galaxyproject.org/byhand/microbes/12508/seq/NC_007168.nib
+####### SIZE: 9099 KB

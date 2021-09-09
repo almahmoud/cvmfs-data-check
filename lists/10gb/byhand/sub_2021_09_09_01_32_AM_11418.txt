@@ -1,0 +1,15 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/278/seq/278.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/278/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/278/srma_index/278.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/microbes/278/srma_index/278.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/278/srma_index/278.dict
+/cvmfs/data.galaxyproject.org/byhand/microbes/278/srma_index
+/cvmfs/data.galaxyproject.org/byhand/microbes/278/bwa_index/278.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/microbes/278/bwa_index/278.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/microbes/278/bwa_index/278.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/microbes/278/bwa_index/278.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/microbes/278/bwa_index/278.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/microbes/278/bwa_index/278.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/microbes/278/bwa_index/278.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/278/bwa_index/278.fa.rbwt
+####### SIZE: 8537 KB

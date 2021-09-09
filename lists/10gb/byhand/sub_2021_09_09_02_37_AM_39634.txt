@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/susScr1/sam_index/susScr1.fa
+/cvmfs/data.galaxyproject.org/byhand/susScr1/sam_index/susScr1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/susScr1/sam_index
+/cvmfs/data.galaxyproject.org/byhand/susScr1/picard_index/susScr1.fa
+/cvmfs/data.galaxyproject.org/byhand/susScr1/picard_index/susScr1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/susScr1/picard_index/susScr1.dict
+/cvmfs/data.galaxyproject.org/byhand/susScr1/picard_index
+/cvmfs/data.galaxyproject.org/byhand/susScr1/bowtie2_index/susScr1.fa
+/cvmfs/data.galaxyproject.org/byhand/susScr1/bowtie2_index/susScr1.3.bt2
+####### SIZE: 1751 KB

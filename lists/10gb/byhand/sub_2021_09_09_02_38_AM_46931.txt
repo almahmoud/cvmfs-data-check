@@ -1,0 +1,15 @@
+/cvmfs/data.galaxyproject.org/byhand/blastdb/test/20140425_snapshot/nt
+/cvmfs/data.galaxyproject.org/byhand/blastdb/test/20140425_snapshot/htgs
+/cvmfs/data.galaxyproject.org/byhand/blastdb/test/20140425_snapshot/wgs
+/cvmfs/data.galaxyproject.org/byhand/blastdb/test/20140425_snapshot
+/cvmfs/data.galaxyproject.org/byhand/blastdb/test/wgs.fa
+/cvmfs/data.galaxyproject.org/byhand/blastdb/test/htgs.fa
+/cvmfs/data.galaxyproject.org/byhand/blastdb/test/command
+/cvmfs/data.galaxyproject.org/byhand/blastdb/test/nt.fa
+/cvmfs/data.galaxyproject.org/byhand/blastdb/test
+/cvmfs/data.galaxyproject.org/byhand/blastdb/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/byhand/blastdb/README
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.05.ppi
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.04.phi
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.02.phi
+####### SIZE: 7014 KB

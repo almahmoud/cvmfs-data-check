@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam2/liftOver/canFam2ToAilMel1.over.chain
+####### SIZE: 200963 KB

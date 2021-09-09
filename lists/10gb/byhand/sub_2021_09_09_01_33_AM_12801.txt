@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/12931/bowtie_index/cs/Xanthomonas_oryzae_KACC10331.rev.1.ebwt
+####### SIZE: 5475 KB

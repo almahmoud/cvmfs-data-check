@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/rn4/nib/chr18.nib
+####### SIZE: 42610 KB

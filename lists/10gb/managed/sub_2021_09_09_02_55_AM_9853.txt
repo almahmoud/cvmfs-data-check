@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Actinobacillus_suis_H91_0380_uid176363
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfohalobium_retbaense_DSM_5692_uid59183/NC_013223.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfohalobium_retbaense_DSM_5692_uid59183/NC_013224.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfohalobium_retbaense_DSM_5692_uid59183
+####### SIZE: 8236 KB

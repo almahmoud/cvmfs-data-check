@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/align/monDom4/maf/chrX_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/align/monDom4/maf/chr19.maf.lzo
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/align/monDom4/maf/chr17.maf.lzot
+####### SIZE: 9842 KB

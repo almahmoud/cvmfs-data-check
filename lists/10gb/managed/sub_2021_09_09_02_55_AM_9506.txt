@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Escherichia_coli_K_12_substr__MG1655_uid57779/NC_000913.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Escherichia_coli_K_12_substr__MG1655_uid57779
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Phaeobacter_gallaeciensis_DSM_26640_uid232357/NC_023141.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Phaeobacter_gallaeciensis_DSM_26640_uid232357/NC_023148.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Phaeobacter_gallaeciensis_DSM_26640_uid232357/NC_023139.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Phaeobacter_gallaeciensis_DSM_26640_uid232357/NC_023138.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Phaeobacter_gallaeciensis_DSM_26640_uid232357/NC_023142.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Phaeobacter_gallaeciensis_DSM_26640_uid232357/NC_023140.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Phaeobacter_gallaeciensis_DSM_26640_uid232357/NC_023143.fna
+####### SIZE: 9962 KB

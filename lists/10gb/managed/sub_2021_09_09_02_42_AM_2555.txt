@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Arthrobacter_phenanthrenivorans_Sphe3_uid63629
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Legionella_pneumophila_2300_99_Alcoy_uid48801/NC_014125.fna
+####### SIZE: 7982 KB

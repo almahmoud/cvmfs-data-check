@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/Hydra_JCVI/srma_index/Hydra_JCVI.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/Hydra_JCVI/srma_index/Hydra_JCVI.fa
+/cvmfs/data.galaxyproject.org/byhand/Hydra_JCVI/srma_index/Hydra_JCVI.dict
+/cvmfs/data.galaxyproject.org/byhand/Hydra_JCVI/srma_index
+/cvmfs/data.galaxyproject.org/byhand/Hydra_JCVI/bwa_index/Hydra_JCVI.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/Hydra_JCVI/bwa_index/Hydra_JCVI.fa.amb
+####### SIZE: 7495 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg16/align/mm3/chrX_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg16/align/mm3/chr1.idx
+####### SIZE: 7056 KB

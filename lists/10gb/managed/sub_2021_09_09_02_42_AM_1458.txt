@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_gladioli_BSR3_uid66301/NC_015376.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_gladioli_BSR3_uid66301/NC_015381.fna
+####### SIZE: 8038 KB

@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Listeria_ivanovii_PAM_55_uid73473
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Phytoplasma_solani_284_09_uid225030/NC_022588.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Phytoplasma_solani_284_09_uid225030
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptosporangium_roseum_DSM_43021_uid42521/NC_013596.fna
+####### SIZE: 4070 KB

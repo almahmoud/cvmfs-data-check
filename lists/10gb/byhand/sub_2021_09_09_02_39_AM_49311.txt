@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro3/liftOver/panTro3ToRn4.over.chain
+####### SIZE: 212073 KB

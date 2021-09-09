@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermacetogenium_phaeum_DSM_12270_uid177811
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shewanella_putrefaciens_CN_32_uid58267/NC_009438.fna
+####### SIZE: 7532 KB

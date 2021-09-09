@@ -1,0 +1,24 @@
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/vicPac1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/10697.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/wiggBrev.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/vibrPara1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/myxoXant_DK_1622.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/methAeol1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/15708.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/88.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/mannSucc_MBEL55E.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/Homo_sapiens_AK1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/16297.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/ce5.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/18083.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/alkaEhrl_MLHE_1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/speTri2.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/16871.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/184.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/18633.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/90.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/canFam3.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/therFusc_YX.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/mm10.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/12468.len
+####### SIZE: 6270 KB

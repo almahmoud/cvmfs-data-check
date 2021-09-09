@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/turTru2/picard_index/turTru2.fa.fai
+####### SIZE: 7883 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Corynebacterium_callunae_DSM_20147_uid193714
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfurivibrio_alkaliphilus_AHT2_uid49487/NC_014216.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfurivibrio_alkaliphilus_AHT2_uid49487
+####### SIZE: 9049 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacteroides_fragilis_638R_uid84217/NC_016776.fna
+####### SIZE: 5323 KB

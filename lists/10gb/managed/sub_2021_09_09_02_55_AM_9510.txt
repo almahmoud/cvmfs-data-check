@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Polaribacter_MED152_uid54207
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridiales_genomosp__BVAB3_UPII9_5_uid46219/NC_013895.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridiales_genomosp__BVAB3_UPII9_5_uid46219
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_aureus_MRSA252_uid57839/NC_002952.fna
+####### SIZE: 9405 KB

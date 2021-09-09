@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Paludibacter_propionicigenes_WB4_uid60725
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Vibrio_cholerae_MJ_1236_uid59387/NC_012667.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Vibrio_cholerae_MJ_1236_uid59387/NC_012668.fna
+####### SIZE: 7853 KB

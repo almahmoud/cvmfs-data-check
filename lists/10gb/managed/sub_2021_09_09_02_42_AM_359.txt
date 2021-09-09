@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/melUnd1/melUnd1.6.ht2
+####### SIZE: 269933 KB

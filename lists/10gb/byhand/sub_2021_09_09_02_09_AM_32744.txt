@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm10/chrom/chr10.fa
+####### SIZE: 130185 KB

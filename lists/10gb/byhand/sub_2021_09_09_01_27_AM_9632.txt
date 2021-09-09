@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/anoCar2/liftOver/anoCar2ToMm10.over.chain
+####### SIZE: 19241 KB

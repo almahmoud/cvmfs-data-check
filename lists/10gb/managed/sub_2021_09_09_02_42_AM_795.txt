@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/hg19_rCRS_pUC18_phiX174/hg19_rCRS_pUC18_phiX174.fa
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/hg19_rCRS_pUC18_phiX174/hg19_rCRS_pUC18_phiX174.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/hg19_rCRS_pUC18_phiX174/hg19_rCRS_pUC18_phiX174.fa.amb
+####### SIZE: 9 KB

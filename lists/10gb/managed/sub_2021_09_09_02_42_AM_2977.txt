@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactobacillus_johnsonii_DPC_6026_uid162057
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Corynebacterium_pseudotuberculosis_267_uid162175/NC_017462.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Corynebacterium_pseudotuberculosis_267_uid162175
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Natranaerobius_thermophilus_JW_NM_WN_LF_uid59001/NC_010724.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Natranaerobius_thermophilus_JW_NM_WN_LF_uid59001/NC_010715.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Natranaerobius_thermophilus_JW_NM_WN_LF_uid59001/NC_010718.fna
+####### SIZE: 9753 KB

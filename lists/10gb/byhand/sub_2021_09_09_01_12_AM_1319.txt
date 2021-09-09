@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/equCab2/maf/chr4_gl000193_random.maf
+####### SIZE: 187 KB

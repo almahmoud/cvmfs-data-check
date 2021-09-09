@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/canFam2/chr18_random.axt
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/canFam2/chrM.axt
+####### SIZE: 1452 KB

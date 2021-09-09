@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ruminococcus_champanellensis_18P13_uid197169/NC_021039.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ruminococcus_champanellensis_18P13_uid197169
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nitrosococcus_oceani_ATCC_19707_uid58403/NC_007483.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nitrosococcus_oceani_ATCC_19707_uid58403/NC_007484.fna
+####### SIZE: 8593 KB

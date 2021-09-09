@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/align/danRer4/maf/chr1.maf
+####### SIZE: 8866 KB

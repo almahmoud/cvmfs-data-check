@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/rmsk/chr4.fa.out
+####### SIZE: 15546 KB

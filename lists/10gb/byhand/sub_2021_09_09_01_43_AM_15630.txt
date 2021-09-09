@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/IscaW1/bowtie_index/cs/IscaW1.2.ebwt
+####### SIZE: 169422 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/ponAbe2/chrY.axt
+####### SIZE: 31601 KB

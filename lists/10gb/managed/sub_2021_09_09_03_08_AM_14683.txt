@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken2_databases/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/managed/kraken2_databases/2020-11-24T170532Z_rdp_kmer-len_35_minimizer-len_31_minimizer-spaces_6_load-factor_0.7/opts.k2d
+/cvmfs/data.galaxyproject.org/managed/kraken2_databases/2020-11-24T170532Z_rdp_kmer-len_35_minimizer-len_31_minimizer-spaces_6_load-factor_0.7/taxo.k2d
+####### SIZE: 251 KB

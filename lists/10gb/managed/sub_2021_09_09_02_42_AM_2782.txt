@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_thuringiensis_BMB171_uid49135
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Finegoldia_magna_ATCC_29328_uid58867/NC_010371.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Finegoldia_magna_ATCC_29328_uid58867/NC_010376.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Finegoldia_magna_ATCC_29328_uid58867
+####### SIZE: 9537 KB

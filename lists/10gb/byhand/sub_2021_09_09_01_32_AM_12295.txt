@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/zymoMobi_ZM4
+/cvmfs/data.galaxyproject.org/byhand/microbes/27853/seq/NC_010331.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/27853/seq/NC_010336.nib
+####### SIZE: 9538 KB

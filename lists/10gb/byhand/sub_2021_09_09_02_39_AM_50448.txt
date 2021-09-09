@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/susScr3/picard_index/susScr3.fa
+/cvmfs/data.galaxyproject.org/byhand/susScr3/picard_index/susScr3.dict
+/cvmfs/data.galaxyproject.org/byhand/susScr3/picard_index/susScr3.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/susScr3/picard_index
+/cvmfs/data.galaxyproject.org/byhand/susScr3/bowtie2_index/susScr3.fa
+/cvmfs/data.galaxyproject.org/byhand/susScr3/bowtie2_index/susScr3.3.bt2
+####### SIZE: 4630 KB

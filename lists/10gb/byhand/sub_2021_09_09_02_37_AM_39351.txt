@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/apiMel1/chr2L.axt
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/apiMel1/chr2L.idx
+####### SIZE: 7257 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Delftia_acidovorans_SPH_1_uid58703/NC_010002.fna
+####### SIZE: 6704 KB

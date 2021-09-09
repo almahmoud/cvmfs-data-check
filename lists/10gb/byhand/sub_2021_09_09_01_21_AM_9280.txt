@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/sorAra1/picard_index/sorAra1.fa.fai
+####### SIZE: 9373 KB

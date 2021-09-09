@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/liftOver/ponAbe2ToHg18.over.chain
+####### SIZE: 104058 KB

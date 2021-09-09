@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkViet_G4/chr1.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkViet_G4/plasmid_pBVIE03.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkViet_G4/plasmid_pBVIE04.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkViet_G4/plasmid_pBVIE04.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkViet_G4/plasmid_pBVIE05.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkViet_G4/plasmid_pBVIE05.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkViet_G4/plasmid_pBVIE04.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkViet_G4/plasmid_pBVIE02.rRNA.bed
+####### SIZE: 8835 KB

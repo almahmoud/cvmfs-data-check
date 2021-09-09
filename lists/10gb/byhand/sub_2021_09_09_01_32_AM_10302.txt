@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/oryCun2/sam_index/oryCun2.fa
+/cvmfs/data.galaxyproject.org/byhand/oryCun2/sam_index/oryCun2.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/oryCun2/sam_index
+/cvmfs/data.galaxyproject.org/byhand/oryCun2/picard_index/oryCun2.fa
+/cvmfs/data.galaxyproject.org/byhand/oryCun2/picard_index/oryCun2.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/oryCun2/picard_index/oryCun2.dict
+/cvmfs/data.galaxyproject.org/byhand/oryCun2/picard_index
+/cvmfs/data.galaxyproject.org/byhand/oryCun2/bowtie2_index/oryCun2.fa
+/cvmfs/data.galaxyproject.org/byhand/oryCun2/bowtie2_index/oryCun2.3.bt2
+####### SIZE: 1443 KB

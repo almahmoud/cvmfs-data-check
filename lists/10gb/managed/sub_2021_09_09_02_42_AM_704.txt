@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/nomLeu3/nomLeu3.2.bt2
+####### SIZE: 673001 KB

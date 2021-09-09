@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pectobacterium_carotovorum_PCC21_uid174335
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_chubuense_NBB4_uid168322/NC_018023.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_chubuense_NBB4_uid168322/NC_018022.fna
+####### SIZE: 5555 KB

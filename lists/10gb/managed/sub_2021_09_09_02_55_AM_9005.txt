@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Wolinella_succinogenes_DSM_1740_uid61591/NC_005090.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Wolinella_succinogenes_DSM_1740_uid61591
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leptospira_biflexa_serovar_Patoc__Patoc_1__Ames__uid58511/NC_010845.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leptospira_biflexa_serovar_Patoc__Patoc_1__Ames__uid58511/NC_010846.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leptospira_biflexa_serovar_Patoc__Patoc_1__Ames__uid58511/NC_010842.fna
+####### SIZE: 8106 KB

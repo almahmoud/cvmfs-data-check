@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/xenTro1/bwa_index/xenTro1.fa
+/cvmfs/data.galaxyproject.org/byhand/xenTro1/bwa_index/xenTro1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/xenTro1/bwa_index/xenTro1.fa.amb
+####### SIZE: 4170 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/turTru2/turTru2.fa.pac
+####### SIZE: 623047 KB

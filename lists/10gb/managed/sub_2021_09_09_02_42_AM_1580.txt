@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pyrobaculum_calidifontis_JCM_11548_uid58787/NC_009073.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pyrobaculum_calidifontis_JCM_11548_uid58787
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sphaerobacter_thermophilus_DSM_20745_uid41997/NC_013524.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sphaerobacter_thermophilus_DSM_20745_uid41997/NC_013523.fna
+####### SIZE: 7943 KB

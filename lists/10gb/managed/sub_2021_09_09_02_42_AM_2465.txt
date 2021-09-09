@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Wolbachia_endosymbiont_of_Drosophila_simulans_wNo_uid198767/NC_021084.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Wolbachia_endosymbiont_of_Drosophila_simulans_wNo_uid198767
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Starkeya_novella_DSM_506_uid48815/NC_014217.fna
+####### SIZE: 7305 KB

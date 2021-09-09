@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rheMac2/chr12.axt
+####### SIZE: 219661 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer2/align/tetNig1/maf/chr7.maf
+/cvmfs/data.galaxyproject.org/byhand/danRer2/align/tetNig1/maf/chrNA.maf.index
+####### SIZE: 7708 KB

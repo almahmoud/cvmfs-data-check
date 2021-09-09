@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam2/quality_scores/chr18.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/canFam2/quality_scores/chr9.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/canFam2/quality_scores/chr19.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/canFam2/quality_scores/chr17.qa.bqv
+####### SIZE: 7691 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/droWil1/bowtie_index
+####### SIZE: 488715 KB

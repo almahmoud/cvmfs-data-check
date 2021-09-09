@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer2/align/hg17/chr14.axt
+/cvmfs/data.galaxyproject.org/byhand/danRer2/align/hg17/chr24.idx
+/cvmfs/data.galaxyproject.org/byhand/danRer2/align/hg17/chr4.idx
+/cvmfs/data.galaxyproject.org/byhand/danRer2/align/hg17/chr14.idx
+####### SIZE: 6856 KB

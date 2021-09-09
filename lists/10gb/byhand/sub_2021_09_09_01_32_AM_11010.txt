@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/384/NC_004722.gbk
+####### SIZE: 11638 KB

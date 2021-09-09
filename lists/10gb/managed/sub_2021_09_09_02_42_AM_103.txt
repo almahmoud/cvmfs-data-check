@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/dm3/dm3.6.ht2
+####### SIZE: 40364 KB

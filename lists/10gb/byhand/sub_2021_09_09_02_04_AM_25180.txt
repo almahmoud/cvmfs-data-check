@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/turTru2/sam_index/turTru2.fa
+/cvmfs/data.galaxyproject.org/byhand/turTru2/sam_index/turTru2.fa.fai
+####### SIZE: 7884 KB

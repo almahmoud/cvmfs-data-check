@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal3/galGal3full/bwa_index/galGal3full.fa.rsa
+####### SIZE: 134337 KB

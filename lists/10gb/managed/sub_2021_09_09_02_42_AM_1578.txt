@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pelotomaculum_thermopropionicum_SI_uid58877/NC_009454.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pelotomaculum_thermopropionicum_SI_uid58877
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cronobacter_sakazakii_45402_uid231516/NC_023025.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cronobacter_sakazakii_45402_uid231516/NC_023024.fna
+####### SIZE: 6181 KB

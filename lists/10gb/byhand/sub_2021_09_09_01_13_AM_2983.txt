@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/liftOver/hg19ToPanTro4.over.chain
+####### SIZE: 38973 KB

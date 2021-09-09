@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_mallei_NCTC_10247_uid58385/NC_009080.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_mallei_NCTC_10247_uid58385/NC_009079.fna
+####### SIZE: 5794 KB

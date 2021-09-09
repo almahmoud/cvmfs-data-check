@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gluconacetobacter_diazotrophicus_PAl_5_uid61587/NC_010125.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gluconacetobacter_diazotrophicus_PAl_5_uid61587
+####### SIZE: 7875 KB

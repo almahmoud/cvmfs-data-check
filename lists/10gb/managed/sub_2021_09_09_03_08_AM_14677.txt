@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken2_databases/2020-11-24T164216Z_silva_kmer-len_35_minimizer-len_31_minimizer-spaces_6_load-factor_0.7/data/tax_slv_ssu_138.1.txt
+####### SIZE: 1517 KB

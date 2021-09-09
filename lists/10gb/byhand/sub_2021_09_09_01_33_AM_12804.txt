@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/12931/bowtie_index/Xanthomonas_oryzae_KACC10331.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/12931/bowtie_index/Xanthomonas_oryzae_KACC10331.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/12931/bowtie_index/Xanthomonas_oryzae_KACC10331.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/12931/bowtie_index/Xanthomonas_oryzae_KACC10331.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/12931/bowtie_index/Xanthomonas_oryzae_KACC10331.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/12931/bowtie_index/Xanthomonas_oryzae_KACC10331.2.ebwt
+####### SIZE: 7892 KB

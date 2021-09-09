@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab2/nib/chrX.nib
+####### SIZE: 60603 KB

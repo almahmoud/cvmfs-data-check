@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/cb3/cb3full/bowtie_index/cs/cb3full.2.ebwt
+####### SIZE: 12872 KB

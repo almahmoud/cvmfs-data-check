@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/bowtie_index/cs/bosTau7.4.ebwt
+####### SIZE: 684735 KB

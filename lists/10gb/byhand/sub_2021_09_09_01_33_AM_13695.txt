@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm10/bowtie_index/mm10.1.ebwt
+####### SIZE: 744280 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_trachomatis_L2_434_Bu_f__uid198644
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptomyces_cattleya_NRRL_8057___DSM_46488_uid162187/NC_017585.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptomyces_cattleya_NRRL_8057___DSM_46488_uid162187/NC_017586.fna
+####### SIZE: 9062 KB

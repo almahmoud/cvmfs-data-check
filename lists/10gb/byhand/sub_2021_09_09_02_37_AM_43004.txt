@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal2/liftOver/galGal2ToGalGal3.over.chain
+####### SIZE: 9663 KB

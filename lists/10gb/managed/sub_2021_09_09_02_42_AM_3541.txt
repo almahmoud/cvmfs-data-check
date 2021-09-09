@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sinorhizobium_medicae_WSM419_uid58549/NC_009636.fna
+####### SIZE: 3747 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_beijerinckii_NCIMB_8052_uid58137
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haemophilus_parainfluenzae_T3T1_uid72801/NC_015964.fna
+####### SIZE: 8017 KB

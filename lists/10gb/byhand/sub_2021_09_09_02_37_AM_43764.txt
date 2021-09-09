@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer3/align/fr1/maf/chr12.maf
+/cvmfs/data.galaxyproject.org/byhand/danRer3/align/fr1/maf/chr20.maf.index
+/cvmfs/data.galaxyproject.org/byhand/danRer3/align/fr1/maf/chr11.maf.index
+####### SIZE: 7685 KB

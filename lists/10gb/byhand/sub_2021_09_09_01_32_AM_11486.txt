@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/13953/seq/burkPseu_668.fa
+####### SIZE: 6974 KB

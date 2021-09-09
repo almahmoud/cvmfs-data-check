@@ -1,0 +1,17 @@
+/cvmfs/data.galaxyproject.org/byhand/eriEur1/quality_scores/scaffold_163881.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/eriEur1/quality_scores/scaffold_120820.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/eriEur1/quality_scores/scaffold_43461.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/eriEur1/quality_scores/scaffold_32317.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/eriEur1/quality_scores/scaffold_247374.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/eriEur1/quality_scores/scaffold_20236.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/eriEur1/quality_scores/scaffold_350401.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/eriEur1/quality_scores/scaffold_126443.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/eriEur1/quality_scores/scaffold_98553.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/eriEur1/quality_scores/scaffold_293415.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/eriEur1/quality_scores/scaffold_223598.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/eriEur1/quality_scores/scaffold_104602.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/eriEur1/quality_scores/scaffold_94233.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/eriEur1/quality_scores/scaffold_178804.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/eriEur1/quality_scores/scaffold_57181.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/eriEur1/quality_scores/scaffold_71415.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/eriEur1/quality_scores/scaffold_364406.qa.bqv

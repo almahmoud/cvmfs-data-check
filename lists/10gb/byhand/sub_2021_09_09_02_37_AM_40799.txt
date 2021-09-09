@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/felCat4/felCat4full/bowtie_index/felCat4full.fa
+/cvmfs/data.galaxyproject.org/byhand/felCat4/felCat4full/bowtie_index/felCat4full.3.ebwt
+####### SIZE: 5326 KB

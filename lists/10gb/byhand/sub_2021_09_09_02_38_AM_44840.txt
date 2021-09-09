@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/panTro2/maf/chr31.maf
+####### SIZE: 39464 KB

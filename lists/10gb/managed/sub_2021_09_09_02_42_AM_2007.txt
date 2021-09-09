@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sulfurovum_NBC37_1_uid58863/NC_009663.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sulfurovum_NBC37_1_uid58863
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Deinococcus_geothermalis_DSM_11300_uid58275/NC_009939.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Deinococcus_geothermalis_DSM_11300_uid58275/NC_008010.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Deinococcus_geothermalis_DSM_11300_uid58275/NC_008025.fna
+####### SIZE: 8299 KB

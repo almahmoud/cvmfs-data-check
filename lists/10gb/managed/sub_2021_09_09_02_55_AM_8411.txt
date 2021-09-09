@@ -1,0 +1,12 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_trachomatis_L1_115_uid196784/NC_020929.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_trachomatis_L1_115_uid196784
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Portiera_aleyrodidarum_BT_QVLC_uid175570/NC_018618.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Portiera_aleyrodidarum_BT_QVLC_uid175570
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_putrefaciens_KS1_uid72481/NC_015946.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_putrefaciens_KS1_uid72481
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhizobium_leguminosarum_bv__trifolii_WSM1325_uid58991/NC_012853.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhizobium_leguminosarum_bv__trifolii_WSM1325_uid58991/NC_012848.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhizobium_leguminosarum_bv__trifolii_WSM1325_uid58991/NC_012852.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhizobium_leguminosarum_bv__trifolii_WSM1325_uid58991/NC_012854.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhizobium_leguminosarum_bv__trifolii_WSM1325_uid58991/NC_012858.fna
+####### SIZE: 7071 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/tetNig2/tetNig2canon/bowtie_index/tetNig2canon.2.ebwt
+####### SIZE: 25480 KB

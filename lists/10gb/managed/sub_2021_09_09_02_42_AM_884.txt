@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/dasNov3/dasNov3.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/dasNov3/dasNov3.fa
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/dasNov3/dasNov3.fa.amb
+####### SIZE: 6095 KB

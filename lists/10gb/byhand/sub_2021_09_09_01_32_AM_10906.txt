@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/13954/download
+/cvmfs/data.galaxyproject.org/byhand/microbes/13954/seq/13954.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/13954/seq/13954.2bit
+/cvmfs/data.galaxyproject.org/byhand/microbes/13954/seq/NC_007435.nib
+####### SIZE: 8810 KB

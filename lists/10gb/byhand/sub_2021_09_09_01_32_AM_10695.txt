@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_MG1655/bowtie_index/eschColi_MG1655.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_MG1655/bowtie_index/eschColi_MG1655.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_MG1655/bowtie_index/eschColi_MG1655.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_MG1655/bowtie_index/eschColi_MG1655.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_MG1655/bowtie_index/eschColi_MG1655.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_MG1655/bowtie_index/eschColi_MG1655.rev.1.ebwt
+####### SIZE: 7660 KB

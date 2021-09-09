@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/sarHar1/bowtie_index/cs/sarHar1.1.ebwt
+####### SIZE: 825640 KB

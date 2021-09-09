@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/mm9/maf/chr11.maf
+####### SIZE: 121508 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Micavibrio_aeruginosavorus_ARL_13_uid73585
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Spirochaeta_africana_DSM_8902_uid81779/NC_017098.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Spirochaeta_africana_DSM_8902_uid81779
+####### SIZE: 8979 KB

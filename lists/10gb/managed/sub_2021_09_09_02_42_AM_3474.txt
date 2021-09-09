@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Escherichia_coli_O104_H4_2011C_3493_uid176127
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodobacter_sphaeroides_ATCC_17025_uid58451/NC_009430.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodobacter_sphaeroides_ATCC_17025_uid58451/NC_009431.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodobacter_sphaeroides_ATCC_17025_uid58451/NC_009433.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodobacter_sphaeroides_ATCC_17025_uid58451/NC_009429.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodobacter_sphaeroides_ATCC_17025_uid58451/NC_009432.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodobacter_sphaeroides_ATCC_17025_uid58451/NC_009428.fna
+####### SIZE: 9908 KB

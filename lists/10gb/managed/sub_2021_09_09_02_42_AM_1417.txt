@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sulfuricurvum_kujiense_DSM_16994_uid60789/NC_014762.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sulfuricurvum_kujiense_DSM_16994_uid60789/NC_014755.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sulfuricurvum_kujiense_DSM_16994_uid60789
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aquifex_aeolicus_VF5_uid57765/NC_001880.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aquifex_aeolicus_VF5_uid57765/NC_000918.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aquifex_aeolicus_VF5_uid57765
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Blattabacterium__Cryptocercus_punctulatus__Cpu_uid81083/NC_016598.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Blattabacterium__Cryptocercus_punctulatus__Cpu_uid81083/NC_016621.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Blattabacterium__Cryptocercus_punctulatus__Cpu_uid81083
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Erwinia_amylovora_CFBP1430_uid46839/NC_013957.fna
+####### SIZE: 9822 KB

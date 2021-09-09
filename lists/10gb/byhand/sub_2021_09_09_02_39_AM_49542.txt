@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/droWil1/sam_index/droWil1.fa
+/cvmfs/data.galaxyproject.org/byhand/droWil1/sam_index/droWil1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/droWil1/sam_index
+/cvmfs/data.galaxyproject.org/byhand/droWil1/bowtie2_index/droWil1.fa
+/cvmfs/data.galaxyproject.org/byhand/droWil1/bowtie2_index/droWil1.3.bt2
+####### SIZE: 1257 KB

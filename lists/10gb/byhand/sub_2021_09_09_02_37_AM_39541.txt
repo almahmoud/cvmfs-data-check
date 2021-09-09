@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm5/liftOver/mm5ToBosTau1.over.chain
+####### SIZE: 168833 KB

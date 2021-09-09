@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/canFam2/maf/chr11.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/canFam2/maf/chr18.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/canFam2/maf/chr6_qbl_hap6.maf
+####### SIZE: 8052 KB

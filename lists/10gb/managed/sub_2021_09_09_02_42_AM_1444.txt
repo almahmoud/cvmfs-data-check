@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactobacillus_salivarius_UCC118_uid58233
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Oscillibacter_valericigenes_Sjm18_20_uid73895/NC_016046.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Oscillibacter_valericigenes_Sjm18_20_uid73895/NC_016048.fna
+####### SIZE: 6550 KB

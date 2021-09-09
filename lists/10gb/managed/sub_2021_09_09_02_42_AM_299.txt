@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/canFam3
+####### SIZE: 3437814 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/nib/chr19.nib
+####### SIZE: 31159 KB

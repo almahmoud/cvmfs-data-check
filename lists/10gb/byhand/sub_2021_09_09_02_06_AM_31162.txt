@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/tetNig2/tetNig2full/bwa_index/tetNig2full.fa.sa
+####### SIZE: 43777 KB

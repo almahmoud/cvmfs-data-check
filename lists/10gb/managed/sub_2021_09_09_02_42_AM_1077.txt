@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/len
+####### SIZE: 479397 KB

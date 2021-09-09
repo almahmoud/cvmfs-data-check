@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cellulophaga_lytica_DSM_7489_uid63401/NC_015167.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cellulophaga_lytica_DSM_7489_uid63401
+####### SIZE: 7466 KB

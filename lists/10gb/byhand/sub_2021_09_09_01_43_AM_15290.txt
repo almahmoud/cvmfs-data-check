@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/priPac1/sam_index/priPac1.fa
+/cvmfs/data.galaxyproject.org/byhand/priPac1/sam_index/priPac1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/priPac1/sam_index
+/cvmfs/data.galaxyproject.org/byhand/priPac1/picard_index/priPac1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/priPac1/picard_index/priPac1.fa
+/cvmfs/data.galaxyproject.org/byhand/priPac1/picard_index/priPac1.dict
+/cvmfs/data.galaxyproject.org/byhand/priPac1/picard_index
+/cvmfs/data.galaxyproject.org/byhand/priPac1/bowtie2_index/priPac1.fa
+/cvmfs/data.galaxyproject.org/byhand/priPac1/bowtie2_index/priPac1.3.bt2
+####### SIZE: 197 KB

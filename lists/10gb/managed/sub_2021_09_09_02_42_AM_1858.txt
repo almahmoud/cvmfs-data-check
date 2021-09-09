@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bordetella_bronchiseptica_RB50_uid57613/NC_002927.fna
+####### SIZE: 5289 KB

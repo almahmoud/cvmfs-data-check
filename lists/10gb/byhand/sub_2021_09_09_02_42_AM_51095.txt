@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/customProDB/omicron-data.duckdns.org/customProDB/ensembl/oanatinus-may2009/proseq.RData
+####### SIZE: 6011 KB

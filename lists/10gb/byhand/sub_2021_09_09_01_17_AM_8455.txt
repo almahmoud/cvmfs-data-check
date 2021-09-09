@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/speTri2/seq/speTri2.fa
+####### SIZE: 2468866 KB

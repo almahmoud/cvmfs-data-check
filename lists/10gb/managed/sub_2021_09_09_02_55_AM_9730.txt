@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_bovis_BCG_Tokyo_172_uid59281/NC_012207.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_bovis_BCG_Tokyo_172_uid59281
+####### SIZE: 8666 KB

@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/Xanthomonas_oryzae_PXO99A/bowtie_index/Xanthomonas_oryzae_PXO99A.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/Xanthomonas_oryzae_PXO99A/bowtie_index/Xanthomonas_oryzae_PXO99A.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/Xanthomonas_oryzae_PXO99A/bowtie_index/Xanthomonas_oryzae_PXO99A.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/Xanthomonas_oryzae_PXO99A/bowtie_index/Xanthomonas_oryzae_PXO99A.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/Xanthomonas_oryzae_PXO99A/bowtie_index/Xanthomonas_oryzae_PXO99A.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/Xanthomonas_oryzae_PXO99A/bowtie_index/Xanthomonas_oryzae_PXO99A.1.ebwt
+####### SIZE: 8121 KB

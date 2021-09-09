@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/papHam1
+####### SIZE: 4921325 KB

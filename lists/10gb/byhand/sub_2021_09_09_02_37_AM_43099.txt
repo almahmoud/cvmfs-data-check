@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/oryza_sativa_japonica_nipponbare_IRGSP4.0/sam_index/oryza_sativa_japonica_nipponbare_IRGSP4.0.fa
+/cvmfs/data.galaxyproject.org/byhand/oryza_sativa_japonica_nipponbare_IRGSP4.0/sam_index/oryza_sativa_japonica_nipponbare_IRGSP4.0.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/oryza_sativa_japonica_nipponbare_IRGSP4.0/sam_index
+####### SIZE: 8 KB

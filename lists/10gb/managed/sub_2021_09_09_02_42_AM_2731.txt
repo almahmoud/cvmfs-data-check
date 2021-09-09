@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sulfolobus_solfataricus_98_2_uid167998/NC_017274.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sulfolobus_solfataricus_98_2_uid167998
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cycloclasticus_zancles_7_ME_uid214092/NC_021918.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cycloclasticus_zancles_7_ME_uid214092/NC_021917.fna
+####### SIZE: 7925 KB

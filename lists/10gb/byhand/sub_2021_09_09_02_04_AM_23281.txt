@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/dp3/align/dm2/maf/chr4_group2.maf
+/cvmfs/data.galaxyproject.org/byhand/dp3/align/dm2/maf/chrXR_group8.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dp3/align/dm2/maf/chrXR_group9.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dp3/align/dm2/maf/chrXL_group1a.maf.index
+####### SIZE: 2036 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacteroides_fragilis_NCTC_9343_uid57639
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Elusimicrobium_minutum_Pei191_uid58949/NC_010644.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Elusimicrobium_minutum_Pei191_uid58949
+####### SIZE: 8459 KB

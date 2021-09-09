@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nostoc_PCC_7120_uid57803/NC_003272.fna
+####### SIZE: 6354 KB

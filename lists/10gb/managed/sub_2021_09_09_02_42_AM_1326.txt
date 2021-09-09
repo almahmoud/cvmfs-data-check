@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_thermocellum_ATCC_27405_uid57917
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Brucella_abortus_bv__1_9_941_uid58019/NC_006933.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Brucella_abortus_bv__1_9_941_uid58019/NC_006932.fna
+####### SIZE: 7069 KB

@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/cavPor3/maf/chr7.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/cavPor3/maf/chrUn_gl000213.maf
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/cavPor3/maf/chrUn_gl000211.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/cavPor3/maf/chrUn_gl000238.maf
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/cavPor3/maf/chr10.maf.index
+####### SIZE: 4388 KB

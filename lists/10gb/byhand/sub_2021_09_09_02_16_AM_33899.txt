@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/align/monDom4/maf/chr15.maf.lzo
+####### SIZE: 13849 KB

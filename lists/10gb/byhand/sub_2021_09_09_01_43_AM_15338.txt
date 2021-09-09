@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/oviAri1/bwa_index/oviAri1.fa.rbwt
+####### SIZE: 1047552 KB

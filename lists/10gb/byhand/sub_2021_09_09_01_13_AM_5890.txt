@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/gasAcu1/maf
+####### SIZE: 136479 KB

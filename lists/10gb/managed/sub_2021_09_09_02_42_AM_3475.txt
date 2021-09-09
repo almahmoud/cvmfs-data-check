@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodobacter_sphaeroides_ATCC_17025_uid58451
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactococcus_garvieae_ATCC_49156_uid73413/NC_015930.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactococcus_garvieae_ATCC_49156_uid73413
+####### SIZE: 8389 KB

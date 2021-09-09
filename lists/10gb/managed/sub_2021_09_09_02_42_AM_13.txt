@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/ce10/ce10.5.ht2
+####### SIZE: 41107 KB

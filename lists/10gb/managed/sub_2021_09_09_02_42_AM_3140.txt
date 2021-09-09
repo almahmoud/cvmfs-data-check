@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Exiguobacterium_antarcticum_B7_uid176125/NC_018665.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Exiguobacterium_antarcticum_B7_uid176125
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Xenorhabdus_nematophila_ATCC_19061_uid49133/NC_014170.fna
+####### SIZE: 5738 KB

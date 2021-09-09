@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/bowtie_index/nomLeu1.fa
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/bowtie_index/cs/nomLeu1.fa
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/bowtie_index/cs/nomLeu1.3.ebwt
+####### SIZE: 1742 KB

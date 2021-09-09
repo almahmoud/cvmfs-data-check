@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/mm7/maf/chr13.maf
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/mm7/maf/chrE50C23.maf
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/mm7/maf/chr20.maf.index
+####### SIZE: 3431 KB

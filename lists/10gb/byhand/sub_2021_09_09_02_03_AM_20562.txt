@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/calJac3/nib/chr10.nib
+####### SIZE: 64539 KB

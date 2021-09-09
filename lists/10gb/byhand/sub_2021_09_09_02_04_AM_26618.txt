@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/blastdb/htgs/13apr2014/htgs.00.nsq
+####### SIZE: 790009 KB

@@ -1,0 +1,23 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/baumCica_HOMALODISCA/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/baumCica_HOMALODISCA/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/baumCica_HOMALODISCA/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/baumCica_HOMALODISCA/chr.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/baumCica_HOMALODISCA/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/baumCica_HOMALODISCA/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/baumCica_HOMALODISCA/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/baumCica_HOMALODISCA/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/baumCica_HOMALODISCA/chr.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/baumCica_HOMALODISCA/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/baumCica_HOMALODISCA/baumCica_HOMALODISCA.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/baumCica_HOMALODISCA/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/baumCica_HOMALODISCA/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/baumCica_HOMALODISCA/chr.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/baumCica_HOMALODISCA/chr.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/baumCica_HOMALODISCA
+/cvmfs/data.galaxyproject.org/byhand/microbes/11752/seq/NC_007146.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/11752/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/11752/NC_007146.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/11752/NC_007146.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/11752/NC_007146.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/11752/11752.info
+####### SIZE: 9990 KB

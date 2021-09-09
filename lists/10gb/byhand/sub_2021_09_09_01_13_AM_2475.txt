@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/turTru1/chr21.axt
+####### SIZE: 38906 KB

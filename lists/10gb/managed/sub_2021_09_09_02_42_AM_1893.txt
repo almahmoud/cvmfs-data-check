@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Helicobacter_bizzozeronii_CIII_1_uid68141/NC_015674.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Helicobacter_bizzozeronii_CIII_1_uid68141/NC_015670.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Helicobacter_bizzozeronii_CIII_1_uid68141
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Krokinobacter_4H_3_7_5_uid66593/NC_015496.fna
+####### SIZE: 6945 KB

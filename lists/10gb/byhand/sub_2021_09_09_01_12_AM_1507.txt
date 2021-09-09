@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/bosTau4/maf/chrUn_gl000211.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/bosTau4/maf/chr10.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/bosTau4/maf/chr6.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/bosTau4/maf/chrUn_gl000238.maf
+####### SIZE: 5394 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/fr2/chr15.axt
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/fr2/chr10.axt
+####### SIZE: 9278 KB

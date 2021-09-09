@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/caeRem4/bowtie_index/cs/caeRem4.1.ebwt
+####### SIZE: 42932 KB

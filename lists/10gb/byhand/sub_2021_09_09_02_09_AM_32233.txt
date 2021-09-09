@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ci2/seq/ci2canon.fa
+####### SIZE: 93444 KB

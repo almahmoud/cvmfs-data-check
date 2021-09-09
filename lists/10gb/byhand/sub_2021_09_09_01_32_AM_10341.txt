@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/droSim1/sam_index/droSim1.fa
+/cvmfs/data.galaxyproject.org/byhand/droSim1/sam_index/droSim1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/droSim1/sam_index
+/cvmfs/data.galaxyproject.org/byhand/droSim1/download/2014-03-18_09.19.57_-0400_droSim1.log
+/cvmfs/data.galaxyproject.org/byhand/droSim1/download
+/cvmfs/data.galaxyproject.org/byhand/droSim1/nib/chr3R_random.nib
+/cvmfs/data.galaxyproject.org/byhand/droSim1/nib/chrX_random.nib
+/cvmfs/data.galaxyproject.org/byhand/droSim1/nib/chr2L_random.nib
+####### SIZE: 3930 KB

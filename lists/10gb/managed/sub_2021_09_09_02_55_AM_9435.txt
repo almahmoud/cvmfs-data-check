@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_cereus_AH187_uid58753
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Arcanobacterium_haemolyticum_DSM_20595_uid49489/NC_014218.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Arcanobacterium_haemolyticum_DSM_20595_uid49489
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Fusobacterium_4_8_uid205051/NC_021277.fna
+####### SIZE: 9508 KB

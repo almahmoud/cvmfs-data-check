@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer2/tmp/chain/chr3.chain
+/cvmfs/data.galaxyproject.org/byhand/danRer2/tmp/chain/chr25.chain
+/cvmfs/data.galaxyproject.org/byhand/danRer2/tmp/chain/chr11.chain
+/cvmfs/data.galaxyproject.org/byhand/danRer2/tmp/chain/chr18.chain
+####### SIZE: 9593 KB

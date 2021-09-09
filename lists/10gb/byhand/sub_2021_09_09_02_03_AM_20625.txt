@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3full/bowtie_index/calJac3full.1.ebwt
+####### SIZE: 774765 KB

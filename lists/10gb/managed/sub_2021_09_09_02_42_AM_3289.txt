@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Magnetospirillum_magneticum_AMB_1_uid58527/NC_007626.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Magnetospirillum_magneticum_AMB_1_uid58527
+####### SIZE: 9846 KB

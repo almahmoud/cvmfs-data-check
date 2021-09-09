@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/seq/bosTau7.fa
+####### SIZE: 2969689 KB

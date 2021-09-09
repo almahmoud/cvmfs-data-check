@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/galGal2/chr15.axt
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/galGal2/chrM.axt
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/galGal2/chrM.idx
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/galGal2/chr1.idx
+####### SIZE: 6768 KB

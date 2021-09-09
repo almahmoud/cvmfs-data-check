@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Dechloromonas_aromatica_RCB_uid58025/NC_007298.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Dechloromonas_aromatica_RCB_uid58025
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/candidate_division_WWE3_bacterium_RAAC2_WWE3_1_uid230713/NC_023001.fna
+####### SIZE: 9792 KB

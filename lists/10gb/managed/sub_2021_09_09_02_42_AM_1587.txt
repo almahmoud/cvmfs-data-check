@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rothia_dentocariosa_ATCC_17931_uid49331/NC_014643.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rothia_dentocariosa_ATCC_17931_uid49331
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Adlercreutzia_equolifaciens_DSM_19450_uid223286/NC_022567.fna
+####### SIZE: 7806 KB

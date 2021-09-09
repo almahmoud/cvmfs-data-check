@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/liftOver/mm9ToBosTau3.over.chain
+####### SIZE: 172147 KB

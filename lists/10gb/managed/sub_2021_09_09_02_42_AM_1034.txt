@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/bubBub1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/calAnn1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/poeRet1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/eidHel1.len
+####### SIZE: 9210 KB

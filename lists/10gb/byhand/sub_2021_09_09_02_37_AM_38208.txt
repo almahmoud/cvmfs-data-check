@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTau3/nib/chr18.nib
+####### SIZE: 30709 KB

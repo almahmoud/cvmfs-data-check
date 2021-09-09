@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/283/NC_003062.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/283/NC_003065.GeneMark.bed
+####### SIZE: 6522 KB

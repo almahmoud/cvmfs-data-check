@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/choHof1/chr1.axt
+####### SIZE: 188401 KB

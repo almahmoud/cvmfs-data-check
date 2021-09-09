@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/189/NC_003155.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/189/NC_004719.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/189/NC_003155.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/189/NC_003155.rRNA.bed
+####### SIZE: 8951 KB

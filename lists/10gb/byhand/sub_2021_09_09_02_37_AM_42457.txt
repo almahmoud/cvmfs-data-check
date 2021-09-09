@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/dp3/align/dm2/chrXL_group3a.axt
+/cvmfs/data.galaxyproject.org/byhand/dp3/align/dm2/chrXL_group3a.idx
+/cvmfs/data.galaxyproject.org/byhand/dp3/align/dm2/chrXR_group5.idx
+/cvmfs/data.galaxyproject.org/byhand/dp3/align/dm2/chr4_group1.idx
+/cvmfs/data.galaxyproject.org/byhand/dp3/align/dm2/chrXL_group3b.axt
+/cvmfs/data.galaxyproject.org/byhand/dp3/align/dm2/chrXR_group5.axt
+/cvmfs/data.galaxyproject.org/byhand/dp3/align/dm2/chr4_group5.idx
+/cvmfs/data.galaxyproject.org/byhand/dp3/align/dm2/chrXR_group8.idx
+####### SIZE: 5807 KB

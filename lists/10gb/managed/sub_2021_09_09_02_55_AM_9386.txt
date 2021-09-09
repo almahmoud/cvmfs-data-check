@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_avium_paratuberculosis_K_10_uid57699/NC_002944.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_avium_paratuberculosis_K_10_uid57699
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sulfobacillus_acidophilus_DSM_10332_uid88061/NC_016888.fna
+####### SIZE: 9659 KB

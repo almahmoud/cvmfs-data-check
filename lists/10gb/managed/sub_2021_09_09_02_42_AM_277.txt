@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/felCat8/felCat8.fa
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/felCat8/felCat8.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/felCat8/felCat8.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/felCat8/felCat8.7.ht2
+####### SIZE: 3381 KB

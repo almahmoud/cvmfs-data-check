@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Protochlamydia_amoebophila_UWE25_uid58079/NC_005861.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Protochlamydia_amoebophila_UWE25_uid58079
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_stercorarium_DSM_8532_uid186819/NC_020134.fna
+####### SIZE: 7736 KB

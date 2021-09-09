@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/droYak1/liftOver/droYak1ToDm2.over.chain
+####### SIZE: 19466 KB

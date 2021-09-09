@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/bosTauMd3/bosTauMd3.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/bosTauMd3/bosTauMd3.fa.amb
+####### SIZE: 1207 KB

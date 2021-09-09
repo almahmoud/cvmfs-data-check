@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/Tcacao_1.0/bowtie_index/Tcacao_1.fa
+/cvmfs/data.galaxyproject.org/byhand/Tcacao_1.0/bowtie_index/Tcacao_1.3.ebwt
+####### SIZE: 231 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Taylorella_asinigenitalis_14_45_uid197194/NC_021033.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Taylorella_asinigenitalis_14_45_uid197194
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Roseburia_intestinalis_uid197164/NC_021040.fna
+####### SIZE: 7162 KB

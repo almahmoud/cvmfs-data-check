@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/307/NC_003450.gbk
+####### SIZE: 7290 KB

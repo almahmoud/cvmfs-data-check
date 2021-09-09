@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/anoCar1/maf
+####### SIZE: 332807 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/multiz15way/alignments/flyBaseGene.exonNuc.fa.gz
+####### SIZE: 112554 KB

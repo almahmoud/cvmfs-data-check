@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/braFlo1/bowtie_index/braFlo1.fa
+/cvmfs/data.galaxyproject.org/byhand/braFlo1/bowtie_index/braFlo1.3.ebwt
+####### SIZE: 835 KB

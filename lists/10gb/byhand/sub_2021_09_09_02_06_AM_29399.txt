@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/mm5/maf/chr11.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/mm5/maf/chr17_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/mm5/maf/chrY.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/mm5/maf/chrY.maf
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/mm5/maf/chr18.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/mm5/maf/chr8.maf.index
+####### SIZE: 9311 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/monDom1/chr6.axt
+####### SIZE: 70803 KB

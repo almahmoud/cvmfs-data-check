@@ -1,0 +1,13 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/pseuAeru/chr.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/pseuAeru/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/pseuAeru/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/pseuAeru/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/pseuAeru/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/pseuAeru/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/pseuAeru/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/pseuAeru/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/pseuAeru/chr.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/pseuAeru/pseuAeru.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/pseuAeru/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/pseuAeru/chr.tRNA.bed
+####### SIZE: 9169 KB

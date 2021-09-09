@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/galgal4/galgal4.3.bt2
+####### SIZE: 263 KB

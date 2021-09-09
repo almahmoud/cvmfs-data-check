@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal3/bowtie_index/cs/galGal3.fa
+/cvmfs/data.galaxyproject.org/byhand/galGal3/bowtie_index/cs/galGal3.3.ebwt
+####### SIZE: 749 KB

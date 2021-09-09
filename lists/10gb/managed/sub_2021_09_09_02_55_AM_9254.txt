@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Propionibacterium_freudenreichii_shermanii_CIRM_BIA1_uid49535/NC_014215.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Propionibacterium_freudenreichii_shermanii_CIRM_BIA1_uid49535
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Meiothermus_ruber_DSM_1279_uid46661/NC_013946.fna
+####### SIZE: 8258 KB

@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab2/sam_index/equCab2.fa
+/cvmfs/data.galaxyproject.org/byhand/equCab2/sam_index/chrM.fa
+/cvmfs/data.galaxyproject.org/byhand/equCab2/sam_index/equCab2.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/equCab2/sam_index/chrM.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/equCab2/sam_index
+####### SIZE: 13 KB

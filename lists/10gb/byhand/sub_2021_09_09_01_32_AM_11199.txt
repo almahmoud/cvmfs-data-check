@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/acidJS42/chr.gbk
+####### SIZE: 10613 KB

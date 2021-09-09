@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/mm8/maf/chr28.maf.index
+####### SIZE: 791 KB

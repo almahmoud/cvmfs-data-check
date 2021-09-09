@@ -1,0 +1,13 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aeropyrum_pernix_K1_uid57757
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Buchnera_aphidicola_JF98__Acyrthosiphon_pisum__uid158845/NC_017254.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Buchnera_aphidicola_JF98__Acyrthosiphon_pisum__uid158845
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Zymomonas_mobilis_NCIMB_11163_uid41019/NC_013356.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Zymomonas_mobilis_NCIMB_11163_uid41019/NC_013357.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Zymomonas_mobilis_NCIMB_11163_uid41019/NC_013358.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Zymomonas_mobilis_NCIMB_11163_uid41019/NC_013355.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Zymomonas_mobilis_NCIMB_11163_uid41019
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/syncytium_symbiont_of_Diaphorina_citri_uid213384/NC_021885.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/syncytium_symbiont_of_Diaphorina_citri_uid213384/NC_021886.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/syncytium_symbiont_of_Diaphorina_citri_uid213384
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Salmonella_enterica_serovar_Typhi_P_stx_12_uid87001/NC_016825.fna
+####### SIZE: 8457 KB

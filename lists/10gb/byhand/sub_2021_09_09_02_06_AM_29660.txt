@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/danRer2
+####### SIZE: 355798 KB

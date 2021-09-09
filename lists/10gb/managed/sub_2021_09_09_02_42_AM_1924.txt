@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Syntrophomonas_wolfei_Goettingen_uid58179/NC_008346.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Syntrophomonas_wolfei_Goettingen_uid58179
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Neisseria_gonorrhoeae_FA_1090_uid57611/NC_002946.fna
+####### SIZE: 7956 KB

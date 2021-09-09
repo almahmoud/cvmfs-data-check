@@ -1,0 +1,17 @@
+/cvmfs/data.galaxyproject.org/byhand/rn3/sam_index/rn3.fa
+/cvmfs/data.galaxyproject.org/byhand/rn3/sam_index/rn3.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/rn3/sam_index
+/cvmfs/data.galaxyproject.org/byhand/rn3/nib/chr5_random.nib
+/cvmfs/data.galaxyproject.org/byhand/rn3/nib/chr3_random.nib
+/cvmfs/data.galaxyproject.org/byhand/rn3/nib/chr12_random.nib
+/cvmfs/data.galaxyproject.org/byhand/rn3/nib/chr18_random.nib
+/cvmfs/data.galaxyproject.org/byhand/rn3/nib/chrX_random.nib
+/cvmfs/data.galaxyproject.org/byhand/rn3/nib/chr15_random.nib
+/cvmfs/data.galaxyproject.org/byhand/rn3/nib/chr20_random.nib
+/cvmfs/data.galaxyproject.org/byhand/rn3/nib/chr9_random.nib
+/cvmfs/data.galaxyproject.org/byhand/rn3/nib/chr2_random.nib
+/cvmfs/data.galaxyproject.org/byhand/rn3/nib/chr13_random.nib
+/cvmfs/data.galaxyproject.org/byhand/rn3/nib/chr17_random.nib
+/cvmfs/data.galaxyproject.org/byhand/rn3/nib/chr8_random.nib
+/cvmfs/data.galaxyproject.org/byhand/rn3/nib/chr14_random.nib
+####### SIZE: 9321 KB

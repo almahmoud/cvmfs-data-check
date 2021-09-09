@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/lengths/loxAfr1
+/cvmfs/data.galaxyproject.org/byhand/lengths/canFam2
+/cvmfs/data.galaxyproject.org/byhand/lengths/dm2
+/cvmfs/data.galaxyproject.org/byhand/lengths/mm5
+/cvmfs/data.galaxyproject.org/byhand/lengths/oryCun0
+/cvmfs/data.galaxyproject.org/byhand/lengths/calJac3
+####### SIZE: 5085 KB

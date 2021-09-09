@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Treponema_denticola_ATCC_35405_uid57583
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Treponema_pallidum_Nichols_uid57585/NC_000919.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Treponema_pallidum_Nichols_uid57585
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ilyobacter_polytropus_DSM_2926_uid59769/NC_014633.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ilyobacter_polytropus_DSM_2926_uid59769/NC_014634.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ilyobacter_polytropus_DSM_2926_uid59769/NC_014632.fna
+####### SIZE: 8186 KB

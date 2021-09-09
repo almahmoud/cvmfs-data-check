@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/panPan1/panPan1.5.ht2
+####### SIZE: 1206025 KB

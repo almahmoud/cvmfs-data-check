@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/tetNig1/chrX_random.axt
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/tetNig1/chr13.axt
+####### SIZE: 3936 KB

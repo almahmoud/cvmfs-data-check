@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ornithobacterium_rhinotracheale_DSM_15997_uid168256/NC_018016.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ornithobacterium_rhinotracheale_DSM_15997_uid168256
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bordetella_parapertussis_Bpp5_uid177516/NC_018830.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bordetella_parapertussis_Bpp5_uid177516/NC_018828.fna
+####### SIZE: 9614 KB

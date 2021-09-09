@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/canFam2/maf
+####### SIZE: 3661636 KB

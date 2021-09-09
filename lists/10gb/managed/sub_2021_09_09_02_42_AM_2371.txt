@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_acetobutylicum_EA_2018_uid159515/NC_017295.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_acetobutylicum_EA_2018_uid159515
+####### SIZE: 8001 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Porphyromonas_gingivalis_ATCC_33277_uid58879/NC_010729.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Porphyromonas_gingivalis_ATCC_33277_uid58879
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Eggerthella_YY7918_uid68707/NC_015738.fna
+####### SIZE: 7766 KB

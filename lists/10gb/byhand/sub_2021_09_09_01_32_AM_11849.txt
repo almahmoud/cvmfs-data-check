@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/pseuAeru/bowtie_index/cs/pseuAeru_PAO1.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/pseuAeru/bowtie_index/cs/pseuAeru_PAO1.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/pseuAeru/bowtie_index/cs/pseuAeru_PAO1.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/pseuAeru/bowtie_index/cs/pseuAeru_PAO1.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/pseuAeru/bowtie_index/cs/pseuAeru_PAO1.1.ebwt
+####### SIZE: 8906 KB

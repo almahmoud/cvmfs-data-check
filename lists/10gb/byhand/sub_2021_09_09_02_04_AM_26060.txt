@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/nib/chr13.nib
+####### SIZE: 67397 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/bowtie_index/eschColi_APEC_O1.1.ebwt
+####### SIZE: 5632 KB

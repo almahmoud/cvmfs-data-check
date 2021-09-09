@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Arthrobacter_chlorophenolicus_A6_uid58969/NC_011886.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Arthrobacter_chlorophenolicus_A6_uid58969
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Blattabacterium__Nauphoeta_cinerea__uid222815/NC_022550.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Blattabacterium__Nauphoeta_cinerea__uid222815/NC_022551.fna
+####### SIZE: 9915 KB

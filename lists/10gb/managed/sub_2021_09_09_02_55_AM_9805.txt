@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aeromonas_hydrophila_ATCC_7966_uid58617/NC_008570.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aeromonas_hydrophila_ATCC_7966_uid58617
+####### SIZE: 9405 KB

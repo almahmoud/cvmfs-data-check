@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Truepera_radiovictrix_DSM_17093_uid49533/NC_014221.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Truepera_radiovictrix_DSM_17093_uid49533
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanoculleus_bourgensis_MS2_uid171377/NC_018227.fna
+####### SIZE: 9229 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nt/17apr2014/nt.10.nsq
+####### SIZE: 873446 KB

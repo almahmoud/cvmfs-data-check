@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/oryCun2/bowtie_index/cs/oryCun2.4.ebwt
+####### SIZE: 635748 KB

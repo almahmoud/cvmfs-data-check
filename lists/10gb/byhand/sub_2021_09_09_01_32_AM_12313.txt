@@ -1,0 +1,18 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/344/NC_008380.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/344/NC_008379.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/344/NC_008382.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/344/NC_008381.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/344/NC_008382.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/344/NC_008378.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/344/344.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/344/NC_008383.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/344/NC_008380.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/344/NC_008383.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/344/NC_008378.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/344/NC_008382.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/344/NC_008378.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/344/NC_008380.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/344/NC_008381.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/344/NC_008380.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/344/NC_008382.info
+####### SIZE: 9004 KB

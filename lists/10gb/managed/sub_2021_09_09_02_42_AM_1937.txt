@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haloquadratum_walsbyi_C23_uid162019/NC_017459.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haloquadratum_walsbyi_C23_uid162019
+####### SIZE: 6355 KB

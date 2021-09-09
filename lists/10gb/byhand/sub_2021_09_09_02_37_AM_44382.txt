@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/droGri1/seq/droGri1.2bit
+####### SIZE: 58246 KB

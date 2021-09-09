@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/tmp/chr15.fa
+####### SIZE: 98765 KB

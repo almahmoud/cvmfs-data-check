@@ -1,0 +1,25 @@
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/hmms/gfam/34600.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/hmms/gfam/32536.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/hmms/gfam/11017.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/hmms/gfam/35006.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/hmms/gfam/5964.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/hmms/gfam/36006.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/hmms/gfam/33018.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/hmms/gfam/310.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/hmms/gfam/32738.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/hmms/gfam/32545.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/hmms/gfam/17972.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/hmms/gfam/19811.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/hmms/gfam/34781.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/hmms/gfam/34016.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/hmms/gfam/15358.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/hmms/gfam/3062.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/hmms/gfam/9656.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/hmms/gfam/27738.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/hmms/gfam/3998.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/hmms/gfam/10194.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/hmms/gfam/35416.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/hmms/gfam/11914.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/hmms/gfam/26282.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/hmms/gfam/8833.hmm
+####### SIZE: 9516 KB

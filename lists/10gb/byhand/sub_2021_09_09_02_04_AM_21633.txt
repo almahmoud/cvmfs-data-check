@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/felCat4/felCat4full/bwa_index
+####### SIZE: 4642137 KB

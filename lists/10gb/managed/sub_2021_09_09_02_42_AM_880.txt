@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/Schizosaccharomyces_pombe_1.1/Schizosaccharomyces_pombe_1.1.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/Schizosaccharomyces_pombe_1.1/Schizosaccharomyces_pombe_1.1.fa.sa
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/Schizosaccharomyces_pombe_1.1/Schizosaccharomyces_pombe_1.1.fa.amb
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/Schizosaccharomyces_pombe_1.1/Schizosaccharomyces_pombe_1.1.fa.pac
+####### SIZE: 9226 KB

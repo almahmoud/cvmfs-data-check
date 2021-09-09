@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/mm5/seq/chr10_random.nib
+/cvmfs/data.galaxyproject.org/byhand/mm5/seq/chr19_random.nib
+####### SIZE: 8556 KB

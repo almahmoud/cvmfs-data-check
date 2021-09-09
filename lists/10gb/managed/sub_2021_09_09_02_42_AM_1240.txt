@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Agrobacterium_radiobacter_K84_uid58269/NC_011985.fna
+####### SIZE: 3968 KB

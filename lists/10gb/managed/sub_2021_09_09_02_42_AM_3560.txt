@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/seqid2taxid.map
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/gi2seqid.map
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/lca.complete
+####### SIZE: 385 KB

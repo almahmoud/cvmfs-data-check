@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/Schizosaccharomyces_pombe_1.1/Schizosaccharomyces_pombe_1.1.2.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/Schizosaccharomyces_pombe_1.1/Schizosaccharomyces_pombe_1.1.3.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/Schizosaccharomyces_pombe_1.1/Schizosaccharomyces_pombe_1.1.rev.2.bt2
+####### SIZE: 6149 KB

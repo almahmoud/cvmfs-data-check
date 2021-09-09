@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/jannCCS1/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/jannCCS1/chr.tRNA.bed
+####### SIZE: 4281 KB

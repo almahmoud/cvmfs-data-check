@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Serratia_AS13_uid162065/NC_017573.fna
+####### SIZE: 5391 KB

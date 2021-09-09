@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sphingomonas_wittichii_RW1_uid58691
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nitrobacter_winogradskyi_Nb_255_uid58295/NC_007406.fna
+####### SIZE: 9235 KB

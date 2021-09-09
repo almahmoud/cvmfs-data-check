@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/galGal3full/galGal3.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/galGal3full/galGal3.fa.amb
+####### SIZE: 1325 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Anaerolinea_thermophila_UNI_1_uid62245
+####### SIZE: 3504 KB

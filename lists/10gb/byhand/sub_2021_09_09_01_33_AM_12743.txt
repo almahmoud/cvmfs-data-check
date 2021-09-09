@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/12720/NC_009778.fna
+####### SIZE: 4328 KB

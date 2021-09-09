@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Vibrio_fischeri_ES114_uid58163
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ignavibacterium_album_JCM_16511_uid162097/NC_017464.fna
+####### SIZE: 7864 KB

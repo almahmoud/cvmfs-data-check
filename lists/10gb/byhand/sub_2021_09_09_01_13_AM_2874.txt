@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19canon/bwa_index_v0.5.9-r16/hg19canon.fa.pac
+####### SIZE: 755785 KB

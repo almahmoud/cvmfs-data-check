@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19female/bwa_index_v0.5.9-r16/cs/hg19female.fa.nt.amb
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19female/bwa_index_v0.5.9-r16/cs/hg19female.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19female/bwa_index_v0.5.9-r16/cs/hg19female.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19female/bwa_index_v0.5.9-r16/cs/hg19female.fa.nt.ann
+####### SIZE: 16 KB

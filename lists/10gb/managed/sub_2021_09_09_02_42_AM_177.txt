@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/galGal4/galGal4.5.ht2
+####### SIZE: 549175 KB

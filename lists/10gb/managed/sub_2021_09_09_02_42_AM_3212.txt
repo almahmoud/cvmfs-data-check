@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gallibacterium_anatis_UMN179_uid66567/NC_015460.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gallibacterium_anatis_UMN179_uid66567
+####### SIZE: 5336 KB

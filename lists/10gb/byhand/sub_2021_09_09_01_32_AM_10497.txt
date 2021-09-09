@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ce2/bwa_index/ce2.fa.bwt
+####### SIZE: 36728 KB

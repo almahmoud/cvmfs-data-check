@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/allMis1
+####### SIZE: 3731223 KB

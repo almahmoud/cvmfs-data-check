@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18full/bwa_index/hg18full.fa.rbwt
+####### SIZE: 1138066 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/17227/NC_008751.gbk
+####### SIZE: 8101 KB

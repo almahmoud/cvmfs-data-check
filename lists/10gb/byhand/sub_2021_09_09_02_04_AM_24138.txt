@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/dipOrd1/seq/dipOrd1.fa
+####### SIZE: 2153550 KB

@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/rn4/chr9.axt
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/rn4/chrE50C23.idx
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/rn4/chrE64.idx
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/rn4/chrZ.axt
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/rn4/chrM.idx
+####### SIZE: 7644 KB

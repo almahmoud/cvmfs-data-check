@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfomonile_tiedjei_DSM_6799_uid168320
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rahnella_aquatilis_HX2_uid158049/NC_017773.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rahnella_aquatilis_HX2_uid158049/NC_017060.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rahnella_aquatilis_HX2_uid158049/NC_017807.fna
+####### SIZE: 7161 KB

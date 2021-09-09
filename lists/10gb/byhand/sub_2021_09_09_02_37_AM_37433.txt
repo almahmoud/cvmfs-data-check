@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/Arabidopsis_thaliana_TAIR10/bowtie_index
+####### SIZE: 266450 KB

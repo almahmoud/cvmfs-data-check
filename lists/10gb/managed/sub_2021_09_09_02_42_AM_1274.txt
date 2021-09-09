@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Nitrososphaera_gargensis_Ga9_2_uid176707/NC_018719.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Nitrososphaera_gargensis_Ga9_2_uid176707
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_gallisepticum_WI01_2001_043_13_2P_uid172628/NC_018410.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_gallisepticum_WI01_2001_043_13_2P_uid172628
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Oligotropha_carboxidovorans_OM5_uid72795/NC_015689.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Oligotropha_carboxidovorans_OM5_uid72795/NC_015685.fna
+####### SIZE: 7786 KB

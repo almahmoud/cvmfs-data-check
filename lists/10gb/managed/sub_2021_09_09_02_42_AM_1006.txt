@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/apiMel4/apiMel4.fa
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/apiMel4/apiMel4.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/apiMel4/apiMel4.fa.amb
+####### SIZE: 370 KB

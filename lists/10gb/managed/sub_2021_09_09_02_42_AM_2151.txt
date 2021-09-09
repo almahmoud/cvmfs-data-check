@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Anaeromyxobacter_dehalogenans_2CP_C_uid58135/NC_007760.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Anaeromyxobacter_dehalogenans_2CP_C_uid58135
+####### SIZE: 9938 KB

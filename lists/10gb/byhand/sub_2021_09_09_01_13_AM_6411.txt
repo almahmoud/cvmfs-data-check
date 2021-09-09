@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/rn4/maf/chr6_cox_hap1.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/rn4/maf/chr22_random.maf.index
+####### SIZE: 26 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droWil1/chr3L.axt
+####### SIZE: 41957 KB

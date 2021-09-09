@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/hg18/maf/chr33.maf
+####### SIZE: 47128 KB

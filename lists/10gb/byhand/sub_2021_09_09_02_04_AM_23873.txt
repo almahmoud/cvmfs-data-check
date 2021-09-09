@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/chrPic1/bowtie2_index
+####### SIZE: 3014652 KB

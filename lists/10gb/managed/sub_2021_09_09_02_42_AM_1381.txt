@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Klebsiella_pneumoniae_NTUH_K2044_uid59073/NC_012731.fna
+####### SIZE: 5199 KB

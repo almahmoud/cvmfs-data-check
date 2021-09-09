@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/hg16/chr10.axt
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/hg16/chr22.axt
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/hg16/chrM.axt
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/hg16/chr15.axt
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/hg16/chr10_random.axt
+####### SIZE: 9018 KB

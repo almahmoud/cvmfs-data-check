@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Frankia_EAN1pec_uid58367/NC_009921.fna
+####### SIZE: 8897 KB

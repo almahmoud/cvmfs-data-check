@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/gasAcu1/maf/chr6_qbl_hap2.maf
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/gasAcu1/maf/chr6_cox_hap1.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/gasAcu1/maf/chr3_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/gasAcu1/maf/chr15_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/gasAcu1/maf/chr6.maf
+####### SIZE: 7009 KB

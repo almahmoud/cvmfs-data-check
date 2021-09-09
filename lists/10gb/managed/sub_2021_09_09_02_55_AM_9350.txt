@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gluconacetobacter_diazotrophicus_PAl_5_uid59075/NC_011365.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gluconacetobacter_diazotrophicus_PAl_5_uid59075
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermocrinis_albus_DSM_14484_uid46231/NC_013894.fna
+####### SIZE: 9221 KB

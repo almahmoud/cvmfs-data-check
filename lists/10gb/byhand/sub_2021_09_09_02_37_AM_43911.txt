@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer3/liftOver/danRer3ToFr1.over.chain
+####### SIZE: 39268 KB

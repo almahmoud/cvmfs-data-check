@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam3/bwa_index/canFam3.fa
+/cvmfs/data.galaxyproject.org/byhand/canFam3/bwa_index/canFam3.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/canFam3/bwa_index/canFam3.fa.ann
+####### SIZE: 529 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer2/chrom/chr12.fa
+####### SIZE: 35028 KB

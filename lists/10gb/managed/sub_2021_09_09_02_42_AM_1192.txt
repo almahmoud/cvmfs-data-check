@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Photorhabdus_luminescens_laumondii_TTO1_uid61593
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_pumilus_SAFR_032_uid59017/NC_009848.fna
+####### SIZE: 9310 KB

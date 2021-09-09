@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/ce10/ce10/dataset_4acc8f48-c175-418c-9ce3-2f47447519f9_files/genomeParameters.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/ce10/ce10/dataset_4acc8f48-c175-418c-9ce3-2f47447519f9_files/chrStart.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/ce10/ce10/dataset_4acc8f48-c175-418c-9ce3-2f47447519f9_files/chrNameLength.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/ce10/ce10/dataset_4acc8f48-c175-418c-9ce3-2f47447519f9_files/chrName.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/ce10/ce10/dataset_4acc8f48-c175-418c-9ce3-2f47447519f9_files/chrLength.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/ce10/ce10/dataset_4acc8f48-c175-418c-9ce3-2f47447519f9_files/Log.out
+####### SIZE: 13 KB

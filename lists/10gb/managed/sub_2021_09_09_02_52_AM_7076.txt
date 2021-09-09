@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/26Gv2.0/hmms/orthofinder/14812.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/26Gv2.0/hmms/orthofinder/4661.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/26Gv2.0/hmms/orthofinder/3296.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/26Gv2.0/hmms/orthofinder/1700.hmm
+####### SIZE: 1395 KB

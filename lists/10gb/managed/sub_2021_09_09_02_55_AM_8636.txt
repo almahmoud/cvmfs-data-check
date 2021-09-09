@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/butyrate_producing_bacterium_SS3_4_uid197159/NC_021035.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/butyrate_producing_bacterium_SS3_4_uid197159
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_pneumoniae_D39_uid58581/NC_008533.fna
+####### SIZE: 9166 KB

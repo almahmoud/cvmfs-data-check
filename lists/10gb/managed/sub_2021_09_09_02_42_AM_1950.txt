@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_megaterium_DSM319_uid48371/NC_014103.fna
+####### SIZE: 5050 KB

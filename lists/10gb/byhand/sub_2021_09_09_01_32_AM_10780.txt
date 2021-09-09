@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/228
+/cvmfs/data.galaxyproject.org/byhand/microbes/azoaSp_EBN1/plasmid_1.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/azoaSp_EBN1/seq/plasmid_2.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/azoaSp_EBN1/seq/plasmid_1.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/azoaSp_EBN1/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/azoaSp_EBN1/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/azoaSp_EBN1/plasmid_1.CDS.bed
+####### SIZE: 9604 KB

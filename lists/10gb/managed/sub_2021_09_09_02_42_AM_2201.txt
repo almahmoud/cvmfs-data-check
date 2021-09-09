@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Edwardsiella_tarda_FL6_60_uid159657/NC_017309.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Edwardsiella_tarda_FL6_60_uid159657
+####### SIZE: 7349 KB

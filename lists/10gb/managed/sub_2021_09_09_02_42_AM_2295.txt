@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haloquadratum_walsbyi_DSM_16790_uid58673/NC_008212.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haloquadratum_walsbyi_DSM_16790_uid58673
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermoanaerobacter_tengcongensis_MB4_uid57813/NC_003869.fna
+####### SIZE: 8923 KB

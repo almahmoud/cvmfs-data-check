@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19canon/bwa_index_v0.7.10-r789/hg19cannon.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19canon/bwa_index_v0.7.10-r789/hg19canon.fa
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19canon/bwa_index_v0.7.10-r789/hg19cannon.fa.amb
+####### SIZE: 9 KB

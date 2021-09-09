@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/chr2.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/chr1.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/chr1.CDS.bed
+####### SIZE: 4462 KB

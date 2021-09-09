@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/mm9/maf/chrX.maf
+####### SIZE: 104780 KB

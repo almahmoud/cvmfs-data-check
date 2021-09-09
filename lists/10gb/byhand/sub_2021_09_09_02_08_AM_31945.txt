@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/customProDB/omicron-data.duckdns.org/customProDB/ensembl/drerio-may2017/old/exon_anno.RData
+####### SIZE: 9183 KB

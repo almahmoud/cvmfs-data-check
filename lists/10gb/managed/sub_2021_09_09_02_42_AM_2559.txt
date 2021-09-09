@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Serratia_plymuthica_S13_uid210642
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Filifactor_alocis_ATCC_35896_uid46625/NC_016630.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Filifactor_alocis_ATCC_35896_uid46625
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chroococcidiopsis_thermalis_PCC_7203_uid183002/NC_019696.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chroococcidiopsis_thermalis_PCC_7203_uid183002/NC_019699.fna
+####### SIZE: 9623 KB

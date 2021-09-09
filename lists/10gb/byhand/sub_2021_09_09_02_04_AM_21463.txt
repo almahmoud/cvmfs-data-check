@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal3/nib/chr23.nib
+/cvmfs/data.galaxyproject.org/byhand/galGal3/nib/chr32.nib
+/cvmfs/data.galaxyproject.org/byhand/galGal3/nib/chr17_random.nib
+####### SIZE: 2954 KB

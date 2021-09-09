@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.165.nni
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.152.nhi
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/md5.download
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.nal
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.133.nhi
+####### SIZE: 299 KB

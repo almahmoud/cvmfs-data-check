@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methylobacterium_nodulans_ORS_2060_uid59023/NC_011894.fna
+####### SIZE: 7699 KB

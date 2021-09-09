@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_avium_104_uid57693/NC_008595.fna
+####### SIZE: 5424 KB

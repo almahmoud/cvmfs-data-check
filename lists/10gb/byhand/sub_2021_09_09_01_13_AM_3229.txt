@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/nib/chr18.nib
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/nib/chr20.nib
+####### SIZE: 6442 KB

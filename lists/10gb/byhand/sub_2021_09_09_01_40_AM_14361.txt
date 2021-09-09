@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/tmp/chr2b_random.fa
+####### SIZE: 14957 KB

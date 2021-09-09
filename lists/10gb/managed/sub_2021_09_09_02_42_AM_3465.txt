@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_atrophaeus_1942_uid59887/NC_014639.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_atrophaeus_1942_uid59887
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Melissococcus_plutonius_DAT561_uid89371/NC_018265.fna
+####### SIZE: 8461 KB

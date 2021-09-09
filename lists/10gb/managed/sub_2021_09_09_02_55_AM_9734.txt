@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermoplasmatales_archaeon_BRNA1_uid195930
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Hyphomicrobium_nitrativorans_NL23_uid230615/NC_022997.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Hyphomicrobium_nitrativorans_NL23_uid230615
+####### SIZE: 8696 KB

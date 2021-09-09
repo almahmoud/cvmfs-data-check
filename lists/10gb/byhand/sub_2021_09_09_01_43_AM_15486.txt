@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab2/nib/chr3.nib
+####### SIZE: 58340 KB

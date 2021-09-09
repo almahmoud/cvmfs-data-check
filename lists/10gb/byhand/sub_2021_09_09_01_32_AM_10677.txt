@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/sphiAlas_RB2256/chr.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/sphiAlas_RB2256/F_plasmid.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/sphiAlas_RB2256/F_plasmid.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/sphiAlas_RB2256/F_plasmid.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/sphiAlas_RB2256/F_plasmid.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/sphiAlas_RB2256/chr.tRNA.bed
+####### SIZE: 7710 KB

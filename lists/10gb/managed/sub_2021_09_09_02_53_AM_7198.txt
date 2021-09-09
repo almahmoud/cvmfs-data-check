@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/26Gv2.0/26Gv2.0.singleCopy.config
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/26Gv2.0/db/hmm/orthofinder.h3i
+####### SIZE: 571 KB

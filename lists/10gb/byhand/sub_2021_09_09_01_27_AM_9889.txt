@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/dp3/maf/chrUextra.maf
+####### SIZE: 13182 KB

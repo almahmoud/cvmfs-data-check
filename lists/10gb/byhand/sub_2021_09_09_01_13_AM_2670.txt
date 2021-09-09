@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/cavPor3/chr3.axt
+####### SIZE: 218292 KB

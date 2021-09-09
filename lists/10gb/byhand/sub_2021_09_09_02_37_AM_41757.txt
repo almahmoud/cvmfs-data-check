@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/equCab1/maf/chr16_random.maf
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/equCab1/maf/chr15.maf.index
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/equCab1/maf/chr21.maf.index
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/equCab1/maf/chr22_random.maf
+####### SIZE: 8925 KB

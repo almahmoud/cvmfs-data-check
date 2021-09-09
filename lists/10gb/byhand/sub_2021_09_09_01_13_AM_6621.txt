@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/droEre2/seq/droEre2.fa
+####### SIZE: 152193 KB

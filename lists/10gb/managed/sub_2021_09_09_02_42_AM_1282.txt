@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactobacillus_sanfranciscensis_TMW_1_1304_uid72937
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfovibrio_desulfuricans_ATCC_27774_uid59213/NC_011883.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfovibrio_desulfuricans_ATCC_27774_uid59213
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Synechococcus_elongatus_PCC_6301_uid58235/NC_006576.fna
+####### SIZE: 9738 KB

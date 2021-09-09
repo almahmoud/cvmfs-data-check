@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/calJac3/liftOver/calJac3ToMm10.over.chain
+####### SIZE: 208526 KB

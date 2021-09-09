@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/monDom5/maf/chr18.maf
+####### SIZE: 27907 KB

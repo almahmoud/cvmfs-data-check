@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halorhodospira_halophila_SL1_uid58473
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Arthrobacter_phenanthrenivorans_Sphe3_uid63629/NC_015146.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Arthrobacter_phenanthrenivorans_Sphe3_uid63629/NC_015147.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Arthrobacter_phenanthrenivorans_Sphe3_uid63629/NC_015145.fna
+####### SIZE: 7152 KB

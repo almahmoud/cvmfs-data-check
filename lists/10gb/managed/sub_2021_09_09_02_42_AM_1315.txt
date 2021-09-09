@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_liflandii_128FXT_uid59005/NC_020133.fna
+####### SIZE: 6151 KB

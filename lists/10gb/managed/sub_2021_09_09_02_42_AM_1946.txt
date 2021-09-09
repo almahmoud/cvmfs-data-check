@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Listeria_monocytogenes_serotype_1_2b_SLCC2755_uid52455
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Tepidanaerobacter_acetatoxydans_Re1_uid184827/NC_019954.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Tepidanaerobacter_acetatoxydans_Re1_uid184827
+####### SIZE: 8477 KB

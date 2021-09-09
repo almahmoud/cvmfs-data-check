@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Frankia_CcI3_uid58397/NC_007777.fna
+####### SIZE: 5383 KB

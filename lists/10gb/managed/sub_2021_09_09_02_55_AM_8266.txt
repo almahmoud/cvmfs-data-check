@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_acidurici_9a_uid176126
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_dysgalactiae_equisimilis_AC_2713_uid178644/NC_019042.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_dysgalactiae_equisimilis_AC_2713_uid178644
+####### SIZE: 7407 KB

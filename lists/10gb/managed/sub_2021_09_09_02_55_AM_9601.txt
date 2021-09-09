@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfotomaculum_acetoxidans_DSM_771_uid59109/NC_013216.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfotomaculum_acetoxidans_DSM_771_uid59109
+####### SIZE: 9011 KB

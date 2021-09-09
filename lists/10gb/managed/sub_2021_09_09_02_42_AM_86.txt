@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/sacCer3/sacCer3.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/sacCer3/sacCer3.6.ht2
+####### SIZE: 3022 KB

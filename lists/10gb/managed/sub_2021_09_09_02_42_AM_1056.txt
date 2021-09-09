@@ -1,0 +1,25 @@
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/gadMor1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/220.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/equCab2.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/eschColi_O157H7.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/lactLact.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/simMamHuman120.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/ochPri3.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/31.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/oryLat1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/mariAqua_VT8.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/10687.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/calJac1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/12475.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/18267.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/16313.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/403.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/syntFuma_MPOB.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/312.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/oryAfe1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/magnMagn_AMB_1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/13943.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/xantCamp.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/64.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/19979.len
+####### SIZE: 8510 KB

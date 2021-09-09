@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/rn4/maf/chr17.maf
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/rn4/maf/chr4.maf.index
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/rn4/maf/chrUn_random.maf
+####### SIZE: 8399 KB

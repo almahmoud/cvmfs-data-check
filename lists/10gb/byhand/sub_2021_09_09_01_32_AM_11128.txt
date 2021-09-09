@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/campJeju
+/cvmfs/data.galaxyproject.org/byhand/microbes/nitrMult_ATCC25196/seq/plasmid_3.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/nitrMult_ATCC25196/seq/plasmid_2.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/nitrMult_ATCC25196/seq/plasmid_1.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/nitrMult_ATCC25196/seq/chr1.nib
+####### SIZE: 9281 KB

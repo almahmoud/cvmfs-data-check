@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/vibrChol_O395_1/chr2.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/vibrChol_O395_1/vibrChol_O395_1.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/vibrChol_O395_1/chr1.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/vibrChol_O395_1/chr1.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/vibrChol_O395_1/chr1.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/vibrChol_O395_1/chr2.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/vibrChol_O395_1/chr2.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/vibrChol_O395_1/chr1.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/vibrChol_O395_1/chr2.CDS.bed
+####### SIZE: 4409 KB

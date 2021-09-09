@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/quality_scores/chr3.qa.bqv
+####### SIZE: 8625 KB

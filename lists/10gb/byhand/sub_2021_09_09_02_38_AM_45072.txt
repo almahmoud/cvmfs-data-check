@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/tarSyr1/bowtie_index/tarSyr1.fa
+/cvmfs/data.galaxyproject.org/byhand/tarSyr1/bowtie_index/cs/tarSyr1.fa
+####### SIZE: 2 KB

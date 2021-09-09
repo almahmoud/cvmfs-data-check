@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Cloacamonas_acidaminovorans_Evry_uid62959/NC_020449.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Cloacamonas_acidaminovorans_Evry_uid62959/NS_000195.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Cloacamonas_acidaminovorans_Evry_uid62959
+####### SIZE: 8909 KB

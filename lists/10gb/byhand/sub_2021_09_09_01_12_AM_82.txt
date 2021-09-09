@@ -1,0 +1,17 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/tetNig1/maf/chr17.maf
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/tetNig1/maf/chr4_gl000194_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/tetNig1/maf/chr19_gl000209_random.maf
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/tetNig1/maf/chr15.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/tetNig1/maf/chr4_ctg9_hap1.maf
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/tetNig1/maf/chrUn_gl000228.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/tetNig1/maf/chr6_ssto_hap7.maf
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/tetNig1/maf/chrUn_gl000222.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/tetNig1/maf/chr21.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/tetNig1/maf/chrUn_gl000224.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/tetNig1/maf/chr21_gl000210_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/tetNig1/maf/chrUn_gl000220.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/tetNig1/maf/chrUn_gl000223.maf
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/tetNig1/maf/chr21_gl000210_random.maf
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/tetNig1/maf/chr17.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/tetNig1/maf/chrUn_gl000223.maf.index
+####### SIZE: 9140 KB

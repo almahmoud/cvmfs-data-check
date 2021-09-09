@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg16/align/rn3/chr11.axt
+####### SIZE: 116633 KB

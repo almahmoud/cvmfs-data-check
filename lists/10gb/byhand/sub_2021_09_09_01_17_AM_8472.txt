@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/speTri2/bowtie_index/cs/speTri2.4.ebwt
+####### SIZE: 564224 KB

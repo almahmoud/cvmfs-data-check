@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhizobium_leguminosarum_bv__trifolii_WSM1325_uid58991
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermodesulfobacterium_OPB45_uid68283/NC_015682.fna
+####### SIZE: 8974 KB

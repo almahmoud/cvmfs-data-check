@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Escherichia_coli_O104_H4_2009EL_2050_uid175905/NC_018650.fna
+####### SIZE: 5204 KB

@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/Tcas_3.0/sam_index/Tcas_3.0.fa
+/cvmfs/data.galaxyproject.org/byhand/Tcas_3.0/sam_index/Tcas_3.0.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/Tcas_3.0/sam_index
+/cvmfs/data.galaxyproject.org/byhand/Tcas_3.0/download/20110610_README_Tcas_3.0
+/cvmfs/data.galaxyproject.org/byhand/Tcas_3.0/download
+/cvmfs/data.galaxyproject.org/byhand/Tcas_3.0/picard_index/Tcas_3.0.fa
+/cvmfs/data.galaxyproject.org/byhand/Tcas_3.0/picard_index/Tcas_3.0.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/Tcas_3.0/picard_index/Tcas_3.0.dict
+/cvmfs/data.galaxyproject.org/byhand/Tcas_3.0/picard_index
+####### SIZE: 59 KB

@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Xenorhabdus_bovienii_SS_2004_uid46345/NC_013892.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Xenorhabdus_bovienii_SS_2004_uid46345
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Salmonella_enterica_Serovar_Cubana_CFSAN002050_uid212973/NC_021819.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Salmonella_enterica_Serovar_Cubana_CFSAN002050_uid212973/NC_021845.fna
+####### SIZE: 8664 KB

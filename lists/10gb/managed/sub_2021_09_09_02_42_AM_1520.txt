@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Xanthomonas_axonopodis_citrumelo_F1_uid73179/NC_016010.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Xanthomonas_axonopodis_citrumelo_F1_uid73179
+####### SIZE: 9846 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/16791
+/cvmfs/data.galaxyproject.org/byhand/microbes/16148/seq/NC_008511.nib
+####### SIZE: 8965 KB

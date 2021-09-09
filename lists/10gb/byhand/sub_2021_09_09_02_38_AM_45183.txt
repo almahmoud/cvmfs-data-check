@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_nuHg19_mtrCRS/bowtie2_index/Homo_sapiens_nuHg19_mtrCRS.rev.2.bt2
+####### SIZE: 707352 KB

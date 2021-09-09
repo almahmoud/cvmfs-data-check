@@ -1,0 +1,12 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/picard_index/mm9full.fa
+/cvmfs/data.galaxyproject.org/byhand/mm9/picard_index/mm9.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/mm9/picard_index/mm9.fa
+/cvmfs/data.galaxyproject.org/byhand/mm9/picard_index/mm9.dict
+/cvmfs/data.galaxyproject.org/byhand/mm9/picard_index
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/tetNig1/chr5_random.axt
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/tetNig1/chr18.axt
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/tetNig1/chrY_random.axt
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/tetNig1/chr13_random.axt
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/tetNig1/chr8.axt
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/tetNig1/chrY.axt
+####### SIZE: 9432 KB

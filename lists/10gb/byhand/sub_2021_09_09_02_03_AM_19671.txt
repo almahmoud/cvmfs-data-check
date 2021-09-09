@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/mm7/chr3.axt
+####### SIZE: 77960 KB

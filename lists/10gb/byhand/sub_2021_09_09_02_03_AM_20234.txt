@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/dm2/liftOver/dm2ToDm3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/dm2/liftOver/dm2ToAnoGam1.over.chain
+####### SIZE: 7763 KB

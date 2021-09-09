@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/hg16/align/mm4/chrX.idx
+/cvmfs/data.galaxyproject.org/byhand/hg16/align/mm4/chr18.idx
+/cvmfs/data.galaxyproject.org/byhand/hg16/align/mm4/chr12.idx
+/cvmfs/data.galaxyproject.org/byhand/hg16/align/mm4/chr22.idx
+####### SIZE: 8354 KB

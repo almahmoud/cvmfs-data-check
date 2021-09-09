@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18canon
+####### SIZE: 14471797 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/droMoj3/bowtie_index/droMoj3.rev.2.ebwt
+####### SIZE: 21999 KB

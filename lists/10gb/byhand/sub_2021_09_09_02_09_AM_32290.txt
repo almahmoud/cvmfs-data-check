@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/bwa_index/anoCar1.fa.pac
+####### SIZE: 434962 KB

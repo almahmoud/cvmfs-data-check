@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leptospira_interrogans_serovar_Lai_IPAV_uid161957
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shewanella_loihica_PV_4_uid58349/NC_009092.fna
+####### SIZE: 9230 KB

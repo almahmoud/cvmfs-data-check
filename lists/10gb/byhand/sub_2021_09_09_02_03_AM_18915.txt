@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9canon/bowtie_index/cs/mm9canon.1.ebwt
+####### SIZE: 717979 KB

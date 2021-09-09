@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/18509/NC_009782.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/18509/NC_009782.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/18509/NC_009782.gbk
+####### SIZE: 9139 KB

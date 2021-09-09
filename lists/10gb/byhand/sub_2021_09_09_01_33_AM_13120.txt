@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/anoCar1/quality_scores/tmp/qual.wig
+####### SIZE: 1739847 KB

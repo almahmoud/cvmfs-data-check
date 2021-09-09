@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/calJac1/maf/chr7.maf
+####### SIZE: 260973 KB

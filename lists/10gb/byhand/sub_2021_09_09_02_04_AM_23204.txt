@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ce4/chroms/chrM.fa
+####### SIZE: 14 KB

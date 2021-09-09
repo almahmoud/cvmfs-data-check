@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Koribacter_versatilis_Ellin345_uid58479/NC_008009.fna
+####### SIZE: 5597 KB

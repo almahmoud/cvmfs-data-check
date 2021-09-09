@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Beutenbergia_cavernae_DSM_12333_uid59047/NC_012669.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Beutenbergia_cavernae_DSM_12333_uid59047
+####### SIZE: 9255 KB

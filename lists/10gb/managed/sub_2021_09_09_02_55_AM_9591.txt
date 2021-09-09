@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Taylorella_equigenitalis_MCE9_uid62103
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Magnetospirillum_gryphiswaldense_MSR_1_uid232249/NC_023065.fna
+####### SIZE: 6010 KB

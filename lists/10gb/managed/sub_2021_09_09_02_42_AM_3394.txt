@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Hydrogenobacter_thermophilus_TK_6_uid45927/NC_013799.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Hydrogenobacter_thermophilus_TK_6_uid45927
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Citrobacter_koseri_ATCC_BAA_895_uid58143/NC_009793.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Citrobacter_koseri_ATCC_BAA_895_uid58143/NC_009794.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Citrobacter_koseri_ATCC_BAA_895_uid58143/NC_009792.fna
+####### SIZE: 8151 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/strPur2/seq/strPur2.2bit
+####### SIZE: 232786 KB

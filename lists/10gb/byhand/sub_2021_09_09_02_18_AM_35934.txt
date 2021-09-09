@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/byhand/mm8/bwa_index/mm8.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/mm8/bwa_index/mm8.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/mm8/bwa_index/mm8.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/mm8/bwa_index/mm8.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/mm8/bwa_index/mm8.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/mm8/bwa_index/mm8.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/mm8/bwa_index/mm8.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/mm8/bwa_index/mm8.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/mm8/bwa_index
+/cvmfs/data.galaxyproject.org/byhand/mm8/liftOver/mm8ToMm9.over.chain
+####### SIZE: 429 KB

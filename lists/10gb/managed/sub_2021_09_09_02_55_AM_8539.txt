@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_saccharoperbutylacetonicum_ATCC_27021_uid189747
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Alteromonas_macleodii__English_Channel_615__uid210781/NC_021709.fna
+####### SIZE: 6809 KB

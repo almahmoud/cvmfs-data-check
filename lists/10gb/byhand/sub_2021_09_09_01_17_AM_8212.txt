@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/quality_scores/taeGut1.quals.fa
+####### SIZE: 3673016 KB

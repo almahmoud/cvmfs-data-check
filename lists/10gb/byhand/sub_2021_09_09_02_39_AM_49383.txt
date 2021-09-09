@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/droSec1/bowtie2_index/droSec1.rev.2.bt2
+####### SIZE: 38389 KB

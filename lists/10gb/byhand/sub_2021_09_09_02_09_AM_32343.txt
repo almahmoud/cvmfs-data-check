@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/gorGor3/liftOver/gorGor3ToCalJac3.over.chain
+####### SIZE: 152556 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/glucOxyd_621H/chr.gbk
+####### SIZE: 5809 KB

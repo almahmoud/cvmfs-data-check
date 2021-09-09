@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/13911
+/cvmfs/data.galaxyproject.org/byhand/microbes/pediPent_ATCC25745/seq/chr.nib
+####### SIZE: 9110 KB

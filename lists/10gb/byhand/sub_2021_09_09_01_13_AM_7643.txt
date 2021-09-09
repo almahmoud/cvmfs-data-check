@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro1/bwa_index/panTro1.fa.pac
+####### SIZE: 1079194 KB

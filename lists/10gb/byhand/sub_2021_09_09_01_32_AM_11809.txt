@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/15757/NC_009487.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/15757/NC_009487.tRNA.bed
+####### SIZE: 6798 KB

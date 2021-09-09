@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/Hydra_JCVI/bowtie_index/cs/Hydra_JCVI.rev.2.ebwt
+####### SIZE: 122691 KB

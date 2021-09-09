@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/tarSyr1
+####### SIZE: 3114847 KB

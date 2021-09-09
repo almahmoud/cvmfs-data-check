@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/calJac1
+####### SIZE: 9448261 KB

@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/test.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/plasmid_pOSAK1.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/chr.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/plasmid_pO157.GeneMark-2.5f
+####### SIZE: 5477 KB

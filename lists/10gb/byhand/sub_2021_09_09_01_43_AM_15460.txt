@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab2/nib/chr19.nib
+####### SIZE: 29285 KB

@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfurispirillum_indicum_S5_uid45897/NC_014836.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfurispirillum_indicum_S5_uid45897
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Stanieria_cyanosphaera_PCC_7437_uid183115/NC_019749.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Stanieria_cyanosphaera_PCC_7437_uid183115/NC_019765.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Stanieria_cyanosphaera_PCC_7437_uid183115/NC_019750.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Stanieria_cyanosphaera_PCC_7437_uid183115/NC_020052.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Stanieria_cyanosphaera_PCC_7437_uid183115/NC_019766.fna
+####### SIZE: 6309 KB

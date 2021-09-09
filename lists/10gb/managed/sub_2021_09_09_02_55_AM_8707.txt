@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudomonas_putida_S16_uid68747
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leisingera_methylohalidivorans_DSM_14336_uid232356/NC_023136.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leisingera_methylohalidivorans_DSM_14336_uid232356/NC_023146.fna
+####### SIZE: 6435 KB

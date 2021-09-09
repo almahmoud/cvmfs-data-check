@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hetGla2/bowtie2_index/hetGla2.rev.1.bt2
+####### SIZE: 759012 KB

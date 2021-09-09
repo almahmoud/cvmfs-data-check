@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/tupBel1/bwa_index/tupBel1.fa.rbwt
+####### SIZE: 1340616 KB

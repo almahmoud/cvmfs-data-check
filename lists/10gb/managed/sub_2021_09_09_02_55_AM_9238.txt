@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactobacillus_helveticus_CNRZ32_uid212302
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Saccharophagus_degradans_2_40_uid57921/NC_007912.fna
+####### SIZE: 7220 KB

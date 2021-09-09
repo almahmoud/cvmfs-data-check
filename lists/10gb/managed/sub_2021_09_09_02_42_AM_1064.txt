@@ -1,0 +1,23 @@
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/IscaW1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/pyrAer1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/13642.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/16208.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/388.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/15762.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/mhcRefnoNs12.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/13355.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/19521.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/bdelBact.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/eschColi_CFT073.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/229.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/190.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/17729.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/bosTau2.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/taeGut2.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/venter1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/picrTorr1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/16720.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/astMex1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/Saccharomcyes_cerevisiae_S288C_SGD2010.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/mhcRefnoNs5.len
+####### SIZE: 7859 KB

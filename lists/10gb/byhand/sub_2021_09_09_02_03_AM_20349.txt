@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm5/seq/chr1_random.nib
+####### SIZE: 10291 KB

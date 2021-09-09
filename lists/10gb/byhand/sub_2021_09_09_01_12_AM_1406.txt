@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/myoLuc1/chrX.axt
+####### SIZE: 93112 KB

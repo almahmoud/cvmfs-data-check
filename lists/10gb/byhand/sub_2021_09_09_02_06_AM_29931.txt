@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17
+####### SIZE: 116420695 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/danRer3/chrX.axt
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/danRer3/chr1.idx
+####### SIZE: 6966 KB

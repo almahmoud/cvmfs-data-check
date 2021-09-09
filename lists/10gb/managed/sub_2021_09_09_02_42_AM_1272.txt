@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nocardia_cyriacigeorgica_GUH_2_uid89395
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ignisphaera_aggregans_DSM_17230_uid51875/NC_014471.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ignisphaera_aggregans_DSM_17230_uid51875
+####### SIZE: 9863 KB

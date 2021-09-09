@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm8/nib/chr2.nib
+####### SIZE: 88856 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Natrinema_pellirubrum_DSM_15624_uid74437/NC_019962.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Natrinema_pellirubrum_DSM_15624_uid74437
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_pyogenes_MGAS2096_uid58573/NC_008023.fna
+####### SIZE: 9917 KB

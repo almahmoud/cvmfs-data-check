@@ -1,0 +1,25 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/bwa_index
+/cvmfs/data.galaxyproject.org/byhand/hg19/bwa_index_archive/hg19.pac
+/cvmfs/data.galaxyproject.org/byhand/hg19/bwa_index_archive/hg19.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/bwa_index_archive/hg19.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/hg19/bwa_index_archive/hg19.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/bwa_index_archive/hg19.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/hg19/bwa_index_archive/hg19.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/hg19/bwa_index_archive/hg19.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/hg19/bwa_index_archive/hg19.sa
+/cvmfs/data.galaxyproject.org/byhand/hg19/bwa_index_archive/hg19.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/hg19/bwa_index_archive/hg19.ann
+/cvmfs/data.galaxyproject.org/byhand/hg19/bwa_index_archive/hg19.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/hg19/bwa_index_archive/hg19.bwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/bwa_index_archive/hg19.rpac
+/cvmfs/data.galaxyproject.org/byhand/hg19/bwa_index_archive/hg19.amb
+/cvmfs/data.galaxyproject.org/byhand/hg19/bwa_index_archive/hg19.rsa
+/cvmfs/data.galaxyproject.org/byhand/hg19/bwa_index_archive/hg19.rbwt
+/cvmfs/data.galaxyproject.org/byhand/hg19/bwa_index_archive
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19canon/perm_index
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19canon/bwa_index_v0.5.9-r16/hg19canon.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19canon/bwa_index_v0.5.9-r16/cs/hg19canon.fa.nt.ann
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19canon/bwa_index_v0.5.9-r16/cs/hg19canon.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19canon/bwa_index_v0.5.9-r16/cs/hg19canon.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19canon/bwa_index_v0.5.9-r16/cs/hg19canon.fa.nt.amb
+####### SIZE: 52 KB

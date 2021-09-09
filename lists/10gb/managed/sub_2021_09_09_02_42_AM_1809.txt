@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haliscomenobacter_hydrossis_DSM_1100_uid66777
+####### SIZE: 8694 KB

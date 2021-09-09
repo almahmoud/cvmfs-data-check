@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/nib
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/align
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/seq/sacCer1.2bit
+####### SIZE: 8918 KB

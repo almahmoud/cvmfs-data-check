@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro3/sam_index/panTro3full.fa
+/cvmfs/data.galaxyproject.org/byhand/panTro3/sam_index/panTro3.fa
+/cvmfs/data.galaxyproject.org/byhand/panTro3/sam_index/panTro3.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/panTro3/sam_index
+/cvmfs/data.galaxyproject.org/byhand/panTro3/picard_index/panTro3full.fa
+/cvmfs/data.galaxyproject.org/byhand/panTro3/picard_index/panTro3.fa
+/cvmfs/data.galaxyproject.org/byhand/panTro3/picard_index/panTro3.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/panTro3/picard_index/panTro3.dict
+/cvmfs/data.galaxyproject.org/byhand/panTro3/picard_index
+####### SIZE: 6254 KB

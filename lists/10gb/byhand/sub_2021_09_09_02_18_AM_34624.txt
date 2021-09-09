@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab2/nib/chr25.nib
+####### SIZE: 19306 KB

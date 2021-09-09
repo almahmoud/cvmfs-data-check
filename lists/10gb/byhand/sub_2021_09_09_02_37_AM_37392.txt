@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/Arabidopsis_thaliana_TAIR10/bowtie2_index/Arabidopsis_thaliana_TAIR10.fa
+/cvmfs/data.galaxyproject.org/byhand/Arabidopsis_thaliana_TAIR10/bowtie2_index/Arabidopsis_thaliana_TAIR10.3.bt2
+####### SIZE: 5 KB

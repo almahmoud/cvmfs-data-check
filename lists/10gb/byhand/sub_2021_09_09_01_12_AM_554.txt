@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/taeGut1/chr20.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/taeGut1/chrY.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/taeGut1/chrUn_gl000231.axt
+####### SIZE: 6304 KB

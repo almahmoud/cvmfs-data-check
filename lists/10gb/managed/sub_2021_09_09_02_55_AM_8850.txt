@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rickettsia_felis_URRWXCal2_uid58331
+####### SIZE: 1578 KB

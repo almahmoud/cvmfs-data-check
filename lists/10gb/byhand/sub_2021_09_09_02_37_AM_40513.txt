@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer7/sam_index/danRer7.fa
+/cvmfs/data.galaxyproject.org/byhand/danRer7/sam_index/danRer7.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/danRer7/sam_index
+/cvmfs/data.galaxyproject.org/byhand/danRer7/picard_index/danRer7.fa
+/cvmfs/data.galaxyproject.org/byhand/danRer7/picard_index/danRer7.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/danRer7/picard_index/danRer7.dict
+/cvmfs/data.galaxyproject.org/byhand/danRer7/picard_index
+####### SIZE: 254 KB

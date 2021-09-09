@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/cb3/cb3full/bowtie_index/cb3full.fa
+/cvmfs/data.galaxyproject.org/byhand/cb3/cb3full/bowtie_index/cb3full.3.ebwt
+####### SIZE: 61 KB

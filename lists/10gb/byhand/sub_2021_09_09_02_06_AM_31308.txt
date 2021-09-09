@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/susScr3/liftOver/susScr3ToMm10.over.chain
+####### SIZE: 184154 KB

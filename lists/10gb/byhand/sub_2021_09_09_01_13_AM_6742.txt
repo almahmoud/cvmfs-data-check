@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/picard_index
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/bowtie2_index/rheMac3.fa
+/cvmfs/data.galaxyproject.org/byhand/rheMac3/bowtie2_index/rheMac3.3.bt2
+####### SIZE: 9492 KB

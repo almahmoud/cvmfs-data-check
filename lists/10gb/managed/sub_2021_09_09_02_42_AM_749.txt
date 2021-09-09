@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/managed/picard_index/dasNov3
+/cvmfs/data.galaxyproject.org/managed/picard_index/cerSim1/cerSim1.fa
+/cvmfs/data.galaxyproject.org/managed/picard_index/cerSim1/cerSim1.dict
+/cvmfs/data.galaxyproject.org/managed/picard_index/cerSim1
+/cvmfs/data.galaxyproject.org/managed/picard_index/bosTau8/bosTau8.fa
+/cvmfs/data.galaxyproject.org/managed/picard_index/bosTau8/bosTau8.dict
+/cvmfs/data.galaxyproject.org/managed/picard_index/bosTau8
+/cvmfs/data.galaxyproject.org/managed/picard_index/felCat8/felCat8.fa
+####### SIZE: 7979 KB

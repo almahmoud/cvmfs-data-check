@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/melGal1/bwa_index/melGal1.fa.rpac
+####### SIZE: 259233 KB

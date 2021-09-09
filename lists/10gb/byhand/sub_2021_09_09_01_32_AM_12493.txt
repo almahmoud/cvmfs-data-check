@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkCepa_AMMD/chr2.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkCepa_AMMD/chr3.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkCepa_AMMD/plasmid_1.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkCepa_AMMD/chr3.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkCepa_AMMD/plasmid_1.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkCepa_AMMD/chr1.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkCepa_AMMD/chr3.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkCepa_AMMD/chr2.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkCepa_AMMD/chr2.gbk
+####### SIZE: 9202 KB

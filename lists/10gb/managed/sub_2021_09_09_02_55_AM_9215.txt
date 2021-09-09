@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodothermus_marinus_SG0_5JP17_172_uid72767/NC_015966.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodothermus_marinus_SG0_5JP17_172_uid72767
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptomyces_avermitilis_MA_4680_uid57739/NC_004719.fna
+####### SIZE: 6599 KB

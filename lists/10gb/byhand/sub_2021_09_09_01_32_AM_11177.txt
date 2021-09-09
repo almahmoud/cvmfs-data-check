@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/28247/seq/NC_010475.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/28247/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/28247/NC_010479.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/28247/NC_010478.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/28247/NC_010475.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/28247/NC_010480.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/28247/NC_010476.Glimmer3.bed
+####### SIZE: 9954 KB

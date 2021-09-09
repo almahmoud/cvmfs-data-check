@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/petMar1/bowtie_index/cs/petMar1.1.ebwt
+####### SIZE: 241397 KB

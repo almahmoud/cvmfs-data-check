@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.31.phi
+####### SIZE: 4450 KB

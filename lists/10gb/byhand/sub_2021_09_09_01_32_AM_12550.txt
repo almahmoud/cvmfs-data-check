@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/chroSale_DSM3043/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/chroSale_DSM3043/chr.tRNA.bed
+####### SIZE: 3666 KB

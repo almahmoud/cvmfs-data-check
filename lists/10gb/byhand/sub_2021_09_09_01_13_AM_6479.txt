@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18canon/bowtie2_index/hg18canon.1.bt2
+####### SIZE: 934449 KB

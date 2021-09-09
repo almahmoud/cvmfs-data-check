@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/phyloP
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/sift/Human_db_36/README
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/sift/Human_db_36/bins.list
+####### SIZE: 19 KB

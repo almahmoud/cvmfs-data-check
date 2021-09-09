@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/venter1/seq/venter1.2bit
+####### SIZE: 349217 KB

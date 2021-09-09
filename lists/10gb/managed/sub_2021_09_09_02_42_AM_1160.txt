@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Planctomyces_brasiliensis_DSM_5305_uid60583/NC_015174.fna
+####### SIZE: 5950 KB

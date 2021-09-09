@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/10878/NC_005945.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/10878/NC_005945.rRNA.bed
+####### SIZE: 5182 KB

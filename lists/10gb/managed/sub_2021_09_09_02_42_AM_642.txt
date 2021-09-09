@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/bosTau8/bosTau8.fa
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/bosTau8/bosTau8.3.bt2
+####### SIZE: 684 KB

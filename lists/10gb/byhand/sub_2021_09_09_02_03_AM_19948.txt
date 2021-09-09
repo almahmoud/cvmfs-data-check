@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/rn4/chrUn.axt
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/rn4/chr10.idx
+####### SIZE: 9851 KB

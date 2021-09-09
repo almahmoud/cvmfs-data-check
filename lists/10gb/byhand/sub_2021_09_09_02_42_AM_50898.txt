@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/customProDB/omicron-data.duckdns.org/customProDB/ensembl/rnorvegicus-mar2015/exon_anno.RData
+####### SIZE: 5997 KB

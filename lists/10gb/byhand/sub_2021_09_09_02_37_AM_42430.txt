@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/dp3/nib/chrXL_group1e.nib
+/cvmfs/data.galaxyproject.org/byhand/dp3/nib/chrXR_group6.nib
+####### SIZE: 9329 KB

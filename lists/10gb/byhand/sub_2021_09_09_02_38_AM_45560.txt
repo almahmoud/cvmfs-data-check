@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg_g1k_v37/human_g1k_v37.stats.gz
+####### SIZE: 1 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/caeJap2/bowtie2_index/caeJap2.rev.2.bt2
+####### SIZE: 31567 KB

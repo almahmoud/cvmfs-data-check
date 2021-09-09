@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Deinococcus_peraridilitoris_DSM_19664_uid183485
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Marinobacter_aquaeolei_VT8_uid59419/NC_008738.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Marinobacter_aquaeolei_VT8_uid59419/NC_008739.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Marinobacter_aquaeolei_VT8_uid59419/NC_008740.fna
+####### SIZE: 9213 KB

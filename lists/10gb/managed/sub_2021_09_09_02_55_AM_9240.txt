@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanomethylovorans_hollandica_DSM_15978_uid184864
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Francisella_cf__novicida_Fx1_uid162105/NC_017450.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Francisella_cf__novicida_Fx1_uid162105
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_haemolyticus_JCSC1435_uid62919/NC_007169.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_haemolyticus_JCSC1435_uid62919/NC_007171.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_haemolyticus_JCSC1435_uid62919/NC_007168.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_haemolyticus_JCSC1435_uid62919/NC_007170.fna
+####### SIZE: 9166 KB

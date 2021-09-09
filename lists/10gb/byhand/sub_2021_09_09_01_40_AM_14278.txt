@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/ce5/liftOver/ce5ToCe6.over.chain
+/cvmfs/data.galaxyproject.org/byhand/ce5/liftOver/ce5ToCe4.over.chain
+/cvmfs/data.galaxyproject.org/byhand/ce5/liftOver
+/cvmfs/data.galaxyproject.org/byhand/ce5/bowtie_index/cs/ce5.fa
+/cvmfs/data.galaxyproject.org/byhand/ce5/bowtie_index/cs/ce5.3.ebwt
+####### SIZE: 11 KB

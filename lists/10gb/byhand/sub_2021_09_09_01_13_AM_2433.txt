@@ -1,0 +1,14 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rheMac2/chrUn_gl000217.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rheMac2/chr11_gl000202_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rheMac2/chr4_gl000193_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rheMac2/chrUn_gl000241.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rheMac2/chrUn_gl000225.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rheMac2/chr6_mcf_hap5.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rheMac2/chrUn_gl000234.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rheMac2/chrUn_gl000229.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rheMac2/chrUn_gl000249.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rheMac2/chr17_gl000203_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rheMac2/chrM.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rheMac2/chrUn_gl000220.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rheMac2/chrUn_gl000244.axt
+####### SIZE: 6630 KB

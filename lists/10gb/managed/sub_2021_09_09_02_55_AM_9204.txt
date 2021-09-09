@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Xanthomonas_oryzae_PXO99A_uid59131
+####### SIZE: 5195 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/13427/NC_010337.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/13427/NC_010337.gbk
+####### SIZE: 9716 KB

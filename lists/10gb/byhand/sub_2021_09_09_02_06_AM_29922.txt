@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/liftOver/hg17ToCanFam1.over.chain
+####### SIZE: 294434 KB

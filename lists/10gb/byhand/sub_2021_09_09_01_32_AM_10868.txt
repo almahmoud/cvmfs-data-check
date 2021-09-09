@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/17161
+/cvmfs/data.galaxyproject.org/byhand/microbes/therPend1/seq/pTPEN01.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/therPend1/seq/chr.nib
+####### SIZE: 9384 KB

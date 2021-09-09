@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/fusoNucl
+/cvmfs/data.galaxyproject.org/byhand/microbes/334/seq/NC_004368.nib
+####### SIZE: 9983 KB

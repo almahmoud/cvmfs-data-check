@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/13901/NC_010321.GeneMark-2.5f
+####### SIZE: 562 KB

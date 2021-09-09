@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptomyces_cattleya_NRRL_8057___DSM_46488_uid162187
+####### SIZE: 8024 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/dm2/nib/chr3L.nib
+####### SIZE: 11608 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/droAna1/chr2R.axt
+####### SIZE: 36891 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/braFlo1/liftOver/braFlo1ToGalGal3.over.chain
+####### SIZE: 7829 KB

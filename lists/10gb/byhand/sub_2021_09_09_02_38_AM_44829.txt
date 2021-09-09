@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/galGal3/chr2.axt
+####### SIZE: 11768 KB

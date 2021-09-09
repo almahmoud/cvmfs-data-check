@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38canon/bowtie2_index/hg38canon.fa
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38canon/bowtie2_index/hg38canon.3.bt2
+####### SIZE: 10 KB

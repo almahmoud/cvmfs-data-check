@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam3/bowtie_index/cs/canFam3.fa
+/cvmfs/data.galaxyproject.org/byhand/canFam3/bowtie_index/cs/canFam3.3.ebwt
+####### SIZE: 240 KB

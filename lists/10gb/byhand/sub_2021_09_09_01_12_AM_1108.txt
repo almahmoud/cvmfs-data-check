@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/echTel1/chrUn_gl000230.axt
+####### SIZE: 9 KB

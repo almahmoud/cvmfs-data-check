@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Brachyspira_pilosicoli_B2904_uid175255/NC_018607.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Brachyspira_pilosicoli_B2904_uid175255
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Arthrobacter_chlorophenolicus_A6_uid58969/NC_011879.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Arthrobacter_chlorophenolicus_A6_uid58969/NC_011881.fna
+####### SIZE: 6065 KB

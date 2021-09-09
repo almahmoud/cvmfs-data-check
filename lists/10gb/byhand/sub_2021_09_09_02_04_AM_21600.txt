@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/felCat5/bowtie_index/cs/felCat5.2.ebwt
+####### SIZE: 288586 KB

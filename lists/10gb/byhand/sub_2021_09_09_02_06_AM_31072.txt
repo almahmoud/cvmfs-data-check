@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/rn4/quality_scores/chr20.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/rn4/quality_scores/chr12_random.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/rn4/quality_scores/chrX_random.qa.bqv
+####### SIZE: 5210 KB

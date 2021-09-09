@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/align/dm2/maf/chr3L.maf
+####### SIZE: 11462 KB

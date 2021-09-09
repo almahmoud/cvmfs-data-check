@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/aptMan1/aptMan1.fa
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/aptMan1/aptMan1.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/aptMan1/aptMan1.fa.amb
+####### SIZE: 6521 KB

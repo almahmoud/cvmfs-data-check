@@ -1,0 +1,16 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/orieTsut_BORYONG/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/orieTsut_BORYONG/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/orieTsut_BORYONG/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/orieTsut_BORYONG/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/orieTsut_BORYONG/chr.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/orieTsut_BORYONG/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/orieTsut_BORYONG/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/orieTsut_BORYONG/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/orieTsut_BORYONG/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/orieTsut_BORYONG/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/orieTsut_BORYONG/chr.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/orieTsut_BORYONG/orieTsut_BORYONG.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/orieTsut_BORYONG/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/orieTsut_BORYONG/chr.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/orieTsut_BORYONG/chr.gbk
+####### SIZE: 9457 KB

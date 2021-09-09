@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro4/bwa_index/panTro4.fa.sa
+####### SIZE: 404002 KB

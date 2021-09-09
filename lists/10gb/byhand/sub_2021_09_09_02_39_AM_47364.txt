@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/calJac1/bwa_index/calJac1.fa
+/cvmfs/data.galaxyproject.org/byhand/calJac1/bwa_index/calJac1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/calJac1/bwa_index/calJac1.fa.amb
+####### SIZE: 5827 KB

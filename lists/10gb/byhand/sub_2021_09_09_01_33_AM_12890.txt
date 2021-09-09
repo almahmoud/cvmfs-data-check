@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/geobKaus_HTA426/chr.gbk
+####### SIZE: 7761 KB

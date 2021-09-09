@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/calJac1/sam_index/calJac1.fa
+/cvmfs/data.galaxyproject.org/byhand/calJac1/sam_index/calJac1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/calJac1/sam_index
+/cvmfs/data.galaxyproject.org/byhand/calJac1/picard_index/calJac1.fa
+/cvmfs/data.galaxyproject.org/byhand/calJac1/picard_index/calJac1.fa.fai
+####### SIZE: 4969 KB

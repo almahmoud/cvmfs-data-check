@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Waddlia_chondrophila_WSU_86_1044_uid49531/NC_014225.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Waddlia_chondrophila_WSU_86_1044_uid49531
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Octadecabacter_arcticus_238_uid54699/NC_020910.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Octadecabacter_arcticus_238_uid54699/NC_020909.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Octadecabacter_arcticus_238_uid54699/NC_020908.fna
+####### SIZE: 9643 KB

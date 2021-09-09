@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/equCab1/chr19_random.axt
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/equCab1/chr7_random.axt
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/equCab1/chr6_hla_hap1.axt
+####### SIZE: 6636 KB

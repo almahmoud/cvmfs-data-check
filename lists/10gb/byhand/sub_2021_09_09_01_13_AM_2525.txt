@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/calJac1/maf/chr3.maf
+####### SIZE: 297269 KB

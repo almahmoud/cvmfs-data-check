@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab2/bowtie_index/equCab2.rev.1.ebwt
+####### SIZE: 682421 KB

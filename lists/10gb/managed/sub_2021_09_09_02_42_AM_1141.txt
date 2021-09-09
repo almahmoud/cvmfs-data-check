@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/plasmids/Plasmids/seqid2taxid.map
+/cvmfs/data.galaxyproject.org/managed/kraken_database/plasmids/Plasmids/lca.complete
+/cvmfs/data.galaxyproject.org/managed/kraken_database/plasmids/Plasmids/gi2seqid.map
+####### SIZE: 420 KB

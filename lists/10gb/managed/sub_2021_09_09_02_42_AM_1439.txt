@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gluconobacter_oxydans_H24_uid179202/NC_019396.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gluconobacter_oxydans_H24_uid179202
+####### SIZE: 7354 KB

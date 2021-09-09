@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/mm6/maf/chr3.maf
+####### SIZE: 14870 KB

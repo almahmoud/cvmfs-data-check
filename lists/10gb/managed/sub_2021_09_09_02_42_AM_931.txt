@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/felCat8/felCat8.fa.ann
+####### SIZE: 13406 KB

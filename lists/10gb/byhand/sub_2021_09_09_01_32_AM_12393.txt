@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/13001/NC_010400.gbk
+####### SIZE: 8294 KB

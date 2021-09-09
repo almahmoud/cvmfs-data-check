@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer6/seq/danRer6.2bit
+####### SIZE: 390203 KB

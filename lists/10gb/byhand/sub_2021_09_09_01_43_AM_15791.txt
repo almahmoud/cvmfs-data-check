@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/liftOver/bosTau7ToTurTru2.over.chain
+####### SIZE: 231192 KB

@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halalkalicoccus_jeotgali_B3_uid50305/NC_014298.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halalkalicoccus_jeotgali_B3_uid50305/NC_014301.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halalkalicoccus_jeotgali_B3_uid50305/NC_014297.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halalkalicoccus_jeotgali_B3_uid50305
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_phymatum_STM815_uid58699/NC_010627.fna
+####### SIZE: 7492 KB

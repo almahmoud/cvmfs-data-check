@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chitinophaga_pinensis_DSM_2588_uid59113
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Helicobacter_pylori_ELS37_uid158157/NC_017064.fna
+####### SIZE: 9052 KB

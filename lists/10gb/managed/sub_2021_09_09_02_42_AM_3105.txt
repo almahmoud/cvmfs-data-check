@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lysinibacillus_sphaericus_C3_41_uid58945
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bordetella_bronchiseptica_253_uid178913/NC_019382.fna
+####### SIZE: 9992 KB

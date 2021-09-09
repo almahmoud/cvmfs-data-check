@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam2/liftOver/canFam2ToCanFam3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/canFam2/liftOver/canFam2ToDanRer5.over.chain
+####### SIZE: 7569 KB

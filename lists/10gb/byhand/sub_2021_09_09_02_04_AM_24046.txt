@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/xenTro2/align/rn4/xenTro2.rn4.all.chain
+####### SIZE: 412836 KB

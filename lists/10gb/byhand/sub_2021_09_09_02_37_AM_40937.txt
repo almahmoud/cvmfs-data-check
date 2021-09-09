@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/panTro2canon/bowtie_index/cs/panTro2canon.rev.1.ebwt
+####### SIZE: 775497 KB

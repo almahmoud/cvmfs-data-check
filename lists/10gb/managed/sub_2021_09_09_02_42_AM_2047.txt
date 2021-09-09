@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Kangiella_koreensis_DSM_16069_uid59209
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Coxiella_burnetii_RSA_331_uid58637/NC_010115.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Coxiella_burnetii_RSA_331_uid58637/NC_010117.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Coxiella_burnetii_RSA_331_uid58637
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_aureus_HO_5096_0412_uid162163/NC_017763.fna
+####### SIZE: 9712 KB

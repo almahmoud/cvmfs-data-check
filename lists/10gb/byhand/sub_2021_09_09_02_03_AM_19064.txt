@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTau3/picard_index/bosTau3.fa
+/cvmfs/data.galaxyproject.org/byhand/bosTau3/picard_index/bosTau3.dict
+/cvmfs/data.galaxyproject.org/byhand/bosTau3/picard_index/bosTau3.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/bosTau3/picard_index
+/cvmfs/data.galaxyproject.org/byhand/bosTau3/bowtie2_index/bosTau3.3.bt2
+/cvmfs/data.galaxyproject.org/byhand/bosTau3/bowtie2_index/bosTau3.fa
+####### SIZE: 5213 KB

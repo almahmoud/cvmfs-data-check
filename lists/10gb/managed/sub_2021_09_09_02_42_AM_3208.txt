@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudomonas_fluorescens_Pf_5_uid57937/NC_004129.fna
+####### SIZE: 7008 KB

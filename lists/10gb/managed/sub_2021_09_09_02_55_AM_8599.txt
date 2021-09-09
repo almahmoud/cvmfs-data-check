@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Erwinia_amylovora_ATCC_49946_uid46943/NC_013971.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Erwinia_amylovora_ATCC_49946_uid46943
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haloquadratum_walsbyi_DSM_16790_uid58673/NC_008213.fna
+####### SIZE: 7691 KB

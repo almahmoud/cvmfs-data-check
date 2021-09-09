@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/hetGla1/sam_index/hetGla1.fa
+/cvmfs/data.galaxyproject.org/byhand/hetGla1/sam_index/hetGla1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/hetGla1/sam_index
+/cvmfs/data.galaxyproject.org/byhand/hetGla1/picard_index/hetGla1.fa
+/cvmfs/data.galaxyproject.org/byhand/hetGla1/picard_index/hetGla1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/hetGla1/picard_index/hetGla1.dict
+####### SIZE: 8348 KB

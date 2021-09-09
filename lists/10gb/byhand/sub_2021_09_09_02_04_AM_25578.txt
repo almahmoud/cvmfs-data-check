@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/canFam2/maf/chr1.maf
+####### SIZE: 291074 KB

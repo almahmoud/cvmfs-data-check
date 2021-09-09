@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pantoea_At_9b_uid55845
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodobacter_sphaeroides_2_4_1_uid57653/NC_007488.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodobacter_sphaeroides_2_4_1_uid57653/NC_009007.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodobacter_sphaeroides_2_4_1_uid57653/NC_009008.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodobacter_sphaeroides_2_4_1_uid57653/NC_007490.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodobacter_sphaeroides_2_4_1_uid57653/NC_007494.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodobacter_sphaeroides_2_4_1_uid57653/NC_007489.fna
+####### SIZE: 7665 KB

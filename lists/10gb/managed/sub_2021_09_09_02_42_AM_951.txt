@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/equCab1/equCab1.fa.pac
+####### SIZE: 601195 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/align/mm6/maf/chr1.maf
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/align/mm6/maf/chr15_random.maf.index
+####### SIZE: 5246 KB

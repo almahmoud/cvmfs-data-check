@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm10/liftOver/mm10ToOchPri2.over.chain
+####### SIZE: 105190 KB

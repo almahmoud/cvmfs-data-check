@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/fr1/liftOver/fr1ToOryLat1.over.chain
+####### SIZE: 30263 KB

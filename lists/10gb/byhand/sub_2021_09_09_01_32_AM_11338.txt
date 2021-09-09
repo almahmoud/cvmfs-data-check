@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_K12/nib/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_K12/nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_K12/seq/eschColi_K12.2bit
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_K12/seq/chr.nib
+####### SIZE: 7935 KB

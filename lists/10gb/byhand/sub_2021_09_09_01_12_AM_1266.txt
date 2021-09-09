@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/petMar1/chr9.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/petMar1/chr3.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/petMar1/chr18_gl000207_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/petMar1/chrUn_gl000215.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/petMar1/chrUn_gl000238.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/petMar1/chr10.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/petMar1/chr6_mcf_hap5.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/petMar1/chrUn_gl000217.axt
+####### SIZE: 9519 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droEre2/chr3R.axt
+####### SIZE: 56223 KB

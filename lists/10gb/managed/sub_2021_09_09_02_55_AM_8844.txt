@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudomonas_aeruginosa_B136_33_uid196598
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aggregatibacter_aphrophilus_NJ8700_uid59407/NC_012913.fna
+####### SIZE: 8657 KB

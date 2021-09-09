@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/rn4/maf/chr17.maf
+####### SIZE: 69233 KB

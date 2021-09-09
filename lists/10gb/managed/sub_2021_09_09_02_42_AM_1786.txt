@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Erwinia_billingiae_Eb661_uid50547/NC_014306.fna
+####### SIZE: 5052 KB

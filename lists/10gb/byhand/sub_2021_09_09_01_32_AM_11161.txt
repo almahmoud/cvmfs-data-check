@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/strePyog_M1_GAS
+/cvmfs/data.galaxyproject.org/byhand/microbes/campJeju_RM1221/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/campJeju_RM1221/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/campJeju_RM1221/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/campJeju_RM1221/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/campJeju_RM1221/chr.GeneMark.bed
+####### SIZE: 9856 KB

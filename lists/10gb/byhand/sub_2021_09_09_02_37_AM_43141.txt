@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/xenTro2/align/hg18
+####### SIZE: 1188911 KB

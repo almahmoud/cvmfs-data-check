@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/gorGor3/liftOver/gorGor3ToPanTro3.over.chain
+####### SIZE: 47605 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Edwardsiella_ictaluri_93_146_uid59403/NC_012779.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Edwardsiella_ictaluri_93_146_uid59403
+####### SIZE: 7558 KB

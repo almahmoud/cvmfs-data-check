@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_ljungdahlii_DSM_13528_uid50583/NC_014328.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_ljungdahlii_DSM_13528_uid50583
+####### SIZE: 9178 KB

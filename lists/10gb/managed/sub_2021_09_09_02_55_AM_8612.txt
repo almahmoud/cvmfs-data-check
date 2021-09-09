@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfitobacterium_hafniense_Y51_uid58605
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ferrimonas_balearica_DSM_9799_uid53371/NC_014541.fna
+####### SIZE: 9917 KB

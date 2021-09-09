@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38full/bowtie_index/hg38full.2.ebwt
+####### SIZE: 372231 KB

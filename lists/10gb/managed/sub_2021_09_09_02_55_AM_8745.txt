@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Variovorax_paradoxus_B4_uid218005
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gloeocapsa_PCC_7428_uid183112/NC_019747.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gloeocapsa_PCC_7428_uid183112/NC_019746.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gloeocapsa_PCC_7428_uid183112/NC_020051.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gloeocapsa_PCC_7428_uid183112/NC_019759.fna
+####### SIZE: 7536 KB

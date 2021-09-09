@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/hg18/chr6.hg18.hg18.net.axt
+####### SIZE: 26007 KB

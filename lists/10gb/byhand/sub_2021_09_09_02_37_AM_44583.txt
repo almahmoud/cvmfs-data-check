@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/mm8/chr30.axt
+####### SIZE: 17852 KB

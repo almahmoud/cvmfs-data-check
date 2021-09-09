@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Robiginitalea_biformata_HTCC2501_uid58285/NC_013222.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Robiginitalea_biformata_HTCC2501_uid58285
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Phenylobacterium_zucineum_HLK1_uid58959/NC_011143.fna
+####### SIZE: 7379 KB

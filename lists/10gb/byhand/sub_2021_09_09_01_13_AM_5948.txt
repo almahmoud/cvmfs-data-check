@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/monDom4/chr2_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/monDom4/chr8_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/monDom4/chr6_qbl_hap2.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/monDom4/chr10_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/monDom4/chr6_random.axt
+####### SIZE: 2546 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/sacCer2
+####### SIZE: 25026 KB

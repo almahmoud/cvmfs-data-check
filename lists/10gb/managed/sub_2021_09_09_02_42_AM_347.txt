@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg_g1k_v37
+####### SIZE: 4090174 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/canFam3
+####### SIZE: 4120855 KB

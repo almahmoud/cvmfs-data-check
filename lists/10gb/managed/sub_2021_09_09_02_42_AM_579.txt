@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/melGal1/melGal1.1.bt2
+####### SIZE: 310657 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/seq/mm9full.fa
+####### SIZE: 2715119 KB

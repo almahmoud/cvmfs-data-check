@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudovibrio_FO_BEG1_uid82373
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Octadecabacter_antarcticus_307_uid54701/NC_020907.fna
+####### SIZE: 5929 KB

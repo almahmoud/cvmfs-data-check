@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/liftOver/rheMac2ToMm8.over.chain
+####### SIZE: 208697 KB

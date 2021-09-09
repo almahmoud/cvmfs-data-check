@@ -1,0 +1,12 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Francisella_tularensis_holarctica_F92_uid181998/NC_019537.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Francisella_tularensis_holarctica_F92_uid181998
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_psittaci_M56_uid175576/NC_018635.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_psittaci_M56_uid175576/NC_018623.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_psittaci_M56_uid175576
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aster_yellows_witches_broom_phytoplasma_AYWB_uid58297/NC_007718.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aster_yellows_witches_broom_phytoplasma_AYWB_uid58297/NC_007719.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aster_yellows_witches_broom_phytoplasma_AYWB_uid58297/NC_007716.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aster_yellows_witches_broom_phytoplasma_AYWB_uid58297/NC_007720.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aster_yellows_witches_broom_phytoplasma_AYWB_uid58297/NC_007717.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aster_yellows_witches_broom_phytoplasma_AYWB_uid58297
+####### SIZE: 7511 KB

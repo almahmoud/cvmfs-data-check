@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/customProDB/omicron-data.duckdns.org/customProDB/ensembl/mmusculus-oct2014/proseq.RData
+####### SIZE: 12128 KB

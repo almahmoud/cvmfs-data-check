@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/monDom5/seq/monDom5.fa
+####### SIZE: 3591548 KB

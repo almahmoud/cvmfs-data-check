@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/felCat3
+####### SIZE: 4914173 KB

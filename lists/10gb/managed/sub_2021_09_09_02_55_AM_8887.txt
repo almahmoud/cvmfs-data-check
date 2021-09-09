@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Klebsiella_pneumoniae_KCTC_2242_uid162147
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Anabaena_cylindrica_PCC_7122_uid183339/NC_020056.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Anabaena_cylindrica_PCC_7122_uid183339/NC_019773.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Anabaena_cylindrica_PCC_7122_uid183339/NC_019774.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Anabaena_cylindrica_PCC_7122_uid183339/NC_019775.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Anabaena_cylindrica_PCC_7122_uid183339/NC_020157.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Anabaena_cylindrica_PCC_7122_uid183339/NC_019772.fna
+####### SIZE: 6080 KB

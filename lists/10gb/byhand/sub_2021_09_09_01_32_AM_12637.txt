@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/methAeol1
+/cvmfs/data.galaxyproject.org/byhand/microbes/xantCamp/seq/chr.nib
+####### SIZE: 9332 KB

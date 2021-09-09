@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/calJac1/maf/chr6_qbl_hap2.maf
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/calJac1/maf/chr13.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/calJac1/maf/chr6_random.maf.index
+####### SIZE: 7961 KB

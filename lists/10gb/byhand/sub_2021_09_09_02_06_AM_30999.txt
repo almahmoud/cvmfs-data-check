@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTauMd3/bowtie_index
+####### SIZE: 5546070 KB

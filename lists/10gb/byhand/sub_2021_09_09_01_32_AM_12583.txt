@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/13454/NC_008228.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/13454/NC_008228.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/13454/NC_008228.CDS.bed
+####### SIZE: 5563 KB

@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nitrobacter_winogradskyi_Nb_255_uid58295
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermotoga_elfii_NBRC_107921_uid227422/NC_022792.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermotoga_elfii_NBRC_107921_uid227422
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptobacillus_moniliformis_DSM_12112_uid41863/NC_013516.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptobacillus_moniliformis_DSM_12112_uid41863/NC_013515.fna
+####### SIZE: 9337 KB

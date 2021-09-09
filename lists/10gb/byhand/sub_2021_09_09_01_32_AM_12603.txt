@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/salmTyph_TY2/chr.gbk
+####### SIZE: 10824 KB

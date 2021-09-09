@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/methKand1
+/cvmfs/data.galaxyproject.org/byhand/microbes/16251/seq/NC_007775.nib
+####### SIZE: 8634 KB

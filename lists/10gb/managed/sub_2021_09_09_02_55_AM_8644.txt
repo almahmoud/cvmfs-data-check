@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Roseiflexus_RS_1_uid58523
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chamaesiphon_minutus_PCC_6605_uid183005/NC_019698.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chamaesiphon_minutus_PCC_6605_uid183005/NC_020053.fna
+####### SIZE: 6226 KB

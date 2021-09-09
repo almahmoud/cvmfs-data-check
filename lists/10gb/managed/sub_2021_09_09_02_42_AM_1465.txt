@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rahnella_Y9602_uid62715/NC_015063.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rahnella_Y9602_uid62715/NC_015062.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rahnella_Y9602_uid62715/NC_015061.fna
+####### SIZE: 5563 KB

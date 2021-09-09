@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/16297/seq/Xanthomonas_oryzae_MAFF_311018.2bit
+/cvmfs/data.galaxyproject.org/byhand/microbes/16297/seq/NC_007705.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/16297/seq/Xanthomonas_oryzae_MAFF_311018.fa
+####### SIZE: 8514 KB

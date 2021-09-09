@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/rheMac2/chr11.idx
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/rheMac2/chr15.idx
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/rheMac2/chr6_cox_hap1.axt
+####### SIZE: 9596 KB

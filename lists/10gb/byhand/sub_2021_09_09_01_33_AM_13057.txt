@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/ci2/ci2full/bowtie_index/cs/ci2full.fa
+/cvmfs/data.galaxyproject.org/byhand/ci2/ci2full/bowtie_index/cs/ci2full.3.ebwt
+####### SIZE: 238 KB

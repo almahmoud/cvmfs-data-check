@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro1/nib/chr23.nib
+####### SIZE: 24431 KB

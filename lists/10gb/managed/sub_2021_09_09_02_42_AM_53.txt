@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/musFur1/musFur1.4.ht2
+####### SIZE: 556130 KB

@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/sam_index/ponAbe2.fa
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/sam_index/ponAbe2.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/sam_index
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/nib/chr2a_random.nib
+####### SIZE: 6782 KB

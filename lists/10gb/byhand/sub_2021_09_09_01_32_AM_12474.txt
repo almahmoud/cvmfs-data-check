@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/lactLact/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/lactLact/chr.gbk
+####### SIZE: 7784 KB

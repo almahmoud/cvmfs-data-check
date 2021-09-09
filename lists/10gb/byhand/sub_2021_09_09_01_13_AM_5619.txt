@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/mm7
+####### SIZE: 4941875 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/rn4/chr8.axt
+####### SIZE: 108651 KB

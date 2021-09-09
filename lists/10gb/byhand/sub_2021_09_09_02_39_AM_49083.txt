@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/liftOver/hg17ToMm5.over.chain
+####### SIZE: 251316 KB

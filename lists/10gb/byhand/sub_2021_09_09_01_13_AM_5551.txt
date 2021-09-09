@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/canFam2
+####### SIZE: 7202271 KB

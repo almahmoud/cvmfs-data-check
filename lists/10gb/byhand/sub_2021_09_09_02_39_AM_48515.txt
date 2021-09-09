@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/canFam2/chr18.idx
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/canFam2/chr17.idx
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/canFam2/chr10_random.idx
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/canFam2/chr13_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/canFam2/chr11.idx
+####### SIZE: 8192 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/equCab1/chr4.axt
+####### SIZE: 131343 KB

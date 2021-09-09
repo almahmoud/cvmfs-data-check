@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/gorGor3/picard_index
+/cvmfs/data.galaxyproject.org/byhand/gorGor3/bowtie2_index/gorGor3.fa
+/cvmfs/data.galaxyproject.org/byhand/gorGor3/bowtie2_index/gorGor3.3.bt2
+####### SIZE: 9970 KB

@@ -1,0 +1,16 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/dehaEthe_195
+/cvmfs/data.galaxyproject.org/byhand/microbes/10616/seq/NC_005364.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/10616/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/10616/NC_005364.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/10616/NC_005364.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/10616/NC_005364.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/10616/NC_005364.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/10616/NC_005364.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/10616/NC_005364.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/10616/10616.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/10616/NC_005364.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/10616/NC_005364.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/10616/NC_005364.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/10616/NC_005364.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/10616/NC_005364.rRNA.bed
+####### SIZE: 9273 KB

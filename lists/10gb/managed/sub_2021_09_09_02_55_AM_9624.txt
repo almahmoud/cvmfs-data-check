@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodospirillum_rubrum_F11_uid162149
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methylacidiphilum_infernorum_V4_uid59161/NC_010794.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methylacidiphilum_infernorum_V4_uid59161
+####### SIZE: 8854 KB

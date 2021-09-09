@@ -1,0 +1,24 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/vicPac1/chr6_qbl_hap6.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/vicPac1/chrUn_gl000221.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/vicPac1/chrUn_gl000247.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/vicPac1/chrUn_gl000230.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/vicPac1/chr17_gl000206_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/vicPac1/chrUn_gl000228.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/vicPac1/chr6_mann_hap4.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/vicPac1/chr21_gl000210_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/vicPac1/chrUn_gl000240.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/vicPac1/chr9_gl000201_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/vicPac1/chr1_gl000192_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/vicPac1/chrUn_gl000223.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/vicPac1/chr6_ssto_hap7.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/vicPac1/chr8_gl000196_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/vicPac1/chrUn_gl000215.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/vicPac1/chrUn_gl000218.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/vicPac1/chrUn_gl000232.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/vicPac1/chrUn_gl000245.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/vicPac1/chrUn_gl000238.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/vicPac1/chr18_gl000207_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/vicPac1/chr4_gl000193_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/vicPac1/chrUn_gl000217.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/vicPac1/chr11_gl000202_random.axt
+####### SIZE: 9448 KB

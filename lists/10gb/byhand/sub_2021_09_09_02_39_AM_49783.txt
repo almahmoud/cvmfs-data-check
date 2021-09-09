@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/hg18/chr4.axt
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/hg18/chr24.axt
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/hg18/chrM.idx
+####### SIZE: 8317 KB

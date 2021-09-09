@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_megaterium_QM_B1551_uid15862/NC_014019.fna
+####### SIZE: 5049 KB

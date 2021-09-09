@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/encode_relabeled/tba/ENr212/human.ENr212.maf.index
+####### SIZE: 1743 KB

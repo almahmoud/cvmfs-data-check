@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/neisGono_FA1090_1
+/cvmfs/data.galaxyproject.org/byhand/microbes/12416/seq/NC_007275.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/12416/seq/NC_007274.nib
+####### SIZE: 9337 KB

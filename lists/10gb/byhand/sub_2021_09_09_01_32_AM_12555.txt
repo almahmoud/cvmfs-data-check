@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/cytoHutc_ATCC33406/chr.gbk
+####### SIZE: 9441 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/choHof1/seq/choHof1.2bit
+####### SIZE: 642006 KB

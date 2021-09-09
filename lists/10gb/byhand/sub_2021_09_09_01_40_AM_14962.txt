@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/liftOver/ponAbe2ToRheMac2.over.chain
+####### SIZE: 152376 KB

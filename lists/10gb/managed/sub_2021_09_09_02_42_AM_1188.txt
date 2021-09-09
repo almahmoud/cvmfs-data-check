@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Arcobacter_butzleri_ED_1_uid158699/NC_017187.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Arcobacter_butzleri_ED_1_uid158699
+####### SIZE: 4476 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/panTro1/maf
+####### SIZE: 5235762 KB

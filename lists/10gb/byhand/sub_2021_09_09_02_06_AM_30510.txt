@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer4/nib/chr1.nib
+####### SIZE: 34468 KB

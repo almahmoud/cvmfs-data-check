@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Vibrio_cholerae_O1_2010EL_1786_uid78933/NC_016445.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Vibrio_cholerae_O1_2010EL_1786_uid78933
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_gilvum_Spyr1_uid61403/NC_014811.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_gilvum_Spyr1_uid61403/NC_014812.fna
+####### SIZE: 7282 KB

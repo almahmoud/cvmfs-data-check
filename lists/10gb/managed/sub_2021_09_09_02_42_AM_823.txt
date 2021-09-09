@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/susScr2/susScr2.fa.bwt
+####### SIZE: 2209475 KB

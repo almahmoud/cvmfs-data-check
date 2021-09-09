@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/nanGal1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/colAng1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/priPac3.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/gavSte1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/myoBra1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/apiMel4.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/plasFalc3D7V12.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/xenLae2.len
+####### SIZE: 9067 KB

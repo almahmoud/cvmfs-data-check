@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/xenTro1/chrUn_random.axt
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/xenTro1/chrX.axt
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/xenTro1/chr10_random.axt
+####### SIZE: 9058 KB

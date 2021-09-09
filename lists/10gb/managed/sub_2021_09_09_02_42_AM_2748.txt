@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Neisseria_lactamica_020_06_uid60851
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_bovis_BCG_Korea_1168P_uid189029/NC_020245.fna
+####### SIZE: 6541 KB

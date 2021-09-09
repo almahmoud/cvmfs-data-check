@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Alteromonas_macleodii__Black_Sea_11__uid176365
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Archaeoglobus_sulfaticallidus_PM70_1_uid201033/NC_021169.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Archaeoglobus_sulfaticallidus_PM70_1_uid201033
+####### SIZE: 8563 KB

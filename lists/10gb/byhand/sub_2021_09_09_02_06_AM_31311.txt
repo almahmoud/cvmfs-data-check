@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/susScr3/bowtie_index/cs/susScr3.rev.2.ebwt
+####### SIZE: 307450 KB

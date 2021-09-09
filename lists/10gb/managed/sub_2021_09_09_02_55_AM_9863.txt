@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/viruses/Viruses/taxonomy/delnodes.dmp
+####### SIZE: 3043 KB

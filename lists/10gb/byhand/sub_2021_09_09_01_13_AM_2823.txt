@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/otoGar1/chrUn_gl000232.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/otoGar1/chrUn_gl000245.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/otoGar1/chrUn_gl000238.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/otoGar1/chr18_gl000207_random.axt
+####### SIZE: 116 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/bartHens_HOUSTON_1
+/cvmfs/data.galaxyproject.org/byhand/microbes/porpGing_W83/seq/chr.nib
+####### SIZE: 9009 KB

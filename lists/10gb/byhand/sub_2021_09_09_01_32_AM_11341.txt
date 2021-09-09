@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_K12/tmap_index/eschColi_K12.fa.tmap.pac
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_K12/tmap_index/eschColi_K12.fa.tmap.rpac
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_K12/tmap_index/eschColi_K12.fa
+####### SIZE: 6862 KB

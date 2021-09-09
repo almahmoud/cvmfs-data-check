@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab1/tmp/chr14.fa
+####### SIZE: 92064 KB

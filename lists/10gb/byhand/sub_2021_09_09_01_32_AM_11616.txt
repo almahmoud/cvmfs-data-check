@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/mesoLoti/chr.gbk
+####### SIZE: 15107 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/oryLat1/nib/chr2.nib
+####### SIZE: 15195 KB

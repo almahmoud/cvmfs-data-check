@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Paenibacillus_mucilaginosus_3016_uid89377/NC_016935.fna
+####### SIZE: 8657 KB

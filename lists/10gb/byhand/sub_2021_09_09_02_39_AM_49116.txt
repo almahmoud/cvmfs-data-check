@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/melUnd1/bowtie_index/melUnd1.rev.1.ebwt
+####### SIZE: 308495 KB

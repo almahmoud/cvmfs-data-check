@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Brachyspira_murdochii_DSM_12563_uid48819/NC_014150.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Brachyspira_murdochii_DSM_12563_uid48819
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mannheimia_haemolytica_D174_uid212305/NC_021739.fna
+####### SIZE: 9105 KB

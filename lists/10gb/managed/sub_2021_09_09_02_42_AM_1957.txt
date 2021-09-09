@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Caldicellulosiruptor_saccharolyticus_DSM_8903_uid58289/NC_009437.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Caldicellulosiruptor_saccharolyticus_DSM_8903_uid58289
+####### SIZE: 5890 KB

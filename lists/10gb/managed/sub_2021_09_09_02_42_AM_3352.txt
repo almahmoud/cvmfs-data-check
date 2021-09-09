@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudomonas_syringae_tomato_DC3000_uid57967
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Moorella_thermoacetica_ATCC_39073_uid58051/NC_007644.fna
+####### SIZE: 9086 KB

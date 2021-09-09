@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/Ptrichocarpa_156/srma_index/Ptrichocarpa_156.fa
+/cvmfs/data.galaxyproject.org/byhand/Ptrichocarpa_156/srma_index/Ptrichocarpa_156.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/Ptrichocarpa_156/srma_index/Ptrichocarpa_156.dict
+/cvmfs/data.galaxyproject.org/byhand/Ptrichocarpa_156/srma_index
+/cvmfs/data.galaxyproject.org/byhand/Ptrichocarpa_156/bwa_index/cs/cs/Ptrichocarpa_156.fa
+/cvmfs/data.galaxyproject.org/byhand/Ptrichocarpa_156/bwa_index/cs/cs/Ptrichocarpa_156.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/Ptrichocarpa_156/bwa_index/cs/cs/Ptrichocarpa_156.fa.nt.amb
+/cvmfs/data.galaxyproject.org/byhand/Ptrichocarpa_156/bwa_index/cs/cs/Ptrichocarpa_156.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/Ptrichocarpa_156/bwa_index/cs/cs/Ptrichocarpa_156.fa.nt.ann
+####### SIZE: 988 KB

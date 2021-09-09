@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/droAna3/bwa_index/droAna3.fa.rpac
+####### SIZE: 56395 KB

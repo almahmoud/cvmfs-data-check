@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/susScr1/bwa_index/susScr1.fa
+/cvmfs/data.galaxyproject.org/byhand/susScr1/bwa_index/susScr1.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/susScr1/bwa_index/susScr1.fa.ann
+####### SIZE: 2989 KB

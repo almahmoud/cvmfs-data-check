@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/seq/eschColi_O157H7_Sakai.fa
+####### SIZE: 5542 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way_v1/chr6_cox_hap2.maf.index
+####### SIZE: 56839 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3canon/bwa_index/calJac3canon.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3canon/bwa_index/calJac3canon.fa.ann
+####### SIZE: 2802 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm7/nib/chr3_random.nib
+####### SIZE: 7065 KB

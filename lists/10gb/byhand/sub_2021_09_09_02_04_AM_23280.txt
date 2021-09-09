@@ -1,0 +1,18 @@
+/cvmfs/data.galaxyproject.org/byhand/dp3/align/dm2/maf/chr4_group3.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dp3/align/dm2/maf/chrXL_group3a.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dp3/align/dm2/maf/chr4_group2.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dp3/align/dm2/maf/chr2.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dp3/align/dm2/maf/chr4_group5.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dp3/align/dm2/maf/chrXL_group3b.maf
+/cvmfs/data.galaxyproject.org/byhand/dp3/align/dm2/maf/chr4_group4.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dp3/align/dm2/maf/chrXL_group3b.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dp3/align/dm2/maf/chrXR_group5.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dp3/align/dm2/maf/chrXR_group5.maf
+/cvmfs/data.galaxyproject.org/byhand/dp3/align/dm2/maf/chrXL_group3a.maf
+/cvmfs/data.galaxyproject.org/byhand/dp3/align/dm2/maf/chrXL_group1e.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dp3/align/dm2/maf/chrXR_group6.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dp3/align/dm2/maf/chrU.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dp3/align/dm2/maf/chr4_group1.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dp3/align/dm2/maf/chr3.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dp3/align/dm2/maf/chrXR_group3a.maf
+####### SIZE: 8912 KB

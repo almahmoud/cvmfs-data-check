@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/16720/sam_index/pseuAeru_PA7.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/16720/sam_index/pseuAeru_PA7.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/microbes/16720/sam_index
+/cvmfs/data.galaxyproject.org/byhand/microbes/16720/seq/16720.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/16720/seq/16720.2bit
+/cvmfs/data.galaxyproject.org/byhand/microbes/16720/seq/pseuAeru_PA7.2bit
+/cvmfs/data.galaxyproject.org/byhand/microbes/16720/seq/NC_009656.nib
+####### SIZE: 4836 KB

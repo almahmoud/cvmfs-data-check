@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/anoCar1/chr5.axt
+####### SIZE: 18601 KB

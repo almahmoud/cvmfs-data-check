@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg16/seq/chr22.nib
+####### SIZE: 24120 KB

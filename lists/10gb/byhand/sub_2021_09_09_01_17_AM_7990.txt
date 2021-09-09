@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/monDom5/bwa_index/monDom5.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/monDom5/bwa_index/monDom5.fa.amb
+####### SIZE: 1178 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Photorhabdus_asymbiotica_ATCC_43949_uid59243/NC_012962.fna
+####### SIZE: 5017 KB

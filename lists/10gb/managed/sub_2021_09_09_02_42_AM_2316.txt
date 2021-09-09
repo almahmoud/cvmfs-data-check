@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_pseudomallei_MSHR305_uid213227/NC_021884.fna
+####### SIZE: 4016 KB

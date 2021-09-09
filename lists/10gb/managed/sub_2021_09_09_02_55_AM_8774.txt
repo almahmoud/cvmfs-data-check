@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ketogulonicigenium_vulgare_WSH_001_uid161161
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Coxiella_burnetii_Dugway_5J108_111_uid58629/NC_009726.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Coxiella_burnetii_Dugway_5J108_111_uid58629/NC_009727.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Coxiella_burnetii_Dugway_5J108_111_uid58629
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ochrobactrum_anthropi_ATCC_49188_uid58921/NC_009670.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ochrobactrum_anthropi_ATCC_49188_uid58921/NC_009672.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ochrobactrum_anthropi_ATCC_49188_uid58921/NC_009671.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ochrobactrum_anthropi_ATCC_49188_uid58921/NC_009669.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ochrobactrum_anthropi_ATCC_49188_uid58921/NC_009668.fna
+####### SIZE: 9941 KB

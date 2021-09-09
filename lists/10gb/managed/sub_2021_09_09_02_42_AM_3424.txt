@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Eubacterium_limosum_KIST612_uid59777/NC_014624.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Eubacterium_limosum_KIST612_uid59777
+####### SIZE: 8557 KB

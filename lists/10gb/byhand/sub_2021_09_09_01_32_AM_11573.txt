@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/bordBron/sam_index/bordBron.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/bordBron/sam_index/bordBron.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/microbes/bordBron/sam_index
+/cvmfs/data.galaxyproject.org/byhand/microbes/bordBron/picard_index/bordBron.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/bordBron/picard_index/bordBron.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/microbes/bordBron/picard_index/bordBron.dict
+/cvmfs/data.galaxyproject.org/byhand/microbes/bordBron/picard_index
+/cvmfs/data.galaxyproject.org/byhand/microbes/bordBron/seq/bordBron.2bit
+/cvmfs/data.galaxyproject.org/byhand/microbes/bordBron/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/bordBron/seq/bordBron.fa
+####### SIZE: 9218 KB

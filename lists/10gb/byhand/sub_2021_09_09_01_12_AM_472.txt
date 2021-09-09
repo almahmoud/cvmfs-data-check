@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/monDom5/maf/chr8_gl000197_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/monDom5/maf/chrUn_gl000211.maf
+####### SIZE: 298 KB

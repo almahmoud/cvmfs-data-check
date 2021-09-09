@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acidithiobacillus_ferrivorans_SS3_uid67387/NC_015942.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acidithiobacillus_ferrivorans_SS3_uid67387
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Corynebacterium_glutamicum_R_uid58897/NC_009343.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Corynebacterium_glutamicum_R_uid58897/NC_009342.fna
+####### SIZE: 9692 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/dipOrd1/picard_index/dipOrd1.dict
+####### SIZE: 27001 KB

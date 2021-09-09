@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/quality_scores
+/cvmfs/data.galaxyproject.org/byhand/hg18/seq/hg18chr21.fa
+/cvmfs/data.galaxyproject.org/byhand/hg18/seq/hg18.fa
+####### SIZE: 7 KB

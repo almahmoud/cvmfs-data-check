@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shigella_boydii_CDC_3083_94_uid58415/NC_010658.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shigella_boydii_CDC_3083_94_uid58415/NC_010660.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shigella_boydii_CDC_3083_94_uid58415
+####### SIZE: 9618 KB

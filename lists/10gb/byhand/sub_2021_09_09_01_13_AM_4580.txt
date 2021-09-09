@@ -1,0 +1,12 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/multiz28way/old/chr1_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/multiz28way/old/chrM.maf.lzot
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/multiz28way/old/chr12.maf.lzot
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/multiz28way/old/chr8_random.maf.lzot
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/multiz28way/old/chr8.maf.lzot
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/multiz28way/old/chr2_random.maf.lzot
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/multiz28way/old/chrX.maf.lzot
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/multiz28way/old/chr4.maf.lzot
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/multiz28way/old/chr3_random.maf.lzot
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/multiz28way/old/chrM.maf.index.old
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/multiz28way/old/chr6_qbl_hap2.maf.lzot
+####### SIZE: 2231 KB

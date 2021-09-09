@@ -1,0 +1,23 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhizEtli_CFN_42/chr.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhizEtli_CFN_42/plasmid_p42f.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhizEtli_CFN_42/plasmid_p42e.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhizEtli_CFN_42/plasmid_p42c.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhizEtli_CFN_42/plasmid_p42e.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhizEtli_CFN_42/seq/plasmid_p42f.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhizEtli_CFN_42/seq/plasmid_p42e.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhizEtli_CFN_42/seq/plasmid_p42a.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhizEtli_CFN_42/seq/plasmid_p42c.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhizEtli_CFN_42/seq/plasmid_p42b.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhizEtli_CFN_42/seq/d.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhizEtli_CFN_42/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhizEtli_CFN_42/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhizEtli_CFN_42/plasmid_p42c.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhizEtli_CFN_42/plasmid_p42f.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhizEtli_CFN_42/plasmid_p42b.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhizEtli_CFN_42/plasmid_p42a.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhizEtli_CFN_42/d.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhizEtli_CFN_42/plasmid_p42b.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhizEtli_CFN_42/plasmid_p42e.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhizEtli_CFN_42/d.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhizEtli_CFN_42/d.GeneMarkHMM-2.6m
+####### SIZE: 9327 KB

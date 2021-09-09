@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/mm9/maf/chr22.maf
+####### SIZE: 27846 KB

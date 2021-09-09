@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/multiz15way/chrXh.maf.index
+####### SIZE: 14295 KB

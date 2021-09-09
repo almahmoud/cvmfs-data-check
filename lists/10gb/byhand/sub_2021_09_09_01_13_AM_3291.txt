@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/align/fr1/maf/chr16.maf
+####### SIZE: 14521 KB

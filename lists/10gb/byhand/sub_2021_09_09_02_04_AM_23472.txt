@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal2/nib/chr16.nib
+/cvmfs/data.galaxyproject.org/byhand/galGal2/nib/chr17.nib
+/cvmfs/data.galaxyproject.org/byhand/galGal2/nib/chr18.nib
+####### SIZE: 9665 KB

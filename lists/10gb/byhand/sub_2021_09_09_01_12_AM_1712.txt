@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/eriEur1/maf/chr4.maf
+####### SIZE: 79041 KB

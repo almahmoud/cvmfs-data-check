@@ -1,0 +1,24 @@
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/dipOrd1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/aeroHydr_ATCC7966.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/mhcRefnoNs14.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/Xanthomonas_oryzae_PXO99A.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/17643.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/caeSp71.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/16095.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/caeAng1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/12953.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/falPer1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/19639.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/conCri1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/mhcRefnoNs2.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/bosTau6.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/mhcRefnoNs.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/15746.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/simMamMouse120.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/16070.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/ce8.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/13960.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/porpGing_W83.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/natrPhar1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/99.len
+####### SIZE: 5880 KB

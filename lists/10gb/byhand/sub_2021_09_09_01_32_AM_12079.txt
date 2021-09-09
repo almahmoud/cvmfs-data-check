@@ -1,0 +1,25 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/NC_009838.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/NC_009838.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/eschColi_APEC_O1.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/chr.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/NC_009837.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/NC_009838.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/NC_009837.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/NC_009837.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/NC_009837.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/NC_009838.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/NC_009838.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/NC_009837.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/NC_009837.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/NC_009838.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/NC_009837.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/NC_009838.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/NC_009837.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/NC_009837.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/NC_009838.fna
+####### SIZE: 8293 KB

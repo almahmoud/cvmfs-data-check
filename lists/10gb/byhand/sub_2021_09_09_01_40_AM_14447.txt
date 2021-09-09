@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/picard_index/ponAbe2.fa
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/picard_index/ponAbe2.dict
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/picard_index/ponAbe2.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/picard_index
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/bowtie2_index/ponAbe2.fa
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/bowtie2_index/ponAbe2.3.bt2
+####### SIZE: 3842 KB

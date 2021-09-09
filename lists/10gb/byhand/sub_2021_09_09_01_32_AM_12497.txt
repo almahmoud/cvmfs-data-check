@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/386/sam_index/pseuAeru_UCBPP_PA14.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/386/sam_index/pseuAeru_UCBPP_PA14.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/microbes/386/sam_index
+/cvmfs/data.galaxyproject.org/byhand/microbes/386/seq/386.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/386/seq/386.2bit
+/cvmfs/data.galaxyproject.org/byhand/microbes/386/seq/pseuAeru_UCBPP_PA14.2bit
+/cvmfs/data.galaxyproject.org/byhand/microbes/386/seq/NC_008463.nib
+####### SIZE: 4800 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_CCGE1001_uid42975/NC_015136.fna
+####### SIZE: 4025 KB

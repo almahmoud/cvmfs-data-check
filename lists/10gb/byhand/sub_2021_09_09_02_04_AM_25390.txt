@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/mm8/maf/chr20.maf.index
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/mm8/maf/chr1.maf.index
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/mm8/maf/chr31.maf.index
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/mm8/maf/chr13.maf.index
+####### SIZE: 4351 KB

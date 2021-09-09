@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/ente638/bowtie_index/enterobacter_sp_638.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/ente638/bowtie_index/enterobacter_sp_638.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/ente638/bowtie_index/enterobacter_sp_638.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/ente638/bowtie_index/enterobacter_sp_638.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/ente638/bowtie_index/enterobacter_sp_638.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/ente638/bowtie_index/enterobacter_sp_638.rev.1.ebwt
+####### SIZE: 7688 KB

@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/align/hg17/maf/chr1.maf
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/align/hg17/maf/chr18.maf.index
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/align/hg17/maf/chr2.maf
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/align/hg17/maf/chr15_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/align/hg17/maf/chr14.maf.index
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/align/hg17/maf/chr19.maf
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/align/hg17/maf/chr7.maf.index
+####### SIZE: 9796 KB

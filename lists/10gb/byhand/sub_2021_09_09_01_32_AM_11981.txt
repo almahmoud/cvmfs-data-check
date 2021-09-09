@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/vibrVuln_YJ016_1/chrII.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/vibrVuln_YJ016_1/chrI.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/vibrVuln_YJ016_1/chrII.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/vibrVuln_YJ016_1/plasmid_pYJ016.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/vibrVuln_YJ016_1/plasmid_pYJ016.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/vibrVuln_YJ016_1/plasmid_pYJ016.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/vibrVuln_YJ016_1/chrII.fna
+####### SIZE: 7122 KB

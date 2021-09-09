@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/mm9/chr21.axt
+####### SIZE: 24816 KB

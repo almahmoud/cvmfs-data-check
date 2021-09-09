@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/monDom1/chr3.idx
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/monDom1/chr17.idx
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/monDom1/chr15.idx
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/monDom1/chr13.idx
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/monDom1/chr2.idx
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/monDom1/chrY.axt
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/monDom1/chr7.idx
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/monDom1/chr1_random.idx
+####### SIZE: 5800 KB

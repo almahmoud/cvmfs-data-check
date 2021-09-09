@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/loxAfr3/loxAfr3.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/loxAfr3/loxAfr3.fa.amb
+####### SIZE: 1640 KB

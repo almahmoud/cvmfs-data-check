@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rheMac2/chrX.axt
+####### SIZE: 230024 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_kansasii_ATCC_12478_uid55385/NC_022663.fna
+####### SIZE: 6372 KB

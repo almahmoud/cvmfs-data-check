@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Adlercreutzia_equolifaciens_DSM_19450_uid223286
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bordetella_pertussis_Tohama_I_uid57617/NC_002929.fna
+####### SIZE: 6888 KB

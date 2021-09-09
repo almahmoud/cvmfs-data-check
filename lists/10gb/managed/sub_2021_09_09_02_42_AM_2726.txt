@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudomonas_fluorescens_SBW25_uid158693/NC_012660.fna
+####### SIZE: 6659 KB

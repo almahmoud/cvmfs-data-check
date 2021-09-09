@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/felCat8
+####### SIZE: 12104 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/Tcacao_1.0/seq/Tcacao_1.fa
+####### SIZE: 325009 KB

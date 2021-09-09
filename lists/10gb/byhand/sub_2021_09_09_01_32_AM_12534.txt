@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/16363
+/cvmfs/data.galaxyproject.org/byhand/microbes/methBurt2/seq/chr.nib
+####### SIZE: 9084 KB

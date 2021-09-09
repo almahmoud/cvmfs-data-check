@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/Spur_v2.6/srma_index/Spur_v2.6.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/Spur_v2.6/srma_index/Spur_v2.6.fa
+/cvmfs/data.galaxyproject.org/byhand/Spur_v2.6/srma_index/Spur_v2.6.dict
+####### SIZE: 5905 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/droYak1/tmp/chr2h_random.fa.zip
+/cvmfs/data.galaxyproject.org/byhand/droYak1/tmp/chr3R.fa.zip
+/cvmfs/data.galaxyproject.org/byhand/droYak1/tmp/chr3h_random.fa
+####### SIZE: 9441 KB

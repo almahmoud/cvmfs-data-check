@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/13888
+/cvmfs/data.galaxyproject.org/byhand/microbes/erytLito_HTCC2594/seq/chr.nib
+####### SIZE: 9401 KB

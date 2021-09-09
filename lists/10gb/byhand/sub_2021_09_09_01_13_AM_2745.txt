@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rn4/maf/chrUn_gl000236.maf
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rn4/maf/chr4_gl000194_random.maf
+####### SIZE: 106 KB

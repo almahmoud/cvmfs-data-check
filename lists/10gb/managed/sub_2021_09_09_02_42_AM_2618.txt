@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermobacillus_composti_KWC4_uid74021/NC_019897.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermobacillus_composti_KWC4_uid74021
+####### SIZE: 8487 KB

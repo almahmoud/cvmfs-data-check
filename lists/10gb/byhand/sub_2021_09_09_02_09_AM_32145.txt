@@ -1,0 +1,13 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/16720/srma_index/pseuAeru_PA7.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/microbes/16720/srma_index/pseuAeru_PA7.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/16720/srma_index/pseuAeru_PA7.dict
+/cvmfs/data.galaxyproject.org/byhand/microbes/16720/srma_index
+/cvmfs/data.galaxyproject.org/byhand/microbes/16720/bwa_index/pseuAeru_PA7.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/microbes/16720/bwa_index/pseuAeru_PA7.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/16720/bwa_index/pseuAeru_PA7.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/microbes/16720/bwa_index/pseuAeru_PA7.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/microbes/16720/bwa_index/pseuAeru_PA7.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/microbes/16720/bwa_index/pseuAeru_PA7.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/microbes/16720/bwa_index/pseuAeru_PA7.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/16720/bwa_index/pseuAeru_PA7.fa.pac
+####### SIZE: 9665 KB

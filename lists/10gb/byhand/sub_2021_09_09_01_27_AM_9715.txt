@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/dm3/picard_index/dm3.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/dm3/picard_index/dm3.fa
+/cvmfs/data.galaxyproject.org/byhand/dm3/picard_index/dm3.dict
+/cvmfs/data.galaxyproject.org/byhand/dm3/picard_index
+/cvmfs/data.galaxyproject.org/byhand/dm3/bowtie2_index/dm3.3.bt2
+/cvmfs/data.galaxyproject.org/byhand/dm3/bowtie2_index/dm3.fa
+####### SIZE: 345 KB

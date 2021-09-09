@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_aureus_ST228_18412_uid193760
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfitobacterium_dehalogenans_ATCC_51507_uid82553/NC_018017.fna
+####### SIZE: 7043 KB

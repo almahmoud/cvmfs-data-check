@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/equCab2/maf/chrUn_gl000213.maf
+####### SIZE: 197 KB

@@ -1,0 +1,16 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/hg18/chr6.idx
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/hg18/chr23.idx
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/hg18/chr25.idx
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/hg18/chr9.idx
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/hg18/chr18.axt
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/hg18/chr22.idx
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/hg18/chr12.idx
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/hg18/chr11.idx
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/hg18/chr15.idx
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/hg18/chr7.idx
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/hg18/chrUn_random.idx
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/hg18/chr18.idx
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/hg18/chr3.idx
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/hg18/chr16.idx
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/hg18/chr13.idx
+####### SIZE: 9391 KB

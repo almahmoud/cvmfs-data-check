@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/byhand/musMus6
+/cvmfs/data.galaxyproject.org/byhand/droYak2/sam_index/droYak2.fa
+/cvmfs/data.galaxyproject.org/byhand/droYak2/sam_index/droYak2.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/droYak2/sam_index
+/cvmfs/data.galaxyproject.org/byhand/droYak2/picard_index/droYak2.fa
+/cvmfs/data.galaxyproject.org/byhand/droYak2/picard_index/droYak2.dict
+/cvmfs/data.galaxyproject.org/byhand/droYak2/picard_index/droYak2.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/droYak2/picard_index
+/cvmfs/data.galaxyproject.org/byhand/droYak2/bowtie2_index/droYak2.fa
+/cvmfs/data.galaxyproject.org/byhand/droYak2/bowtie2_index/droYak2.3.bt2
+####### SIZE: 144 KB

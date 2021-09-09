@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/priPac1/bwa_index
+####### SIZE: 256445 KB

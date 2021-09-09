@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/sacCer2/bwa_index/sacCer2.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/sacCer2/bwa_index/sacCer2.fa.rbwt
+####### SIZE: 8910 KB

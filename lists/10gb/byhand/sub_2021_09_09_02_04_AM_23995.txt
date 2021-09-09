@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/xenTro2/align/mm8/md5sum.txt
+/cvmfs/data.galaxyproject.org/byhand/xenTro2/align/mm8/README.txt
+####### SIZE: 4 KB

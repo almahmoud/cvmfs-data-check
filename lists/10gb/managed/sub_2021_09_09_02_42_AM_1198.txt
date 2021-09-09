@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Treponema_azotonutricium_ZAS_9_uid67365/NC_015577.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Treponema_azotonutricium_ZAS_9_uid67365
+####### SIZE: 7644 KB

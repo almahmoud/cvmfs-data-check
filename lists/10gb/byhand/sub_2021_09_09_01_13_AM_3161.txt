@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/Hydra_JCVI/bowtie_index/cs/Hydra_JCVI.fa
+/cvmfs/data.galaxyproject.org/byhand/Hydra_JCVI/bowtie_index/cs/Hydra_JCVI.3.ebwt
+####### SIZE: 1141 KB

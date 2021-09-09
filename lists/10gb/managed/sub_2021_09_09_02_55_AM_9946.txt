@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/viruses/Viruses/seqid2taxid.map
+####### SIZE: 10164 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Granulicella_mallensis_MP5ACTX8_uid49957/NC_016631.fna
+####### SIZE: 6179 KB

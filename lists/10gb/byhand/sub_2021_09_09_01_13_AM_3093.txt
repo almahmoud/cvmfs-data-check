@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/ce10/bwa_index
+/cvmfs/data.galaxyproject.org/byhand/ce10/liftOver/ce10ToCe6.over.chain
+/cvmfs/data.galaxyproject.org/byhand/ce10/liftOver/ce10ToCaeAng1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/ce10/liftOver/ce10ToCaeJap4.over.chain
+####### SIZE: 9430 KB

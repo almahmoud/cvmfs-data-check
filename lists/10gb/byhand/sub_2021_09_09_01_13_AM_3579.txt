@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro4/bowtie_index/cs/panTro4.1.ebwt
+####### SIZE: 816860 KB

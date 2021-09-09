@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Owenweeksia_hongkongensis_DSM_17368_uid82951
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanopyrus_kandleri_AV19_uid57883/NC_003551.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanopyrus_kandleri_AV19_uid57883
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_oralis_Uo5_uid65449/NC_015291.fna
+####### SIZE: 9271 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/caePb3/bwa_index/caePb3.fa
+/cvmfs/data.galaxyproject.org/byhand/caePb3/bwa_index/caePb3.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/caePb3/bwa_index/caePb3.fa.ann
+####### SIZE: 283 KB

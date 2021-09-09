@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/16088
+/cvmfs/data.galaxyproject.org/byhand/microbes/legiPneu_PHILADELPHIA/seq/chr.nib
+####### SIZE: 9577 KB

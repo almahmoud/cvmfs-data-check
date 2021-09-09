@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/byhand/droPer1/sam_index/droPer1.fa
+/cvmfs/data.galaxyproject.org/byhand/droPer1/sam_index/droPer1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/droPer1/sam_index
+/cvmfs/data.galaxyproject.org/byhand/droPer1/download/2014-03-18_09.04.13_-0400_droPer1.log
+/cvmfs/data.galaxyproject.org/byhand/droPer1/download
+/cvmfs/data.galaxyproject.org/byhand/droPer1/picard_index/droPer1.fa
+/cvmfs/data.galaxyproject.org/byhand/droPer1/picard_index/droPer1.dict
+/cvmfs/data.galaxyproject.org/byhand/droPer1/picard_index/droPer1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/droPer1/picard_index
+/cvmfs/data.galaxyproject.org/byhand/droPer1/bowtie2_index/droPer1.fa
+####### SIZE: 4712 KB

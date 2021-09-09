@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Enterobacter_aerogenes_KCTC_2190_uid68103
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydophila_pneumoniae_LPCoLN_uid159529/NC_017286.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydophila_pneumoniae_LPCoLN_uid159529/NC_017285.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydophila_pneumoniae_LPCoLN_uid159529
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ehrlichia_ruminantium_Gardel_uid58245/NC_006831.fna
+####### SIZE: 9201 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/monDom5/chr6_ssto_hap7.axt
+####### SIZE: 1929 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/polyQLWP/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/polyQLWP/chr.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/polyQLWP/chr.gbk
+####### SIZE: 7506 KB

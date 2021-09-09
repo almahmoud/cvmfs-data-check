@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/equCab1/chr8_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/equCab1/chrM.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/equCab1/chr6_qbl_hap2.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/equCab1/chr6_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/equCab1/chr17_random.axt
+####### SIZE: 9650 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodopseudomonas_palustris_CGA009_uid62901
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/butyrate_producing_bacterium_SM4_1_uid197180/NC_021024.fna
+####### SIZE: 8501 KB

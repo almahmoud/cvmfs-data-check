@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/micMur1/sam_index
+/cvmfs/data.galaxyproject.org/byhand/micMur1/picard_index/micMur1.fa
+####### SIZE: 6763 KB

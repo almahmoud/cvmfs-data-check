@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/CpipJ1/seq/CpipJ1.fa
+####### SIZE: 574949 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Octadecabacter_antarcticus_307_uid54701/NC_020911.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Octadecabacter_antarcticus_307_uid54701
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Listeria_monocytogenes_serotype_1_2c_SLCC2372_uid174872/NC_018889.fna
+####### SIZE: 9653 KB

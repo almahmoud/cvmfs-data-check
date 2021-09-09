@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Roseburia_intestinalis_XB6B4_uid197179/NC_021012.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Roseburia_intestinalis_XB6B4_uid197179
+####### SIZE: 8497 KB

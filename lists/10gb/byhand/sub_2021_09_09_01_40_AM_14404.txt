@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/nib/chrX_random.nib
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/nib/chr21_random.nib
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/nib/chr20_random.nib
+####### SIZE: 9793 KB

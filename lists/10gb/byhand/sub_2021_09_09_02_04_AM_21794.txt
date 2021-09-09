@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/nib/chr22.nib
+####### SIZE: 24495 KB

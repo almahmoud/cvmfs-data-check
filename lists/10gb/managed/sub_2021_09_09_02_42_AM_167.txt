@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/loxAfr3/loxAfr3.6.ht2
+####### SIZE: 775139 KB

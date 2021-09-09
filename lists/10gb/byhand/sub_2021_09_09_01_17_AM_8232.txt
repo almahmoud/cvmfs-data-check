@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/taeGut1canon/bowtie_index/cs/taeGut1canon.1.ebwt
+####### SIZE: 336376 KB

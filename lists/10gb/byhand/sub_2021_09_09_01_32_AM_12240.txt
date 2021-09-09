@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/vibrPara1/chrII.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/vibrPara1/chrI.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/vibrPara1/chrII.gbk
+####### SIZE: 6319 KB

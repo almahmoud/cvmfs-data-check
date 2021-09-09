@@ -1,0 +1,14 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/xantCamp/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/xantCamp/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/xantCamp/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/xantCamp/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/xantCamp/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/xantCamp/chr.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/xantCamp/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/xantCamp/chr.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/xantCamp/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/xantCamp/xantCamp.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/xantCamp/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/xantCamp/chr.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/xantCamp/chr.fna
+####### SIZE: 9829 KB

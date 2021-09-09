@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/felCat5/bwa_index/felCat5.fa
+/cvmfs/data.galaxyproject.org/byhand/felCat5/bwa_index/felCat5.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/felCat5/bwa_index/felCat5.fa.amb
+####### SIZE: 3311 KB

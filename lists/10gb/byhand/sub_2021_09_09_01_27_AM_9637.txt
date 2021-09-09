@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/anoCar2/bowtie_index/cs/anoCar2.fa
+/cvmfs/data.galaxyproject.org/byhand/anoCar2/bowtie_index/cs/anoCar2.3.ebwt
+####### SIZE: 371 KB

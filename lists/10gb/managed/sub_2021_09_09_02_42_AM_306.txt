@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19canon/hg19canon.fa
+####### SIZE: 1 KB

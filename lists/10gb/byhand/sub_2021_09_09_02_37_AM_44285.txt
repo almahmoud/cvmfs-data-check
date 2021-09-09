@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/apiMel1/liftOver
+/cvmfs/data.galaxyproject.org/byhand/apiMel1/bowtie_index/cs/apiMel1.fa
+/cvmfs/data.galaxyproject.org/byhand/apiMel1/bowtie_index/cs/apiMel1.3.ebwt
+####### SIZE: 9824 KB

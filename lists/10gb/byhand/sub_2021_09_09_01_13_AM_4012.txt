@@ -1,0 +1,16 @@
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/danRer2/chrUn_random.idx
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/danRer2/chr3_random.idx
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/danRer2/chr12.idx
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/danRer2/chrY.idx
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/danRer2/chr18.idx
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/danRer2/chr16_random.axt
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/danRer2/chr7_random.idx
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/danRer2/chr3.idx
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/danRer2/chr11.idx
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/danRer2/chr10_random.idx
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/danRer2/chr7.idx
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/danRer2/chr17.idx
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/danRer2/chr12_random.idx
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/danRer2/chr13.idx
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/danRer2/chr15.idx
+####### SIZE: 5600 KB

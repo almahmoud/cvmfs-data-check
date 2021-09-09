@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/178/bwa_index/cs/burkPseu_K96243.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/microbes/178/bwa_index/cs/burkPseu_K96243.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/microbes/178/bwa_index/cs/burkPseu_K96243.fa.rbwt
+####### SIZE: 5310 KB

@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/247/NC_002179.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/247
+/cvmfs/data.galaxyproject.org/byhand/microbes/402/seq/NC_008502.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/402/seq/NC_008526.nib
+####### SIZE: 9369 KB

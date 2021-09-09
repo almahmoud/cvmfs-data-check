@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/oryLat1
+####### SIZE: 269806 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/musFur1/musFur1.fa
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/musFur1/musFur1.3.bt2
+####### SIZE: 1034 KB

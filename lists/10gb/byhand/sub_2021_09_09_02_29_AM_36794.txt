@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/bowtie_index/ornAna1.1.ebwt
+####### SIZE: 526593 KB

@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/multiz30way/maf/chrM.maf.gz
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/multiz30way/maf/chr9_random.maf.gz
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/multiz30way/maf/chr17_random.maf.gz
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/multiz30way/maf/chr5_random.maf.gz
+####### SIZE: 2601 KB

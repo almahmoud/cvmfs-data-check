@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/speTri2/bwa_index/speTri2.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/speTri2/bwa_index/speTri2.fa
+/cvmfs/data.galaxyproject.org/byhand/speTri2/bwa_index/speTri2.fa.ann
+####### SIZE: 2816 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/rmsk/chr5.fa.align
+####### SIZE: 57250 KB

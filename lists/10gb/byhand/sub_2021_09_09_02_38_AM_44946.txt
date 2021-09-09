@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/rn4/maf/chr15.maf
+####### SIZE: 79766 KB

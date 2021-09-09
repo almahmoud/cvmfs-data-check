@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shewanella_W3_18_1_uid58341/NC_008750.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shewanella_W3_18_1_uid58341
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halalkalicoccus_jeotgali_B3_uid50305/NC_014302.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halalkalicoccus_jeotgali_B3_uid50305/NC_014299.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halalkalicoccus_jeotgali_B3_uid50305/NC_014300.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halalkalicoccus_jeotgali_B3_uid50305/NC_014303.fna
+####### SIZE: 9770 KB

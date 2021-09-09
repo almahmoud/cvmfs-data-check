@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro1/align/hg16/maf/chr6.maf.index
+/cvmfs/data.galaxyproject.org/byhand/panTro1/align/hg16/maf/chr23.maf.index
+####### SIZE: 322 KB

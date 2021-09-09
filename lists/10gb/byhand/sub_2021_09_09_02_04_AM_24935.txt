@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/gasAcu1/bowtie_index
+####### SIZE: 952108 KB

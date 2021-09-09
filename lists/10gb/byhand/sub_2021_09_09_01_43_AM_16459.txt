@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/monDom4/chr5.idx
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/monDom4/chrX_random.idx
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/monDom4/chr1_random.idx
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/monDom4/chr19.idx
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/monDom4/chr9_random.idx
+####### SIZE: 1268 KB

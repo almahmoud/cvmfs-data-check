@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Prevotella_intermedia_17_uid163151
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfomicrobium_baculatum_DSM_4028_uid59217/NC_013173.fna
+####### SIZE: 6585 KB

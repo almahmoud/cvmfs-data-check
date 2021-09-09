@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/oryLat1/chr17.axt
+####### SIZE: 4855 KB

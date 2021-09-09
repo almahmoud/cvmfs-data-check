@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/sarHar1/bwa_index
+####### SIZE: 4655391 KB

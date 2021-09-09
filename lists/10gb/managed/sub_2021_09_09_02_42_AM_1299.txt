@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhizobium_etli_bv__mimosae_Mim1_uid213896
+####### SIZE: 7136 KB

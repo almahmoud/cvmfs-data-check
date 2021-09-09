@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9full/bwa_index_v0.5.9-r16/cs/mm9full.fa.nt.ann
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9full/bwa_index_v0.5.9-r16/cs/mm9full.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9full/bwa_index_v0.5.9-r16/cs/mm9full.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9full/bwa_index_v0.5.9-r16/cs/mm9full.fa.nt.amb
+####### SIZE: 42 KB

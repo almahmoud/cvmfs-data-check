@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gordonia_bronchialis_DSM_43247_uid41403/NC_013441.fna
+####### SIZE: 5160 KB

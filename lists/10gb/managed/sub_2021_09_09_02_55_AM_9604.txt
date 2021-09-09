@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thalassolituus_oleivorans_MIL_1_uid195604/NC_020888.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thalassolituus_oleivorans_MIL_1_uid195604
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_aureus_uid193759/NC_020567.fna
+####### SIZE: 7805 KB

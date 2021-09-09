@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/27853
+/cvmfs/data.galaxyproject.org/byhand/microbes/10645/seq/NC_007595.nib
+####### SIZE: 8738 KB

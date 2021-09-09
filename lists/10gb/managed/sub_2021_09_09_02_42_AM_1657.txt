@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sphingomonas_wittichii_RW1_uid58691/NC_009511.fna
+####### SIZE: 5332 KB

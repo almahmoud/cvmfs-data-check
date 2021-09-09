@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Klebsiella_oxytoca_E718_uid170256/NC_018106.fna
+####### SIZE: 6040 KB

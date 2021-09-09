@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sinorhizobium_meliloti_Rm41_uid176372/NC_018700.fna
+####### SIZE: 3645 KB

@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/phiX/bowtie_index/phiX.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/phiX/bowtie_index/phiX.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/phiX/bowtie_index/phiX.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/phiX/bowtie_index/phiX.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/phiX/bowtie_index/phiX.1.ebwt
+####### SIZE: 8200 KB

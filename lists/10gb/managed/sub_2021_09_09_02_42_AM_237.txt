@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/mm9/mm9.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/mm9/mm9.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/mm9/mm9.7.ht2
+####### SIZE: 12 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/sacCer3/bowtie_index/cs/sacCer3.rev.1.ebwt
+####### SIZE: 7489 KB

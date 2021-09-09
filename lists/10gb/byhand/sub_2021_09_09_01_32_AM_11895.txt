@@ -1,0 +1,23 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/leptInte/seq/chrII.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/leptInte/seq/chrI.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/leptInte/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/leptInte/chrI.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/leptInte/chrII.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/leptInte/chrII.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/leptInte/chrII.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/leptInte/chrI.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/leptInte/chrII.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/leptInte/chrII.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/leptInte/chrII.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/leptInte/chrII.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/leptInte/chrI.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/leptInte/chrII.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/leptInte/chrI.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/leptInte/chrII.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/leptInte/chrI.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/leptInte/chrI.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/leptInte/chrII.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/leptInte/chrI.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/leptInte/chrII.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/leptInte/chrII.GeneMarkHMM-2.6m
+####### SIZE: 6531 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/len/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/managed/len/wuhCor1.len
+/cvmfs/data.galaxyproject.org/managed/len/Amel_4.5.len
+####### SIZE: 106 KB

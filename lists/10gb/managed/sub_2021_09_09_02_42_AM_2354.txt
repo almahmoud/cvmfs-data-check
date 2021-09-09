@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shewanella_piezotolerans_WP3_uid58745/NC_011566.fna
+####### SIZE: 5346 KB

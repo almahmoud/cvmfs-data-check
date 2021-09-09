@@ -1,0 +1,12 @@
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/bwa_index/taeGut1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/bwa_index/taeGut1.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/bwa_index/taeGut1.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/bwa_index/taeGut1.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/bwa_index/taeGut1.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/bwa_index/taeGut1.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/bwa_index/taeGut1.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/bwa_index/taeGut1.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/bwa_index
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/taeGut1canon/bwa_index/taeGut1canon.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/taeGut1canon/bwa_index/taeGut1canon.fa.amb
+####### SIZE: 1865 KB

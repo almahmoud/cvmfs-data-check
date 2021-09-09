@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/canFam2/maf/chr25.maf
+####### SIZE: 58422 KB

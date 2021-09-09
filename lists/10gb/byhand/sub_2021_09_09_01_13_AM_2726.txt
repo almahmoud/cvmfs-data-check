@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/micMur1/chr11.axt
+####### SIZE: 143381 KB

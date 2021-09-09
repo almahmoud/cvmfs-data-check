@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/apiMel2/bowtie2_index/apiMel2.rev.1.bt2
+####### SIZE: 77462 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/canFam2/chr2a.axt
+####### SIZE: 132574 KB

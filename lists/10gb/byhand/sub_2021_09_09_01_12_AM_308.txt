@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/proCap1/chr21.axt
+####### SIZE: 21566 KB

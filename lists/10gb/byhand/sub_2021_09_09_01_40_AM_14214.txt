@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/sam_index/ailMel1.fa
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/sam_index/ailMel1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/sam_index
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/picard_index/ailMel1.fa
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/picard_index/ailMel1.fa.fai
+####### SIZE: 5130 KB

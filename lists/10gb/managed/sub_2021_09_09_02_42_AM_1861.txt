@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acetobacterium_woodii_DSM_1030_uid88073
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_equi_zooepidemicus_MGCS10565_uid59263/NC_011134.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_equi_zooepidemicus_MGCS10565_uid59263
+####### SIZE: 8027 KB

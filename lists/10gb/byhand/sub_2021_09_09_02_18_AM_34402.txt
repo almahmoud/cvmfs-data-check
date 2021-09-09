@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/tmp/chr12.fa
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/tmp/chr8.fa
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/tmp/chr5.fa
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/tmp/chr6.fa
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/tmp/chr15.fa
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/tmp/chr4.fa
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/tmp/chr13.fa
+####### SIZE: 5995 KB

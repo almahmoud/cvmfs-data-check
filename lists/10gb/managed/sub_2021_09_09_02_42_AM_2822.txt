@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Flavobacteriaceae_bacterium_3519_10_uid59413
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_licheniformis_ATCC_14580_uid58097/NC_006270.fna
+####### SIZE: 6930 KB

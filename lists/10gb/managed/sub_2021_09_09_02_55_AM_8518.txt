@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Actinobacillus_pleuropneumoniae_serovar_5b_L20_uid58789
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Hippea_maritima_DSM_10411_uid65267/NC_015318.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Hippea_maritima_DSM_10411_uid65267
+####### SIZE: 5620 KB

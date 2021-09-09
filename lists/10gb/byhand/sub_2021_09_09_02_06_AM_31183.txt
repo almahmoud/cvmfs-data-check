@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/tetNig2/sam_index/tetNig2.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/tetNig2/sam_index/tetNig2.fa
+/cvmfs/data.galaxyproject.org/byhand/tetNig2/sam_index/tetNig2_0.1.6.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/tetNig2/sam_index
+/cvmfs/data.galaxyproject.org/byhand/tetNig2/picard_index/tetNig2.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/tetNig2/picard_index/tetNig2.fa
+/cvmfs/data.galaxyproject.org/byhand/tetNig2/picard_index/tetNig2.dict
+/cvmfs/data.galaxyproject.org/byhand/tetNig2/picard_index
+/cvmfs/data.galaxyproject.org/byhand/tetNig2/seq/tetNig2.fa
+####### SIZE: 24 KB

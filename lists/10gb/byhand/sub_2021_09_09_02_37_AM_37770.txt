@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/ornAna1/chr3_random.axt
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/ornAna1/chrX_random.axt
+####### SIZE: 72 KB

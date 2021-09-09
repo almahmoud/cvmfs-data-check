@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Arcobacter_butzleri_RM4018_uid58557/NC_009850.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Arcobacter_butzleri_RM4018_uid58557
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Natronobacterium_gregoryi_SP2_uid74439/NC_019792.fna
+####### SIZE: 8397 KB

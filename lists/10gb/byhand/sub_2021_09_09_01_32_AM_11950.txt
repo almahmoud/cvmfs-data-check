@@ -1,0 +1,12 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/19259
+/cvmfs/data.galaxyproject.org/byhand/microbes/18083/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/18083/18083.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/18083
+/cvmfs/data.galaxyproject.org/byhand/microbes/uncuMeth_RCI/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/uncuMeth_RCI/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/uncuMeth_RCI/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/uncuMeth_RCI/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/uncuMeth_RCI/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/uncuMeth_RCI/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/uncuMeth_RCI/uncuMeth_RCI.info
+####### SIZE: 9872 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/tetNig2/liftOver/tetNig2ToOryLat2.over.chain
+####### SIZE: 31173 KB

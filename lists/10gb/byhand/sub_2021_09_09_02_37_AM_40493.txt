@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/bwa_index/anoGam1.fa
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/bwa_index/anoGam1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/bwa_index/anoGam1.fa.amb
+####### SIZE: 304 KB

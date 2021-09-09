@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer5/nib/chr10.nib
+####### SIZE: 20694 KB

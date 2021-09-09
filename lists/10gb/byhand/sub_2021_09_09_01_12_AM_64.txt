@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19full/bwa_index_v0.7.10-r789/hg19full.fa.bwt
+####### SIZE: 3063635 KB

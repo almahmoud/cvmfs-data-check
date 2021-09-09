@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haloferax_mediterranei_ATCC_33500_uid167315/NC_017941.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haloferax_mediterranei_ATCC_33500_uid167315
+####### SIZE: 6795 KB

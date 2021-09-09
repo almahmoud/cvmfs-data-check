@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/galGal3/maf/chr14.maf
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/galGal3/maf/chr22_random.maf.index
+####### SIZE: 8172 KB

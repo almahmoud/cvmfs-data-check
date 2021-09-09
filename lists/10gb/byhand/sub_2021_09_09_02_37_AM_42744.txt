@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/hg18/chr4.idx
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/hg18/chrE22C19W28.idx
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/hg18/chr17.axt
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/hg18/chr19.axt
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/hg18/chr19.idx
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/hg18/chr24.axt
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/hg18/chr4_random.idx
+####### SIZE: 8960 KB

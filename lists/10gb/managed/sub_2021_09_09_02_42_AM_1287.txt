@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/candidate_division_WWE3_bacterium_RAAC2_WWE3_1_uid230713
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mahella_australiensis_50_1_BON_uid66917/NC_015520.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mahella_australiensis_50_1_BON_uid66917
+####### SIZE: 7093 KB

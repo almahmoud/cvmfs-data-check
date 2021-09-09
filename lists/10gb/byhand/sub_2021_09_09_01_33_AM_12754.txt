@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkXeno_LB400/seq/chr2.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkXeno_LB400/seq/chr3.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkXeno_LB400/seq/chr1.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkXeno_LB400/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkXeno_LB400/chr2.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkXeno_LB400/chr2.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkXeno_LB400/chr1.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkXeno_LB400/chr1.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkXeno_LB400/chr3.Glimmer3.bed
+####### SIZE: 9694 KB

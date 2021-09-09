@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/mm10/bwa_index_v0.5.9-r16/mm10.fa
+/cvmfs/data.galaxyproject.org/byhand/mm10/bwa_index_v0.5.9-r16/mm10.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/mm10/bwa_index_v0.5.9-r16/mm10.fa.amb
+####### SIZE: 15 KB

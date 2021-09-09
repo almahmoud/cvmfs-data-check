@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/bosTau2/chr19.axt
+####### SIZE: 46837 KB

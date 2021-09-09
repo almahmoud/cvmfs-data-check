@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Capnocytophaga_ochracea_DSM_7271_uid59197
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Salmonella_enterica_serovar_Gallinarum_pullorum_RKS5078_uid87035/NC_016831.fna
+####### SIZE: 7188 KB

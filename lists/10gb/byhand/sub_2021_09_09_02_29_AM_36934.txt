@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/Tcas_3.0/bowtie_index/Tcas_3.0.fa
+/cvmfs/data.galaxyproject.org/byhand/Tcas_3.0/bowtie_index/Tcas_3.0.3.ebwt
+####### SIZE: 79 KB

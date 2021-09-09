@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/papHam1/chr3.axt
+####### SIZE: 332161 KB

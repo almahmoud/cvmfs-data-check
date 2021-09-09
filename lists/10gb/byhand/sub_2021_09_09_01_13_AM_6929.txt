@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/caeJap3/bowtie_index
+####### SIZE: 343458 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/susScr3/nib/chr14.nib
+####### SIZE: 75124 KB

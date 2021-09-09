@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.38.pin
+####### SIZE: 29370 KB

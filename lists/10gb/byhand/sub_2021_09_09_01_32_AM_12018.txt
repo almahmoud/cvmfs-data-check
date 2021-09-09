@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/acidCell_11B/chr.gbk
+####### SIZE: 5798 KB

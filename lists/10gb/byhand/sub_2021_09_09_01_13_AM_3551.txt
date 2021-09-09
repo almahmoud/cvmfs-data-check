@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro4/sam_index/panTro4.fa
+/cvmfs/data.galaxyproject.org/byhand/panTro4/sam_index/panTro4.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/panTro4/sam_index
+/cvmfs/data.galaxyproject.org/byhand/panTro4/picard_index/panTro4.fa
+/cvmfs/data.galaxyproject.org/byhand/panTro4/picard_index/panTro4.dict
+/cvmfs/data.galaxyproject.org/byhand/panTro4/picard_index/panTro4.fa.fai
+####### SIZE: 6430 KB

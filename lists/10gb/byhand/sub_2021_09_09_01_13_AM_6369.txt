@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/danRer4/maf
+####### SIZE: 143692 KB

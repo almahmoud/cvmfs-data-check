@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Stanieria_cyanosphaera_PCC_7437_uid183115/NC_019748.fna
+####### SIZE: 4994 KB

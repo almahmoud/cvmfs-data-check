@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/venter1/bwa_index/venter1.fa.rbwt
+####### SIZE: 1028888 KB

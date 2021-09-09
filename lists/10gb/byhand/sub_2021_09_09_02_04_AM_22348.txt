@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/calJac3/chr7_random.axt
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/calJac3/chr19_random.axt
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/calJac3/chr6_hla_hap1.axt
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/calJac3/chr18_random.axt
+####### SIZE: 9896 KB

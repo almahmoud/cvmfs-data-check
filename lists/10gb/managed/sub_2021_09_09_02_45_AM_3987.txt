@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/orthofinder/30.aln
+####### SIZE: 12416 KB

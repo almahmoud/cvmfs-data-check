@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19/hg19.5.ht2
+####### SIZE: 1189597 KB

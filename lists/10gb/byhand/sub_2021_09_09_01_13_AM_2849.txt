@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/quality_scores
+/cvmfs/data.galaxyproject.org/byhand/hg19/seq/hg19chrM.fa
+/cvmfs/data.galaxyproject.org/byhand/hg19/seq/chrM.fa
+/cvmfs/data.galaxyproject.org/byhand/hg19/seq/hg19.fa
+####### SIZE: 24 KB

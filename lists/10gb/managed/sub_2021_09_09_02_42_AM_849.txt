@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/eschColi_K12
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/melGal1/melGal1.fa.ann
+####### SIZE: 8174 KB

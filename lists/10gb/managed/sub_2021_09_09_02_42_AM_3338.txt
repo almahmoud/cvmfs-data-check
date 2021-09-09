@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Renibacterium_salmoninarum_ATCC_33209_uid58899/NC_010168.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Renibacterium_salmoninarum_ATCC_33209_uid58899
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Enterobacter_aerogenes_EA1509E_uid187411/NC_020180.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Enterobacter_aerogenes_EA1509E_uid187411/NC_020182.fna
+####### SIZE: 6427 KB

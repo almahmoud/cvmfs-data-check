@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg38/download
+####### SIZE: 4012622 KB

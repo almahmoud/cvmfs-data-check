@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_cereus_FRI_35_uid173403/NC_018491.fna
+####### SIZE: 5036 KB

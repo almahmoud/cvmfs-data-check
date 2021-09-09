@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/stapAure_MU50/chr.gbk
+####### SIZE: 6233 KB

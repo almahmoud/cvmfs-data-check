@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/Schizosaccharomyces_pombe_1.1
+####### SIZE: 76765 KB

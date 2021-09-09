@@ -1,0 +1,15 @@
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/quality_scores/Contig75390.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/quality_scores/Contig131058.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/quality_scores/Contig290759.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/quality_scores/Contig33928.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/quality_scores/Contig291177.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/quality_scores/Contig81555.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/quality_scores/Contig46199.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/quality_scores/Contig16484.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/quality_scores/Contig41357.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/quality_scores/Contig44307.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/quality_scores/Contig282151.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/quality_scores/Contig38076.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/quality_scores/Contig10635.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/quality_scores/Contig86723.qa.bqv
+####### SIZE: 153 KB

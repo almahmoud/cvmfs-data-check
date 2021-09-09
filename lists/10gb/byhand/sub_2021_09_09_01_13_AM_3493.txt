@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/tetNig1full/bowtie_index/cs/tetNig1full.fa
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/tetNig1full/bowtie_index/cs/tetNig1full.3.ebwt
+####### SIZE: 394 KB

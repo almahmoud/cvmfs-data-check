@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Flexibacter_litoralis_DSM_6794_uid168257
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Blochmannia_chromaiodes_640_uid185308/NC_020075.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Blochmannia_chromaiodes_640_uid185308
+####### SIZE: 6451 KB

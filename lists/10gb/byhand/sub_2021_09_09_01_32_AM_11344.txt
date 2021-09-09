@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_K12/tmap_index
+####### SIZE: 360924 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Azoarcus_BH72_uid61603/NC_008702.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Azoarcus_BH72_uid61603
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nitrosococcus_halophilus_Nc4_uid46803/NC_013958.fna
+####### SIZE: 8741 KB

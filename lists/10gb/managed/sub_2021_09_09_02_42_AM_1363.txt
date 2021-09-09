@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Arcobacter_nitrofigilis_DSM_7299_uid49001
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ureaplasma_parvum_serovar_3_ATCC_27815_uid58887/NC_010503.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ureaplasma_parvum_serovar_3_ATCC_27815_uid58887
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Teredinibacter_turnerae_T7901_uid59267/NC_012997.fna
+####### SIZE: 9806 KB

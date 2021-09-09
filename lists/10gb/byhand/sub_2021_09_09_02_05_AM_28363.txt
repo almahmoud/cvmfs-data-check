@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/mm6
+####### SIZE: 4947980 KB

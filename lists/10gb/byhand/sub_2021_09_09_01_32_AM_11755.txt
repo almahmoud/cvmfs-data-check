@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/pireSp/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/pireSp/chr.fna
+####### SIZE: 7323 KB

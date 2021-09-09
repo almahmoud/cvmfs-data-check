@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/sam_index/rheMac2.fa
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/sam_index/rheMac2.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/sam_index
+####### SIZE: 8 KB

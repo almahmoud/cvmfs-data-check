@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Stackebrandtia_nassauensis_DSM_44728_uid46663/NC_013947.fna
+####### SIZE: 6777 KB

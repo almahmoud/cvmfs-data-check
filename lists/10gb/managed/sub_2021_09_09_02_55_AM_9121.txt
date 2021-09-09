@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Asticcacaulis_excentricus_CB_48_uid55641/NC_014816.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Asticcacaulis_excentricus_CB_48_uid55641
+####### SIZE: 6838 KB

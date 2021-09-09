@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/caePb3/bwa_index/caePb3.fa.pac
+####### SIZE: 46477 KB

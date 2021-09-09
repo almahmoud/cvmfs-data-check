@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Tistrella_mobilis_KA081020_065_uid167486/NC_017956.fna
+####### SIZE: 3883 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_yongonense_05_1390_uid189649/NC_021715.fna
+####### SIZE: 5469 KB

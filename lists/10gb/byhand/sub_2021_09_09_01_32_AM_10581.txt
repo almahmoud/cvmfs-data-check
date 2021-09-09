@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/otoGar3/bowtie_index/cs
+####### SIZE: 2483555 KB

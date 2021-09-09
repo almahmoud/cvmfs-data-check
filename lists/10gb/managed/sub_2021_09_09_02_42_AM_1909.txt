@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Klebsiella_oxytoca_KCTC_1686_uid83159
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Comamonadaceae_bacterium_CR_uid223378/NC_022576.fna
+####### SIZE: 8887 KB

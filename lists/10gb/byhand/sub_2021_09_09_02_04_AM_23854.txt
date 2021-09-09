@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal2/liftOver/galGal2ToXenTro1.over.chain
+####### SIZE: 14048 KB

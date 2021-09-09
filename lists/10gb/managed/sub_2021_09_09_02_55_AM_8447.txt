@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Blattabacterium__Blaberus_giganteus__uid165873
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Geobacillus_thermoglucosidasius_C56_YS93_uid48129/NC_015661.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Geobacillus_thermoglucosidasius_C56_YS93_uid48129/NC_015665.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Geobacillus_thermoglucosidasius_C56_YS93_uid48129/NC_015660.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Geobacillus_thermoglucosidasius_C56_YS93_uid48129
+####### SIZE: 8552 KB

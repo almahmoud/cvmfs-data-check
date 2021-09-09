@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/chr1.fna
+####### SIZE: 2826 KB

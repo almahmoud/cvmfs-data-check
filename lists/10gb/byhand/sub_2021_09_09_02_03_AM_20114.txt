@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/multiz15way/chr4h.maf
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/multiz15way/md5sum.txt
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/multiz15way/chrM.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/multiz15way/chrYh.maf
+####### SIZE: 7058 KB

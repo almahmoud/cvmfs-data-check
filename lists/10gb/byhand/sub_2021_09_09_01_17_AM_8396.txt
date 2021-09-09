@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/choHof1/bowtie_index/cs/choHof1.4.ebwt
+####### SIZE: 503033 KB

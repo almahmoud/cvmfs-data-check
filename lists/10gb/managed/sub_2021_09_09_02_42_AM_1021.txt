@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/rheMac8.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/danRer11.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/susScr11.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/cypVar1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/droAlb1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/hg38Patch9.len
+####### SIZE: 7651 KB

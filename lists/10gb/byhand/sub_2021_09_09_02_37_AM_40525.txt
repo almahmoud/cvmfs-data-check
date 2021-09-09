@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer7/bwa_index/cs
+####### SIZE: 2414871 KB

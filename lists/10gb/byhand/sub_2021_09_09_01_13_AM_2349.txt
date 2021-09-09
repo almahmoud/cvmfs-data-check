@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/tarSyr1/chrUn_gl000218.axt
+####### SIZE: 105 KB

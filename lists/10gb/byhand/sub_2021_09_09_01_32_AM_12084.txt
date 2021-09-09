@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/403
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewAmaz/seq/chr.nib
+####### SIZE: 9850 KB

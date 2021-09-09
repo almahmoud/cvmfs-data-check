@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/27835/bowtie_index/cs/27835.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/27835/bowtie_index/cs/27835.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/27835/bowtie_index/cs/27835.rev.1.ebwt
+####### SIZE: 7155 KB

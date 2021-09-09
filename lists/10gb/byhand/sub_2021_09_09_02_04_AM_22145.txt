@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/mm9/maf/chrX.maf
+####### SIZE: 92230 KB

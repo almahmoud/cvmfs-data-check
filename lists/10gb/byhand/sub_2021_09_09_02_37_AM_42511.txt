@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/myoLuc2/seq/myoLuc2.2bit
+####### SIZE: 483227 KB

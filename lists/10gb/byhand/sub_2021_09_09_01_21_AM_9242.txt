@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg16/seq/chr4.nib
+####### SIZE: 93620 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer2/align/tetNig1/maf/chr23.maf.index
+/cvmfs/data.galaxyproject.org/byhand/danRer2/align/tetNig1/maf/chr18.maf
+####### SIZE: 5570 KB

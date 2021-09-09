@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Fibrella_aestuarina_uid178352/NC_020054.fna
+####### SIZE: 6712 KB

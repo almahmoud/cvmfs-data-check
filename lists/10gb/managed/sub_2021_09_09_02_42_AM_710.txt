@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/apiMel4/apiMel4.fa
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/apiMel4/apiMel4.3.bt2
+####### SIZE: 160 KB

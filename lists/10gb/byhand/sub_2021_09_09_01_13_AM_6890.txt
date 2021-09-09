@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/fr1/liftOver/fr1ToGasAcu1.over.chain
+####### SIZE: 34949 KB

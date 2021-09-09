@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Prevotella_oral_taxon_299_F0039_uid45899
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Micromonospora_L5_uid45895/NC_014815.fna
+####### SIZE: 9359 KB

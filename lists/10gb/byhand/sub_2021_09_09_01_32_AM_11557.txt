@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/alcaBork_SK2/chr.gbk
+####### SIZE: 7393 KB

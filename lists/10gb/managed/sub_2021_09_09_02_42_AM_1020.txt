@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/megLyr1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/xenTro9.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/zaiEbo1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/taiEbo1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/pytBiv1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/droFic2.len
+####### SIZE: 3754 KB

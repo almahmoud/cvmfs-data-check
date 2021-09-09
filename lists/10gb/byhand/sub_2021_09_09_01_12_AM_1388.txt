@@ -1,0 +1,13 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/myoLuc1/chrY.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/myoLuc1/chr19_gl000209_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/myoLuc1/chrUn_gl000236.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/myoLuc1/chrUn_gl000233.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/myoLuc1/chrUn_gl000243.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/myoLuc1/chrUn_gl000224.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/myoLuc1/chr9_gl000200_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/myoLuc1/chr6_qbl_hap6.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/myoLuc1/chrUn_gl000247.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/myoLuc1/chr1_gl000191_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/myoLuc1/chrUn_gl000222.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/myoLuc1/chrUn_gl000221.axt
+####### SIZE: 8395 KB

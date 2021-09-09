@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/17457/NC_009439.fna
+####### SIZE: 5025 KB

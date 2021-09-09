@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/myoLuc2/srma_index
+/cvmfs/data.galaxyproject.org/byhand/myoLuc2/bwa_index/myoLuc2.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/myoLuc2/bwa_index/myoLuc2.fa.ann
+####### SIZE: 9990 KB

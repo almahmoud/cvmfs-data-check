@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/dm3/liftOver/dm3ToAnoGam1.over.chain
+####### SIZE: 8022 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Terriglobus_roseus_DSM_18391_uid168183/NC_018014.fna
+####### SIZE: 5179 KB

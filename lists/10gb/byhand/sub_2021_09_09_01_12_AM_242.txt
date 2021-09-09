@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way_v1/chrUn_gl000233.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way_v1/chr14.maf.lzot
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way_v1/chrUn_gl000212.maf.lzo
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way_v1/chrUn_gl000238.maf.lzo
+####### SIZE: 8078 KB

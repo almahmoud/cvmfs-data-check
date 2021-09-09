@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/CpipJ1/bowtie_index/CpipJ1.fa
+/cvmfs/data.galaxyproject.org/byhand/CpipJ1/bowtie_index/CpipJ1.3.ebwt
+####### SIZE: 429 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/caeRem3/seq/caeRem3.fa
+####### SIZE: 148530 KB

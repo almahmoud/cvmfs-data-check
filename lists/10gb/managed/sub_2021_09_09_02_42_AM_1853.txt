@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfobacterium_autotrophicum_HRM2_uid59061/NC_012108.fna
+####### SIZE: 5537 KB

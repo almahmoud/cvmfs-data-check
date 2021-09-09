@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/otoGar3/otoGar3.fa.amb
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/otoGar3/otoGar3.fa.ann
+####### SIZE: 3444 KB

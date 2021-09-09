@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/nib/chr10.nib
+####### SIZE: 6280 KB

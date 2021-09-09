@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Persicivirga_dokdonensis_DSW_6_uid186842/NC_020156.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Persicivirga_dokdonensis_DSW_6_uid186842
+####### SIZE: 7761 KB

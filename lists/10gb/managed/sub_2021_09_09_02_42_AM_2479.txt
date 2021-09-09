@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodomicrobium_vannielii_ATCC_17100_uid43247
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodococcus_jostii_RHA1_uid58325/NC_008270.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodococcus_jostii_RHA1_uid58325/NC_008271.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodococcus_jostii_RHA1_uid58325/NC_008269.fna
+####### SIZE: 5863 KB

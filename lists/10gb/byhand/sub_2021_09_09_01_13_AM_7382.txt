@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro1/align/hg16/chr6_random.idx
+/cvmfs/data.galaxyproject.org/byhand/panTro1/align/hg16/chr5.idx
+/cvmfs/data.galaxyproject.org/byhand/panTro1/align/hg16/chr17_random.idx
+/cvmfs/data.galaxyproject.org/byhand/panTro1/align/hg16/chr20.idx
+/cvmfs/data.galaxyproject.org/byhand/panTro1/align/hg16/chr4.idx
+/cvmfs/data.galaxyproject.org/byhand/panTro1/align/hg16/chr18_random.idx
+####### SIZE: 2150 KB

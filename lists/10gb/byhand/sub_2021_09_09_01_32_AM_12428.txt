@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/saccDegr_2_40/chr.gbk
+####### SIZE: 10932 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/mm7/chr26.axt
+####### SIZE: 24252 KB

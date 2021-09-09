@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/26Gv2.0/db/blast/orthofinder.phr
+####### SIZE: 63398 KB

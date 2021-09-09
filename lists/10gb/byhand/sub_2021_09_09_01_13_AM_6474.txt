@@ -1,0 +1,20 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/bwa_index/hg18full.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/hg18/bwa_index/hg18.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/hg18/bwa_index/hg18full.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/hg18/bwa_index/hg18.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/hg18/bwa_index/hg18full.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/hg18/bwa_index/hg18full.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/hg18/bwa_index/hg18.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/hg18/bwa_index/hg18.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/hg18/bwa_index/hg18full.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/hg18/bwa_index/hg18.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/hg18/bwa_index/hg18full.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/hg18/bwa_index/hg18full.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/hg18/bwa_index/hg18.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/hg18/bwa_index/hg18.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/hg18/bwa_index/hg18.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/hg18/bwa_index/hg18full.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/hg18/bwa_index
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18canon/bowtie2_index/hg18canon.fa
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18canon/bowtie2_index/hg18canon.3.bt2
+####### SIZE: 34 KB

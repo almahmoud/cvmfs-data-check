@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/bowtie_index/cs/rheMac2.fa
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/bowtie_index/cs/rheMac2.3.ebwt
+####### SIZE: 1519 KB

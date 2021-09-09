@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/bruMal1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/sorAra1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/priPac1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/241.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/13370.len
+####### SIZE: 6182 KB

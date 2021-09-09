@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/anoCar1/chrX.axt
+####### SIZE: 8460 KB

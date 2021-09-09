@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Serratia_plymuthica_AS9_uid67313
+####### SIZE: 5396 KB

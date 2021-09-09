@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/droSim1/align/dm2/chr2L_random.axt
+/cvmfs/data.galaxyproject.org/byhand/droSim1/align/dm2/chrM.axt
+/cvmfs/data.galaxyproject.org/byhand/droSim1/align/dm2/chrU.idx
+/cvmfs/data.galaxyproject.org/byhand/droSim1/align/dm2/chrM.idx
+/cvmfs/data.galaxyproject.org/byhand/droSim1/align/dm2/chr3R_random.axt
+/cvmfs/data.galaxyproject.org/byhand/droSim1/align/dm2/chrYh_random.idx
+/cvmfs/data.galaxyproject.org/byhand/droSim1/align/dm2/chr3h_random.axt
+/cvmfs/data.galaxyproject.org/byhand/droSim1/align/dm2/chr2h_random.idx
+/cvmfs/data.galaxyproject.org/byhand/droSim1/align/dm2/chr2L.idx
+####### SIZE: 5232 KB

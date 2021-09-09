@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro1/align/mm6/chrX_random.idx
+/cvmfs/data.galaxyproject.org/byhand/panTro1/align/mm6/chr1_random.idx
+####### SIZE: 485 KB

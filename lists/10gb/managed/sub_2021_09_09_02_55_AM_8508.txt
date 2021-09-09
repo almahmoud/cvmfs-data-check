@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shewanella_pealeana_ATCC_700345_uid58705/NC_009901.fna
+####### SIZE: 5126 KB

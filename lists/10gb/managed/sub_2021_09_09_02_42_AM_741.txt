@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/managed/picard_index/dm6/dm6.fa
+/cvmfs/data.galaxyproject.org/managed/picard_index/dm6/dm6.dict
+/cvmfs/data.galaxyproject.org/managed/picard_index/dm6
+/cvmfs/data.galaxyproject.org/managed/picard_index/musFur1/musFur1.fa
+/cvmfs/data.galaxyproject.org/managed/picard_index/musFur1/musFur1.dict
+/cvmfs/data.galaxyproject.org/managed/picard_index/musFur1
+/cvmfs/data.galaxyproject.org/managed/picard_index/hg19_rCRS_pUC18_phiX174/hg19_rCRS_pUC18_phiX174.fa
+/cvmfs/data.galaxyproject.org/managed/picard_index/hg19_rCRS_pUC18_phiX174/hg19_rCRS_pUC18_phiX174.dict
+/cvmfs/data.galaxyproject.org/managed/picard_index/hg19_rCRS_pUC18_phiX174
+/cvmfs/data.galaxyproject.org/managed/picard_index/papAnu2/papAnu2.fa
+####### SIZE: 2637 KB

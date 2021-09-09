@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/melGal1/liftOver/melGal1ToDanRer7.over.chain
+####### SIZE: 4938 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTau5/bowtie_index/bosTau5.fa
+/cvmfs/data.galaxyproject.org/byhand/bosTau5/bowtie_index/bosTau5.3.ebwt
+####### SIZE: 880 KB

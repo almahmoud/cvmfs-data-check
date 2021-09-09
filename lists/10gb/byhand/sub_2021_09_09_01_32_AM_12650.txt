@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/download/20dec2010/1419/eschColi_O157H7_TW14359.fasta
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/download/20dec2010/1419/eschColi_O157H7_EDL933_plasmid_pO157.fasta
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/download/20dec2010/1419/eschColi_O157H7_TW14359_plasmid_pO157.fasta
+####### SIZE: 5662 KB

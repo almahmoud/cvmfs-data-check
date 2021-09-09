@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Geobacillus_Y412MC61_uid41171
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pelagibacterium_halotolerans_B2_uid74393/NC_016079.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pelagibacterium_halotolerans_B2_uid74393/NC_016078.fna
+####### SIZE: 7552 KB

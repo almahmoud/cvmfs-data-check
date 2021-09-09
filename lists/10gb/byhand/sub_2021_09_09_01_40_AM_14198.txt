@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal4/bowtie_index/galGal4.fa
+/cvmfs/data.galaxyproject.org/byhand/galGal4/bowtie_index/cs/galGal4.fa
+/cvmfs/data.galaxyproject.org/byhand/galGal4/bowtie_index/cs/galGal4.3.ebwt
+####### SIZE: 265 KB

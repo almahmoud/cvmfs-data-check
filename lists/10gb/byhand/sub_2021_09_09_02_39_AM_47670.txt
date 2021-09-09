@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/8way-multiZ/chr15.maf
+####### SIZE: 380343 KB

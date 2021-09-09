@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/bwa_index/rheMac2.fa.pac
+####### SIZE: 699245 KB

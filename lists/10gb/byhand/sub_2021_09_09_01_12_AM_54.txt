@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19full/bowtie2_index/hg19full.fa
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19full/bowtie2_index/hg19full.3.bt2
+####### SIZE: 6 KB

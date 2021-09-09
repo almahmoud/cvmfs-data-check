@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/phyloP44way.primate/chr5_random.phyloP44way.primate.wigFix.gz
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/phyloP44way.primate/chr15_random.phyloP44way.primate.wigFix.gz
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/phyloP44way.primate/chr21_random.phyloP44way.primate.wigFix.gz
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/phyloP44way.primate/chr7_random.phyloP44way.primate.wigFix.gz
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/phyloP44way.primate/chr4_random.phyloP44way.primate.wigFix.gz
+/cvmfs/data.galaxyproject.org/byhand/hg18/misc/phyloP44way.primate/chr2_random.phyloP44way.primate.wigFix.gz
+####### SIZE: 2062 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/Amel_4.5/Amel_4.5.fa
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/Amel_4.5/Amel_4.5.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/Amel_4.5/Amel_4.5.fa.amb
+####### SIZE: 402 KB

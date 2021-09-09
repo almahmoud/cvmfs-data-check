@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTau7/bwa_index_v0.5.9-r16/bosTau7.fa.bwt
+####### SIZE: 1091719 KB

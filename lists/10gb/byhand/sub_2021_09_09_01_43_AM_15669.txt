@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer1/chrom/chr18.fa
+####### SIZE: 26714 KB

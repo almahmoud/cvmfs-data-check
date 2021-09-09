@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam1/align/hg17/chr24.axt
+####### SIZE: 74648 KB

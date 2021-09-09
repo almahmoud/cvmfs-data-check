@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodoferax_ferrireducens_T118_uid58353/NC_007908.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodoferax_ferrireducens_T118_uid58353
+####### SIZE: 9596 KB

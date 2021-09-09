@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/otoGar1/otoGar1.3.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/otoGar1/otoGar1.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/otoGar1/otoGar1.7.ht2
+####### SIZE: 6525 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanothermus_fervidus_DSM_2088_uid60167/NC_014658.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanothermus_fervidus_DSM_2088_uid60167
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Psychromonas_ingrahamii_37_uid58521/NC_008709.fna
+####### SIZE: 6986 KB

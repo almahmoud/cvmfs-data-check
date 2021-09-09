@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab2/tmp/chr17.fa
+####### SIZE: 80443 KB

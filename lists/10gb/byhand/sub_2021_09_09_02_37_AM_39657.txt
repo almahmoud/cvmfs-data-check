@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/susScr1/bowtie_index/cs/susScr1.fa
+/cvmfs/data.galaxyproject.org/byhand/susScr1/bowtie_index/cs/susScr1.3.ebwt
+####### SIZE: 1729 KB

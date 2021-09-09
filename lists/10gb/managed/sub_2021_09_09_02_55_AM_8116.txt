@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/align/30_WAY_MULTIZ_HG38
+####### SIZE: 172976733 KB

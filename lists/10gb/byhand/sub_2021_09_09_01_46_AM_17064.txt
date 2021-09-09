@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/rmsk/Ultra274.fa.align
+####### SIZE: 26019 KB

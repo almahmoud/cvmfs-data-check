@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/loxAfr3/bwa_index/loxAfr3.fa.rbwt
+####### SIZE: 1170689 KB

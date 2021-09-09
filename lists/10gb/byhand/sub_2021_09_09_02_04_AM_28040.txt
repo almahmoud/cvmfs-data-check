@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.ptf
+####### SIZE: 115913 KB

@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/cavPor3/sam_index/cavPor3.fa
+/cvmfs/data.galaxyproject.org/byhand/cavPor3/sam_index/cavPor3.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/cavPor3/sam_index
+/cvmfs/data.galaxyproject.org/byhand/cavPor3/picard_index/cavPor3.fa
+/cvmfs/data.galaxyproject.org/byhand/cavPor3/picard_index/cavPor3.dict
+/cvmfs/data.galaxyproject.org/byhand/cavPor3/picard_index/cavPor3.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/cavPor3/picard_index
+/cvmfs/data.galaxyproject.org/byhand/cavPor3/bowtie2_index/cavPor3.3.bt2
+/cvmfs/data.galaxyproject.org/byhand/cavPor3/bowtie2_index/cavPor3.fa
+####### SIZE: 1809 KB

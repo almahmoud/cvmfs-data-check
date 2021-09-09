@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/calJac3/calJac3canon/bowtie2_index/calJac3canon.rev.1.bt2
+####### SIZE: 859204 KB

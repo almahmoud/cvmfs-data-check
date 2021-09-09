@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/plantTribes.config
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/22Gv1.1.orthomcl.targetOrthos.config
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/22Gv1.1.orthofinder.targetOrthos.config
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/db/hmm/orthofinder.h3i
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/db/hmm/orthomcl.h3i
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/db/hmm/gfam.h3i
+####### SIZE: 3477 KB

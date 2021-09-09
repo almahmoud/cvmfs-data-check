@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/mesoLoti/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/mesoLoti/plasmid_pMLb.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/mesoLoti/plasmid_pMLb.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/mesoLoti/plasmid_pMLb.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/mesoLoti/plasmid_pMLb.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/mesoLoti/plasmid_pMLa.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/mesoLoti/plasmid_pMLa.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/mesoLoti/plasmid_pMLb.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/mesoLoti/chr.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/mesoLoti/plasmid_pMLa.Glimmer3
+####### SIZE: 7597 KB

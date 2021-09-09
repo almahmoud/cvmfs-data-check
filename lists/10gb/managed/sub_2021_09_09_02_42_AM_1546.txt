@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sorangium_cellulosum__So_ce_56__uid61629
+####### SIZE: 12915 KB

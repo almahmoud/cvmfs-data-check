@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfovibrio_hydrothermalis_AM13___DSM_14728_uid184831
+####### SIZE: 7353 KB

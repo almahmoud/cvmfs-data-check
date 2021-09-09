@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/droMoj3/seq/droMoj3.fa
+####### SIZE: 193172 KB

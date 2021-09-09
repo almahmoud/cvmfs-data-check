@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/calJac3/picard_index/calJac3full.fa
+/cvmfs/data.galaxyproject.org/byhand/calJac3/picard_index/calJac3full.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/calJac3/picard_index/calJac3full.dict
+/cvmfs/data.galaxyproject.org/byhand/calJac3/picard_index
+####### SIZE: 2440 KB

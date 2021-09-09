@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ce7/bowtie_index/ce7.1.ebwt
+####### SIZE: 32078 KB

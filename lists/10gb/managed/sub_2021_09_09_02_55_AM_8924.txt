@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/gamma_proteobacterium_HdN1_uid51635/NC_014366.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/gamma_proteobacterium_HdN1_uid51635
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Natrinema_pellirubrum_DSM_15624_uid74437/NC_019963.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Natrinema_pellirubrum_DSM_15624_uid74437/NC_019967.fna
+####### SIZE: 9654 KB

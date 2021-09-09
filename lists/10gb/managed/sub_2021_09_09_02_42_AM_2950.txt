@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Meiothermus_ruber_DSM_1279_uid46661
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Natronomonas_pharaonis_DSM_2160_uid58435/NC_007428.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Natronomonas_pharaonis_DSM_2160_uid58435/NC_007427.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Natronomonas_pharaonis_DSM_2160_uid58435/NC_007426.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Natronomonas_pharaonis_DSM_2160_uid58435
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_trachomatis_G_11222_uid161361/NC_017430.fna
+####### SIZE: 9560 KB

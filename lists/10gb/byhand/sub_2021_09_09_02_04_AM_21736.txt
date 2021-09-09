@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/AgamP3/bwa_index/AgamP3.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/AgamP3/bwa_index/AgamP3.fa.amb
+####### SIZE: 268 KB

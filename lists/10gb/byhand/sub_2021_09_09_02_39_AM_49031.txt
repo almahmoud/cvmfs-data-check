@@ -1,0 +1,16 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/rheMac1/chr15_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/rheMac1/chr9_random.idx
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/rheMac1/chr19.idx
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/rheMac1/chr4_random.idx
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/rheMac1/chr7_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/rheMac1/chr19_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/rheMac1/chr2_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/rheMac1/chr8_random.idx
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/rheMac1/chr2_random.idx
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/rheMac1/chr6_hla_hap1.axt
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/rheMac1/chr8_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/rheMac1/chr14.idx
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/rheMac1/chr10_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/rheMac1/chr21.idx
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/rheMac1/chr18_random.axt
+####### SIZE: 7368 KB

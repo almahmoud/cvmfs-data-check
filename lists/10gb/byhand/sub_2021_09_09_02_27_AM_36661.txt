@@ -1,0 +1,13 @@
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/quality_scores/Contig105981.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/quality_scores/Contig129766.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/quality_scores/Contig151263.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/quality_scores/Contig18628.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/quality_scores/Contig240991.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/quality_scores/Contig106908.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/quality_scores/Contig86647.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/quality_scores/Contig112049.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/quality_scores/Contig7859.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/quality_scores/Contig16900.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/quality_scores/Contig106996.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/quality_scores/Contig203182.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/quality_scores/Contig117705.qa.bqv

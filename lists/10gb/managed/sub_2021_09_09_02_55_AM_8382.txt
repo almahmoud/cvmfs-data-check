@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Faecalibacterium_prausnitzii_L2_6_uid197183
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Riemerella_anatipestifer_RA_CH_1_uid175469/NC_018609.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Riemerella_anatipestifer_RA_CH_1_uid175469
+####### SIZE: 7876 KB

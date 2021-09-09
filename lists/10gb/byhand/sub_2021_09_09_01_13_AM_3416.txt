@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/align/danRer3/chr1.axt
+####### SIZE: 7933 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/Hydra_JCVI/seq/Hydra_JCVI.fa
+####### SIZE: 1066287 KB

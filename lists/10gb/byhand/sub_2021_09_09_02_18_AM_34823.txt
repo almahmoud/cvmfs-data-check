@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer1/chrom/chr15.fa
+####### SIZE: 23127 KB

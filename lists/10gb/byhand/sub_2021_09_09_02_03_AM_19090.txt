@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTau3/bowtie_index/cs/bosTau3.rev.2.ebwt
+####### SIZE: 333459 KB

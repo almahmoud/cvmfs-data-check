@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nitrosococcus_watsonii_C_113_uid50331/NC_014315.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nitrosococcus_watsonii_C_113_uid50331
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Jonesia_denitrificans_DSM_20603_uid59053/NC_013174.fna
+####### SIZE: 9369 KB

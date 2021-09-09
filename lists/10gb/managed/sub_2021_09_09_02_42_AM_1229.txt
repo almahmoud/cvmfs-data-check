@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Eggerthella_lenta_DSM_2243_uid59079
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Corynebacterium_glutamicum_ATCC_13032_uid57905/NC_003450.fna
+####### SIZE: 6882 KB

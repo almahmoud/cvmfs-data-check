@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/hmms/orthofinder/19289.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/hmms/orthofinder/18878.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/hmms/orthofinder/5840.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/hmms/orthofinder/14895.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/hmms/orthofinder/19852.hmm
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/hmms/orthofinder/8634.hmm

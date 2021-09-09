@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_anthracis__Ames_Ancestor__uid58083
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rivularia_PCC_7116_uid182929/NC_019679.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rivularia_PCC_7116_uid182929/NC_019686.fna
+####### SIZE: 5489 KB

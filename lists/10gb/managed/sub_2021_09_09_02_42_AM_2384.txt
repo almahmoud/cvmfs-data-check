@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Vulcanisaeta_distributa_DSM_14429_uid52827/NC_014537.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Vulcanisaeta_distributa_DSM_14429_uid52827
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudomonas_mendocina_ymp_uid58723/NC_009439.fna
+####### SIZE: 9734 KB

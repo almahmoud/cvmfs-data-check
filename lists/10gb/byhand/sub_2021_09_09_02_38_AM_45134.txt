@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/fr3/seq/chrom.sizes
+####### SIZE: 96 KB

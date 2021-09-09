@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Saccharophagus_degradans_2_40_uid57921
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanomethylovorans_hollandica_DSM_15978_uid184864/NC_019972.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanomethylovorans_hollandica_DSM_15978_uid184864/NC_019977.fna
+####### SIZE: 7704 KB

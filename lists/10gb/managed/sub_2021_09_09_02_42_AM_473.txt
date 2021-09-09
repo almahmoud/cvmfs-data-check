@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/seq/Amel_4.5.2bit
+####### SIZE: 76121 KB

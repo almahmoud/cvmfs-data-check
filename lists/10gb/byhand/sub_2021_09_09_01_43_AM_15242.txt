@@ -1,0 +1,12 @@
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/tmp/chr1.fa
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/tmp/chr11.fa
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/tmp/chr2.fa
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/tmp/chr7.fa
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/tmp/chr16.fa
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/tmp/chr9.fa
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/tmp/chrM.fa
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/tmp/chr3.fa
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/tmp/chr14.fa
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/tmp/chromFa.zip
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/tmp/chr10.fa
+####### SIZE: 9779 KB

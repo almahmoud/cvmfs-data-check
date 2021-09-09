@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/dm6/dm6.fa.bwt
+####### SIZE: 140358 KB

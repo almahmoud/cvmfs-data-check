@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/sacCer2/liftOver/sacCer2ToSacCer3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/sacCer2/liftOver/sacCer2ToSacCer1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/sacCer2/liftOver
+/cvmfs/data.galaxyproject.org/byhand/sacCer2/bowtie_index/cs/sacCer2.fa
+/cvmfs/data.galaxyproject.org/byhand/sacCer2/bowtie_index/cs/sacCer2.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/sacCer2/bowtie_index/cs/sacCer2.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/sacCer2/bowtie_index/cs/sacCer2.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/sacCer2/bowtie_index/cs/sacCer2.2.ebwt
+####### SIZE: 5962 KB

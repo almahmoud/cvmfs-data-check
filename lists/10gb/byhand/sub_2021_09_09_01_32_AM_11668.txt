@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/campFetu_82_40
+/cvmfs/data.galaxyproject.org/byhand/microbes/16297/sam_index/Xanthomonas_oryzae_MAFF_311018.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/16297/sam_index/Xanthomonas_oryzae_MAFF_311018.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/microbes/16297/sam_index
+####### SIZE: 7583 KB

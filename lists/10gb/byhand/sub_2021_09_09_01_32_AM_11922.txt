@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/lawsIntr_PHE_MN1_00
+/cvmfs/data.galaxyproject.org/byhand/microbes/359/NC_004633.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/359/seq/NC_004633.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/359/seq/NC_004632.nib
+####### SIZE: 6905 KB

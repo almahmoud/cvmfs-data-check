@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm8/liftOver/mm8ToAnoCar1.over.chain
+####### SIZE: 23371 KB

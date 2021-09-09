@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Synechocystis_PCC_6803_uid189748/NC_020286.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Synechocystis_PCC_6803_uid189748
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Edwardsiella_tarda_FL6_60_uid159657/NC_017318.fna
+####### SIZE: 7499 KB

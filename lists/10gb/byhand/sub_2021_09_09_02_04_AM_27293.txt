@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.19.nsd
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.122.nsi
+####### SIZE: 8596 KB

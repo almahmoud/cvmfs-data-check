@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_thuringiensis_BMB171_uid49135/NC_014171.fna
+####### SIZE: 5280 KB

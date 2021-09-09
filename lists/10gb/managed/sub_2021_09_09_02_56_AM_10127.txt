@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/Amel_4.5/dataset_1130464_files/chrName.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/Amel_4.5/dataset_1130464_files/chrStart.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/Amel_4.5/dataset_1130464_files/genomeParameters.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/Amel_4.5/dataset_1130464_files/chrLength.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar_index2/Amel_4.5/dataset_1130464_files/chrNameLength.txt
+####### SIZE: 264 KB

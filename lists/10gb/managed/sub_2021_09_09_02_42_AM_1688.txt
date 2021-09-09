@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_cepacia_GG4_uid173858/NC_018513.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_cepacia_GG4_uid173858
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gluconacetobacter_diazotrophicus_PAl_5_uid61587/NC_010124.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gluconacetobacter_diazotrophicus_PAl_5_uid61587/NC_010123.fna
+####### SIZE: 9898 KB

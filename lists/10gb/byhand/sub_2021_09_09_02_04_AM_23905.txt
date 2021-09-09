@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/Bombyx_mori_p50T_2.0/sam_index/Bombyx_mori_p50T_2.0.fa
+/cvmfs/data.galaxyproject.org/byhand/Bombyx_mori_p50T_2.0/sam_index/Bombyx_mori_p50T_2.0.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/Bombyx_mori_p50T_2.0/sam_index
+/cvmfs/data.galaxyproject.org/byhand/Bombyx_mori_p50T_2.0/picard_index/Bombyx_mori_p50T_2.0.fa
+/cvmfs/data.galaxyproject.org/byhand/Bombyx_mori_p50T_2.0/picard_index/Bombyx_mori_p50T_2.0.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/Bombyx_mori_p50T_2.0/picard_index/Bombyx_mori_p50T_2.0.dict
+####### SIZE: 6763 KB

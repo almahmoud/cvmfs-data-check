@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/quality_scores/chr20.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/quality_scores/chr3_random.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/quality_scores/chr20_random.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/quality_scores/chr1B_random.qa.bqv
+####### SIZE: 3270 KB

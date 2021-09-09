@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leuconostoc_gasicomitatum_LMG_18811_uid50385/NC_014319.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leuconostoc_gasicomitatum_LMG_18811_uid50385
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_acetobutylicum_ATCC_824_uid57677/NC_001988.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_acetobutylicum_ATCC_824_uid57677/NC_003030.fna
+####### SIZE: 7972 KB

@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Escherichia_coli_O104_H4_2009EL_2050_uid175905
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Tropheryma_whipplei_TW08_27_uid57961/NC_004551.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Tropheryma_whipplei_TW08_27_uid57961
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Roseobacter_denitrificans_OCh_114_uid58597/NC_008388.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Roseobacter_denitrificans_OCh_114_uid58597/NC_008387.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Roseobacter_denitrificans_OCh_114_uid58597/NC_008389.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Roseobacter_denitrificans_OCh_114_uid58597/NC_008386.fna
+####### SIZE: 7431 KB

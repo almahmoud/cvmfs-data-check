@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/dp3/nib/chr4_group1.nib
+/cvmfs/data.galaxyproject.org/byhand/dp3/nib/chrXR_group5.nib
+/cvmfs/data.galaxyproject.org/byhand/dp3/nib/chrXR_group8.nib
+####### SIZE: 7436 KB

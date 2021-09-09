@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/susScr3/seq2/susScr3.2bit
+####### SIZE: 718850 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Phaeobacter_gallaeciensis_DSM_17395_uid54717/NC_018290.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Phaeobacter_gallaeciensis_DSM_17395_uid54717
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bifidobacterium_animalis_lactis_Bi_07_uid163693/NC_017867.fna
+####### SIZE: 9900 KB

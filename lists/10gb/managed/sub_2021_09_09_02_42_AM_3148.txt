@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/_Clostridium__sticklandii_uid59585/NC_014614.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/_Clostridium__sticklandii_uid59585
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Oscillatoria_nigro_viridis_PCC_7112_uid183110/NC_019730.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Oscillatoria_nigro_viridis_PCC_7112_uid183110/NC_019764.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Oscillatoria_nigro_viridis_PCC_7112_uid183110/NC_019732.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Oscillatoria_nigro_viridis_PCC_7112_uid183110/NC_019731.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Oscillatoria_nigro_viridis_PCC_7112_uid183110/NC_019763.fna
+####### SIZE: 6173 KB

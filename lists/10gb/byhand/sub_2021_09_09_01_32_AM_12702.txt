@@ -1,0 +1,14 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/carbHydr_Z_2901/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/carbHydr_Z_2901/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/carbHydr_Z_2901/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/carbHydr_Z_2901/chr.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/carbHydr_Z_2901/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/carbHydr_Z_2901/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/carbHydr_Z_2901/chr.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/carbHydr_Z_2901/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/carbHydr_Z_2901/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/carbHydr_Z_2901/chr.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/carbHydr_Z_2901/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/carbHydr_Z_2901/chr.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/carbHydr_Z_2901/carbHydr_Z_2901.info
+####### SIZE: 8122 KB

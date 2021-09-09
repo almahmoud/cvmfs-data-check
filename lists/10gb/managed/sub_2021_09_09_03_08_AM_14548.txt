@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/sacCer2/sacCer2/dataset_166fc7cd-9ff8-4acf-9614-a267eeaf9355_files/chrName.txt
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/sacCer2/sacCer2/dataset_166fc7cd-9ff8-4acf-9614-a267eeaf9355_files/Log.out
+####### SIZE: 10 KB

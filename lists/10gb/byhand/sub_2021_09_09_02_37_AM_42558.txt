@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/caeJap2/liftOver/caeJap2ToCe7.over.chain
+####### SIZE: 5243 KB

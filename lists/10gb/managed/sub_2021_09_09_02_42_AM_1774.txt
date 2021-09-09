@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_chubuense_NBB4_uid168322/NC_018027.fna
+####### SIZE: 5531 KB

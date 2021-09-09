@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19_rCRS_pUC18_phiX174/hg19_rCRS_pUC18_phiX174.4.ht2
+####### SIZE: 698573 KB

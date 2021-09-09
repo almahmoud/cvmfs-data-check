@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/ornAna1/chr8_random.axt
+####### SIZE: 47 KB

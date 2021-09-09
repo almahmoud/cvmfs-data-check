@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/tetNig2/seq/tetNig2canon.fa
+####### SIZE: 240060 KB

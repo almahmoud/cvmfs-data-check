@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro3/liftOver/panTro3ToCanFam2.over.chain
+####### SIZE: 287099 KB

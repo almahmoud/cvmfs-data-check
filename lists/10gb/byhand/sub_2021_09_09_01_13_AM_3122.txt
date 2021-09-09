@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/hetGla1/bwa_index/hetGla1.fa
+/cvmfs/data.galaxyproject.org/byhand/hetGla1/bwa_index/hetGla1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/hetGla1/bwa_index/hetGla1.fa.amb
+####### SIZE: 5142 KB

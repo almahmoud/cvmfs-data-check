@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/20371/NC_010169.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/20371/NC_010167.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/20371/NC_010167.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/20371/20371.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/20371/NC_010169.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/20371/NC_010167.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/20371/NC_010169.fna
+####### SIZE: 9204 KB

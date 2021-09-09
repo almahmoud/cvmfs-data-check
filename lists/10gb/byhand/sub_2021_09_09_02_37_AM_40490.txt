@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/anoGam1/seq/anoGam1.2bit
+####### SIZE: 71560 KB

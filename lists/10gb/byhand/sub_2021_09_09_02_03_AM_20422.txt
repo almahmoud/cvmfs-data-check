@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/cb3/cb3canon/bwa_index/cb3canon.fa.rpac
+####### SIZE: 24063 KB

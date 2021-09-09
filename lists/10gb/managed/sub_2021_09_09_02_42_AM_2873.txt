@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Enterobacter_638_uid58727
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Porphyromonas_asaccharolytica_DSM_20707_uid66603/NC_015501.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Porphyromonas_asaccharolytica_DSM_20707_uid66603
+####### SIZE: 8974 KB

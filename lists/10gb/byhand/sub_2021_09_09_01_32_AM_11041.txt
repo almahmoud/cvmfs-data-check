@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/erytLito_HTCC2594/chr.gbk
+####### SIZE: 6852 KB

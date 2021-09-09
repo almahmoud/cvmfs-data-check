@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pedobacter_saltans_DSM_12145_uid61349/NC_015177.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pedobacter_saltans_DSM_12145_uid61349
+####### SIZE: 9188 KB

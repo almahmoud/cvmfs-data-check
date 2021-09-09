@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/melUnd1/melUnd1.rev.1.bt2
+####### SIZE: 359026 KB

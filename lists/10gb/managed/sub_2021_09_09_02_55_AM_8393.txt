@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_ambifaria_MC40_6_uid58701
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pediococcus_pentosaceus_ATCC_25745_uid57981/NC_008525.fna
+####### SIZE: 9392 KB

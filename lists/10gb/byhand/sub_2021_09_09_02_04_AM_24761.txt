@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer6/seq/danRer6.fa
+####### SIZE: 1506640 KB

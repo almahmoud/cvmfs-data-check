@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/susScr3/seq/susScr3.fa
+####### SIZE: 2797611 KB

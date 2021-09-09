@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/tetNig1canon/bowtie_index/tetNig1canon.fa
+/cvmfs/data.galaxyproject.org/byhand/tetNig1/tetNig1canon/bowtie_index/tetNig1canon.3.ebwt
+####### SIZE: 92 KB

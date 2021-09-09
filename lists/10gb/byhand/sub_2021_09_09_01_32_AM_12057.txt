@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhizEtli_CFN_42/plasmid_p42c.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhizEtli_CFN_42/chr.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhizEtli_CFN_42/plasmid_p42c.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/rhizEtli_CFN_42/plasmid_p42f.gbk
+####### SIZE: 2222 KB

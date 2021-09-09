@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rheMac2/chrUn_gl000230.axt
+####### SIZE: 3 KB

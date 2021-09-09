@@ -1,0 +1,26 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/seq/chr1.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/chr1.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/chr2.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/plasmid_1.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/plasmid_1.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/plasmid_1.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/plasmid_1.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/chr2.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/plasmid_1.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/chr1.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/chr2.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/chr1.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/plasmid_1.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/chr2.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/plasmid_1.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/chr1.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/chr2.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/chr1.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/plasmid_1.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/chr2.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/chr2.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/chr2.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/plasmid_1.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/plasmid_1.tRNA.bed
+####### SIZE: 8464 KB

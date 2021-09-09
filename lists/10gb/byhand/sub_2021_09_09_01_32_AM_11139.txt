@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/402/NC_008526.fna
+####### SIZE: 2868 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm5/seq/chr13.nib
+####### SIZE: 56865 KB

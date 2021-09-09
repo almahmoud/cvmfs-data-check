@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Escherichia_coli_SMS_3_5_uid58919
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Oscillatoria_acuminata_PCC_6304_uid183003/NC_019700.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Oscillatoria_acuminata_PCC_6304_uid183003/NC_019694.fna
+####### SIZE: 5287 KB

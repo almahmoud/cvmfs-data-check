@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Escherichia_coli_O55_H7_CB9615_uid46655/NC_013941.fna
+####### SIZE: 5336 KB

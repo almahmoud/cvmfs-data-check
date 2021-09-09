@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/mariAqua_VT8/plasmid_pMAQU02.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/mariAqua_VT8/chr.tRNA.bed
+####### SIZE: 15 KB

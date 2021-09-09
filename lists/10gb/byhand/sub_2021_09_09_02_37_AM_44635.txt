@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/mm9/maf/chr14.maf.index
+####### SIZE: 1378 KB

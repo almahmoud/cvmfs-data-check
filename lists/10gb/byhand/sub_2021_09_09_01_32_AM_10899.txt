@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_CFT073/bowtie_index
+####### SIZE: 27363 KB

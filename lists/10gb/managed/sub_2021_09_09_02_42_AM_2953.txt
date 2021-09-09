@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mesorhizobium_loti_MAFF303099_uid57601
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halorhabdus_tiamatea_SARL4B_uid214082/NC_021913.fna
+####### SIZE: 7858 KB

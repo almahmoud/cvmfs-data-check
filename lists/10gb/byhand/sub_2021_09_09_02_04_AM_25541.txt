@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/canFam2/maf/chr25.maf.index
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/canFam2/maf/chr9.maf.index
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/canFam2/maf/chrM.maf.index
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/canFam2/maf/chr27.maf.index
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/canFam2/maf/chr4.maf.index
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/canFam2/maf/chr24.maf.index
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/canFam2/maf/chr5.maf.index
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/canFam2/maf/chr3.maf.index
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/canFam2/maf/chrM.maf
+####### SIZE: 8994 KB

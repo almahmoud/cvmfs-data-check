@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Variovorax_paradoxus_EPS_uid62107/NC_014931.fna
+####### SIZE: 6489 KB

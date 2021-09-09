@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_aureus_USA300_FPR3757_uid58555/NC_007793.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_aureus_USA300_FPR3757_uid58555
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Azobacteroides_pseudotrichonymphae_genomovar__CFP2_uid59163/NC_011562.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Azobacteroides_pseudotrichonymphae_genomovar__CFP2_uid59163/NC_011561.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Azobacteroides_pseudotrichonymphae_genomovar__CFP2_uid59163/NC_011564.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Azobacteroides_pseudotrichonymphae_genomovar__CFP2_uid59163/NC_011563.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Azobacteroides_pseudotrichonymphae_genomovar__CFP2_uid59163/NC_011565.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Azobacteroides_pseudotrichonymphae_genomovar__CFP2_uid59163
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gluconobacter_oxydans_H24_uid179202/NC_019397.fna
+####### SIZE: 8390 KB

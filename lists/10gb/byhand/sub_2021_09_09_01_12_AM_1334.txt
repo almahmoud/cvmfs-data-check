@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/equCab2/maf/chrX.maf
+####### SIZE: 162098 KB

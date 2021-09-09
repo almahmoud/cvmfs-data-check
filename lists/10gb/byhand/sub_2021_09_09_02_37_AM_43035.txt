@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/chrPic1/bwa_index/chrPic1.fa
+/cvmfs/data.galaxyproject.org/byhand/chrPic1/bwa_index/chrPic1.fa.ann
+####### SIZE: 3093 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/xenTro1/liftOver/xenTro1ToMm7.over.chain
+####### SIZE: 13568 KB

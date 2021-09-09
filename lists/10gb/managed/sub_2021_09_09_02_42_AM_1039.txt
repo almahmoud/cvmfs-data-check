@@ -1,0 +1,24 @@
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/methBoon1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/salmTyph_TY2.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/jacJac1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/punNye1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/anabVari_ATCC29413.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/pyroCali1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/mhcRefnoNs8.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/monDom5.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/acidBact_ELLIN345.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/12637.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/AgamP3.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/heliPylo_HPAG1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/otoGar1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/oreNil2.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/actiPleu_L20.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/rn5.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/simMamDog120.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/roseDeni_OCH_114.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/13462.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/10679.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/18883.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/tupBel1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/anaPla1.len
+####### SIZE: 8825 KB

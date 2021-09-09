@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm5/tmp/chr13_random.fa
+####### SIZE: 11133 KB

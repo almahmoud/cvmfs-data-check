@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Neorickettsia_risticii_Illinois_uid58889/NC_013009.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Neorickettsia_risticii_Illinois_uid58889
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Listeria_seeligeri_serovar_1_2b_SLCC3954_uid46215/NC_013891.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Listeria_seeligeri_serovar_1_2b_SLCC3954_uid46215
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pyrobaculum_neutrophilum_V24Sta_uid58421/NC_010525.fna
+####### SIZE: 9051 KB

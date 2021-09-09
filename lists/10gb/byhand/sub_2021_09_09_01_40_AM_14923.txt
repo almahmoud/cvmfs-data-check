@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/quality_scores/chr7_random.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/quality_scores/chr5_random.qa.bqv
+####### SIZE: 9359 KB

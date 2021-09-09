@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/quality_scores/chr2a.qa.bqv
+####### SIZE: 15106 KB

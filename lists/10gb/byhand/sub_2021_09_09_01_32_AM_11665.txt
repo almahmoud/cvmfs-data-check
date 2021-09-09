@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/38/NC_002940.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/38/NC_002940.gbk
+####### SIZE: 5553 KB

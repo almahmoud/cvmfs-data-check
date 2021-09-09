@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfotalea_psychrophila_LSv54_uid58153
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Anabaena_variabilis_ATCC_29413_uid58043/NC_007410.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Anabaena_variabilis_ATCC_29413_uid58043/NC_014000.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Anabaena_variabilis_ATCC_29413_uid58043/NC_007411.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Anabaena_variabilis_ATCC_29413_uid58043/NC_007412.fna
+####### SIZE: 4365 KB

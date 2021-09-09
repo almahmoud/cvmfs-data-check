@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Faecalibacterium_prausnitzii_uid197157
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/alpha_proteobacterium_HIMB59_uid175778/NC_018644.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/alpha_proteobacterium_HIMB59_uid175778
+####### SIZE: 5988 KB

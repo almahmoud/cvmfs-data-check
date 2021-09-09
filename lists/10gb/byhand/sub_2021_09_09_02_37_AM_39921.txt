@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/hg18/chr3.axt
+####### SIZE: 144707 KB

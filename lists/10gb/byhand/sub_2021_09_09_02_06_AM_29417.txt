@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/mm5/maf/chr10.maf
+####### SIZE: 122963 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/rn4/liftOver/rn4ToCanFam2.over.chain
+####### SIZE: 205729 KB

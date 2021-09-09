@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pectobacterium_wasabiae_WPP163_uid41297
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Liberibacter_americanus_Sao_Paulo_uid227424/NC_022793.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Liberibacter_americanus_Sao_Paulo_uid227424
+####### SIZE: 7394 KB

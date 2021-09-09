@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab1/liftOver/equCab1ToHg18.over.chain
+####### SIZE: 263969 KB

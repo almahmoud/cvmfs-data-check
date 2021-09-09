@@ -1,0 +1,23 @@
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/rn6/rn6.fa
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/rn6/rn6.fa.fai
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/rn6
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/danRer10/danRer10.fa
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/danRer10/danRer10.fa.fai
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/danRer10
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/aptMan1/aptMan1.fa
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/aptMan1/aptMan1.fa.fai
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/aptMan1
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/Araly1/Araly1.fa.fai
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/Araly1/Araly1.fa
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/Araly1
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/dasNov3/dasNov3.fa
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/dasNov3/dasNov3.fa.fai
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/dasNov3
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/cerSim1/cerSim1.fa
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/cerSim1/cerSim1.fa.fai
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/cerSim1
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/bosTau8/bosTau8.fa
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/bosTau8/bosTau8.fa.fai
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/bosTau8
+/cvmfs/data.galaxyproject.org/managed/sam_indexes/felCat8/felCat8.fa
+####### SIZE: 5333 KB

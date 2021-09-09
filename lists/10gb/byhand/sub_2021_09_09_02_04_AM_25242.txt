@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab1/tmp/chr22.fa
+####### SIZE: 49751 KB

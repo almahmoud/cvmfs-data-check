@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nt/17apr2014/nt.11.nin
+####### SIZE: 22879 KB

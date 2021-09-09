@@ -1,0 +1,13 @@
+/cvmfs/data.galaxyproject.org/byhand/Arabidopsis_thaliana_TAIR10/sam_index/Arabidopsis_thaliana_TAIR10.fa
+/cvmfs/data.galaxyproject.org/byhand/Arabidopsis_thaliana_TAIR10/sam_index/Arabidopsis_thaliana_TAIR10.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/Arabidopsis_thaliana_TAIR10/sam_index
+/cvmfs/data.galaxyproject.org/byhand/Arabidopsis_thaliana_TAIR10/download/20110613_README_Arabidopsis_thaliana_TAIR10
+/cvmfs/data.galaxyproject.org/byhand/Arabidopsis_thaliana_TAIR10/download/20110614_README_Arabidopsis_thaliana_TAIR10
+/cvmfs/data.galaxyproject.org/byhand/Arabidopsis_thaliana_TAIR10/download
+/cvmfs/data.galaxyproject.org/byhand/Arabidopsis_thaliana_TAIR10/picard_index/Arabidopsis_thaliana_TAIR10.fa
+/cvmfs/data.galaxyproject.org/byhand/Arabidopsis_thaliana_TAIR10/picard_index/Arabidopsis_thaliana_TAIR10.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/Arabidopsis_thaliana_TAIR10/picard_index/Arabidopsis_thaliana_TAIR10.dict
+/cvmfs/data.galaxyproject.org/byhand/Arabidopsis_thaliana_TAIR10/picard_index
+/cvmfs/data.galaxyproject.org/byhand/Arabidopsis_thaliana_TAIR10/chrom/TAIR10_chrM.fa
+/cvmfs/data.galaxyproject.org/byhand/Arabidopsis_thaliana_TAIR10/chrom/TAIR10_chrC.fa
+####### SIZE: 542 KB

@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/novoArom_DSM12444/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/novoArom_DSM12444/plasmid_pNL2.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/novoArom_DSM12444/plasmid_pNL1.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/novoArom_DSM12444/plasmid_pNL1.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/novoArom_DSM12444/chr.tRNA.bed
+####### SIZE: 3565 KB

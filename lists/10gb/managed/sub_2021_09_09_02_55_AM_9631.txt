@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Stanieria_cyanosphaera_PCC_7437_uid183115
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Hydrogenobacter_thermophilus_TK_6_uid159875/NC_017161.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Hydrogenobacter_thermophilus_TK_6_uid159875
+####### SIZE: 8957 KB

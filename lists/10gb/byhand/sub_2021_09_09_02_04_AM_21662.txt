@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/felCat4/felCat4canon/bwa_index/felCat4canon.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/felCat4/felCat4canon/bwa_index/felCat4canon.fa.amb
+####### SIZE: 8054 KB

@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermoanaerobacter_tengcongensis_MB4_uid57813
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rickettsia_rhipicephali_3_7_female6_CWPP_uid156977/NC_017055.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rickettsia_rhipicephali_3_7_female6_CWPP_uid156977/NC_017042.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rickettsia_rhipicephali_3_7_female6_CWPP_uid156977
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_wenyonii_Massachusetts_uid170731/NC_018149.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_wenyonii_Massachusetts_uid170731
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Carboxydothermus_hydrogenoformans_Z_2901_uid57821/NC_007503.fna
+####### SIZE: 8936 KB

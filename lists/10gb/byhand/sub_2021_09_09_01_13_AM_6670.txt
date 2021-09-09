@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/oryLat2/oryLat2full/bowtie_index
+####### SIZE: 1491083 KB

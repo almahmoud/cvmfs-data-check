@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfotomaculum_gibsoniae_DSM_7213_uid76945/NC_021184.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfotomaculum_gibsoniae_DSM_7213_uid76945
+####### SIZE: 9625 KB

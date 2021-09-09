@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aggregatibacter_actinomycetemcomitans_D7S_1_uid46989/NC_017846.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Aggregatibacter_actinomycetemcomitans_D7S_1_uid46989
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_garinii_NMJW1_uid177081/NC_018747.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Borrelia_garinii_NMJW1_uid177081
+####### SIZE: 6374 KB

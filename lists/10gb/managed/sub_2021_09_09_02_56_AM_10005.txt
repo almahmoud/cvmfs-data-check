@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/viruses/Viruses/library/Viruses/Mycobacterium_phage_U2_uid20943/NC_009877.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/viruses/Viruses/library/Viruses/Mycobacterium_phage_U2_uid20943/NC_009877.ffn
+/cvmfs/data.galaxyproject.org/managed/kraken_database/viruses/Viruses/library/Viruses/Mycobacterium_phage_U2_uid20943
+/cvmfs/data.galaxyproject.org/managed/kraken_database/viruses/Viruses/library/Viruses/Enterobacteria_phage_4MG_uid230592/NC_022968.fna
+####### SIZE: 9850 KB

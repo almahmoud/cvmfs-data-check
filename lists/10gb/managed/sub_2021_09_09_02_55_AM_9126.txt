@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_vanbaalenii_PYR_1_uid58463
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Flavobacteriaceae_bacterium_3519_10_uid59413/NC_013062.fna
+####### SIZE: 9177 KB

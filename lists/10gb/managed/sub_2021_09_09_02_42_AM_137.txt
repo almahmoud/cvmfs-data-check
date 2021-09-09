@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/eschColi_K12/eschColi_K12.6.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/eschColi_K12/eschColi_K12.fa
+####### SIZE: 1155 KB

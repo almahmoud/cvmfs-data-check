@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leptospira_borgpetersenii_serovar_Hardjo_bovis_L550_uid58507/NC_008508.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leptospira_borgpetersenii_serovar_Hardjo_bovis_L550_uid58507
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_perfringens_SM101_uid58117/NC_008264.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_perfringens_SM101_uid58117/NC_008265.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_perfringens_SM101_uid58117/NC_008263.fna
+####### SIZE: 7545 KB

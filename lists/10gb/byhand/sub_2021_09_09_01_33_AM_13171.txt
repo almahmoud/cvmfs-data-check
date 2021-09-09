@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/gorGor3/bwa_index/gorGor3.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/gorGor3/bwa_index/gorGor3.fa
+/cvmfs/data.galaxyproject.org/byhand/gorGor3/bwa_index/gorGor3.fa.ann
+####### SIZE: 8640 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/rn5/bowtie_index/cs/rn5.fa
+/cvmfs/data.galaxyproject.org/byhand/rn5/bowtie_index/cs/rn5.3.ebwt
+####### SIZE: 2297 KB

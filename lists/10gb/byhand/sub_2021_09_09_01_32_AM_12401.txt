@@ -1,0 +1,13 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/pyroArse1
+/cvmfs/data.galaxyproject.org/byhand/microbes/13623/NC_010180.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/13623/NC_010182.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/13623/NC_010181.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/13623/NC_010184.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/13623/NC_010184.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/13623/NC_010180.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/13623/NC_010183.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/13623/NC_010183.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/13623/seq/NC_010183.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/13623/seq/NC_010181.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/13623/seq/NC_010182.nib
+####### SIZE: 9873 KB

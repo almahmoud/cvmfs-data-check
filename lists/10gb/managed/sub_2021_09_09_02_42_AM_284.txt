@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19/hg19.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19/hg19.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg19/hg19.3.ht2
+####### SIZE: 7 KB

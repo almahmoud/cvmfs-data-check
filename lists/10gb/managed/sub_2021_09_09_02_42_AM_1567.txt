@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Marinobacter_aquaeolei_VT8_uid59419
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_cf__saccharolyticum_K10_uid197201/NC_021047.fna
+####### SIZE: 8475 KB

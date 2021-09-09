@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/19575/NC_009445.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/19575/NC_009445.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/19575/NC_009445.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/19575/NC_009445.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/19575/NC_009445.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/19575/NC_009445.GeneMarkHMM-2.6m
+####### SIZE: 9605 KB

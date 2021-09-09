@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nocardiopsis_alba_ATCC_BAA_2165_uid174334
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_amyloliquefaciens_plantarum_UCMB5033_uid215237/NC_022075.fna
+####### SIZE: 9831 KB

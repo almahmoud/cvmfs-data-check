@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/Sscrofa9.58/bowtie_index/Sscrofa9.58.fa
+/cvmfs/data.galaxyproject.org/byhand/Sscrofa9.58/bowtie_index/cs/Sscrofa9.58.fa
+/cvmfs/data.galaxyproject.org/byhand/Sscrofa9.58/bowtie_index/cs/Sscrofa9.58.3.ebwt
+####### SIZE: 1730 KB

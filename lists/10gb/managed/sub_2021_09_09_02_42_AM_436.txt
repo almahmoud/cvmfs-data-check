@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/seq/gadMor1.2bit
+####### SIZE: 243479 KB

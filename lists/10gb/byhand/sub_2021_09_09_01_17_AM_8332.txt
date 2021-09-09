@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/strPur3/bowtie_index/strPur3.4.ebwt
+####### SIZE: 198569 KB

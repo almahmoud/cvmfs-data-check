@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/tetNig1/chr22.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/tetNig1/chr13.axt
+####### SIZE: 5902 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9full/bwa_index_v0.7.10-r789/mm9full.fa.pac
+####### SIZE: 665471 KB

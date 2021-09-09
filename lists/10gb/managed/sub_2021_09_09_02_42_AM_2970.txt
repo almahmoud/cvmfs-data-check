@@ -1,0 +1,12 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermoanaerobacter_mathranii_A3_uid49481
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Synechocystis_PCC_6803_uid159873/NC_017277.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Synechocystis_PCC_6803_uid159873
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Macrococcus_caseolyticus_JCSC5402_uid59003/NC_011998.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Macrococcus_caseolyticus_JCSC5402_uid59003/NC_011997.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Macrococcus_caseolyticus_JCSC5402_uid59003/NC_012000.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Macrococcus_caseolyticus_JCSC5402_uid59003/NC_012003.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Macrococcus_caseolyticus_JCSC5402_uid59003/NC_011995.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Macrococcus_caseolyticus_JCSC5402_uid59003/NC_012001.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Macrococcus_caseolyticus_JCSC5402_uid59003/NC_011996.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Macrococcus_caseolyticus_JCSC5402_uid59003/NC_012002.fna
+####### SIZE: 9491 KB

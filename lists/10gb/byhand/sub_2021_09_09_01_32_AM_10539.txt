@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/caePb1/bowtie_index/cs/caePb1.fa
+/cvmfs/data.galaxyproject.org/byhand/caePb1/bowtie_index/cs/caePb1.3.ebwt
+####### SIZE: 259 KB

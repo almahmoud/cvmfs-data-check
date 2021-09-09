@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/danRer1/chrM.axt
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/danRer1/chr18_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/danRer1/chr10_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/danRer1/chr10.axt
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/danRer1/chr17_random.axt
+####### SIZE: 8024 KB

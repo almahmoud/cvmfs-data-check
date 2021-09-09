@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_anthracis_A0248_uid59385
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cyanobacterium_aponinum_PCC_10605_uid183340/NC_019777.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cyanobacterium_aponinum_PCC_10605_uid183340/NC_019776.fna
+####### SIZE: 9597 KB

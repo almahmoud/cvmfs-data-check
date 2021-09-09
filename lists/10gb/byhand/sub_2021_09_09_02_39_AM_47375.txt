@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/calJac1/liftOver/calJac1ToMonDom4.over.chain
+####### SIZE: 99777 KB

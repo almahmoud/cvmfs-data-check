@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/cytoHutc_ATCC33406/chr.fna
+####### SIZE: 4392 KB

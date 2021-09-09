@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/baciAnth_AMES/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/baciAnth_AMES/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/baciAnth_AMES/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/baciAnth_AMES/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/baciAnth_AMES/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/baciAnth_AMES/chr.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/baciAnth_AMES/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/baciAnth_AMES/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/baciAnth_AMES/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/baciAnth_AMES/chr.GeneMarkHMM-2.6m
+####### SIZE: 7779 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/micMur1/bwa_index
+####### SIZE: 4267140 KB

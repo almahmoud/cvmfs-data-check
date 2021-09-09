@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/melGal1/sam_index/melGal1.fa
+/cvmfs/data.galaxyproject.org/byhand/melGal1/sam_index/melGal1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/melGal1/sam_index
+/cvmfs/data.galaxyproject.org/byhand/melGal1/picard_index/melGal1.fa
+/cvmfs/data.galaxyproject.org/byhand/melGal1/picard_index/melGal1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/melGal1/picard_index/melGal1.dict
+/cvmfs/data.galaxyproject.org/byhand/melGal1/picard_index
+####### SIZE: 2375 KB

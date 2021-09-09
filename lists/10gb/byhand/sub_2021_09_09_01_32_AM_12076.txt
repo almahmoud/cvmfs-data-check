@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/bowtie_index/eschColi_APEC_O1.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/bowtie_index/eschColi_APEC_O1.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/bowtie_index/eschColi_APEC_O1.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/bowtie_index/eschColi_APEC_O1.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/bowtie_index/eschColi_APEC_O1.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_APEC_O1/bowtie_index/eschColi_APEC_O1.rev.1.ebwt
+####### SIZE: 8321 KB

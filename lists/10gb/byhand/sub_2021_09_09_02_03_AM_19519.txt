@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/canFam2/maf/chr24.maf
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/canFam2/maf/chr35.maf
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/canFam2/maf/chr23.maf.index
+####### SIZE: 9801 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/hg18/maf/chr6.maf
+####### SIZE: 128730 KB

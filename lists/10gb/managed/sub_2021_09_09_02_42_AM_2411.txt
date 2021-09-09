@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudomonas_putida_DOT_T1E_uid171260/NC_018220.fna
+####### SIZE: 6202 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Odoribacter_splanchnicus_DSM_20712_uid63397/NC_015160.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Odoribacter_splanchnicus_DSM_20712_uid63397
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_cereus_03BB102_uid59299/NC_012473.fna
+####### SIZE: 8886 KB

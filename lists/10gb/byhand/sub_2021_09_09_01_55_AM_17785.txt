@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/Spur_v2.6/sam_index/Spur_v2.6.fa
+/cvmfs/data.galaxyproject.org/byhand/Spur_v2.6/sam_index/Spur_v2.6.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/Spur_v2.6/sam_index
+/cvmfs/data.galaxyproject.org/byhand/Spur_v2.6/download/20110307_README_Spur_v2.6
+/cvmfs/data.galaxyproject.org/byhand/Spur_v2.6/download
+####### SIZE: 5366 KB

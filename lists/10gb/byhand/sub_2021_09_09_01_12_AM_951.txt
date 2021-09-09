@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way/maf/chr6_ssto_hap7.maf.index
+####### SIZE: 50204 KB

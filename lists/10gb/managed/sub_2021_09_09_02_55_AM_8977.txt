@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Flavobacterium_johnsoniae_UW101_uid58493/NC_009441.fna
+####### SIZE: 6040 KB

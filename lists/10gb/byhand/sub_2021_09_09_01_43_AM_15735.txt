@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/borEut13/bwa_index/borEut13.fa
+/cvmfs/data.galaxyproject.org/byhand/borEut13/bwa_index/borEut13.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/borEut13/bwa_index/borEut13.fa.ann
+####### SIZE: 4 KB

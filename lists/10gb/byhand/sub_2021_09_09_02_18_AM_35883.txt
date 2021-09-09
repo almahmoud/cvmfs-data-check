@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/mm8/mm8full/bwa_index/mm8full.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/mm8/mm8full/bwa_index/mm8full.fa.amb
+####### SIZE: 28 KB

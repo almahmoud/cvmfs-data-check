@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/musMus9
+/cvmfs/data.galaxyproject.org/byhand/ce10/bwa_index_v0.5.9-r16/ce10.fa
+/cvmfs/data.galaxyproject.org/byhand/ce10/bwa_index_v0.5.9-r16/ce10.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/ce10/bwa_index_v0.5.9-r16/ce10.fa.ann
+####### SIZE: 4 KB

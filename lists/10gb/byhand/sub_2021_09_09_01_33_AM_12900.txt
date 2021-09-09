@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/20079/bowtie_index/cs/eschColi_DH10B.1.ebwt
+####### SIZE: 5404 KB

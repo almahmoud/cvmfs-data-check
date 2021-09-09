@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/caePb1/seq/caePb1.fa
+####### SIZE: 206524 KB

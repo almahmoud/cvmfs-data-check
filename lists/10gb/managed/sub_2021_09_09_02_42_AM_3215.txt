@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halothermothrix_orenii_H_168_uid58585/NC_011899.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halothermothrix_orenii_H_168_uid58585
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Polymorphum_gilvum_SL003B_26A1_uid65447/NC_015258.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Polymorphum_gilvum_SL003B_26A1_uid65447/NC_015259.fna
+####### SIZE: 9789 KB

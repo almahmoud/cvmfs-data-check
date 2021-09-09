@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/chrPic1/bwa_index/chrPic1.fa.rbwt
+####### SIZE: 948394 KB

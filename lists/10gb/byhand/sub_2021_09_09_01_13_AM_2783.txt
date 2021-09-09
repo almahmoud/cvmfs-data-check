@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rn4/chr6_mann_hap4.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rn4/chrUn_gl000222.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rn4/chr21_gl000210_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rn4/chrUn_gl000221.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/rn4/chrUn_gl000230.axt
+####### SIZE: 2336 KB

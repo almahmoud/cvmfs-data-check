@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm8/mm8canon/bowtie_index/mm8canon.1.ebwt
+####### SIZE: 715658 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/oryCun1/bowtie_index
+####### SIZE: 4422974 KB

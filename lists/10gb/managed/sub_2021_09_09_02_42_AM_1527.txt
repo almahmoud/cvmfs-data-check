@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Frankia_EuI1c_uid42615/NC_014666.fna
+####### SIZE: 8733 KB

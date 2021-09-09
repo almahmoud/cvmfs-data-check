@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gloeobacter_violaceus_PCC_7421_uid58011/NC_005125.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gloeobacter_violaceus_PCC_7421_uid58011
+####### SIZE: 9235 KB

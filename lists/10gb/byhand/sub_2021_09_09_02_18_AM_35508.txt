@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/xenTro2/maf/chr12.maf
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/xenTro2/maf/chr16.maf.index
+/cvmfs/data.galaxyproject.org/byhand/mm8/align/xenTro2/maf/chr5.maf.index
+####### SIZE: 6665 KB

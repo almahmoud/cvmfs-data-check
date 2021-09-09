@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/ponAbe2/maf/chr14.maf
+####### SIZE: 162305 KB

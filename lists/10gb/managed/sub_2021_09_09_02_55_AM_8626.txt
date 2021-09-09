@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Akkermansia_muciniphila_ATCC_BAA_835_uid58985/NC_010655.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Akkermansia_muciniphila_ATCC_BAA_835_uid58985
+####### SIZE: 5283 KB

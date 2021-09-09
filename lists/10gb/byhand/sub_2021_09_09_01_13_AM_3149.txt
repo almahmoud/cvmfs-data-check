@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/Hydra_JCVI/sam_index/Hydra_JCVI.fa
+/cvmfs/data.galaxyproject.org/byhand/Hydra_JCVI/sam_index/Hydra_JCVI.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/Hydra_JCVI/sam_index
+/cvmfs/data.galaxyproject.org/byhand/Hydra_JCVI/download/20110310_README_Hydra_JCVI
+/cvmfs/data.galaxyproject.org/byhand/Hydra_JCVI/download
+####### SIZE: 2267 KB

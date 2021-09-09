@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shigella_sonnei_53G_uid84383
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acidimicrobidae_bacterium_YM16_304_uid193703/NC_020520.fna
+####### SIZE: 9962 KB

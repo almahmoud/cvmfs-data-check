@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/burk383/chr1.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/burk383/chr1.info
+####### SIZE: 3661 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/melGal1/seq/melGal1.2bit
+####### SIZE: 263599 KB

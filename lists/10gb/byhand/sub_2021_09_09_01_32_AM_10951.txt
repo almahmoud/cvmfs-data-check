@@ -1,0 +1,26 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/methBark1/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/methBark1/plasmid1.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/methBark1/plasmid1.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/methBark1/plasmid1.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/methBark1/plasmid1.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/methBark1/plasmid1.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/methBark1/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/methBark1/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/methBark1/plasmid1.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/methBark1/chr.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/methBark1/methBark1.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/methBark1/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/methBark1/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/methBark1/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/methBark1/plasmid1.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/methBark1/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/methBark1/chr.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/methBark1/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/methBark1/plasmid1.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/methBark1/plasmid1.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/methBark1/plasmid1.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/methBark1/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/methBark1/plasmid1.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/methBark1/plasmid1.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/methBark1/chr.tRNA.bed
+####### SIZE: 9289 KB

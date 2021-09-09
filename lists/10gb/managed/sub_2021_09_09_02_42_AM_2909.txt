@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ruegeria_TM1040_uid58193/NC_008044.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ruegeria_TM1040_uid58193
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodothermus_marinus_SG0_5JP17_172_uid72767/NC_015967.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodothermus_marinus_SG0_5JP17_172_uid72767/NC_015970.fna
+####### SIZE: 7400 KB

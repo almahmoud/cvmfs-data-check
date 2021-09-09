@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/mm7/maf/chr33.maf
+####### SIZE: 30872 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_vietnamiensis_G4_uid58075
+####### SIZE: 8319 KB

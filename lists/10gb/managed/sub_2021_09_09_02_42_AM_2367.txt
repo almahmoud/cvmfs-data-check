@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Micromonospora_aurantiaca_ATCC_27029_uid42501
+####### SIZE: 6964 KB

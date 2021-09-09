@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm5/tmp/chr6.fa
+####### SIZE: 149137 KB

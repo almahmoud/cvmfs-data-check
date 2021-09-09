@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/eriEur1/chr9_gl000201_random.axt
+####### SIZE: 21 KB

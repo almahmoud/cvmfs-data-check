@@ -1,0 +1,18 @@
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/nib/chr9.nib
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/nib/chr11.nib
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/nib/chr13.nib
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/nib/chr2.nib
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/nib/chrM.nib
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/nib/chr15.nib
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/nib/chr1.nib
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/nib/chr6.nib
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/nib/chr4.nib
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/nib/chr7.nib
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/nib/chr3.nib
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/nib/chr12.nib
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/nib/chr10.nib
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/nib/chr16.nib
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/nib/chr5.nib
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/nib/chr8.nib
+/cvmfs/data.galaxyproject.org/byhand/sacCer1/nib/chr14.nib
+####### SIZE: 5942 KB

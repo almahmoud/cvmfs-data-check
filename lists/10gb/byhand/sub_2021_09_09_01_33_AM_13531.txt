@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam1/bwa_index/canFam1.fa.pac
+####### SIZE: 615185 KB

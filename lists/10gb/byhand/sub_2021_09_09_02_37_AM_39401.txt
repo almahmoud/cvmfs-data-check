@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/dm2/liftOver/dm2ToDroAna1.over.chain
+####### SIZE: 20229 KB

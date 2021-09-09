@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leptospira_interrogans_serovar_Copenhageni_Fiocruz_L1_130_uid58065/NC_005823.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leptospira_interrogans_serovar_Copenhageni_Fiocruz_L1_130_uid58065
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sebaldella_termitidis_ATCC_33386_uid41865/NC_013518.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sebaldella_termitidis_ATCC_33386_uid41865/NC_013519.fna
+####### SIZE: 8894 KB

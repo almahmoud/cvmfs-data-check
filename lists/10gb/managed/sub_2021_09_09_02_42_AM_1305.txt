@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Kinetoplastibacterium_galatii_TCC219_uid189751
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermotoga_hypogea_NBRC_106472_uid227423/NC_022795.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermotoga_hypogea_NBRC_106472_uid227423
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfomonile_tiedjei_DSM_6799_uid168320/NC_018026.fna
+####### SIZE: 5141 KB

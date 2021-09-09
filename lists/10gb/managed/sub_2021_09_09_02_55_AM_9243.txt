@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Phenylobacterium_zucineum_HLK1_uid58959/NC_011144.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Phenylobacterium_zucineum_HLK1_uid58959
+####### SIZE: 8302 KB

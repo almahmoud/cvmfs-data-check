@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Photobacterium_profundum_SS9_uid62923/NC_006370.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Photobacterium_profundum_SS9_uid62923/NC_006371.fna
+####### SIZE: 6264 KB

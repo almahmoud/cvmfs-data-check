@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/Zea_mays_B73_RefGen_v2/sam_index/Zea_mays_B73_RefGen_v2.fa
+/cvmfs/data.galaxyproject.org/byhand/Zea_mays_B73_RefGen_v2/sam_index/Zea_mays_B73_RefGen_v2.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/Zea_mays_B73_RefGen_v2/sam_index
+####### SIZE: 8 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/rn4/chr24.idx
+####### SIZE: 1080 KB

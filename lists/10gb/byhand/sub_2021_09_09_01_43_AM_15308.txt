@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/priPac1/liftOver/priPac1ToCaePb1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/priPac1/liftOver/priPac1ToCb3.over.chain
+/cvmfs/data.galaxyproject.org/byhand/priPac1/liftOver/priPac1ToCe4.over.chain
+####### SIZE: 9210 KB

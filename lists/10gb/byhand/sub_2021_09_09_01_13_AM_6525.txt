@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/liftOver/hg18ToBraFlo1.over.chain
+####### SIZE: 7282 KB

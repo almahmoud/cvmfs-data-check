@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/16720/bowtie_index/pseuAeru_PA7.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/16720/bowtie_index/pseuAeru_PA7.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/16720/bowtie_index/pseuAeru_PA7.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/16720/bowtie_index/pseuAeru_PA7.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/16720/bowtie_index/pseuAeru_PA7.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/16720/bowtie_index/pseuAeru_PA7.3.ebwt
+####### SIZE: 9156 KB

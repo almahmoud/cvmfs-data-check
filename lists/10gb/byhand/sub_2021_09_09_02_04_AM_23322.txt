@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/droVir2/sam_index/droVir2.fa
+/cvmfs/data.galaxyproject.org/byhand/droVir2/sam_index/droVir2.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/droVir2/sam_index
+####### SIZE: 896 KB

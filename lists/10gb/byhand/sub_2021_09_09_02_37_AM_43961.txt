@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ce6/seq/ce6.2bit
+####### SIZE: 25181 KB

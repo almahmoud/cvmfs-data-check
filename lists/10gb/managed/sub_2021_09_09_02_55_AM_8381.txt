@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylococcus_pseudintermedius_HKU10_03_uid62125
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_constellatus_pharyngis_C1050_uid218002/NC_022238.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_constellatus_pharyngis_C1050_uid218002
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Faecalibacterium_prausnitzii_L2_6_uid197183/NC_021042.fna
+####### SIZE: 9838 KB

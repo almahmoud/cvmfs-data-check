@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/musFur1/musFur1.fa.pac
+####### SIZE: 588564 KB

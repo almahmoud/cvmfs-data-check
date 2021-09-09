@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer3/align/hg18/chr10.axt
+/cvmfs/data.galaxyproject.org/byhand/danRer3/align/hg18/chr21.axt
+####### SIZE: 8439 KB

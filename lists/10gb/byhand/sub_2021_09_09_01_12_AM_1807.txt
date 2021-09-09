@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/mm9/chr6.axt
+####### SIZE: 145418 KB

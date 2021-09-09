@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/gasAcu1/sam_index/gasAcu1.fa
+/cvmfs/data.galaxyproject.org/byhand/gasAcu1/sam_index/gasAcu1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/gasAcu1/sam_index
+/cvmfs/data.galaxyproject.org/byhand/gasAcu1/nib/chrVI.nib
+####### SIZE: 8350 KB

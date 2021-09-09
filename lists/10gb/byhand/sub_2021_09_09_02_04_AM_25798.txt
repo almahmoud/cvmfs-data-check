@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/rn4/chr26.axt
+####### SIZE: 31342 KB

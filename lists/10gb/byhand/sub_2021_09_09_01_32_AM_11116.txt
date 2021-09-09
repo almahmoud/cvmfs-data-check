@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkCeno_AU_1054/chr1.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkCeno_AU_1054/chr3.gbk
+####### SIZE: 6086 KB

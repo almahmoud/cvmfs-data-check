@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bibersteinia_trehalosi_192_uid193709/NC_020515.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bibersteinia_trehalosi_192_uid193709
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ruegeria_pomeroyi_DSS_3_uid57863/NC_006569.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ruegeria_pomeroyi_DSS_3_uid57863/NC_003911.fna
+####### SIZE: 9335 KB

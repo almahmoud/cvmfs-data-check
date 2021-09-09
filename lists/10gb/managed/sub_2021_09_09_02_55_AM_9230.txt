@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nakamurella_multipartita_DSM_44233_uid59221/NC_013235.fna
+####### SIZE: 6003 KB

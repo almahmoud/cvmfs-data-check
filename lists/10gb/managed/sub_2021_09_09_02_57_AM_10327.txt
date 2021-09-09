@@ -1,0 +1,15 @@
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/gfam/527.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/gfam/8330.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/gfam/20522.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/gfam/20523.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/gfam/3243.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/gfam/6452.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/gfam/30151.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/gfam/24799.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/gfam/18160.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/gfam/33741.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/gfam/28756.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/gfam/17227.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/gfam/17262.aln
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/22Gv1.1/alns/gfam/30844.aln
+####### SIZE: 2082 KB

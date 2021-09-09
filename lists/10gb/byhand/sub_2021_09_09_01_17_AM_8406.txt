@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/choHof1/bowtie_index
+####### SIZE: 4426443 KB

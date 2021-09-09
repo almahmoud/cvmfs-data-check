@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/hg19_rCRS_pUC18_phiX174/hg19_rCRS_pUC18_phiX174.fa.bwt
+####### SIZE: 3023147 KB

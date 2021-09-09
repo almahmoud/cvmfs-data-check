@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/nomLeu1/bowtie_index/nomLeu1.1.ebwt
+####### SIZE: 775821 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/droEre2/bowtie_index/cs/droEre2.fa
+/cvmfs/data.galaxyproject.org/byhand/droEre2/bowtie_index/cs/droEre2.3.ebwt
+####### SIZE: 68 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ce10/bowtie_index/ce10.1.ebwt
+####### SIZE: 32078 KB

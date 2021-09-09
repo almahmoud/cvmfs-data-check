@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Psychroflexus_torquis_ATCC_700755_uid54205
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pectobacterium_carotovorum_PC1_uid59295/NC_012917.fna
+####### SIZE: 9103 KB

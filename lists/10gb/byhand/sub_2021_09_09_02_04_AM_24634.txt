@@ -1,0 +1,12 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer3/align/fr1/chr3.idx
+/cvmfs/data.galaxyproject.org/byhand/danRer3/align/fr1/chr11.idx
+/cvmfs/data.galaxyproject.org/byhand/danRer3/align/fr1/chr15.idx
+/cvmfs/data.galaxyproject.org/byhand/danRer3/align/fr1/chr2.idx
+/cvmfs/data.galaxyproject.org/byhand/danRer3/align/fr1/chr22.idx
+/cvmfs/data.galaxyproject.org/byhand/danRer3/align/fr1/chr17.idx
+/cvmfs/data.galaxyproject.org/byhand/danRer3/align/fr1/chr7.idx
+/cvmfs/data.galaxyproject.org/byhand/danRer3/align/fr1/chr10.idx
+/cvmfs/data.galaxyproject.org/byhand/danRer3/align/fr1/chr13.idx
+/cvmfs/data.galaxyproject.org/byhand/danRer3/align/fr1/chr8.idx
+/cvmfs/data.galaxyproject.org/byhand/danRer3/align/fr1/chr16.idx
+####### SIZE: 4567 KB

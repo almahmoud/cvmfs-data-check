@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/Schizosaccharomyces_pombe_1.1/sam_index/Schizosaccharomyces_pombe_1.1.fa
+/cvmfs/data.galaxyproject.org/byhand/Schizosaccharomyces_pombe_1.1/sam_index/Schizosaccharomyces_pombe_1.1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/Schizosaccharomyces_pombe_1.1/sam_index
+/cvmfs/data.galaxyproject.org/byhand/Schizosaccharomyces_pombe_1.1/seq/Schizosaccharomyces_pombe_1.1.2bit
+####### SIZE: 3083 KB

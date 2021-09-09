@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/rn4/rn4full/bwa_index/rn4full.fa.ann
+####### SIZE: 2 KB

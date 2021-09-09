@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro1/align/mm7/maf/chr2_random.maf
+####### SIZE: 8567 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/customProDB/omicron-data.duckdns.org/customProDB/ensembl/ptroglodytes-may2017/procodingseq.RData
+####### SIZE: 9106 KB

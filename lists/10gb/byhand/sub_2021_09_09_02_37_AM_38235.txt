@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTau3/bwa_index/bosTau3.fa.pac
+####### SIZE: 708716 KB

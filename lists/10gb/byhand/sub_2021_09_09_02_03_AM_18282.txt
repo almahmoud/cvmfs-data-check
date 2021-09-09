@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/geoFor1/bwa_index/geoFor1.fa
+/cvmfs/data.galaxyproject.org/byhand/geoFor1/bwa_index/geoFor1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/geoFor1/bwa_index/geoFor1.fa.amb
+####### SIZE: 1985 KB

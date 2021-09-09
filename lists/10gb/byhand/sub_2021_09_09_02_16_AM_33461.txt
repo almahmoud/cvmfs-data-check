@@ -1,0 +1,19 @@
+/cvmfs/data.galaxyproject.org/byhand/phiX/tmp
+/cvmfs/data.galaxyproject.org/byhand/phiX/sam_index/phiX.fa
+/cvmfs/data.galaxyproject.org/byhand/phiX/sam_index/phiX.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/phiX/sam_index
+/cvmfs/data.galaxyproject.org/byhand/phiX/align
+/cvmfs/data.galaxyproject.org/byhand/phiX/quality_scores
+/cvmfs/data.galaxyproject.org/byhand/phiX/seq/phiX.fa
+/cvmfs/data.galaxyproject.org/byhand/phiX/seq/phiX.2bit
+/cvmfs/data.galaxyproject.org/byhand/phiX/seq
+/cvmfs/data.galaxyproject.org/byhand/phiX/srma_index/phiX.fa
+/cvmfs/data.galaxyproject.org/byhand/phiX/srma_index/phiX.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/phiX/srma_index/phiX.dict
+/cvmfs/data.galaxyproject.org/byhand/phiX/srma_index
+/cvmfs/data.galaxyproject.org/byhand/phiX/tmap_index/phiX.fa.tmap.anno
+/cvmfs/data.galaxyproject.org/byhand/phiX/tmap_index/phiX.fa.tmap.pac
+/cvmfs/data.galaxyproject.org/byhand/phiX/tmap_index/phiX.fa.tmap.rsa
+/cvmfs/data.galaxyproject.org/byhand/phiX/tmap_index/phiX.fa.tmap.rpac
+/cvmfs/data.galaxyproject.org/byhand/phiX/tmap_index/phiX.fa.tmap.sa
+####### SIZE: 59 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/AaegL1/bwa_index/AaegL1.fa.rpac
+####### SIZE: 337888 KB

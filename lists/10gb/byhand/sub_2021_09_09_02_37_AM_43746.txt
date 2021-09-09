@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer3/align/hg18/chrUn.axt
+####### SIZE: 18676 KB

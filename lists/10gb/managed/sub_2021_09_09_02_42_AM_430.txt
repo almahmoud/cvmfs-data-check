@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/Amel_4.5/Amel_4.5.5.ht2
+####### SIZE: 137413 KB

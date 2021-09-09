@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Eubacterium_siraeum_V10Sc8a_uid197178/NC_021043.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Eubacterium_siraeum_V10Sc8a_uid197178
+####### SIZE: 5624 KB

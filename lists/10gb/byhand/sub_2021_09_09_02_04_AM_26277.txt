@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/rheMac2/bwa_index/rheMac2.fa.rsa
+####### SIZE: 349623 KB

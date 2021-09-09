@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Myxococcus_fulvus_HW_1_uid68443
+####### SIZE: 8923 KB

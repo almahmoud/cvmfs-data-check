@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/caeRem3/bwa_index/caeRem3.fa.rbwt
+####### SIZE: 54607 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methylobacterium_extorquens_AM1_uid57605/NC_012808.fna
+####### SIZE: 5460 KB

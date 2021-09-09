@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/danRer10/danRer10.fa
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/danRer10/danRer10.3.bt2
+####### SIZE: 218 KB

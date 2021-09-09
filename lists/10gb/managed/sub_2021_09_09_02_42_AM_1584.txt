@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_subtilis_XF_1_uid189187
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halomicrobium_mukohataei_DSM_12286_uid59107/NC_013201.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Halomicrobium_mukohataei_DSM_12286_uid59107/NC_013202.fna
+####### SIZE: 7330 KB

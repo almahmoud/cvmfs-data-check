@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/baciHalo/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/baciHalo/chr.tRNA.bed
+####### SIZE: 4167 KB

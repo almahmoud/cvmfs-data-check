@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/sorAra1/chrUn_gl000212.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/sorAra1/chrUn_gl000235.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/sorAra1/chrUn_gl000239.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/sorAra1/chr6_apd_hap1.axt
+####### SIZE: 1003 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/viruses/Viruses/taxonomy/citations.dmp
+####### SIZE: 12231 KB

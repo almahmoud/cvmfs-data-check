@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/susScr3/bwa_index_v0.5.9-r16/susScr3.fa.sa
+####### SIZE: 342838 KB

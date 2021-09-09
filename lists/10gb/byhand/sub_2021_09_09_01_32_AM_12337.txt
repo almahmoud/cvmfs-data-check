@@ -1,0 +1,15 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/caulCres/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/caulCres/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/caulCres/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/caulCres/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/caulCres/caulCres.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/caulCres/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/caulCres/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/caulCres/chr.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/caulCres/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/caulCres/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/caulCres/chr.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/caulCres/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/caulCres/chr.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/caulCres/chr.fna
+####### SIZE: 9815 KB

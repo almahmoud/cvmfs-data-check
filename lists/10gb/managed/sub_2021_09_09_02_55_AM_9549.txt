@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycobacterium_yongonense_05_1390_uid189649
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rahnella_aquatilis_CIP_78_65___ATCC_33071_uid86855/NC_016819.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rahnella_aquatilis_CIP_78_65___ATCC_33071_uid86855/NC_017092.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rahnella_aquatilis_CIP_78_65___ATCC_33071_uid86855/NC_016835.fna
+####### SIZE: 6198 KB

@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droVir3/chr2RHet.axt
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droVir3/chrXHet.axt
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droVir3/chrYHet.axt
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droVir3/chr3LHet.axt
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droVir3/chr4.axt
+####### SIZE: 9625 KB

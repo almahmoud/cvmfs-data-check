@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/petMar1/bowtie_index/petMar1.fa
+/cvmfs/data.galaxyproject.org/byhand/petMar1/bowtie_index/cs/petMar1.fa
+/cvmfs/data.galaxyproject.org/byhand/petMar1/bowtie_index/cs/petMar1.3.ebwt
+####### SIZE: 2733 KB

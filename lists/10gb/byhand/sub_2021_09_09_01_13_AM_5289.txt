@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/ornAna1/maf/chr3.maf
+####### SIZE: 38813 KB

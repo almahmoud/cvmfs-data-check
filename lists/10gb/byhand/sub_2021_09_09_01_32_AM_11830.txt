@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/bowtie_index
+####### SIZE: 31233 KB

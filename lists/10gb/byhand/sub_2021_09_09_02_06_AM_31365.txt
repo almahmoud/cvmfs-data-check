@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/otoGar1/sam_index/otoGar1.fa
+/cvmfs/data.galaxyproject.org/byhand/otoGar1/sam_index/otoGar1.fa.fai
+####### SIZE: 5181 KB

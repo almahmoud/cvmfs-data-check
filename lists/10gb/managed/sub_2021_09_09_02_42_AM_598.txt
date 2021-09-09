@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/galGal3canon
+####### SIZE: 1372571 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/gasAcu1/nib/chrXXI.nib
+/cvmfs/data.galaxyproject.org/byhand/gasAcu1/nib/chrM.nib
+####### SIZE: 5730 KB

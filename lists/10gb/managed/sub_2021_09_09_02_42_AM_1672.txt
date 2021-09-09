@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Raoultella_ornithinolytica_B6_uid198431
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Moranella_endobia_PCVAL_uid197215/NC_021057.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Moranella_endobia_PCVAL_uid197215
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thiomonas_intermedia_K12_uid48825/NC_014155.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thiomonas_intermedia_K12_uid48825/NC_014154.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thiomonas_intermedia_K12_uid48825/NC_014153.fna
+####### SIZE: 9855 KB

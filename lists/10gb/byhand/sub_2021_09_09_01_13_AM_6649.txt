@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/oryLat2/tmp
+/cvmfs/data.galaxyproject.org/byhand/oryLat2/sam_index/oryLat2.fa
+/cvmfs/data.galaxyproject.org/byhand/oryLat2/sam_index/oryLat2.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/oryLat2/sam_index/oryLat2full.fa
+/cvmfs/data.galaxyproject.org/byhand/oryLat2/sam_index/oryLat2full.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/oryLat2/sam_index
+/cvmfs/data.galaxyproject.org/byhand/oryLat2/oryLat2full/bwa_index/oryLat2full.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/oryLat2/oryLat2full/bwa_index/oryLat2full.fa.ann
+####### SIZE: 2642 KB

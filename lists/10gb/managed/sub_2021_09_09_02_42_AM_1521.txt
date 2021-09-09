@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Caldisericum_exile_AZM16c01_uid158173/NC_017096.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Caldisericum_exile_AZM16c01_uid158173
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptomyces_violaceusniger_Tu_4113_uid52609/NC_015952.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptomyces_violaceusniger_Tu_4113_uid52609/NC_015951.fna
+####### SIZE: 3570 KB

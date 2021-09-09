@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sulfolobus_acidocaldarius_Ron12_I_uid189028/NC_020247.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sulfolobus_acidocaldarius_Ron12_I_uid189028
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudonocardia_dioxanivorans_CB1190_uid65087/NC_017772.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudonocardia_dioxanivorans_CB1190_uid65087/NC_016600.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudonocardia_dioxanivorans_CB1190_uid65087/NC_015313.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudonocardia_dioxanivorans_CB1190_uid65087/NC_016601.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudonocardia_dioxanivorans_CB1190_uid65087/NC_015314.fna
+####### SIZE: 4756 KB

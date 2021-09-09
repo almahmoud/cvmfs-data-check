@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/16304/NC_009620.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/16304/NC_009620.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/16304/NC_009621.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/16304/NC_009621.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/16304/NC_009636.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/16304/NC_009620.gbk
+####### SIZE: 9661 KB

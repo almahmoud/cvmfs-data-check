@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Microcystis_aeruginosa_NIES_843_uid59101
+####### SIZE: 5792 KB

@@ -1,0 +1,20 @@
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droSim1/maf/chrX.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droSim1/maf/chr3LHet.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droSim1/maf/chr2LHet.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droSim1/maf/chr3RHet.maf
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droSim1/maf/chr2LHet.maf
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droSim1/maf/chrYHet.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droSim1/maf/chr3R.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droSim1/maf/chrM.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droSim1/maf/chr4.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droSim1/maf/chrYHet.maf
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droSim1/maf/chr2R.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droSim1/maf/chr2RHet.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droSim1/maf/chr2L.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droSim1/maf/chrU.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droSim1/maf/chrXHet.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droSim1/maf/chrM.maf
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droSim1/maf/chrXHet.maf
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droSim1/maf/chrUextra.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droSim1/maf/chr3L.maf.index
+####### SIZE: 8157 KB

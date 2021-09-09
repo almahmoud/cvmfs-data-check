@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/calJac3/chr6_random.axt
+####### SIZE: 10651 KB

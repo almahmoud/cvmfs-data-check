@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_cereus_biovar_anthracis_CI_uid50615/NC_014335.fna
+####### SIZE: 5147 KB

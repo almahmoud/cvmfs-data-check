@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/bwa_index/eschColi_O157H7_Sakai.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/bwa_index/eschColi_O157H7_Sakai.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/bwa_index/eschColi_O157H7_Sakai.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/bwa_index/eschColi_O157H7_Sakai.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/bwa_index/eschColi_O157H7_Sakai.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/bwa_index/eschColi_O157H7_Sakai.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/bwa_index/eschColi_O157H7_Sakai.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/bwa_index/eschColi_O157H7_Sakai.fa.bwt
+####### SIZE: 8198 KB

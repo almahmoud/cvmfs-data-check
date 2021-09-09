@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/13953/download
+/cvmfs/data.galaxyproject.org/byhand/microbes/13953/seq/13953.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/13953/seq/13953.2bit
+/cvmfs/data.galaxyproject.org/byhand/microbes/13953/seq/burkPseu_668.2bit
+####### SIZE: 8709 KB

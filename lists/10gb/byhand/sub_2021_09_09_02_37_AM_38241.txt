@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTau3/liftOver/bosTau3ToRn4.over.chain
+####### SIZE: 167477 KB

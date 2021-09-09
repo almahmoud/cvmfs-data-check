@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/speTri1/chr6.axt
+####### SIZE: 146513 KB

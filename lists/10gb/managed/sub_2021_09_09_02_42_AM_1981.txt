@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Oceanithermus_profundus_DSM_14977_uid60855/NC_014761.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Oceanithermus_profundus_DSM_14977_uid60855
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfotalea_psychrophila_LSv54_uid58153/NC_006140.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfotalea_psychrophila_LSv54_uid58153/NC_006139.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfotalea_psychrophila_LSv54_uid58153/NC_006138.fna
+####### SIZE: 8332 KB

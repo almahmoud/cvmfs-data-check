@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactobacillus_kefiranofaciens_ZW3_uid67985/NC_015602.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactobacillus_kefiranofaciens_ZW3_uid67985
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Arcobacter_nitrofigilis_DSM_7299_uid49001/NC_014166.fna
+####### SIZE: 7595 KB

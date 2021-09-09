@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Novosphingobium_PP1Y_uid67383
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Jannaschia_CCS1_uid58147/NC_007801.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Jannaschia_CCS1_uid58147/NC_007802.fna
+####### SIZE: 9633 KB

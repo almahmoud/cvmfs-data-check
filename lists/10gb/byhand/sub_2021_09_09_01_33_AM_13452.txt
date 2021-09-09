@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam1/align/hg17/maf/chr7.maf
+####### SIZE: 124453 KB

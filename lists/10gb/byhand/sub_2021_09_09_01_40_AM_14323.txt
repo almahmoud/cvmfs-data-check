@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/Araly1/bwa_index/Araly1.fa.sa
+####### SIZE: 25259 KB

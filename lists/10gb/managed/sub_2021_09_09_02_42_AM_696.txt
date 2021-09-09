@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/gadMor1/gadMor1.3.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/gadMor1/gadMor1.fa
+####### SIZE: 4947 KB

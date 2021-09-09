@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/xenTro2/align/galGal3/maf/xenTro2.maf.index
+####### SIZE: 5283 KB

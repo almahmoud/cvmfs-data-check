@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nocardia_farcinica_IFM_10152_uid58203
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Alcanivorax_borkumensis_SK2_uid58169/NC_008260.fna
+####### SIZE: 9329 KB

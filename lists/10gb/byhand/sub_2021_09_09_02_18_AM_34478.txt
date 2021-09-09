@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/priPac1/bowtie_index/priPac1.2.ebwt
+####### SIZE: 17816 KB

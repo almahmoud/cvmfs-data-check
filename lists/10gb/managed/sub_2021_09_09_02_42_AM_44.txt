@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg38canon/hg38canon.4.ht2
+####### SIZE: 717202 KB

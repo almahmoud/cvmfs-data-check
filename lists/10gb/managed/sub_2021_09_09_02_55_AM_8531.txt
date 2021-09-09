@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chloroflexus_aurantiacus_J_10_fl_uid57657
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Wigglesworthia_glossinidia_endosymbiont_of_Glossina_brevipalpis_uid57853/NC_003425.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Wigglesworthia_glossinidia_endosymbiont_of_Glossina_brevipalpis_uid57853/NC_004344.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Wigglesworthia_glossinidia_endosymbiont_of_Glossina_brevipalpis_uid57853
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Exiguobacterium_MH3_uid227425/NC_022794.fna
+####### SIZE: 9749 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/galGal2/maf/chr9.maf
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/galGal2/maf/chr9.maf.index
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/galGal2/maf/chrM.maf.index
+####### SIZE: 8478 KB

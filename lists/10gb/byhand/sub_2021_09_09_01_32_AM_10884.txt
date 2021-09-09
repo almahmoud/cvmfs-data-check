@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/17375
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_CFT073/sam_index/eschColi_CFT073.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_CFT073/sam_index/eschColi_CFT073.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_CFT073/sam_index
+####### SIZE: 8431 KB

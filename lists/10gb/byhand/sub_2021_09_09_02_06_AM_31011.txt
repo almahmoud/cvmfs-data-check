@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/rn4/rn4canon/bwa_index/rn4canon.fa.rsa
+####### SIZE: 341153 KB

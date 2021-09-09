@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/17811
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkCeno_AU_1054/seq/chr3.nib
+####### SIZE: 8915 KB

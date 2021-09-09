@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/sam_index
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/picard_index/ornAna1.fa
+####### SIZE: 6587 KB

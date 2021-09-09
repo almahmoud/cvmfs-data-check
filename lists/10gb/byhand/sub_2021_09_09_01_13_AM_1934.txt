@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/galGal3/chr17.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/galGal3/chrUn_gl000223.axt
+####### SIZE: 9044 KB

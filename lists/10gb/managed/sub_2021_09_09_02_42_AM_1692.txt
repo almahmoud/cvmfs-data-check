@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Dictyoglomus_turgidum_DSM_6724_uid59177/NC_011661.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Dictyoglomus_turgidum_DSM_6724_uid59177
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_pseudomallei_1710b_uid58391/NC_007434.fna
+####### SIZE: 7770 KB

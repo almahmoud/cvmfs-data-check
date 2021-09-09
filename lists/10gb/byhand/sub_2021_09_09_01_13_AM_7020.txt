@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro1/nib/chrM.nib
+####### SIZE: 1 KB

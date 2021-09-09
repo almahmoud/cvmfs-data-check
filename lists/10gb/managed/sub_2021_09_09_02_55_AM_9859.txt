@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfovibrio_hydrothermalis_AM13___DSM_14728_uid184831/NC_020055.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfovibrio_hydrothermalis_AM13___DSM_14728_uid184831/NC_019953.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfovibrio_hydrothermalis_AM13___DSM_14728_uid184831/NC_022579.fna
+####### SIZE: 7344 KB

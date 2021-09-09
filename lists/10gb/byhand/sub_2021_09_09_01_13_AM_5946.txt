@@ -1,0 +1,15 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/monDom4/chr11_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/monDom4/chr16_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/monDom4/chr21_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/monDom4/chr22_h2_hap1.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/monDom4/chr13_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/monDom4/chr6_cox_hap1.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/monDom4/chr1_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/monDom4/chr5_h2_hap1.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/monDom4/chr9_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/monDom4/chrY.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/monDom4/chr4_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/monDom4/chr15_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/monDom4/chr7_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/monDom4/chr19_random.axt
+####### SIZE: 8041 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shigella_flexneri_2a_2457T_uid57991/NC_004741.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shigella_flexneri_2a_2457T_uid57991
+####### SIZE: 9117 KB

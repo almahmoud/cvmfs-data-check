@@ -1,0 +1,16 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/13954/NC_007434.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/13954/NC_007434.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/13954/NC_007435.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/13954/NC_007434.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/13954/NC_007435.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/13954/NC_007435.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/13954/NC_007435.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/13954/NC_007434.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/13954/NC_007434.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/13954/NC_007435.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/13954/bowtie_index/cs/burkPseu_1710B.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/13954/bowtie_index/cs/burkPseu_1710B.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/13954/bowtie_index/cs/burkPseu_1710B.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/13954/bowtie_index/cs/burkPseu_1710B.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/13954/bowtie_index/cs/burkPseu_1710B.2.ebwt
+####### SIZE: 5284 KB

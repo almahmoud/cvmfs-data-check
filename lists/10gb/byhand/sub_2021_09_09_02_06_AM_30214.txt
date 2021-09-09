@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/cavPor3/bowtie_index/cavPor3.fa
+/cvmfs/data.galaxyproject.org/byhand/cavPor3/bowtie_index/cavPor3.3.ebwt
+####### SIZE: 543 KB

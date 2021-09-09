@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/felCat4/picard_index
+/cvmfs/data.galaxyproject.org/byhand/felCat4/felCat4full/bowtie2_index/felCat4full.fa
+####### SIZE: 8936 KB

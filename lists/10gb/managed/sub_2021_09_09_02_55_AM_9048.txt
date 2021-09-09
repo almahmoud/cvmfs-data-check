@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nitratiruptor_SB155_2_uid58861
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Salinibacter_ruber_DSM_13855_uid58513/NC_007678.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Salinibacter_ruber_DSM_13855_uid58513/NC_007677.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Salinibacter_ruber_DSM_13855_uid58513
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_pseudofirmus_OF4_uid45847/NC_013792.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_pseudofirmus_OF4_uid45847/NC_013793.fna
+####### SIZE: 9367 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer6/liftOver/danRer6ToMm9.over.chain
+####### SIZE: 19177 KB

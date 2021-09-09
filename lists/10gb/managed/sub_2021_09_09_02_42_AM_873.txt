@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/galGal3canon
+####### SIZE: 1764377 KB

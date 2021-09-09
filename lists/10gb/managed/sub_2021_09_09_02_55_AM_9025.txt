@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Hyphomicrobium_MC1_uid68453
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfococcus_oleovorans_Hxd3_uid58777/NC_009943.fna
+####### SIZE: 8624 KB

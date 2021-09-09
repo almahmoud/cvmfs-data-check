@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Helicobacter_hepaticus_ATCC_51449_uid57737
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_autoethanogenum_DSM_10061_uid225029/NC_022592.fna
+####### SIZE: 6099 KB

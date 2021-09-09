@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Anaeromyxobacter_Fw109_5_uid58755
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acidobacterium_capsulatum_ATCC_51196_uid59127/NC_012483.fna
+####### SIZE: 9322 KB

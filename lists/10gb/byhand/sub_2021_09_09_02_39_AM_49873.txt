@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/mm8/maf/chr21.maf
+####### SIZE: 5189 KB

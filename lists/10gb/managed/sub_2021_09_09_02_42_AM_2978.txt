@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Natranaerobius_thermophilus_JW_NM_WN_LF_uid59001
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Emticicia_oligotrophica_DSM_17448_uid177079/NC_018742.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Emticicia_oligotrophica_DSM_17448_uid177079/NC_018743.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Emticicia_oligotrophica_DSM_17448_uid177079/NC_018745.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Emticicia_oligotrophica_DSM_17448_uid177079/NC_018749.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Emticicia_oligotrophica_DSM_17448_uid177079/NC_018744.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Emticicia_oligotrophica_DSM_17448_uid177079/NC_018748.fna
+####### SIZE: 8341 KB

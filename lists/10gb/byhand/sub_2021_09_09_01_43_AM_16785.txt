@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm8/liftOver/mm8ToXenTro1.over.chain
+####### SIZE: 24855 KB

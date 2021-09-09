@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Geobacter_M21_uid59037
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanothermobacter_thermautotrophicus_Delta_H_uid57877/NC_000916.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanothermobacter_thermautotrophicus_Delta_H_uid57877
+####### SIZE: 8181 KB

@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/fasta/orthofinder/1.faa
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/fasta/orthofinder/17299.fna
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/fasta/orthofinder/4618.fna
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/fasta/orthofinder/14264.fna
+/cvmfs/data.galaxyproject.org/managed/plant_tribes/scaffolds/37Gv1.0/fasta/orthofinder/3621.faa
+####### SIZE: 9776 KB

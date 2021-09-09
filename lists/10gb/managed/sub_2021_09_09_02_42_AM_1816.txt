@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Xanthomonas_campestris_ATCC_33913_uid57887
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Alteromonas_macleodii__Aegean_Sea_MED64__uid231689/NC_023045.fna
+####### SIZE: 9389 KB

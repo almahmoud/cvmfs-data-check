@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/droAna3/bowtie_index/droAna3.fa
+/cvmfs/data.galaxyproject.org/byhand/droAna3/bowtie_index/droAna3.3.ebwt
+####### SIZE: 182 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer3/seq/danRer3.2bit
+####### SIZE: 425867 KB

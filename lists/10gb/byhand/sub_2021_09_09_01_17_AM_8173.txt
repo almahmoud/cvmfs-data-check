@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/taeGut1full/bwa_index/taeGut1full.fa.sa
+####### SIZE: 150536 KB

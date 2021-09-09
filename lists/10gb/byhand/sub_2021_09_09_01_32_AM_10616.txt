@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/xenTro1/bowtie_index/cs/xenTro1.fa
+/cvmfs/data.galaxyproject.org/byhand/xenTro1/bowtie_index/cs/xenTro1.3.ebwt
+####### SIZE: 1955 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer4/align/fr1/chr6.axt
+####### SIZE: 13870 KB

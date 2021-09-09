@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Flavobacteriales_bacterium_HTCC2170_uid51877/NC_014472.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Flavobacteriales_bacterium_HTCC2170_uid51877
+####### SIZE: 7669 KB

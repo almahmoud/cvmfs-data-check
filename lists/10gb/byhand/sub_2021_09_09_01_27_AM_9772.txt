@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droEre1/chr3LHet.axt
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droEre1/chr3RHet.axt
+####### SIZE: 8123 KB

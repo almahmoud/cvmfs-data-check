@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gordonibacter_pamelaeae_7_10_1_b_uid197167
+####### SIZE: 3579 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/multiz15way/upstream5000.maf.gz
+####### SIZE: 257931 KB

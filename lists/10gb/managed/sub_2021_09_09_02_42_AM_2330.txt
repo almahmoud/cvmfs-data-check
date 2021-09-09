@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Verrucosispora_maris_AB_18_032_uid66297
+####### SIZE: 6674 KB

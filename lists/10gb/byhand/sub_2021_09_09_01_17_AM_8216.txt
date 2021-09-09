@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/seq/taeGut1canon.fa
+####### SIZE: 1191026 KB

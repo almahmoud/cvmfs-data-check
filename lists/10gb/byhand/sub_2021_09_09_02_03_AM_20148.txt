@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/dp2/chrM.idx
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/dp2/chr2L.idx
+####### SIZE: 697 KB

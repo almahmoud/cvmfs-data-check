@@ -1,0 +1,14 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewAmaz/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewAmaz/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewAmaz/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewAmaz/shewAmaz.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewAmaz/chr.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewAmaz/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewAmaz/chr.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewAmaz/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewAmaz/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewAmaz/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewAmaz/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewAmaz/chr.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewAmaz/chr.fna
+####### SIZE: 8303 KB

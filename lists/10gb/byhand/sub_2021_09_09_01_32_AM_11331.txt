@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/mannSucc_MBEL55E/chr.gbk
+####### SIZE: 5364 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/rn4/liftOver/rn4ToMm8.over.chain
+####### SIZE: 229320 KB

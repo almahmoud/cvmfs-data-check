@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/mesUni1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/tinGut1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/colStr1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/loaLoa1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/merNub1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/tinGut2.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/manPen1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/acaChl1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/picPub1.len
+####### SIZE: 8492 KB

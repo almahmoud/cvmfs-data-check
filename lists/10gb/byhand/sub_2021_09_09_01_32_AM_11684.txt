@@ -1,0 +1,27 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/brucMeli/seq/chrII.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/brucMeli/seq/chrI.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/brucMeli/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/brucMeli/chrI.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/brucMeli/chrII.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/brucMeli/chrII.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/brucMeli/chrI.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/brucMeli/chrII.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/brucMeli/chrI.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/brucMeli/chrII.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/brucMeli/chrII.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/brucMeli/chrI.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/brucMeli/chrI.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/brucMeli/chrII.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/brucMeli/chrII.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/brucMeli/brucMeli.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/brucMeli/chrII.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/brucMeli/chrII.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/brucMeli/chrI.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/brucMeli/chrI.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/brucMeli/chrI.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/brucMeli/chrII.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/brucMeli/chrI.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/brucMeli/chrI.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/brucMeli/chrII.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/brucMeli/chrI.GeneMark-2.5f
+####### SIZE: 9546 KB

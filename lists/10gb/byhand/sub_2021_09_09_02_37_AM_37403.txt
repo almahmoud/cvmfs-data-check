@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/Arabidopsis_thaliana_TAIR10/bwa_index/cs/Arabidopsis_thaliana_TAIR10.fa.nt.ann
+/cvmfs/data.galaxyproject.org/byhand/Arabidopsis_thaliana_TAIR10/bwa_index/cs/Arabidopsis_thaliana_TAIR10.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/Arabidopsis_thaliana_TAIR10/bwa_index/cs/Arabidopsis_thaliana_TAIR10.fa.nt.amb
+/cvmfs/data.galaxyproject.org/byhand/Arabidopsis_thaliana_TAIR10/bwa_index/cs/Arabidopsis_thaliana_TAIR10.fa.amb
+####### SIZE: 18 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro1/nib/chr5_random.nib
+####### SIZE: 26248 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Amphibacillus_xylanus_NBRC_15112_uid176453/NC_018704.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Amphibacillus_xylanus_NBRC_15112_uid176453
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Roseburia_hominis_A2_183_uid73419/NC_015977.fna
+####### SIZE: 8655 KB

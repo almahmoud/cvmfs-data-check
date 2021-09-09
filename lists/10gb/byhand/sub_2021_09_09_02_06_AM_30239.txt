@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/droSec1/align/dm2/maf/droSec1.maf
+####### SIZE: 268209 KB

@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/hg18/maf/broken_indices/chr3.maf.index
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/hg18/maf/broken_indices/chr5.maf.index
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/hg18/maf/broken_indices/chr19.maf.index
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/hg18/maf/broken_indices/chr13.maf.index
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/hg18/maf/broken_indices/chr11.maf.index
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/hg18/maf/broken_indices/chr20.maf.index
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/hg18/maf/broken_indices/chr18.maf.index
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/hg18/maf/broken_indices/chr1.maf.index
+####### SIZE: 9630 KB

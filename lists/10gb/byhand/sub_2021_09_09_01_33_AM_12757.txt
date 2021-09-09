@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkXeno_LB400/chr1.gbk
+####### SIZE: 10529 KB

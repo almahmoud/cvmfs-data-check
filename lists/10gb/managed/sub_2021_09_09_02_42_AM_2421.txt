@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Azotobacter_vinelandii_CA6_uid198830
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Spiroplasma_chrysopicola_DF_1_uid205053/NC_021280.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Spiroplasma_chrysopicola_DF_1_uid205053
+####### SIZE: 7509 KB

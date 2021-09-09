@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/musFur1/musFur1.fa
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/musFur1/musFur1.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/musFur1/musFur1.fa.amb
+####### SIZE: 2072 KB

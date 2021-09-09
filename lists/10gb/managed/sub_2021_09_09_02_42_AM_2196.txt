@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermoanaerobacterium_thermosaccharolyticum_M0795_uid184821/NC_019970.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermoanaerobacterium_thermosaccharolyticum_M0795_uid184821
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/candidate_division_SR1_bacterium_RAAC1_SR1_1_uid230714/NC_023002.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/candidate_division_SR1_bacterium_RAAC1_SR1_1_uid230714
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_trachomatis_L2_434_Bu_i__uid198643/NC_021051.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chlamydia_trachomatis_L2_434_Bu_i__uid198643/NC_021050.fna
+####### SIZE: 9007 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/tarSyr1/bowtie2_index/tarSyr1.3.bt2
+####### SIZE: 10558 KB

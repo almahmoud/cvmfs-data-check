@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/dasNov2/chrUn_gl000249.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/dasNov2/chrM.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/dasNov2/chrUn_gl000244.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/dasNov2/chrUn_gl000220.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/dasNov2/chr17_gl000205_random.axt
+####### SIZE: 212 KB

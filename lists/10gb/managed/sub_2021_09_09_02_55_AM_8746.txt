@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gloeocapsa_PCC_7428_uid183112/NC_019745.fna
+####### SIZE: 5380 KB

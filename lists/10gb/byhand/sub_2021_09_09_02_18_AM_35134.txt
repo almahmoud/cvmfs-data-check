@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/byhand/mm8/sam_index/mm8full.fa
+/cvmfs/data.galaxyproject.org/byhand/mm8/sam_index/mm8.fa
+/cvmfs/data.galaxyproject.org/byhand/mm8/sam_index/mm8.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/mm8/sam_index
+/cvmfs/data.galaxyproject.org/byhand/mm8/nib/chr5_random.nib
+/cvmfs/data.galaxyproject.org/byhand/mm8/nib/chrY.nib
+/cvmfs/data.galaxyproject.org/byhand/mm8/nib/chrX_random.nib
+/cvmfs/data.galaxyproject.org/byhand/mm8/nib/chr15_random.nib
+####### SIZE: 9337 KB

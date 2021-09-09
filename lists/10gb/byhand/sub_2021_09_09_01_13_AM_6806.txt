@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/droGri2/liftOver/droGri2ToDm3.over.chain
+####### SIZE: 21219 KB

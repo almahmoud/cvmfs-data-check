@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/13163
+/cvmfs/data.galaxyproject.org/byhand/microbes/syneSp_WH8102/seq/chr.nib
+####### SIZE: 8876 KB

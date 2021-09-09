@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/mm9/mm9.fa
+####### SIZE: 1 KB

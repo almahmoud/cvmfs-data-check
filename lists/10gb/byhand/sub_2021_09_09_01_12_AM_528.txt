@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/taeGut1/maf/chr9.maf
+####### SIZE: 10976 KB

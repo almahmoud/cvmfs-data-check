@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droSim1/chr2RHet.axt
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droSim1/chrXHet.axt
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droSim1/chrYHet.axt
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droSim1/chrM.axt
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/droSim1/chr4.axt
+####### SIZE: 7464 KB

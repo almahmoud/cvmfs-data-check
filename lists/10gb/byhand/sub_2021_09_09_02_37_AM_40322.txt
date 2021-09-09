@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/hg17/maf/chr9.maf
+####### SIZE: 125232 KB

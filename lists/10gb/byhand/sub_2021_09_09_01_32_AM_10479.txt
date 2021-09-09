@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/ce2/picard_index/ce2.fa
+/cvmfs/data.galaxyproject.org/byhand/ce2/picard_index/ce2.dict
+/cvmfs/data.galaxyproject.org/byhand/ce2/picard_index/ce2.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/ce2/picard_index
+/cvmfs/data.galaxyproject.org/byhand/ce2/bowtie2_index/ce2.fa
+####### SIZE: 11 KB

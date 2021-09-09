@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/mm7/chr11.axt
+####### SIZE: 116772 KB

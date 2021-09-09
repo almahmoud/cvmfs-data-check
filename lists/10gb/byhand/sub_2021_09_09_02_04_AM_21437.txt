@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal3/galGal3full/bwa_index/galGal3.fa.rpac
+/cvmfs/data.galaxyproject.org/byhand/galGal3/galGal3full/bwa_index/galGal3.fa.bwt
+/cvmfs/data.galaxyproject.org/byhand/galGal3/galGal3full/bwa_index/galGal3.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/galGal3/galGal3full/bwa_index/galGal3.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/galGal3/galGal3full/bwa_index/galGal3.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/galGal3/galGal3full/bwa_index/galGal3.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/galGal3/galGal3full/bwa_index/galGal3.fa.pac
+/cvmfs/data.galaxyproject.org/byhand/galGal3/galGal3full/bwa_index/galGal3.fa.rbwt
+/cvmfs/data.galaxyproject.org/byhand/galGal3/galGal3full/bwa_index/galGal3full.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/galGal3/galGal3full/bwa_index/galGal3full.fa.ann
+####### SIZE: 1333 KB

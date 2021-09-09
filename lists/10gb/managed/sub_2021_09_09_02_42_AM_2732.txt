@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cycloclasticus_zancles_7_ME_uid214092
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pectobacterium_wasabiae_WPP163_uid41297/NC_013421.fna
+####### SIZE: 7652 KB

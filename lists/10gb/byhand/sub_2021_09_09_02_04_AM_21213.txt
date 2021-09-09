@@ -1,0 +1,14 @@
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/rheMac1/maf/chr12_random.maf
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/rheMac1/maf/chr4.maf.index
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/rheMac1/maf/chr12_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/rheMac1/maf/chr14_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/rheMac1/maf/chr1_random.maf
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/rheMac1/maf/chr5_random.maf
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/rheMac1/maf/chr16_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/rheMac1/maf/chr9_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/rheMac1/maf/chr10_random.maf
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/rheMac1/maf/chr10_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/rheMac1/maf/chr8_random.maf
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/rheMac1/maf/chr5.maf.index
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/rheMac1/maf/chr3.maf.index
+####### SIZE: 9615 KB

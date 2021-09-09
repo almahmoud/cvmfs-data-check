@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/liftOver
+####### SIZE: 4993223 KB

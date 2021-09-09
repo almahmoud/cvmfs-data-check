@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/plasmids/Plasmids/library/Plasmids/lib.complete
+####### SIZE: 1 KB

@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cellulomonas_flavigena_DSM_20109_uid48821
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_rhizoxinica_HKI_454_uid60487/NC_014723.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_rhizoxinica_HKI_454_uid60487/NC_014718.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_rhizoxinica_HKI_454_uid60487/NC_014722.fna
+####### SIZE: 7805 KB

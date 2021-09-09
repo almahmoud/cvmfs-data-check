@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/bwa_index/ailMel1.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/ailMel1/bwa_index/ailMel1.fa.ann
+####### SIZE: 4833 KB

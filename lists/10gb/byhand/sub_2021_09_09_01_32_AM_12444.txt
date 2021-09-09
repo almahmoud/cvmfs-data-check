@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/20243/NC_010103.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/20243/NC_010103.gbk
+####### SIZE: 6858 KB

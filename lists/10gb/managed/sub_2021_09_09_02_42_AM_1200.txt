@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Coprothermobacter_proteolyticus_DSM_5265_uid59253
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanocella_conradii_HZ254_uid157911/NC_017034.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanocella_conradii_HZ254_uid157911
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfotomaculum_reducens_MI_1_uid58277/NC_009253.fna
+####### SIZE: 9707 KB

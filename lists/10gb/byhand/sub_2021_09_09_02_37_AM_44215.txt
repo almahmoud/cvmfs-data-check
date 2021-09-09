@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/monDom4/bowtie2_index/monDom4.4.bt2
+####### SIZE: 854894 KB

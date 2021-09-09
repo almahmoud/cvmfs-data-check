@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/droSec1/seq/droSec1.2bit
+####### SIZE: 42193 KB

@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/methStad1
+/cvmfs/data.galaxyproject.org/byhand/microbes/granBeth_CGDNIH1/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/granBeth_CGDNIH1/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/granBeth_CGDNIH1/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/granBeth_CGDNIH1/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/granBeth_CGDNIH1/chr.Glimmer3.bed
+####### SIZE: 9946 KB

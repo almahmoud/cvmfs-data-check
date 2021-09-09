@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz46way/chr6_cox_hap2.maf.lzo
+####### SIZE: 27147 KB

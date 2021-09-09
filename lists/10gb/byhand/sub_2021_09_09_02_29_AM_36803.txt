@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/loxAfr1/bowtie2_index/loxAfr1.fa
+/cvmfs/data.galaxyproject.org/byhand/loxAfr1/bowtie2_index/loxAfr1.3.bt2
+####### SIZE: 8078 KB

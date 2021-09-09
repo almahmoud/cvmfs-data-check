@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab1/bowtie_index
+####### SIZE: 5087616 KB

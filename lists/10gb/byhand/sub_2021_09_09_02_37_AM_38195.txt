@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTau3/nib/chrX.nib
+####### SIZE: 48780 KB

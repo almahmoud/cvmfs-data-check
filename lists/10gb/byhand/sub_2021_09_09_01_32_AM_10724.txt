@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/methHung1/chr.gbk
+####### SIZE: 7824 KB

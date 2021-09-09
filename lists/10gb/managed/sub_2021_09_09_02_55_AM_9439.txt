@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Microbacterium_testaceum_StLB037_uid62789/NC_015125.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Microbacterium_testaceum_StLB037_uid62789
+####### SIZE: 7894 KB

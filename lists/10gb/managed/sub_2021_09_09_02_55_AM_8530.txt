@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chloroflexus_aurantiacus_J_10_fl_uid57657/NC_010175.fna
+####### SIZE: 5209 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Myxococcus_stipitatus_DSM_14675_uid186549/NC_020126.fna
+####### SIZE: 10253 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/musFur1
+####### SIZE: 3163628 KB

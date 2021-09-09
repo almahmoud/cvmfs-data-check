@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/hg19full/bwa_index_v0.5.9-r16/cs/hg19full.fa.rpac
+####### SIZE: 765909 KB

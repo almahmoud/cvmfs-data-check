@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/13030/NC_010067.fna
+####### SIZE: 4558 KB

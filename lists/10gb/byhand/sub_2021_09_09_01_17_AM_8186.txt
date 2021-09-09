@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/taeGut1full/bowtie_index/taeGut1.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/taeGut1full/bowtie_index/taeGut1.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/taeGut1full/bowtie_index/taeGut1.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/taeGut1full/bowtie_index/taeGut1full.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/taeGut1full/bowtie_index/taeGut1.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/taeGut1full/bowtie_index/taeGut1.rev.2.ebwt
+####### SIZE: 1102 KB

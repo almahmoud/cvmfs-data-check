@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm5/tmp/chr17.fa.zip
+####### SIZE: 27869 KB

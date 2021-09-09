@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/hg17/maf/chrZ_random.maf
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/hg17/maf/chrE26C13.maf.index
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/hg17/maf/chrZ.maf
+####### SIZE: 8243 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer3/align/hg18/maf/chr22.maf
+/cvmfs/data.galaxyproject.org/byhand/danRer3/align/hg18/maf/chr1.maf
+####### SIZE: 9658 KB

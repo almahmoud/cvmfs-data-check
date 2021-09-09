@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm5/tmp/chrY.fa.zip
+####### SIZE: 12001 KB

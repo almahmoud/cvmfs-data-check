@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rickettsia_typhi_TH1527_uid158161/NC_017066.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rickettsia_typhi_TH1527_uid158161
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Phycisphaera_mikurensis_NBRC_102666_uid157331/NC_017081.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Phycisphaera_mikurensis_NBRC_102666_uid157331/NC_017080.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Phycisphaera_mikurensis_NBRC_102666_uid157331
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gordonia_bronchialis_DSM_43247_uid41403/NC_013442.fna
+####### SIZE: 9992 KB

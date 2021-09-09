@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Solibacter_usitatus_Ellin6076_uid58139/NC_008536.fna
+####### SIZE: 9872 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab1/quality_scores/chr28.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/equCab1/quality_scores/chr7.qa.bqv
+/cvmfs/data.galaxyproject.org/byhand/equCab1/quality_scores/chr17.qa.bqv
+####### SIZE: 8690 KB

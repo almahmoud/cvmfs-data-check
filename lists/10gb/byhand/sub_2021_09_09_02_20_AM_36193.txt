@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/rmsk/Contig233290.fa.out
+/cvmfs/data.galaxyproject.org/byhand/ornAna1/rmsk/Contig134693.fa.out
+####### SIZE: 2 KB

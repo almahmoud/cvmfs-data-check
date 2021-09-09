@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/bradJapo/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/bradJapo/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/bradJapo/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/bradJapo/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/bradJapo/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/bradJapo/chr.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/bradJapo/bradJapo.info
+####### SIZE: 9823 KB

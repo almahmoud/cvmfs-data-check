@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/dipOrd1/liftOver/dipOrd1ToMm10.over.chain
+####### SIZE: 134648 KB

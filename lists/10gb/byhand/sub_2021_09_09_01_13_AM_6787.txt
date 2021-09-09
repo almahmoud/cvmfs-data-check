@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/droGri2/sam_index/droGri2.fa
+/cvmfs/data.galaxyproject.org/byhand/droGri2/sam_index/droGri2.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/droGri2/sam_index
+/cvmfs/data.galaxyproject.org/byhand/droGri2/picard_index/droGri2.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/droGri2/picard_index/droGri2.fa
+/cvmfs/data.galaxyproject.org/byhand/droGri2/picard_index/droGri2.dict
+/cvmfs/data.galaxyproject.org/byhand/droGri2/picard_index
+/cvmfs/data.galaxyproject.org/byhand/droGri2/bowtie2_index/droGri2.fa
+/cvmfs/data.galaxyproject.org/byhand/droGri2/bowtie2_index/droGri2.3.bt2
+####### SIZE: 4093 KB

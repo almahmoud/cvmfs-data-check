@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Brevibacillus_brevis_NBRC_100599_uid59175
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Kinetoplastibacterium_blastocrithidii__ex_Strigomonas_culicis__uid183629/NC_019814.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Candidatus_Kinetoplastibacterium_blastocrithidii__ex_Strigomonas_culicis__uid183629
+####### SIZE: 7872 KB

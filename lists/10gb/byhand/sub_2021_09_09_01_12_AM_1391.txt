@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/myoLuc1/chrUn_gl000232.axt
+####### SIZE: 4 KB

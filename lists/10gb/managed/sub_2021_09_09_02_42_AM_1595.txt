@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfosporosinus_orientis_DSM_765_uid82939/NC_016584.fna
+####### SIZE: 5808 KB

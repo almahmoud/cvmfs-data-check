@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/dm3/bowtie2_index/dm3.1.bt2
+####### SIZE: 57393 KB

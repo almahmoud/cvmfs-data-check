@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/bifiLong/chr.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/bifiLong/plasmid_pBLO1.rRNA.bed
+####### SIZE: 4833 KB

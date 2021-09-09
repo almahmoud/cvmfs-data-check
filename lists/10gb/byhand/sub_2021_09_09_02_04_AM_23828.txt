@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/rn4/chr24.axt
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/rn4/chr12.axt
+####### SIZE: 5058 KB

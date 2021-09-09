@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lacinutrix_5H_3_7_4_uid68067/NC_015638.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lacinutrix_5H_3_7_4_uid68067
+####### SIZE: 6535 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ponAbe2/align/panTro2/maf/chr4_random.maf.lzo
+####### SIZE: 17249 KB

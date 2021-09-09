@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/hg16/align/mm4/chr1_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg16/align/mm4/chr5.idx
+/cvmfs/data.galaxyproject.org/byhand/hg16/align/mm4/chr18_random.idx
+/cvmfs/data.galaxyproject.org/byhand/hg16/align/mm4/chr20.idx
+/cvmfs/data.galaxyproject.org/byhand/hg16/align/mm4/chr4_random.axt
+####### SIZE: 8922 KB

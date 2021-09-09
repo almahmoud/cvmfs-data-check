@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/dp3/maf/chr4.maf
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/dp3/maf/chr3LHet.maf
+####### SIZE: 4474 KB

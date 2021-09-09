@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ce3/bowtie_index/cs/ce3.1.ebwt
+####### SIZE: 32080 KB

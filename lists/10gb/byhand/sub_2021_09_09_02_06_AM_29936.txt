@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/melUnd1/bwa_index/melUnd1.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/melUnd1/bwa_index/melUnd1.fa
+/cvmfs/data.galaxyproject.org/byhand/melUnd1/bwa_index/melUnd1.fa.ann
+####### SIZE: 1600 KB

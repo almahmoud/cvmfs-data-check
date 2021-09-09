@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_pneumoniae_M129_uid57709/NC_000912.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Mycoplasma_pneumoniae_M129_uid57709
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfovibrio_gigas_DSM_1382_uid221293/NC_022436.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfovibrio_gigas_DSM_1382_uid221293/NC_022444.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfovibrio_gigas_DSM_1382_uid221293
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haliscomenobacter_hydrossis_DSM_1100_uid66777/NC_015512.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haliscomenobacter_hydrossis_DSM_1100_uid66777/NC_015513.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Haliscomenobacter_hydrossis_DSM_1100_uid66777/NC_015511.fna
+####### SIZE: 9549 KB

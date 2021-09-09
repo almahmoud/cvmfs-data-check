@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chromobacterium_violaceum_ATCC_12472_uid58001
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sulfolobus_islandicus_L_S_2_15_uid58871/NC_012589.fna
+####### SIZE: 7422 KB

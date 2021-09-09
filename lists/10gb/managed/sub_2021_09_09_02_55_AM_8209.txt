@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/rnastar/2.7.4a/dm3
+####### SIZE: 3003995 KB

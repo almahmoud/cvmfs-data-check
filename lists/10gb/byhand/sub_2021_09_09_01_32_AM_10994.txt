@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/franTula_TULARENSIS/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/franTula_TULARENSIS/chr.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/franTula_TULARENSIS/chr.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/franTula_TULARENSIS/chr.gbk
+####### SIZE: 6584 KB

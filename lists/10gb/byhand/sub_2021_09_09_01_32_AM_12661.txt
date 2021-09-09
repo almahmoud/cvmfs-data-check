@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/plasmid_pO157.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/plasmid_pOSAK1.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/bowtie_index/cs/eschColi_O157H7_Sakai.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/bowtie_index/cs/eschColi_O157H7_Sakai.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/bowtie_index/cs/eschColi_O157H7_Sakai.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/bowtie_index/cs/eschColi_O157H7_Sakai.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/bowtie_index/cs/eschColi_O157H7_Sakai.rev.1.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_O157H7/bowtie_index/cs/eschColi_O157H7_Sakai.rev.2.ebwt
+####### SIZE: 8487 KB

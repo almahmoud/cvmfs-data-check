@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Listeria_monocytogenes_08_5923_uid43727
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Cytophaga_hutchinsonii_ATCC_33406_uid57651/NC_008255.fna
+####### SIZE: 7368 KB

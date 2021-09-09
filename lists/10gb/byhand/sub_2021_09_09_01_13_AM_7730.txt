@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/tupBel1/sam_index
+/cvmfs/data.galaxyproject.org/byhand/tupBel1/picard_index/tupBel1.fa
+####### SIZE: 6484 KB

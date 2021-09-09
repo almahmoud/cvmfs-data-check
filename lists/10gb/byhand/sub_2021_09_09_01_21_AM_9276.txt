@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/sacCer3/.cvmfscatalog
+####### SIZE: 1 KB

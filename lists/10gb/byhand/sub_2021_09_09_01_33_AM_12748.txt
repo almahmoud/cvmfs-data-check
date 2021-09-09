@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/vibrChol_O395_1/chr2.gbk
+####### SIZE: 6860 KB

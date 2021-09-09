@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/mm7/chr20.axt
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/mm7/chr14.axt
+/cvmfs/data.galaxyproject.org/byhand/galGal2/align/mm7/chrUn.idx
+####### SIZE: 7226 KB

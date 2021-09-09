@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/haemInfl_KW20/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/haemInfl_KW20/chr.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/haemInfl_KW20/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/haemInfl_KW20/chr.gbk
+####### SIZE: 6091 KB

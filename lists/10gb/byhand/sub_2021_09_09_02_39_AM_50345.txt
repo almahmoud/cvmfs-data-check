@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/tetNig2/tetNig2canon/bwa_index/tetNig2canon.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/tetNig2/tetNig2canon/bwa_index/tetNig2canon.fa.amb
+####### SIZE: 191 KB

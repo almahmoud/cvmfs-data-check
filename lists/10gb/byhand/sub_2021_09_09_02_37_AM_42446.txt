@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/dp3/align/dm2/maf/chr4_group3.maf
+####### SIZE: 19397 KB

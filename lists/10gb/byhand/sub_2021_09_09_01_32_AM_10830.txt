@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/hypeButy1/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/hypeButy1/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/hypeButy1/chr.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/hypeButy1/chr.gbk
+####### SIZE: 5413 KB

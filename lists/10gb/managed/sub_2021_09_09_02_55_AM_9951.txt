@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/viruses/Viruses
+####### SIZE: 19711104 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/tmp/chr4.fa
+####### SIZE: 155023 KB

@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Lactobacillus_paracasei_8700_2_uid55295
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Caldicellulosiruptor_kristjanssonii_177R1B_uid60393/NC_014719.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Caldicellulosiruptor_kristjanssonii_177R1B_uid60393/NC_014721.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Caldicellulosiruptor_kristjanssonii_177R1B_uid60393
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bradyrhizobium_BTAi1_uid58505/NC_009475.fna
+####### SIZE: 8788 KB

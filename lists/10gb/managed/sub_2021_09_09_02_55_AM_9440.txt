@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Syntrophobacter_fumaroxidans_MPOB_uid58177/NC_008554.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Syntrophobacter_fumaroxidans_MPOB_uid58177
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methylobacterium_extorquens_DM4_uid61617/NC_012989.fna
+####### SIZE: 9931 KB

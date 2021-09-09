@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/rheMac2/chr5_random.axt
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/rheMac2/chr13_random.axt
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/rheMac2/chrY_random.axt
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/rheMac2/chrY.axt
+####### SIZE: 9328 KB

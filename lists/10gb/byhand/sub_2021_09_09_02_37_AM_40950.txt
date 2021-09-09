@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/nib/chr12_random.nib
+/cvmfs/data.galaxyproject.org/byhand/panTro2/nib/chr18_random.nib
+/cvmfs/data.galaxyproject.org/byhand/panTro2/nib/chrX_random.nib
+/cvmfs/data.galaxyproject.org/byhand/panTro2/nib/chr15_random.nib
+/cvmfs/data.galaxyproject.org/byhand/panTro2/nib/chr20_random.nib
+/cvmfs/data.galaxyproject.org/byhand/panTro2/nib/chr22_random.nib
+####### SIZE: 6699 KB

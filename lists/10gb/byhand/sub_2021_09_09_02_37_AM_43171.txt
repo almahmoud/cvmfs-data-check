@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/xenTro2/align/galGal3/xenTro2.galGal3.all.chain
+####### SIZE: 143141 KB

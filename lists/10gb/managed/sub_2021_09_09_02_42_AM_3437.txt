@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Enterobacter_aerogenes_KCTC_2190_uid68103/NC_015663.fna
+####### SIZE: 5231 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/cavPor2/seq/cavPor2.fa
+####### SIZE: 3395350 KB

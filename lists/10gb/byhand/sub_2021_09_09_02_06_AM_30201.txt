@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/cavPor3/liftOver/cavPor3ToMm10.over.chain
+####### SIZE: 197657 KB

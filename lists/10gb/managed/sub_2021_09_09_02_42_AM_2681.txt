@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Zobellia_galactanivorans_uid70621
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodospirillum_rubrum_ATCC_11170_uid57655/NC_007641.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhodospirillum_rubrum_ATCC_11170_uid57655/NC_007643.fna
+####### SIZE: 9840 KB

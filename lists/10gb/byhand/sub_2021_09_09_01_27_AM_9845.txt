@@ -1,0 +1,13 @@
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/multiz15way/chrX.maf.lzot
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/multiz15way/chr2RHet.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/multiz15way/chr4.maf.lzot
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/multiz15way/chr2R.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/multiz15way/chr3RHet.maf.lzot
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/multiz15way/chr3R.maf.lzot
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/multiz15way/chr2LHet.maf.lzot
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/multiz15way/chr2L.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/multiz15way/chrU.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/multiz15way/chrM.maf.lzo
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/multiz15way/chrXHet.maf.index
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/multiz15way/chr2L.maf.lzot
+####### SIZE: 6737 KB

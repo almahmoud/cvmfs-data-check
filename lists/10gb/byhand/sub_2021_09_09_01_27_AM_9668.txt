@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/susScr2/bwa_index/susScr2.fa.rbwt
+####### SIZE: 828553 KB

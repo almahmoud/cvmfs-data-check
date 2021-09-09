@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Psychromonas_ingrahamii_37_uid58521
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Zunongwangia_profunda_SM_A87_uid48073/NC_014041.fna
+####### SIZE: 9601 KB

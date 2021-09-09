@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylothermus_hellenicus_DSM_12710_uid45893/NC_014205.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Staphylothermus_hellenicus_DSM_12710_uid45893
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methylocystis_SC2_uid174072/NC_018485.fna
+####### SIZE: 6874 KB

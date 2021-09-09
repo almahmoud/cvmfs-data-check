@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Porphyromonas_gingivalis_TDC60_uid67407
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Shewanella_violacea_DSS12_uid47085/NC_014012.fna
+####### SIZE: 7239 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Escherichia_coli_S88_uid62979/NC_011742.fna
+####### SIZE: 4985 KB

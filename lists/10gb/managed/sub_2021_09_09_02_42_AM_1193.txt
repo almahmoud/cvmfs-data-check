@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_pumilus_SAFR_032_uid59017
+####### SIZE: 3674 KB

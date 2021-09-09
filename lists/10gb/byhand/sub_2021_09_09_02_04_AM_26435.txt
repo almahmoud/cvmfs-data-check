@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/apiMel2/seq/apiMel2.fa
+####### SIZE: 500535 KB

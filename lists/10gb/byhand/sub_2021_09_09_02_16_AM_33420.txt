@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/ce5/bowtie2_index/ce5.fa
+/cvmfs/data.galaxyproject.org/byhand/ce5/bowtie2_index/ce5.3.bt2
+####### SIZE: 2 KB

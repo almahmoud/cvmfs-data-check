@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer7/bowtie_index/cs/danRer7.2.ebwt
+####### SIZE: 172088 KB

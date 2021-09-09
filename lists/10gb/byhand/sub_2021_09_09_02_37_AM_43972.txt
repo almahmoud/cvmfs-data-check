@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/ce6/liftOver/ce6ToCe10.over.chain
+/cvmfs/data.galaxyproject.org/byhand/ce6/liftOver/ce6ToCaeJap1.over.chain
+/cvmfs/data.galaxyproject.org/byhand/ce6/liftOver/ce6ToCe4.over.chain
+/cvmfs/data.galaxyproject.org/byhand/ce6/liftOver/ce6ToPriPac1.over.chain
+####### SIZE: 6996 KB

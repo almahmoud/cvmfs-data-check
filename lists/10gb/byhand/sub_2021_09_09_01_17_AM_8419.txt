@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/caePb3/seq/caePb3.fa
+####### SIZE: 189672 KB

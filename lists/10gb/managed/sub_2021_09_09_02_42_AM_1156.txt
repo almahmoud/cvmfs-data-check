@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/alpha_proteobacterium_HIMB5_uid175779/NC_018643.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/alpha_proteobacterium_HIMB5_uid175779
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_difficile_R20291_uid40921/NC_013316.fna
+####### SIZE: 6819 KB

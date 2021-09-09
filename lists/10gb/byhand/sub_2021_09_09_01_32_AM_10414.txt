@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/droYak2/seq/droYak2.fa
+####### SIZE: 168006 KB

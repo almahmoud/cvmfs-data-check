@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/droGri2/seq/droGri2.fa
+####### SIZE: 199955 KB

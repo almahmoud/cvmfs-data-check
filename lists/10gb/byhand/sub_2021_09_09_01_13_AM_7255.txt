@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro1/align/hg18/chr20.idx
+/cvmfs/data.galaxyproject.org/byhand/panTro1/align/hg18/chr4.idx
+####### SIZE: 1169 KB

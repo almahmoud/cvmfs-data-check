@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacteroides_thetaiotaomicron_VPI_5482_uid62913/NC_004663.fna
+####### SIZE: 6202 KB

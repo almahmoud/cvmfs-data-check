@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/dm3/seq/dm3.fa.gz
+####### SIZE: 50217 KB

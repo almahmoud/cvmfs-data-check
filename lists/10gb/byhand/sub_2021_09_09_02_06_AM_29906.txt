@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/liftOver/hg17ToHg18.over.chain
+/cvmfs/data.galaxyproject.org/byhand/hg17/liftOver/hg17ToHg15.over.chain
+/cvmfs/data.galaxyproject.org/byhand/hg17/liftOver/hg17ToHg19.over.chain
+####### SIZE: 2227 KB

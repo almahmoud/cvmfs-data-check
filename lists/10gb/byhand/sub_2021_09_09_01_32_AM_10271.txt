@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/Ptrichocarpa_156/bwa_index/cs/cs/Ptrichocarpa_156.fa.nt.pac
+####### SIZE: 101841 KB

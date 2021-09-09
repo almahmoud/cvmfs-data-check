@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/liftOver/hg19ToRn5.over.chain
+####### SIZE: 219943 KB

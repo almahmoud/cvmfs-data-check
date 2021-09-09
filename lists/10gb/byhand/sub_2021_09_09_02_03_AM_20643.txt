@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm7/nib/chr14_random.nib
+####### SIZE: 6755 KB

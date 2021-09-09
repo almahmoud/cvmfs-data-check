@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/droGri2/bwa_index/droGri2.fa.sa
+####### SIZE: 24472 KB

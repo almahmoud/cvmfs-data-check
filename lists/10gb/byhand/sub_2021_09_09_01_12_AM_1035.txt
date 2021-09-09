@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way/hg19.100way.nh
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way/md5sum.txt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/multiz100way/alignments/md5sum.txt
+####### SIZE: 6 KB

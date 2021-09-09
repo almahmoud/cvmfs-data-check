@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/multiz28way/old/chr12.maf.index
+####### SIZE: 17182 KB

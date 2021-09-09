@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/panTro3canon/panTro3canon.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/panTro3canon/panTro3canon.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/panTro3canon/panTro3canon.3.ht2
+####### SIZE: 1410 KB

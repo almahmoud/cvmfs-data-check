@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro1/picard_index/panTro1.fa
+/cvmfs/data.galaxyproject.org/byhand/panTro1/picard_index/panTro1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/panTro1/picard_index/panTro1.dict
+/cvmfs/data.galaxyproject.org/byhand/panTro1/picard_index
+/cvmfs/data.galaxyproject.org/byhand/panTro1/bowtie2_index/panTro1.fa
+/cvmfs/data.galaxyproject.org/byhand/panTro1/bowtie2_index/panTro1.3.bt2
+####### SIZE: 3206 KB

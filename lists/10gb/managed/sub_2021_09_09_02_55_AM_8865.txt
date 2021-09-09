@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chroococcidiopsis_thermalis_PCC_7203_uid183002/NC_019695.fna
+####### SIZE: 6256 KB

@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/droEre2/sam_index/droEre2.fa
+/cvmfs/data.galaxyproject.org/byhand/droEre2/sam_index/droEre2.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/droEre2/sam_index
+/cvmfs/data.galaxyproject.org/byhand/droEre2/picard_index/droEre2.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/droEre2/picard_index/droEre2.fa
+/cvmfs/data.galaxyproject.org/byhand/droEre2/picard_index/droEre2.dict
+/cvmfs/data.galaxyproject.org/byhand/droEre2/picard_index
+####### SIZE: 1135 KB

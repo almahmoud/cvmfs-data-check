@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18full/bowtie_index/cs/hg18full.fa
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18full/bowtie_index/cs/hg18full.3.ebwt
+####### SIZE: 77 KB

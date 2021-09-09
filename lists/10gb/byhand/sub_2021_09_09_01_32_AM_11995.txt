@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/31/NC_009648.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/31/NC_009653.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/31/NC_009653.GeneMark.bed
+####### SIZE: 5267 KB

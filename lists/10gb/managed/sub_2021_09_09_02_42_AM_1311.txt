@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Riemerella_anatipestifer_RA_GD_uid162013/NC_017569.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Riemerella_anatipestifer_RA_GD_uid162013
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Listeria_monocytogenes_serotype_7_SLCC2482_uid174871/NC_018888.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Listeria_monocytogenes_serotype_7_SLCC2482_uid174871/NC_018591.fna
+####### SIZE: 7256 KB

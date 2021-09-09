@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gemmatimonas_aurantiaca_T_27_uid58813/NC_012489.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Gemmatimonas_aurantiaca_T_27_uid58813
+####### SIZE: 9192 KB

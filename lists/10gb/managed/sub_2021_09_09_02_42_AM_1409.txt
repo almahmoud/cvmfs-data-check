@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Klebsiella_pneumoniae_rhinoscleromatis_SB3432_uid203334/NC_021232.fna
+####### SIZE: 5221 KB

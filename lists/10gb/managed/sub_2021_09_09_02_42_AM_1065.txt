@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/proCav1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/13006.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/dehaEthe_195.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/314.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/anoCar1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/glucOxyd_621H.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/pteAle1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/PhumU1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/20197.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/13082.len
+####### SIZE: 7040 KB

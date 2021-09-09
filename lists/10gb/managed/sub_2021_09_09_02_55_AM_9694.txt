@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Escherichia_coli_K_12_substr__DH10B_uid58979
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Butyrivibrio_fibrisolvens_uid197155/NC_021031.fna
+####### SIZE: 7782 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38full/bowtie2_index/hg38full.fa
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38full/bowtie2_index/hg38full.3.bt2
+/cvmfs/data.galaxyproject.org/byhand/hg38/hg38full/bowtie2_index/nohup.out
+####### SIZE: 29 KB

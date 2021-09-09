@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Anaplasma_phagocytophilum_HZ2_uid213224/NC_021879.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Anaplasma_phagocytophilum_HZ2_uid213224
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Novosphingobium_PP1Y_uid67383/NC_015582.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Novosphingobium_PP1Y_uid67383/NC_015583.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Novosphingobium_PP1Y_uid67383/NC_015579.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Novosphingobium_PP1Y_uid67383/NC_015580.fna
+####### SIZE: 8199 KB

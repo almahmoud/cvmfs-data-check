@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/equCab2/maf/chr7.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/equCab2/maf/chrUn_gl000232.maf
+####### SIZE: 2414 KB

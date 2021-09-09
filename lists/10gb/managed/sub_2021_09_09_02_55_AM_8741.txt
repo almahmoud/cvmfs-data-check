@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Salmonella_enterica_serovar_Paratyphi_A_AKU_12601_uid59269/NC_011147.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Salmonella_enterica_serovar_Paratyphi_A_AKU_12601_uid59269
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pusillimonas_T7_7_uid66391/NC_015459.fna
+####### SIZE: 9123 KB

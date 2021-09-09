@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/279/NC_004461.fna
+####### SIZE: 2476 KB

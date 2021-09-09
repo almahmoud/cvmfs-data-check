@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/401/NC_008527.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/401/NC_008506.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/401/NC_008504.Glimmer3.bed
+####### SIZE: 2516 KB

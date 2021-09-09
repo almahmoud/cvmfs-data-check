@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Xylella_fastidiosa_M12_uid58763
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Polynucleobacter_necessarius_asymbioticus_QLW_P1DMWA_1_uid58611/NC_009379.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Polynucleobacter_necessarius_asymbioticus_QLW_P1DMWA_1_uid58611
+####### SIZE: 6741 KB

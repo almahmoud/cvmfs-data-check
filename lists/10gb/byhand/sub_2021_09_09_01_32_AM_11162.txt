@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/campJeju_RM1221/chr.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/campJeju_RM1221/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/campJeju_RM1221/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/campJeju_RM1221/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/campJeju_RM1221/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/campJeju_RM1221/chr.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/campJeju_RM1221/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/campJeju_RM1221/campJeju_RM1221.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/campJeju_RM1221/chr.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/campJeju_RM1221/chr.gbk
+####### SIZE: 6722 KB

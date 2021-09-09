@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptococcus_salivarius_CCHSS3_uid70481
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Muricauda_ruestringensis_DSM_13258_uid72479/NC_015945.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Muricauda_ruestringensis_DSM_13258_uid72479
+####### SIZE: 9819 KB

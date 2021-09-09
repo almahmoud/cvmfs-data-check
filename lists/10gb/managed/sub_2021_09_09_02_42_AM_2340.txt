@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Chamaesiphon_minutus_PCC_6605_uid183005/NC_019697.fna
+####### SIZE: 6225 KB

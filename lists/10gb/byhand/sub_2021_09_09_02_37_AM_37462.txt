@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/geoFor1/bowtie_index/geoFor1.fa
+/cvmfs/data.galaxyproject.org/byhand/geoFor1/bowtie_index/geoFor1.3.ebwt
+####### SIZE: 844 KB

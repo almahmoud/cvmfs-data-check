@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/taeGut1/chr4_gl000193_random.axt
+####### SIZE: 5 KB

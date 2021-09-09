@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/ponAbe2/maf/chrX.maf.index
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/ponAbe2/maf/chrX_random.maf.index
+####### SIZE: 1575 KB

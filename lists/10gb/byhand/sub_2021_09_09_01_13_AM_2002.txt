@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/panTro2/chr6_dbb_hap3.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/panTro2/chr6_dbb_hap3.hg19.panTro2.net.axt.gz
+####### SIZE: 9444 KB

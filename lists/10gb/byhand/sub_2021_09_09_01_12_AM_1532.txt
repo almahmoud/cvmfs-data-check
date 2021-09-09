@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/bosTau4/chrUn_gl000230.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/bosTau4/chr17_gl000206_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/bosTau4/chrUn_gl000228.axt
+####### SIZE: 106 KB

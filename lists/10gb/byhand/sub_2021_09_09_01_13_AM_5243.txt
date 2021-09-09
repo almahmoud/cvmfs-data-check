@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/mm8/chr15.axt
+####### SIZE: 75495 KB

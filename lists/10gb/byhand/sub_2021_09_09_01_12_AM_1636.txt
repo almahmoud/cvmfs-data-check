@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/ornAna1/chr13.axt
+####### SIZE: 15387 KB

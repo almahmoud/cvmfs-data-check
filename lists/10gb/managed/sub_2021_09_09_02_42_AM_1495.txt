@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Ramlibacter_tataouinensis_TTB310_uid68279
+####### SIZE: 4037 KB

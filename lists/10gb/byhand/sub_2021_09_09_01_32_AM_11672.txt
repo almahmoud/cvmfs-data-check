@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/16297/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/16297/srma_index/Xanthomonas_oryzae_MAFF_311018.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/16297/srma_index/Xanthomonas_oryzae_MAFF_311018.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/microbes/16297/srma_index/Xanthomonas_oryzae_MAFF_311018.dict
+/cvmfs/data.galaxyproject.org/byhand/microbes/16297/srma_index
+/cvmfs/data.galaxyproject.org/byhand/microbes/16297/bwa_index/Xanthomonas_oryzae_MAFF_311018.fa.rsa
+/cvmfs/data.galaxyproject.org/byhand/microbes/16297/bwa_index/Xanthomonas_oryzae_MAFF_311018.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/microbes/16297/bwa_index/Xanthomonas_oryzae_MAFF_311018.fa.sa
+/cvmfs/data.galaxyproject.org/byhand/microbes/16297/bwa_index/Xanthomonas_oryzae_MAFF_311018.fa.ann
+####### SIZE: 9737 KB

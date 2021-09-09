@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/taeGut1/quality_scores/chr15.qa.bqv
+####### SIZE: 2456 KB

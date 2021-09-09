@@ -1,0 +1,15 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/peloCarb/seq/chr.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/peloCarb/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/peloCarb/chr.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/peloCarb/chr.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/peloCarb/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/peloCarb/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/peloCarb/chr.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/peloCarb/chr.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/peloCarb/chr.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/peloCarb/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/peloCarb/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/peloCarb/chr.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/peloCarb/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/peloCarb/peloCarb.info
+####### SIZE: 8883 KB

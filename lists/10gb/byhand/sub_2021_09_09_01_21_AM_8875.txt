@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg16/align/mm6/maf/chr12.maf
+####### SIZE: 105851 KB

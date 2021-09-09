@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/soliUsit_ELLIN6076/chr.gbk
+####### SIZE: 22907 KB

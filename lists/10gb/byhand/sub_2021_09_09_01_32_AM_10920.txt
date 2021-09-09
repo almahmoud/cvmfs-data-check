@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/13954/bowtie_index/burkPseu_1710B.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/13954/bowtie_index/burkPseu_1710B.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/13954/bowtie_index/burkPseu_1710B.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/13954/bowtie_index/burkPseu_1710B.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/13954/bowtie_index/burkPseu_1710B.rev.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/13954/bowtie_index/burkPseu_1710B.1.ebwt
+####### SIZE: 9709 KB

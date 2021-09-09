@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Symbiobacterium_thermophilum_IAM_14863_uid58165
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Enterococcus_casseliflavus_EC20_uid55693/NC_020995.fna
+####### SIZE: 6932 KB

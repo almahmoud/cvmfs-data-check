@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg_g1k_v37/hg_g1k_v37.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg_g1k_v37/hg_g1k_v37.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/hg_g1k_v37/hg_g1k_v37.3.ht2
+####### SIZE: 6 KB

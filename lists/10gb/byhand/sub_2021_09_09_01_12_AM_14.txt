@@ -1,0 +1,17 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/nib/misc/chr6_mcf_hap5.nib
+/cvmfs/data.galaxyproject.org/byhand/hg19/nib/misc/chr7_gl000195_random.nib
+/cvmfs/data.galaxyproject.org/byhand/hg19/nib/misc/chrUn_gl000213.nib
+/cvmfs/data.galaxyproject.org/byhand/hg19/nib/misc/chr6_dbb_hap3.nib
+/cvmfs/data.galaxyproject.org/byhand/hg19/nib/misc/chr8_gl000196_random.nib
+/cvmfs/data.galaxyproject.org/byhand/hg19/nib/misc/chr19_gl000209_random.nib
+/cvmfs/data.galaxyproject.org/byhand/hg19/nib/misc/chrUn_gl000216.nib
+/cvmfs/data.galaxyproject.org/byhand/hg19/nib/misc/chr6_ssto_hap7.nib
+/cvmfs/data.galaxyproject.org/byhand/hg19/nib/misc/chr19_gl000208_random.nib
+/cvmfs/data.galaxyproject.org/byhand/hg19/nib/misc/chr1_gl000191_random.nib
+/cvmfs/data.galaxyproject.org/byhand/hg19/nib/misc/chr9_gl000199_random.nib
+/cvmfs/data.galaxyproject.org/byhand/hg19/nib/misc/chrUn_gl000224.nib
+/cvmfs/data.galaxyproject.org/byhand/hg19/nib/misc/chrUn_gl000245.nib
+/cvmfs/data.galaxyproject.org/byhand/hg19/nib/misc/chrUn_gl000223.nib
+/cvmfs/data.galaxyproject.org/byhand/hg19/nib/misc/chrUn_gl000211.nib
+/cvmfs/data.galaxyproject.org/byhand/hg19/nib/misc/chrUn_gl000226.nib
+####### SIZE: 7840 KB

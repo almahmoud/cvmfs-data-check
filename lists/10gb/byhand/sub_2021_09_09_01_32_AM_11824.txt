@@ -1,0 +1,13 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/chrI.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/chrI.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/chrII.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/chrI.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/chrII.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/chrII.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/chrI.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/bowtie_index/cs/burkPseu_1106A.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/bowtie_index/cs/burkPseu_1106A.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/bowtie_index/cs/burkPseu_1106A.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/bowtie_index/cs/burkPseu_1106A.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkPseu_1106A/bowtie_index/cs/burkPseu_1106A.rev.2.ebwt
+####### SIZE: 4300 KB

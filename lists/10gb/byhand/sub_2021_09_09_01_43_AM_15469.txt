@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab2/nib/chr31.nib
+####### SIZE: 12200 KB

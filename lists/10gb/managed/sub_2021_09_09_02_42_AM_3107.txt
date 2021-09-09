@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pectobacterium_atrosepticum_SCRI1043_uid57957/NC_004547.fna
+####### SIZE: 5017 KB

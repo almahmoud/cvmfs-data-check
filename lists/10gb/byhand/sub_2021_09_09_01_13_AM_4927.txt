@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/xenTro1/chr22.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/xenTro1/chr13.axt
+####### SIZE: 6096 KB

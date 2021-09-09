@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/dm3/align/multiz15way/chrUextra.maf.lzo
+####### SIZE: 103270 KB

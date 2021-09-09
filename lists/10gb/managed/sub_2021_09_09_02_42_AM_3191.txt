@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Planctomyces_limnophilus_DSM_3776_uid48643
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acidobacterium_MP5ACTX9_uid50551/NC_015065.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acidobacterium_MP5ACTX9_uid50551/NC_015059.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acidobacterium_MP5ACTX9_uid50551/NC_015060.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acidobacterium_MP5ACTX9_uid50551/NC_015058.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Acidobacterium_MP5ACTX9_uid50551/NC_015057.fna
+####### SIZE: 6601 KB

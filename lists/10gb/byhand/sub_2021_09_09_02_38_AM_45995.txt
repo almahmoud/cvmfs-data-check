@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.39.nhr
+/cvmfs/data.galaxyproject.org/byhand/blastdb/wgs/20apr2014/wgs.44.nhd
+####### SIZE: 9650 KB

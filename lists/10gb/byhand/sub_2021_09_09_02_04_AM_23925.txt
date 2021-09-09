@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/Bombyx_mori_p50T_2.0/bowtie_index/Bombyx_mori_p50T_2.0.fa
+/cvmfs/data.galaxyproject.org/byhand/Bombyx_mori_p50T_2.0/bowtie_index/cs/Bombyx_mori_p50T_2.0.fa
+/cvmfs/data.galaxyproject.org/byhand/Bombyx_mori_p50T_2.0/bowtie_index/cs/Bombyx_mori_p50T_2.0.3.ebwt
+####### SIZE: 783 KB

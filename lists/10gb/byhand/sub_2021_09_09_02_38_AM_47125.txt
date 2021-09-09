@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/blastdb/nr/20210115/nr.24.phr
+####### SIZE: 2597364 KB

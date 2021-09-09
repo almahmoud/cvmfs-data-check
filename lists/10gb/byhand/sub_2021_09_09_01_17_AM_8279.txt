@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_AK1/picard_index/Homo_sapiens_AK1.fa
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_AK1/picard_index/Homo_sapiens_AK1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_AK1/picard_index/Homo_sapiens_AK1.dict
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_AK1/picard_index
+####### SIZE: 13 KB

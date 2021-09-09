@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Brucella_pinnipedialis_B2_94_uid71131/NC_015858.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Brucella_pinnipedialis_B2_94_uid71131/NC_015857.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Brucella_pinnipedialis_B2_94_uid71131
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nitratiruptor_SB155_2_uid58861/NC_009662.fna
+####### SIZE: 8603 KB

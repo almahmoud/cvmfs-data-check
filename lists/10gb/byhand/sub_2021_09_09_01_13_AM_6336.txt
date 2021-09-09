@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/fr2/chr19.axt
+####### SIZE: 5897 KB

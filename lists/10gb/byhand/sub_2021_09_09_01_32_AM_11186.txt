@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkViet_G4/seq
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkViet_G4/chr1.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkViet_G4/chr3.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkViet_G4/plasmid_pBVIE02.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/burkViet_G4/plasmid_pBVIE04.Glimmer3.bed
+####### SIZE: 4983 KB

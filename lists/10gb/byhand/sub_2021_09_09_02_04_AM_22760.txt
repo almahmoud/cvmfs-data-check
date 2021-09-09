@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/rheMac2/chr20_random.axt
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/rheMac2/chrX_random.axt
+####### SIZE: 5419 KB

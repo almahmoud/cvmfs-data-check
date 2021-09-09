@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/susScr3/nib/chr12.nib
+####### SIZE: 31050 KB

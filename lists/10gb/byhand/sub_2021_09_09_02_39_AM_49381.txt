@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/droSec1/sam_index/droSec1.fa
+/cvmfs/data.galaxyproject.org/byhand/droSec1/sam_index/droSec1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/droSec1/sam_index
+/cvmfs/data.galaxyproject.org/byhand/droSec1/picard_index/droSec1.fa
+/cvmfs/data.galaxyproject.org/byhand/droSec1/picard_index/droSec1.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/droSec1/picard_index/droSec1.dict
+/cvmfs/data.galaxyproject.org/byhand/droSec1/picard_index
+/cvmfs/data.galaxyproject.org/byhand/droSec1/bowtie2_index/droSec1.fa
+/cvmfs/data.galaxyproject.org/byhand/droSec1/bowtie2_index/droSec1.3.bt2
+####### SIZE: 3326 KB

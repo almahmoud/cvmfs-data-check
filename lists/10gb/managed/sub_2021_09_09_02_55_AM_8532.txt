@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Exiguobacterium_MH3_uid227425
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Riemerella_anatipestifer_ATCC_11845___DSM_15868_uid159857/NC_017045.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Riemerella_anatipestifer_ATCC_11845___DSM_15868_uid159857
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bifidobacterium_animalis_lactis_BB_12_uid158871/NC_017214.fna
+####### SIZE: 9356 KB

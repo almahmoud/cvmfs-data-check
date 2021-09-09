@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/ornAna1/maf/chrM.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/ornAna1/maf/chr9.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/ornAna1/maf/chr4.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/ornAna1/maf/chr1_random.maf
+####### SIZE: 947 KB

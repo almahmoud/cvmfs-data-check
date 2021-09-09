@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/melUnd1/bwa_index/melUnd1.fa.rsa
+####### SIZE: 136399 KB

@@ -1,0 +1,17 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/canFam2/maf/chr3.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/canFam2/maf/chr5.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/canFam2/maf/chr16.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/canFam2/maf/chrM.maf
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/canFam2/maf/chr20.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/canFam2/maf/chr4_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/canFam2/maf/chr6_hla_hap1.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/canFam2/maf/chr3_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/canFam2/maf/chr1.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/canFam2/maf/chr13.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/canFam2/maf/chr22.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/canFam2/maf/chr6_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/canFam2/maf/chr19.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/canFam2/maf/chr17_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/canFam2/maf/chr11.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/canFam2/maf/chrY.maf.index
+####### SIZE: 9935 KB

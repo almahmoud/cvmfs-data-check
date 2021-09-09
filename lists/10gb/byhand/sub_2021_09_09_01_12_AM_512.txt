@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/monDom5/chr4.axt
+####### SIZE: 58537 KB

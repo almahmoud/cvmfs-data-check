@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Brucella_canis_ATCC_23365_uid59009
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_acetobutylicum_DSM_1731_uid68293/NC_015686.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_acetobutylicum_DSM_1731_uid68293/NC_015688.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_acetobutylicum_DSM_1731_uid68293/NC_015687.fna
+####### SIZE: 7396 KB

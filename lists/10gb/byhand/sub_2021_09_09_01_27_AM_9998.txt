@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/felCat3/bowtie2_index/felCat3.2.bt2
+####### SIZE: 401050 KB

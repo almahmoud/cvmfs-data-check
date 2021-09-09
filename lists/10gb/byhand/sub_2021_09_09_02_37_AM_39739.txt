@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/calJac3/seq/calJac3full.fa
+####### SIZE: 2903848 KB

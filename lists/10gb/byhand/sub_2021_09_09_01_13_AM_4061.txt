@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm6/align/rn3/maf/chr5.maf
+####### SIZE: 208969 KB

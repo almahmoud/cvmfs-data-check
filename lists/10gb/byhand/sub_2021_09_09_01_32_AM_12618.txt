@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/heliPylo_J99
+/cvmfs/data.galaxyproject.org/byhand/microbes/28921/NC_010402.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/28921/NC_010410.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/28921/NC_010401.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/28921/seq/NC_010404.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/28921/seq/NC_010403.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/28921/seq/NC_010401.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/28921/seq/NC_010402.nib
+/cvmfs/data.galaxyproject.org/byhand/microbes/28921/seq/NC_010410.nib
+####### SIZE: 9089 KB

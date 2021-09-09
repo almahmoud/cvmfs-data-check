@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/dm6/dm6.fa
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/dm6/dm6.8.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/dm6/dm6.7.ht2
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/dm6/dm6.3.ht2
+####### SIZE: 25 KB

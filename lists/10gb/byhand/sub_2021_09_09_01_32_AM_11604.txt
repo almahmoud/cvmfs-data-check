@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/acidCryp_JF_5/chr.gbk
+####### SIZE: 7982 KB

@@ -1,0 +1,6 @@
+/cvmfs/data.galaxyproject.org/byhand/myoLuc2/sam_index/myoLuc2.fa
+/cvmfs/data.galaxyproject.org/byhand/myoLuc2/sam_index/myoLuc2.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/myoLuc2/sam_index
+/cvmfs/data.galaxyproject.org/byhand/myoLuc2/download/20110127_README_myoLuc2
+/cvmfs/data.galaxyproject.org/byhand/myoLuc2/download
+####### SIZE: 6558 KB

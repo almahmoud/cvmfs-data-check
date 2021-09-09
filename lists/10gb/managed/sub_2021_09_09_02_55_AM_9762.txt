@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_YI23_uid81081/NC_016589.fna
+####### SIZE: 3102 KB

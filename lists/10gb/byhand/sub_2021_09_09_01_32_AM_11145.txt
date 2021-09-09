@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/hyphNept_ATCC15444/chr.gbk
+####### SIZE: 8360 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudomonas_aeruginosa_PA1R_uid228932/NC_022806.fna
+####### SIZE: 6250 KB

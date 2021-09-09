@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/xenTro2/align/mm8/xenTro2.axt
+####### SIZE: 156830 KB

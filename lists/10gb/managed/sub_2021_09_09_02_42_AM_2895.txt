@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Coprococcus_catus_GD_7_uid197174/NC_021009.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Coprococcus_catus_GD_7_uid197174
+####### SIZE: 6984 KB

@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Rhizobium_NGR234_uid59081
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Baumannia_cicadellinicola_Hc__Homalodisca_coagulata__uid58111/NC_007984.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Baumannia_cicadellinicola_Hc__Homalodisca_coagulata__uid58111
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Clostridium_difficile_630_uid57679/NC_008226.fna
+####### SIZE: 8206 KB

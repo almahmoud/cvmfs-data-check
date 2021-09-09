@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/266/NC_002953.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/266/NC_005951.rRNA.bed
+####### SIZE: 7452 KB

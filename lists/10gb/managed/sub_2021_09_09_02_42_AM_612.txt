@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/.cvmfscatalog
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/dasNov3/dasNov3.3.bt2
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/dasNov3/dasNov3.fa
+####### SIZE: 2771 KB

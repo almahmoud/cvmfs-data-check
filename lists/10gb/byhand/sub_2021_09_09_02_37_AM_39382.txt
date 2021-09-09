@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/dm2/align/droYak1/chr2L.idx
+####### SIZE: 156 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/17643/NC_009665.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/17643/NC_009661.Glimmer3.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/17643/NC_009661.GeneMarkHMM.bed
+####### SIZE: 5189 KB

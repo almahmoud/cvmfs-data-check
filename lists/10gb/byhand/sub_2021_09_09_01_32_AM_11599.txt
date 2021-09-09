@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/magnMC1/chr.gbk
+####### SIZE: 10661 KB

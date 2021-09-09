@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/pteVam1/chr14.axt
+####### SIZE: 95854 KB

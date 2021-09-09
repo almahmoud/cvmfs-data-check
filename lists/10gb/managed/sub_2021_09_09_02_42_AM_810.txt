@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/allMis1/allMis1.fa
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/allMis1/allMis1.fa.ann
+####### SIZE: 546 KB

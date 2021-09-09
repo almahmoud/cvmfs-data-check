@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/multiz44way/chr17_random.maf.lzo
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/multiz44way/chr22_random.maf.lzo
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/multiz44way/chr19_random.maf.lzot
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/multiz44way/chrX_random.maf.index
+####### SIZE: 7948 KB

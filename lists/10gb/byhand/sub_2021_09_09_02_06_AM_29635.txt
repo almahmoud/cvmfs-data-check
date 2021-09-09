@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/danRer2/maf/chr3.maf
+####### SIZE: 10947 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nocardia_brasiliensis_ATCC_700358_uid86913
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Burkholderia_ambifaria_AMMD_uid58303/NC_008385.fna
+####### SIZE: 9396 KB

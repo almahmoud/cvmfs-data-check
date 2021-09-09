@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Idiomarina_loihiensis_L2TR_uid58087/NC_006512.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Idiomarina_loihiensis_L2TR_uid58087
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanosarcina_mazei_Go1_uid57893/NC_003901.fna
+####### SIZE: 9688 KB

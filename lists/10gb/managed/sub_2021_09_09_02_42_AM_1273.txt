@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Meiothermus_silvanus_DSM_9946_uid49485/NC_014213.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Meiothermus_silvanus_DSM_9946_uid49485/NC_014214.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Meiothermus_silvanus_DSM_9946_uid49485/NC_014212.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Meiothermus_silvanus_DSM_9946_uid49485
+####### SIZE: 7380 KB

@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr18.nib
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr35.nib
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr29.nib
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr20.nib
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr5.nib
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr16.nib
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr36.nib
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr27.nib
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr8.nib
+/cvmfs/data.galaxyproject.org/byhand/lMaj5/seq/chr14.nib
+####### SIZE: 5364 KB

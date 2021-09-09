@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/ce4/chroms/chrIV.fa
+####### SIZE: 17426 KB

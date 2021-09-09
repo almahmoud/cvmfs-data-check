@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanocaldococcus_FS406_22_uid42499/NC_013887.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Methanocaldococcus_FS406_22_uid42499
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Citrobacter_rodentium_ICC168_uid43089/NC_013719.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Citrobacter_rodentium_ICC168_uid43089/NC_013718.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Citrobacter_rodentium_ICC168_uid43089/NC_013717.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Citrobacter_rodentium_ICC168_uid43089/NC_013716.fna
+####### SIZE: 8902 KB

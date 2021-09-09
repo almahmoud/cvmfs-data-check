@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/nib/chr6_random.nib
+/cvmfs/data.galaxyproject.org/byhand/hg17/nib/chr16_random.nib
+####### SIZE: 968 KB

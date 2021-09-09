@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pseudomonas_aeruginosa_NCGM2_S1_uid162173/NC_017549.fna
+####### SIZE: 6701 KB

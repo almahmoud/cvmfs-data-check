@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Streptomyces_bingchenggensis_BCW_1_uid82931/NC_016582.fna
+####### SIZE: 11824 KB

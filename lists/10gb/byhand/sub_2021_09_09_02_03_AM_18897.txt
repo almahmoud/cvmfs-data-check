@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/mm9canon/bwa_index_v0.5.9-r16/mm9canon.fa.rbwt
+####### SIZE: 972258 KB

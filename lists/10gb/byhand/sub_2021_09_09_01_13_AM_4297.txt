@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/multiz3way/chr16.maf
+####### SIZE: 219858 KB

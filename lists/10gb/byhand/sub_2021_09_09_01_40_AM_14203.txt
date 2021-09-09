@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/galGal4/bowtie_index/cs/galGal4.rev.1.ebwt
+####### SIZE: 292977 KB

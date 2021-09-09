@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Wolbachia_endosymbiont_of_Culex_quinquefasciatus_Pel_uid61645/NC_010981.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Wolbachia_endosymbiont_of_Culex_quinquefasciatus_Pel_uid61645
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Simiduia_agarivorans_SA1_uid177713/NC_018868.fna
+####### SIZE: 7203 KB

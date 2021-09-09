@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/multiz3way/chr10.maf
+####### SIZE: 371338 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/droYak2/bwa_index/droYak2.fa.bwt
+####### SIZE: 61767 KB

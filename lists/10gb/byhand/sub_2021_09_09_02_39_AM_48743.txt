@@ -1,0 +1,17 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/monDom1/chr3.idx
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/monDom1/chr11.idx
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/monDom1/chr16.idx
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/monDom1/chr17.idx
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/monDom1/chr15.idx
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/monDom1/chr7.idx
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/monDom1/chr22_random.idx
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/monDom1/chr1_random.idx
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/monDom1/chr1_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/monDom1/chr6_random.idx
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/monDom1/chr6_hla_hap2.idx
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/monDom1/chr17_random.idx
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/monDom1/chr9_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/monDom1/chr10.idx
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/monDom1/chr15_random.idx
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/monDom1/chr20.idx
+####### SIZE: 9908 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Tropheryma_whipplei_Twist_uid57705/NC_004572.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Tropheryma_whipplei_Twist_uid57705
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Escherichia_coli__clone_D_i2__uid162047/NC_017651.fna
+####### SIZE: 6834 KB

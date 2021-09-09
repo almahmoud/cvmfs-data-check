@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/sarHar1/bwa_index/sarHar1.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/sarHar1/bwa_index/sarHar1.fa.ann
+/cvmfs/data.galaxyproject.org/byhand/sarHar1/bwa_index/sarHar1.fa
+####### SIZE: 4956 KB

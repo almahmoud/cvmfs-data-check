@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Desulfatibacillum_alkenivorans_AK_01_uid58913
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Kangiella_koreensis_DSM_16069_uid59209/NC_013166.fna
+####### SIZE: 9286 KB

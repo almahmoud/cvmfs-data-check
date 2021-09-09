@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_nuHg19_mtrCRS/bowtie_index/cs/Homo_sapiens_nuHg19_mtrCRS.fa
+/cvmfs/data.galaxyproject.org/byhand/Homo_sapiens_nuHg19_mtrCRS/bowtie_index/cs/Homo_sapiens_nuHg19_mtrCRS.3.ebwt
+####### SIZE: 6 KB

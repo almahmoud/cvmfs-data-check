@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer2/align/hg17/maf/chrUn.maf
+####### SIZE: 17902 KB

@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/susScr2/susScr2.fa.ann
+/cvmfs/data.galaxyproject.org/managed/bwa_mem_index/susScr2/susScr2.fa.amb
+####### SIZE: 2985 KB

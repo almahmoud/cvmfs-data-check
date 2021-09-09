@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm5/seq/chrX.nib
+####### SIZE: 78436 KB

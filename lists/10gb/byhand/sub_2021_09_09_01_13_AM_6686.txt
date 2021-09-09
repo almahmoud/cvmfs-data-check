@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/oryLat2/seq/oryLat2.2bit
+####### SIZE: 250887 KB

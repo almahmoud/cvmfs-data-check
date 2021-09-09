@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/chr1.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/chr2.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/plasmid_1.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/chr1.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/plasmid_1.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/chr2.GeneMarkHMM.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/chr1.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/chr2.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/paraDeni_PD1222/chr1.info
+####### SIZE: 8901 KB

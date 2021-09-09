@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/uncultured_Termite_group_1_bacterium_phylotype_Rs_D17_uid59059
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Treponema_primitia_ZAS_2_uid67367/NC_015578.fna
+####### SIZE: 6305 KB

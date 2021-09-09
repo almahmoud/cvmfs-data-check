@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/droGri2/bwa_index/droGri2.fa.amb
+/cvmfs/data.galaxyproject.org/byhand/droGri2/bwa_index/droGri2.fa.ann
+####### SIZE: 767 KB

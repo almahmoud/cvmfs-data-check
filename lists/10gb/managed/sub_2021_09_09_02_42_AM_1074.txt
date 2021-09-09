@@ -1,0 +1,10 @@
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/ambMex1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/bosTau9.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/cotJap2.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/staAur2.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/rheMac10.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/regenRn0.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/GRCm38B.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/perManBai1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/ambMex2.len
+####### SIZE: 6095 KB

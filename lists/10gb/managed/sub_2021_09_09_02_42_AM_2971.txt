@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Macrococcus_caseolyticus_JCSC5402_uid59003/NC_011999.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Macrococcus_caseolyticus_JCSC5402_uid59003
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_thuringiensis_Al_Hakam_uid58795/NC_008598.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_thuringiensis_Al_Hakam_uid58795/NC_008600.fna
+####### SIZE: 9553 KB

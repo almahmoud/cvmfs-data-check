@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/mm5/chr22.axt
+####### SIZE: 27238 KB

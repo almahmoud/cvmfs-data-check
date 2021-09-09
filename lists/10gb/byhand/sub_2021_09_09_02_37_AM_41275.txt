@@ -1,0 +1,7 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/mm9/maf/chr8_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/mm9/maf/chrY_random.maf.index
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/mm9/maf/chr12.maf.index
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/mm9/maf/chr15_random.maf
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/mm9/maf/chrX_random.maf
+/cvmfs/data.galaxyproject.org/byhand/panTro2/align/mm9/maf/chr3_random.maf
+####### SIZE: 8107 KB

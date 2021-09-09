@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/exclude/multiz3way/chr17_random.maf
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/exclude/multiz3way/chr13_random.maf
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/exclude/multiz3way/chr6_random.maf
+####### SIZE: 9927 KB

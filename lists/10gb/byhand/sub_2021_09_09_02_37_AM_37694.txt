@@ -1,0 +1,13 @@
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/multiz30way/maf/chrX_random.maf.gz
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/multiz30way/maf/chr7_random.maf.gz
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/multiz30way/maf/chr13_random.maf.gz
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/multiz30way/maf/chr4_random.maf.gz
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/multiz30way/maf/md5sum.txt
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/multiz30way/maf/upstream1000.maf.gz.md5
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/multiz30way/maf/upstream5000.maf.gz.md5
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/multiz30way/maf/chr3_random.maf.gz
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/multiz30way/maf/upstream2000.maf.gz.md5
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/multiz30way/maf/chr8_random.maf.gz
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/multiz30way/maf/chrUn_random.maf.gz
+/cvmfs/data.galaxyproject.org/byhand/mm9/align/multiz30way/maf/chr1_random.maf.gz
+####### SIZE: 9579 KB

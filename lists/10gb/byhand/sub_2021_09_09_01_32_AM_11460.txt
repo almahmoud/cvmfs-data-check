@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/woliSucc
+/cvmfs/data.galaxyproject.org/byhand/microbes/13947/NC_008785.tRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/13947/seq/NC_008784.nib
+####### SIZE: 9767 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Actinoplanes_missouriensis_431_uid158169/NC_017093.fna
+####### SIZE: 8691 KB

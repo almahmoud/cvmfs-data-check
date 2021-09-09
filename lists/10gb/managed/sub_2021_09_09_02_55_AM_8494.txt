@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pandoraea_pnomenusa_3kgm_uid229878/NC_022904.fna
+####### SIZE: 5384 KB

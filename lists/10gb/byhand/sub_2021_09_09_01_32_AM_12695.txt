@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/methPetr_PM1/chr.fna
+####### SIZE: 4006 KB

@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/criGriChoV1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/oncVol1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/pygAde1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/hg38Patch2.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/tarSyr2.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/phoRub1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/cotJap1.len
+####### SIZE: 9966 KB

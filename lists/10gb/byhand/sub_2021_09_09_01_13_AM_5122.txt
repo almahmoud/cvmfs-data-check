@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/bosTau2/maf/chr13.maf.index
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/bosTau2/maf/chr6_random.maf.index
+####### SIZE: 786 KB

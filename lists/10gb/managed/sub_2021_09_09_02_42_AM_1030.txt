@@ -1,0 +1,9 @@
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/rheMac7.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/pelCri1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/galGal5.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/droSim2.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/hg38Patch6.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/macNem1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/droEle2.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/tarIhg38.len
+####### SIZE: 9210 KB

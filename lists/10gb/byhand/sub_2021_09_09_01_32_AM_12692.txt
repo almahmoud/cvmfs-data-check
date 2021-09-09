@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/13127/NC_006368.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/13127/NC_006368.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/13127/NC_006365.GeneMark-2.5f
+/cvmfs/data.galaxyproject.org/byhand/microbes/13127/NC_006368.GeneMark-2.5f
+####### SIZE: 8614 KB

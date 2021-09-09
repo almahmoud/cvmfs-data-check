@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Allochromatium_vinosum_DSM_180_uid46083
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Roseiflexus_RS_1_uid58523/NC_009523.fna
+####### SIZE: 9387 KB

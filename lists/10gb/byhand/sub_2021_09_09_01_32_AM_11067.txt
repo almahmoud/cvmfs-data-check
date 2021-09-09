@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewW318/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewW318/chr.rRNA.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewW318/chr.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewW318/chr.tRNA.bed
+####### SIZE: 4844 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/geoFor1/bwa_index/geoFor1.fa.rpac
+####### SIZE: 260082 KB

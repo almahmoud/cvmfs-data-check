@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/phaLep1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/apaVit1.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/droWil2.len
+/cvmfs/data.galaxyproject.org/managed/len/ucsc/ornAna2.len
+####### SIZE: 7010 KB

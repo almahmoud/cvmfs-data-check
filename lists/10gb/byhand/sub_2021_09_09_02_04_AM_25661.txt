@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/galGal3/chr9.axt
+/cvmfs/data.galaxyproject.org/byhand/equCab1/align/galGal3/chr13.axt
+####### SIZE: 8486 KB

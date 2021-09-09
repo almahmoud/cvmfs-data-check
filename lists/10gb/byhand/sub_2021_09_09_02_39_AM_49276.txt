@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/panTro3/seq/panTro3full.fa
+####### SIZE: 3295608 KB

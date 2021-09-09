@@ -1,0 +1,11 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/desuVulg_HILDENBOROUG/chr.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/desuVulg_HILDENBOROUG/megaplasmid.GeneMark.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/desuVulg_HILDENBOROUG/megaplasmid.gbk
+/cvmfs/data.galaxyproject.org/byhand/microbes/desuVulg_HILDENBOROUG/chr.GeneMarkHMM-2.6m
+/cvmfs/data.galaxyproject.org/byhand/microbes/desuVulg_HILDENBOROUG/megaplasmid.Glimmer3
+/cvmfs/data.galaxyproject.org/byhand/microbes/desuVulg_HILDENBOROUG/desuVulg_HILDENBOROUG.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/desuVulg_HILDENBOROUG/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/desuVulg_HILDENBOROUG/megaplasmid.CDS.bed
+/cvmfs/data.galaxyproject.org/byhand/microbes/desuVulg_HILDENBOROUG/megaplasmid.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/desuVulg_HILDENBOROUG/chr.tRNA.bed
+####### SIZE: 4528 KB

@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Citrobacter_rodentium_ICC168_uid43089
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sphingobium_chlorophenolicum_L_1_uid52597/NC_015595.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sphingobium_chlorophenolicum_L_1_uid52597/NC_015594.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sphingobium_chlorophenolicum_L_1_uid52597/NC_015593.fna
+####### SIZE: 9930 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/AaegL1/bowtie2_index/AaegL1.rev.1.bt2
+####### SIZE: 431080 KB

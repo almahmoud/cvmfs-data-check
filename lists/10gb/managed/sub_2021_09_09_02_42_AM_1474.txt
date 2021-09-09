@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Bacillus_anthracis_Ames_uid57909/NC_003997.fna
+####### SIZE: 5178 KB

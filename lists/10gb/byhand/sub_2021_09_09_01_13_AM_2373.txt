@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/hg19/align/tarSyr1/chr2.axt
+####### SIZE: 276777 KB

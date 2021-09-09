@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/caeJap3/liftOver
+/cvmfs/data.galaxyproject.org/byhand/caeJap3/bowtie_index/cs/caeJap3.fa
+/cvmfs/data.galaxyproject.org/byhand/caeJap3/bowtie_index/cs/caeJap3.3.ebwt
+####### SIZE: 6955 KB

@@ -1,0 +1,13 @@
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/canFam1/chr6_hla_hap2.axt
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/canFam1/chrY.idx
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/canFam1/chr3_random.idx
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/canFam1/chr12_random.idx
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/canFam1/chr12.idx
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/canFam1/chr22.idx
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/canFam1/chr7_random.idx
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/canFam1/chr16_random.axt
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/canFam1/md5sum.txt
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/canFam1/chr18.idx
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/canFam1/chr10_random.idx
+/cvmfs/data.galaxyproject.org/byhand/hg17/align/canFam1/chr17.idx
+####### SIZE: 9834 KB

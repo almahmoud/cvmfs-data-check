@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer2/nib/chr19.nib
+####### SIZE: 25403 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/bosTau6/seq/bosTau6.2bit
+####### SIZE: 684392 KB

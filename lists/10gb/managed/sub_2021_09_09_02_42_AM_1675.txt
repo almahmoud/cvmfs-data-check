@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Vibrio_alginolyticus_NBRC_15630___ATCC_17749_uid199933
+####### SIZE: 5103 KB

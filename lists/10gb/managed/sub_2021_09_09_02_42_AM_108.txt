@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/hisat2_index/vicPac1/vicPac1.2.ht2
+####### SIZE: 469461 KB

@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/gasAcu1/bowtie_index/gasAcu1.fa
+/cvmfs/data.galaxyproject.org/byhand/gasAcu1/bowtie_index/cs/gasAcu1.fa
+/cvmfs/data.galaxyproject.org/byhand/gasAcu1/bowtie_index/cs/gasAcu1.3.ebwt
+####### SIZE: 152 KB

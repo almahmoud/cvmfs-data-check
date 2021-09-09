@@ -1,0 +1,12 @@
+/cvmfs/data.galaxyproject.org/byhand/apiMel3/sam_index/apiMel3.fa
+/cvmfs/data.galaxyproject.org/byhand/apiMel3/sam_index/apiMel3.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/apiMel3/sam_index
+/cvmfs/data.galaxyproject.org/byhand/apiMel3/download/20100630_README_apiMel3
+/cvmfs/data.galaxyproject.org/byhand/apiMel3/download
+/cvmfs/data.galaxyproject.org/byhand/apiMel3/picard_index/apiMel3.fa.fai
+/cvmfs/data.galaxyproject.org/byhand/apiMel3/picard_index/apiMel3.fa
+/cvmfs/data.galaxyproject.org/byhand/apiMel3/picard_index/apiMel3.dict
+/cvmfs/data.galaxyproject.org/byhand/apiMel3/picard_index
+/cvmfs/data.galaxyproject.org/byhand/apiMel3/bowtie2_index/apiMel3.fa
+/cvmfs/data.galaxyproject.org/byhand/apiMel3/bowtie2_index/apiMel3.3.bt2
+####### SIZE: 202 KB

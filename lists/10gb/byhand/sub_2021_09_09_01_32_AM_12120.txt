@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewMR7/chr.fna
+/cvmfs/data.galaxyproject.org/byhand/microbes/shewMR7/shewMR7.info
+####### SIZE: 4749 KB

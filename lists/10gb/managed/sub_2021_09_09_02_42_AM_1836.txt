@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/_Cellvibrio__gilvus_ATCC_13127_uid68143/NC_015671.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/_Cellvibrio__gilvus_ATCC_13127_uid68143
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Escherichia_coli_ABU_83972_uid161975/NC_017629.fna
+####### SIZE: 6994 KB

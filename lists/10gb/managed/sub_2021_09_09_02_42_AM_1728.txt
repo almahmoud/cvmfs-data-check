@@ -1,0 +1,5 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Leptospira_biflexa_serovar_Patoc__Patoc_1__Paris__uid58993
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sulfurospirillum_deleyianum_DSM_6946_uid41861/NC_013512.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Sulfurospirillum_deleyianum_DSM_6946_uid41861
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Pyrococcus_abyssi_GE5_uid62903/NC_001773.fna
+####### SIZE: 8499 KB

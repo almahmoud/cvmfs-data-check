@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/braFlo1/seq/braFlo1.2bit
+####### SIZE: 260236 KB

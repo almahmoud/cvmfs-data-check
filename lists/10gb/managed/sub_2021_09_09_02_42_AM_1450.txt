@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Listeria_innocua_Clip11262_uid61567/NC_003212.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Listeria_innocua_Clip11262_uid61567
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Spirochaeta_L21_RPul_D2_uid231658/NC_023035.fna
+####### SIZE: 9799 KB

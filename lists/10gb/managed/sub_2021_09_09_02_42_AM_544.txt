@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/vicPac1/vicPac1.fa
+/cvmfs/data.galaxyproject.org/managed/bowtie2_index/vicPac1/vicPac1.3.bt2
+####### SIZE: 6341 KB

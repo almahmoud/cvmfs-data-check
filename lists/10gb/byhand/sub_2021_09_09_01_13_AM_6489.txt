@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18canon/bowtie_index/hg18canon.fa
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18canon/bowtie_index/cs/hg18canon.fa
+/cvmfs/data.galaxyproject.org/byhand/hg18/hg18canon/bowtie_index/cs/hg18canon.3.ebwt
+####### SIZE: 6 KB

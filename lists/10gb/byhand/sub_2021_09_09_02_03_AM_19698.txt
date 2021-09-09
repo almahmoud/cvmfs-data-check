@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/canFam2/align/rn3/maf/chr20.maf
+####### SIZE: 51071 KB

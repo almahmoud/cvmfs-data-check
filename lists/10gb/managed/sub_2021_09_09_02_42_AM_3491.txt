@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Nitratifractor_salsuginis_DSM_16511_uid62183
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Oenococcus_oeni_PSU_1_uid59417/NC_008528.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Oenococcus_oeni_PSU_1_uid59417
+####### SIZE: 5619 KB

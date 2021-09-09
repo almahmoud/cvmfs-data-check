@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/xenTro1/chrX.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/xenTro1/chr6_qbl_hap2.axt
+/cvmfs/data.galaxyproject.org/byhand/hg18/align/xenTro1/chr8_random.idx
+####### SIZE: 6383 KB

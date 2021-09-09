@@ -1,0 +1,4 @@
+/cvmfs/data.galaxyproject.org/byhand/danRer2/align/tetNig1/maf/chr4.maf
+/cvmfs/data.galaxyproject.org/byhand/danRer2/align/tetNig1/maf/chr6.maf.index
+/cvmfs/data.galaxyproject.org/byhand/danRer2/align/tetNig1/maf/chr3.maf
+####### SIZE: 8754 KB

@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/byhand/mm7/align/xenTro1/chr13.axt
+####### SIZE: 5640 KB

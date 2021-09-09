@@ -1,0 +1,8 @@
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_K12/bwa_index
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_K12/chr.info
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_K12/bowtie_index/cs/eschColi_K12.fa
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_K12/bowtie_index/cs/eschColi_K12.3.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_K12/bowtie_index/cs/eschColi_K12.2.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_K12/bowtie_index/cs/eschColi_K12.4.ebwt
+/cvmfs/data.galaxyproject.org/byhand/microbes/eschColi_K12/bowtie_index/cs/eschColi_K12.rev.2.ebwt
+####### SIZE: 9074 KB

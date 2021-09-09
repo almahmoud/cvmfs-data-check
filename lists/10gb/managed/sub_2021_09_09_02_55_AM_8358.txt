@@ -1,0 +1,2 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Escherichia_coli_ED1a_uid59379/NC_011745.fna
+####### SIZE: 5161 KB

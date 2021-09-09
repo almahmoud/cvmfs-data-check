@@ -1,0 +1,3 @@
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermobispora_bispora_DSM_43833_uid48999/NC_014165.fna
+/cvmfs/data.galaxyproject.org/managed/kraken_database/bacteria/Bacteria/library/Bacteria/Thermobispora_bispora_DSM_43833_uid48999
+####### SIZE: 8306 KB
