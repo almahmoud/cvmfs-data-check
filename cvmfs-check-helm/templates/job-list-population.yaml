@@ -19,7 +19,7 @@ spec:
             - {{ .Values.populationJob.command }}
             {{- if .Values.populationJob.extraEnv }}
           env:
-            {{ tpl (toYaml .Values.populationJob.extraEnv) . | indent 12 }}
+            {{- tpl (toYaml .Values.populationJob.extraEnv) . | nindent 12 }}
             {{- end }}
           volumeMounts:
             - name: outdir
@@ -44,7 +44,7 @@ spec:
           args: ["/bin/bash", "/mnt/configs/push.sh"]
             {{- if .Values.populationJob.extraEnv }}
           env:
-            {{ tpl (toYaml .Values.populationJob.extraEnv) . | indent 12 }}
+            {{- tpl (toYaml .Values.populationJob.extraEnv) . | nindent 12 }}
             {{- end }}
           volumeMounts:
             - name: outdir
