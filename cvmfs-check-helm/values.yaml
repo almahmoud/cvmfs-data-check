@@ -31,7 +31,7 @@ configs:
       echo "$file" >> "$outdir/sub_$(date +"%Y_%m_%d_%I_%M_%p")_$dircount.txt"
     done
 
-  push.sh: |
+  push_chunks.sh: |
     set +x
     cd /root
     git clone https://github.com/almahmoud/cvmfs-data-check
@@ -46,16 +46,52 @@ configs:
     git push origin master
     sleep 300
 
+  quick_check_difference.sh: |
+    #!/bin/bash
+    # bash quick_check_difference.sh file1 file2
+    if((`stat -c%s "$1"`==`stat -c%s "$2"`)); then
+      if [ "`head -1 $1`" == "`head -1 $2`" ]; then
+        echo "the same";
+      else
+        echo "there are changes"
+      fi
+    fi
+    
+
+  check_difference.sh: |
+    #!/bin/bash
+    # bash check_difference.sh file1 file2
+    if cmp --silent -- "$1" "$2"; then
+      echo "file $1 has not changed"
+    else
+      echo "file has changed"
+    fi
+
+
+  push_clone.sh: |
+    cd /root
+    git clone https://github.com/almahmoud/cvmfs-data-clone
+    cd cvmfs-data-clone
+    git config --local user.email "action@github.com"
+    git config --local user.name "GitHub Action"
+    git remote set-url origin https://$GITHUB_TOKEN@github.com/almahmoud/cvmfs-data-clone
+    mkdir -p /root/cvmfs-data-clone/lists
+    cp -r /root/outdir /root/cvmfs-data-clone/lists/10gb
+    cd /root/cvmfs-data-check/lists && find 10gb/ -type f | grep "10gb/*" >> todo.txt
+    git add /root/cvmfs-data-check && git commit -m "$(date +"%Y_%m_%d_%I_%M_%p") setting up lists"
+    git push origin master
+    sleep 300
+
 checkJob:
   enabled: false
-  image: galaxy/galaxy-min:latest
-  command: bash -c "mkdir inputdir && bash /mnt/configs/chunks_list.sh /root/inputdir 10000 4000 /root/outdir"
+  image: ubuntu:21.10
+  command: /bin/bash -c "mkdir -p /root/outdir/byhand /root/outdir/managed && bash /mnt/configs/chunks_list.sh /cvmfs/data.galaxyproject.org/byhand 10000 2000 /root/outdir/byhand && bash /mnt/configs/chunks_list.sh /cvmfs/data.galaxyproject.org/managed 10000 2000 /root/outdir/managed"
   extraEnv: []
 
 populationJob:
   enabled: false
   image: ubuntu:21.10
-  command: /bin/bash -c "ls /root/outdir && mkdir -p /root/outdir/byhand /root/outdir/managed && bash /mnt/configs/chunks_list.sh /cvmfs/data.galaxyproject.org/byhand 10000 2000 /root/outdir/byhand && bash /mnt/configs/chunks_list.sh /cvmfs/data.galaxyproject.org/managed 10000 2000 /root/outdir/managed"
+  command: /bin/bash -c "mkdir -p /root/outdir/byhand /root/outdir/managed && bash /mnt/configs/chunks_list.sh /cvmfs/data.galaxyproject.org/byhand 10000 2000 /root/outdir/byhand && bash /mnt/configs/chunks_list.sh /cvmfs/data.galaxyproject.org/managed 10000 2000 /root/outdir/managed"
   extraEnv:
     - name: GITHUB_TOKEN
       value: "PLACEHOLDER"

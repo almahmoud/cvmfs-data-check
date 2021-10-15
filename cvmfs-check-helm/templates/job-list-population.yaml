@@ -41,7 +41,7 @@ spec:
       containers:
         - name: push-todo-list
           image: "bitnami/git:latest"
-          args: ["/bin/bash", "/mnt/configs/push.sh"]
+          args: ["/bin/bash", "/mnt/configs/push_chunks.sh"]
             {{- if .Values.populationJob.extraEnv }}
           env:
             {{- tpl (toYaml .Values.populationJob.extraEnv) . | nindent 12 }}

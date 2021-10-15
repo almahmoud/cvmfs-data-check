@@ -9,26 +9,25 @@ spec:
     metadata:
       name: "data-check"
     spec:
-      securityContext:
-        runAsUser: 0
-        runAsGroup: 101
-        fsGroup: 101
       restartPolicy: OnFailure
-      initContainers: []
-      containers:
-        - name: check-data-repo
+      initContainers:
+        - name: populate-data-repo
           image: "{{ .Values.checkJob.image }}"
           command:
             - sh
             - "-c"
             - {{ .Values.checkJob.command }}
-            {{- if .Values.extraEnv }}
+            {{- if .Values.checkJob.extraEnv }}
           env:
-            {{ tpl (toYaml .Values.extraEnv) . | indent 12 }}
+            {{- tpl (toYaml .Values.checkJob.extraEnv) . | nindent 12 }}
             {{- end }}
           volumeMounts:
+            - name: outdir
+              mountPath: /root/outdir
             - name: cvmfs-gxy-data
               mountPath: /cvmfs/data.galaxyproject.org
+            - name: swift-data
+              mountPath: /bucket/data.galaxyproject.org
             {{- range $key,$entry := .Values.configs }}
             {{ if $entry -}}
             - name: configs
@@ -41,19 +40,21 @@ spec:
               mountPath: {{ $key }}
               subPath: {{ include "galaxy.getFilenameFromPath" $key }}
             {{- end }}
-        - name: check-data-repo
-          image: "{{ .Values.checkJob.image }}"
-          command:
-            - sh
-            - "-c"
-            - {{ .Values.checkJob.command }}
-            {{- if .Values.extraEnv }}
+      containers:
+        - name: push-todo-list
+          image: "bitnami/git:latest"
+          args: ["/bin/bash", "/mnt/configs/push.sh"]
+            {{- if .Values.checkJob.extraEnv }}
           env:
-            {{ tpl (toYaml .Values.extraEnv) . | indent 12 }}
+            {{- tpl (toYaml .Values.checkJob.extraEnv) . | nindent 12 }}
             {{- end }}
           volumeMounts:
+            - name: outdir
+              mountPath: /root/outdir
             - name: cvmfs-gxy-data
               mountPath: /cvmfs/data.galaxyproject.org
+            - name: swift-data
+              mountPath: /bucket/data.galaxyproject.org
             {{- range $key,$entry := .Values.configs }}
             {{ if $entry -}}
             - name: configs
@@ -72,6 +73,9 @@ spec:
         - name: configs
           secret:
             secretName: cvmfs-check-configs
+        - name: swift-data
+          persistentVolumeClaim:
+            claimName: swift-pvc
         - name: cvmfs-gxy-data
           persistentVolumeClaim:
             claimName: cvmfs-gxy-data-pvc
