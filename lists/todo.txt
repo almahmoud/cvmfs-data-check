@@ -1,4 +1,3 @@
-10gb/byhand/sub_2021_09_09_01_13_AM_5000.txt
 10gb/byhand/sub_2021_09_09_01_13_AM_5001.txt
 10gb/byhand/sub_2021_09_09_01_13_AM_5002.txt
 10gb/byhand/sub_2021_09_09_01_13_AM_5003.txt
